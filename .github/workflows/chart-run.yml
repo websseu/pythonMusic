@@ -1,9 +1,8 @@
-# This workflow will install Python dependencies, run the appleChart script, and push results.
 name: Daily Music Chart Collection
 
 on:
   schedule:
-    - cron: "0 1 * * *" # 매일 1시(UTC 기준)에 실행
+    - cron: "0 1 * * *"
 
 permissions:
   contents: read
