@@ -9,6 +9,9 @@ on:
   schedule:
     - cron: "0 1 * * *" # 매일 1시(UTC 기준)에 실행
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
