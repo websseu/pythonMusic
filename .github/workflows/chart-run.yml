@@ -32,13 +32,13 @@ jobs:
       # 4. 스크립트 실행
       - name: Run Apple Chart script
         run: |
-          python pyAppleChart.py
+          python appleChart.py
 
       # 5. 생성된 데이터 파일 커밋
       - name: Commit changes
         run: |
-          git config --global user.email "webstupids@gmail.com"
-          git config --global user.name "webstoryboy"
+          git config --global user.email "webstoryboy@naver.com"
+          git config --global user.name "websseu"
           git add apple/apple100_*.json
           git commit -m "Apple 차트 수집 데이터 업데이트"
 
