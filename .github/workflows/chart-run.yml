@@ -1,14 +1,16 @@
+# This workflow will install Python dependencies, run the appleChart script, and push results.
 name: Daily Music Chart Collection
 
 on:
+  push:
+    branches: ["main"]
+  pull_request:
+    branches: ["main"]
   schedule:
-    - cron: "0 1 * * *"
-
-permissions:
-  contents: read
+    - cron: "0 1 * * *" # 매일 1시(UTC 기준)에 실행
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
 
     steps:
@@ -19,7 +21,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v3
         with:
-          python-version: "3.x"
+          python-version: "3.x" # 원하는 Python 버전 지정
 
       # 3. Python 패키지 설치
       - name: Install dependencies
