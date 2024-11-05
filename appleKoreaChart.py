@@ -4,26 +4,31 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import TimeoutException
-from bs4 import BeautifulSoup
 from datetime import datetime
+from bs4 import BeautifulSoup
 import os
 import json
+import time
 
-# 현재 날짜 가져오기
+# 현재 날짜를 문자열로 저장
 current_date = datetime.now().strftime("%Y-%m-%d")
 
 # 파일 이름 설정
 folder_path = "appleKorea"
-filename = f"{folder_path}/{folder_path}100_{current_date}.json"
+file_name = f"{folder_path}/{folder_path}100_{current_date}.json"
 
 # 폴더가 없으면 생성
 os.makedirs(folder_path, exist_ok=True)
 
-# 웹드라이버 설정 및 페이지 로드
+# 웹드라이버 백그라운드 설정 및 페이지 로드
 options = ChromeOptions()
 options.add_argument("--headless")
 browser = webdriver.Chrome(options=options)
 browser.get("https://music.apple.com/kr/playlist/%EC%98%A4%EB%8A%98%EC%9D%98-top-100-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD/pl.d3d10c32fbc540b38e266367dc8cb00c")
+
+# 웹드라이버 설정(로컬)
+# browser = webdriver.Chrome()
+# browser.get("https://music.apple.com/kr/playlist/%EC%98%A4%EB%8A%98%EC%9D%98-top-100-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD/pl.d3d10c32fbc540b38e266367dc8cb00c")
 
 # 페이지가 완전히 로드될 때까지 대기
 try:
@@ -31,6 +36,7 @@ try:
         EC.presence_of_element_located((By.CLASS_NAME, "songs-list"))
     )
     print("페이지가 완전히 로드되었습니다.")
+    time.sleep(3)
 except TimeoutException:
     print("요소를 찾는 데 실패했습니다. 페이지가 완전히 로드되지 않았습니다.")
     browser.quit()
@@ -40,40 +46,37 @@ except TimeoutException:
 html_source_updated = browser.page_source
 soup = BeautifulSoup(html_source_updated, 'html.parser')
 
-# 노래 정보를 추출
-song_data = []
-songs_list = soup.find_all('div', class_='songs-list-row', role='row')
-for song in songs_list:
-    ranking = song.find('div', class_='songs-list-row__rank')
-    title = song.find('div', class_='songs-list-row__song-name')
-    artist_tag = song.find_all('a', {'data-testid': 'click-action'})
+# print(html_source_updated)
+
+# 차트 정보를 저장할 리스트
+chart_data = []
+
+# 데이터 추출
+tracks = soup.select(".songs-list-row")
+
+for track in tracks:
+    # 순위, 제목, 아티스트, 앨범 정보 추출
+    ranking = track.select_one(".songs-list-row__rank").text.strip() if track.select_one(".songs-list-row__rank") else None
+    title = track.select_one(".songs-list-row__song-name").text.strip() if track.select_one(".songs-list-row__song-name") else None
+    artist = track.select_one(".songs-list__col--secondary div span a").text.strip() if track.select_one(".songs-list__col--secondary div span a") else None
+    album = track.select_one(".songs-list__col--tertiary div span a").text.strip() if track.select_one(".songs-list__col--tertiary div span a") else None
+    image = track.select_one(".artwork-component source")["srcset"].split(",")[1].strip().split(" ")[0] if track.select_one(".artwork-component source") else None
+    length = track.select_one(".songs-list-row__length").text.strip() if track.select_one(".songs-list-row__length") else None
     
-    # 요소가 존재하는지 확인 후 데이터 추출
-    ranking_text = ranking.text.strip() if ranking else "No ranking"
-    title_text = title.text.strip() if title else "No title"
-    artist_text = artist_tag[0].text.strip() if artist_tag else "No artist"
-    album_text = artist_tag[1].text.strip() if len(artist_tag) > 1 else "No album"
-    
-    # 이미지 URL 추출
-    img_tag = song.find('picture').find('source', type="image/webp") if song.find('picture') else None
-    if img_tag:
-        image_sources = img_tag.get('srcset', "")
-        image_url = next((src.split(' ')[0] for src in image_sources.split(',') if '80x80bb.webp' in src), "No image available")
-    else:
-        image_url = "No image available"
-    
-    song_data.append({
-        'ranking': ranking_text,
-        'title': title_text,
-        'artist': artist_text,
-        'album': album_text,
-        'image_url': image_url
+    # 수집된 정보를 딕셔너리에 저장
+    chart_data.append({
+        "ranking": ranking,
+        "title": title,
+        "artist": artist,
+        "album": album,
+        "image": image,
+        "length": length
     })
 
 # 추출된 데이터를 JSON 파일로 저장
-with open(filename, 'w', encoding='utf-8') as f:
-    json.dump(song_data, f, ensure_ascii=False, indent=4)
-    print(f"데이터가 '{filename}' 파일에 저장되었습니다.")
+with open(file_name, 'w', encoding='utf-8') as f:
+    json.dump(chart_data, f, ensure_ascii=False, indent=4)
+    print(f"데이터가 '{file_name}' 파일에 저장되었습니다.")
   
 # 브라우저 종료
 browser.quit()

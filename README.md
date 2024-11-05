@@ -17,7 +17,15 @@
 애플 뮤직 🇺🇸 미국 순위 100 : [https://music.apple.com/us/playlist/top-100-usa](https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12)  
 애플 뮤직 🇬🇧 영국 순위 100 : [https://music.apple.com/us/playlist/top-100-uk](https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7)  
 애플 뮤직 🇨🇦 캐나다 순위 100 : [https://music.apple.com/us/playlist/top-100-canada](https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569)  
-애플 뮤직 🇯🇵 일본 순위 100 : [https://music.apple.com/us/playlist/top-100-japan](https://music.apple.com/us/playlist/top-100-japan/pl.043a2c9876114d95a4659988497567be)
+애플 뮤직 🇯🇵 일본 순위 100 : [https://music.apple.com/us/playlist/top-100-japan](https://music.apple.com/us/playlist/top-100-japan/pl.043a2c9876114d95a4659988497567be)  
+애플 뮤직 🇦🇺 호주 순위 100 : [https://music.apple.com/us/playlist/top-100-australia](https://music.apple.com/us/playlist/top-100-australia/pl.18be1cf04dfd4ffb9b6b0453e8fae8f1)  
+애플 뮤직 🇫🇷 프랑스 순위 100 : [https://music.apple.com/us/playlist/top-100-australia](https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d)  
+애플 뮤직 🇩🇪 독일 순위 100 : [https://music.apple.com/us/playlist/top-100-germany](https://music.apple.com/us/playlist/top-100-germany/pl.c10a2c113db14685a0b09fa5834d8e8b)  
+애플 뮤직 🇨🇳 중국 순위 100 : [https://music.apple.com/us/playlist/top-100-china](https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5)  
+애플 뮤직 🇮🇳 인도 순위 100 : [https://music.apple.com/us/playlist/top-100-china](https://music.apple.com/us/playlist/top-100-india/pl.c0e98d2423e54c39b3df955c24df3cc5)  
+애플 뮤직 🇮🇹 이탈리아 순위 100 : [https://music.apple.com/us/playlist/top-100-china](https://music.apple.com/us/playlist/top-100-italy/pl.737e067787df485a8062e2c4927d94db)  
+애플 뮤직 🇹🇭 태국 순위 100 : [https://music.apple.com/us/playlist/top-100-thailand](https://music.apple.com/us/playlist/top-100-thailand/pl.c509137d97214632a087129ece060a3d)  
+애플 뮤직 🇻🇳 싱가포르 순위 100 : [https://music.apple.com/us/playlist/top-100-singapore](https://music.apple.com/us/playlist/top-100-singapore/pl.4d763fa1cf15433b9994a14be6a46164)
 
 ### Requests
 
