@@ -22,14 +22,14 @@ file_name = f"{folder_path}/{folder_path}100_{current_date}.json"
 os.makedirs(folder_path, exist_ok=True)
 
 # 웹드라이버 설정 및 페이지 로드
-# options = ChromeOptions()
-# options.add_argument("--headless")
-# browser = webdriver.Chrome(options=options)
-# browser.get("https://vibe.naver.com/chart/total")
+options = ChromeOptions()
+options.add_argument("--headless")
+browser = webdriver.Chrome(options=options)
+browser.get("https://vibe.naver.com/chart/total")
 
 # 웹드라이버 설정(로컬)
-browser = webdriver.Chrome()
-browser.get("https://vibe.naver.com/chart/total")
+# browser = webdriver.Chrome()
+# browser.get("https://vibe.naver.com/chart/total")
 
 # 페이지가 완전히 로드될 때까지 대기
 try:
