@@ -56,12 +56,16 @@ jobs:
         run: |
           python bugsChart.py
 
+      - name: Run Flo Chart script
+        run: |
+          python floChart.py
+
       # 5. 생성된 데이터 파일 커밋
       - name: Commit changes
         run: |
           git config --global user.email "webstoryboy@naver.com"
           git config --global user.name "websseu"
-          git add appleKorea/appleKorea100_*.json billboardHot/billboardHot100_*.json billboardGrobal/billboardGrobal100_*.json melon/melon100_*.json genie/genie100_*.json bugs/bugs100_*.json
+          git add appleKorea/appleKorea100_*.json billboardHot/billboardHot100_*.json billboardGrobal/billboardGrobal100_*.json melon/melon100_*.json genie/genie100_*.json bugs/bugs100_*.json flo/flo100_*.json
           git commit -m "차트 수집 데이터 업데이트 - $(date +"%Y-%m-%d")" || echo "No changes to commit"
 
       # 6. 변경사항 푸시

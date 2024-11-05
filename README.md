@@ -9,7 +9,8 @@
 빌보드 글로벌 뮤직 순위 100 : [https://www.billboard.com/charts/billboard-global-200/](https://www.billboard.com/charts/billboard-global-200/)  
 멜론 뮤직 순위 100 : [https://www.melon.com/chart/index.htm](https://www.melon.com/chart/index.htm)  
 지니 뮤직 순위 100 : [https://www.genie.co.kr/chart/top200](https://www.genie.co.kr/chart/top200?ditc=D&ymd=20241105&hh=10&rtm=Y&pg=1)  
-벅스 뮤직 순위 100 : [https://music.bugs.co.kr/chart](https://music.bugs.co.kr/chart)
+벅스 뮤직 순위 100 : [https://music.bugs.co.kr/chart](https://music.bugs.co.kr/chart)  
+플로 뮤직 순위 100 : [https://www.music-flo.com/browse](https://www.music-flo.com/browse)
 
 ### Requests
 
