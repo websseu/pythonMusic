@@ -12,8 +12,12 @@
 바이브 뮤직 순위 100 : [https://vibe.naver.com/chart/total](https://vibe.naver.com/chart/total)
 
 빌보드 핫 뮤직 순위 100 : [https://www.billboard.com/charts/hot-100/](https://www.billboard.com/charts/hot-100/)  
-빌보드 글로벌 뮤직 순위 100 : [https://www.billboard.com/charts/billboard-global-200/](https://www.billboard.com/charts/billboard-global-200/)
-애플 뮤직 글로벌 순위 100 : [https://music.apple.com/](https://music.apple.com/us/playlist/top-100-global/pl.d25f5d1181894928af76c85c967f8f31)
+빌보드 글로벌 뮤직 순위 100 : [https://www.billboard.com/charts/billboard-global-200/](https://www.billboard.com/charts/billboard-global-200/)  
+애플 뮤직 글로벌 순위 100 : [https://music.apple.com/us/playlist/top-100-global](https://music.apple.com/us/playlist/top-100-global/pl.d25f5d1181894928af76c85c967f8f31)  
+애플 뮤직 🇺🇸 미국 순위 100 : [https://music.apple.com/us/playlist/top-100-usa](https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12)  
+애플 뮤직 🇬🇧 영국 순위 100 : [https://music.apple.com/us/playlist/top-100-uk](https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7)  
+애플 뮤직 🇨🇦 캐나다 순위 100 : [https://music.apple.com/us/playlist/top-100-canada](https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569)  
+애플 뮤직 🇯🇵 일본 순위 100 : [https://music.apple.com/us/playlist/top-100-japan](https://music.apple.com/us/playlist/top-100-japan/pl.043a2c9876114d95a4659988497567be)
 
 ### Requests
 

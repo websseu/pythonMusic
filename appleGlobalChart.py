@@ -20,15 +20,15 @@ file_name = f"{folder_path}/{folder_path}100_{current_date}.json"
 # 폴더가 없으면 생성
 os.makedirs(folder_path, exist_ok=True)
 
-# 웹드라이버 설정 및 페이지 로드
-# options = ChromeOptions()
-# options.add_argument("--headless")
-# browser = webdriver.Chrome(options=options)
-# browser.get("https://music.apple.com/us/playlist/top-100-global/pl.d25f5d1181894928af76c85c967f8f31")
+# 웹드라이버 백그라운드 설정 및 페이지 로드
+options = ChromeOptions()
+options.add_argument("--headless")
+browser = webdriver.Chrome(options=options)
+browser.get("https://music.apple.com/us/playlist/top-100-global/pl.d25f5d1181894928af76c85c967f8f31")
 
 # 웹드라이버 설정(로컬)
-browser = webdriver.Chrome()
-browser.get("https://music.apple.com/us/playlist/top-100-global/pl.d25f5d1181894928af76c85c967f8f31")
+# browser = webdriver.Chrome()
+# browser.get("https://music.apple.com/us/playlist/top-100-global/pl.d25f5d1181894928af76c85c967f8f31")
 
 # 페이지가 완전히 로드될 때까지 대기
 try:
