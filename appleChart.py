@@ -11,8 +11,10 @@ import json
 
 # 현재 날짜 가져오기
 current_date = datetime.now().strftime("%Y-%m-%d")
+
+# 파일 이름 설정
 folder_path = "apple"
-filename = f"{folder_path}/apple100_{current_date}.json"
+filename = f"{folder_path}/{folder_path}100_{current_date}.json"
 
 # 폴더가 없으면 생성
 os.makedirs(folder_path, exist_ok=True)
