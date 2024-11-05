@@ -2,9 +2,10 @@
 
 파이썬을 이용하여 뮤직 순위정보를 수집하여 사이트를 만들겠습니다.
 
-## 애플 뮤직 챠트 수집하기
+## 뮤직 챠트 수집하기
 
-애플 뮤직 사이트 https://music.apple.com/kr/new
+애플 뮤직 코리아 순위 100 : [https://music.apple.com/kr/new](https://music.apple.com/kr/playlist/%EC%98%A4%EB%8A%98%EC%9D%98-top-100-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD/pl.d3d10c32fbc540b38e266367dc8cb00c)
+빌보드 뮤직 순위 100 : [https://www.billboard.com/charts/billboard-200/](https://www.billboard.com/charts/billboard-200/)
 
 ### Selenium
 
