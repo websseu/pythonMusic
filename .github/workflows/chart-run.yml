@@ -32,20 +32,24 @@ jobs:
           pip install requests beautifulsoup4 lxml pandas selenium webdriver_manager
 
       # 4. 스크립트 실행
-      - name: Run Apple Chart script
+      - name: Run Apple Korea Chart script
         run: |
-          python appleChart.py
+          python appleKoreaChart.py
 
-      - name: Run Billboard Chart script
+      - name: Run Billboard Hot Chart script
         run: |
-          python billboardChart.py
+          python billboardHotChart.py
+
+      - name: Run Billboard Grobal Chart script
+        run: |
+          python billboardGrobalChart.py
 
       # 5. 생성된 데이터 파일 커밋
       - name: Commit changes
         run: |
           git config --global user.email "webstoryboy@naver.com"
           git config --global user.name "websseu"
-          git add apple/apple100_*.json billboard/billboard100_*.json
+          git add appleKorea/appleKorea100_*.json billboardHot/billboardHot100_*.json billboardGrobal/billboardGrobal100_*.json
           git commit -m "차트 수집 데이터 업데이트 - $(date +"%Y-%m-%d")" || echo "No changes to commit"
 
       # 6. 변경사항 푸시

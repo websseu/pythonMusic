@@ -4,8 +4,17 @@
 
 ## 뮤직 챠트 수집하기
 
-애플 뮤직 코리아 순위 100 : [https://music.apple.com/kr/new](https://music.apple.com/kr/playlist/%EC%98%A4%EB%8A%98%EC%9D%98-top-100-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD/pl.d3d10c32fbc540b38e266367dc8cb00c)   
-빌보드 뮤직 순위 100 : [https://www.billboard.com/charts/billboard-200/](https://www.billboard.com/charts/billboard-200/)
+애플 뮤직 코리아 순위 100 : [https://music.apple.com/kr/new](https://music.apple.com/kr/playlist/%EC%98%A4%EB%8A%98%EC%9D%98-top-100-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD/pl.d3d10c32fbc540b38e266367dc8cb00c)  
+빌보드 핫 뮤직 순위 100 : [https://www.billboard.com/charts/hot-100/](https://www.billboard.com/charts/hot-100/)  
+빌보드 글로벌 뮤직 순위 100 : [https://www.billboard.com/charts/billboard-global-200/](https://www.billboard.com/charts/billboard-global-200/)
+
+### Requests
+
+HTTP 요청을 쉽게 할 수 있도록 해주는 라이브러리입니다. 이를 통해 웹 API와의 상호작용, 웹 페이지 데이터 수집 등 다양한 HTTP 작업을 간편하게 수행할 수 있습니다
+
+```bash
+pip install requests
+```
 
 ### Selenium
 
