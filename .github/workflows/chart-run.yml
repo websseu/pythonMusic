@@ -36,12 +36,16 @@ jobs:
         run: |
           python appleChart.py
 
+      - name: Run Billboard Chart script
+        run: |
+          python billboardChart.py
+
       # 5. 생성된 데이터 파일 커밋
       - name: Commit changes
         run: |
           git config --global user.email "webstoryboy@naver.com"
           git config --global user.name "websseu"
-          git add apple/apple100_*.json
+          git add apple/apple100_*.json billboard/billboard100_*.json
           git commit -m "Apple 차트 수집 데이터 업데이트"
 
       # 6. 변경사항 푸시
