@@ -8,8 +8,8 @@ import json
 current_date = datetime.now().strftime("%Y-%m-%d")
 
 # 파일 이름 설정
-folder_path = "billboardGlobal"
-file_name = f"{folder_path}/{folder_path}100_{current_date}.json"
+folder_path = "billboard/global"
+file_name = f"{folder_path}/globalTop100_{current_date}.json"
 
 # 폴더가 없으면 생성
 os.makedirs(folder_path, exist_ok=True)

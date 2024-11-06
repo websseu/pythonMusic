@@ -18,16 +18,6 @@ countries = {
     "usa": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12",
     "uk": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7",
     "canada": "https://music.apple.com/us/playlist/top-100-canada/pl.79bac9045a2540e0b195e983df8ba569",
-    "japan": "https://music.apple.com/us/playlist/top-100-japan/pl.043a2c9876114d95a4659988497567be",
-    "australia": "https://music.apple.com/us/playlist/top-100-australia/pl.18be1cf04dfd4ffb9b6b0453e8fae8f1",
-    "france": "https://music.apple.com/us/playlist/top-100-france/pl.6e8cfd81d51042648fa36c9df5236b8d",
-    "germany": "https://music.apple.com/us/playlist/top-100-germany/pl.c10a2c113db14685a0b09fa5834d8e8b",
-    "china": "https://music.apple.com/us/playlist/top-100-china/pl.fde851dc95ce4ffbb74028dfd254ced5",
-    "india": "https://music.apple.com/us/playlist/top-100-india/pl.c0e98d2423e54c39b3df955c24df3cc5",
-    "italy": "https://music.apple.com/us/playlist/top-100-italy/pl.737e067787df485a8062e2c4927d94db",
-    "thailand": "https://music.apple.com/us/playlist/top-100-thailand/pl.c509137d97214632a087129ece060a3d",
-    "vietnam": "https://music.apple.com/us/playlist/top-100-vietnam/pl.550110ec6feb4ae0aff364bcde6d1372",
-    "singapore": "https://music.apple.com/us/playlist/top-100-singapore/pl.4d763fa1cf15433b9994a14be6a46164"
 }
 
 # 웹드라이버 설정
@@ -35,13 +25,19 @@ options = ChromeOptions()
 options.add_argument("--headless")
 browser = webdriver.Chrome(options=options)
 
-for country, url in countries.items():
-    print(f"Processing data for {country}...")
+# 최상위 apple 폴더 생성
+base_folder_path = "apple"
+os.makedirs(base_folder_path, exist_ok=True)
 
-    # 폴더 및 파일 이름 설정
-    folder_path = f"apple{country.capitalize()}"
-    file_name = f"{folder_path}/{folder_path}100_{current_date}.json"
-    os.makedirs(folder_path, exist_ok=True)
+for country, url in countries.items():
+    print(f"{country} 데이터를 처리하고 있습니다.")
+
+    # 나라별 하위 폴더 생성
+    country_folder_path = os.path.join(base_folder_path, country)
+    os.makedirs(country_folder_path, exist_ok=True)
+
+    # 파일 이름 설정
+    file_name = f"{country_folder_path}/{country}Top100_{current_date}.json"
 
     # 페이지 로드
     browser.get(url)

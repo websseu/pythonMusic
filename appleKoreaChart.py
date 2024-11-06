@@ -14,8 +14,8 @@ import time
 current_date = datetime.now().strftime("%Y-%m-%d")
 
 # 파일 이름 설정
-folder_path = "appleKorea"
-file_name = f"{folder_path}/{folder_path}100_{current_date}.json"
+folder_path = "korea/apple"
+file_name = f"{folder_path}/appleTop100_{current_date}.json"
 
 # 폴더가 없으면 생성
 os.makedirs(folder_path, exist_ok=True)

@@ -73,7 +73,7 @@ jobs:
         run: |
           git config --global user.email "webstoryboy@naver.com"
           git config --global user.name "websseu"
-          git add appleKorea/appleKorea100_*.json billboardHot/billboardHot100_*.json billboardGlobal/billboardGlobal100_*.json melon/melon100_*.json genie/genie100_*.json bugs/bugs100_*.json flo/flo100_*.json vibe/vibe100_*.json appleUsa/appleUsa100_*.json appleUk/appleUk100_*.json appleCanada/appleCanada100_*.json appleJapan/appleJapan100_*.json appleAustralia/appleAustralia100_*.json appleFrance/appleFrance100_*.json appleGermany/appleGermany100_*.json appleChina/appleChina100_*.json appleIndia/appleIndia100_*.json appleItaly/appleItaly100_*.json appleThailand/appleThailand100_*.json appleVietnam/appleVietnam100_*.json appleSingapore/appleSingapore100_*.json
+          git add billboard/**/*.json korea/**/*.json apple/**/*.json
           git commit -m "차트 수집 데이터 업데이트 - $(date +"%Y-%m-%d")" || echo "No changes to commit"
 
       # 6. 변경사항 푸시
