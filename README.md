@@ -2,11 +2,11 @@
 
 파이썬을 이용하여 뮤직 순위정보를 수집합니다.
 
-## 데이터 사용하기
+## 📋 데이터 사용하기
 
 데이터는 다음과 같이 사용할 수 있습니다.
 
-```
+```js
 https://websseu.github.io/pythonMusic/korea/apple/appleTop100_2024-11-06.json
 https://websseu.github.io/pythonMusic/korea/bugs/bugsTop100_2024-11-06.json
 https://websseu.github.io/pythonMusic/korea/flo/floTop100_2024-11-06.json
@@ -15,15 +15,15 @@ https://websseu.github.io/pythonMusic/korea/melon/melonTop100_2024-11-06.json
 https://websseu.github.io/pythonMusic/korea/vibe/vibeTop100_2024-11-06.json
 ```
 
-이름과 날짜를 변경하면 사용할 수 있습니다.
+이름과 날짜를 변경하면 사용할 수 있습니다.  
 [이름] : 애플(apple), 멜론(melon), 지니(genie), 벅스(bugs), 플로(flo), 바이브(vibe)  
 [날짜] : 2024-11-06월 이후로 넣으면 됨
 
-```
+```js
 https://websseu.github.io/pythonMusic/korea/[이름]/[이름]Top100_[날짜].json
 ```
 
-## 한국 챠트 수집하기
+## 🇰🇷 한국 노래 챠트 수집하기
 
 애플 뮤직 코리아 순위 100 : [https://music.apple.com/kr/new](https://music.apple.com/kr/playlist/%EC%98%A4%EB%8A%98%EC%9D%98-top-100-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD/pl.d3d10c32fbc540b38e266367dc8cb00c)  
 멜론 뮤직 순위 100 : [https://www.melon.com/chart/index.htm](https://www.melon.com/chart/index.htm)  
@@ -32,12 +32,12 @@ https://websseu.github.io/pythonMusic/korea/[이름]/[이름]Top100_[날짜].jso
 플로 뮤직 순위 100 : [https://www.music-flo.com/browse](https://www.music-flo.com/browse)  
 바이브 뮤직 순위 100 : [https://vibe.naver.com/chart/total](https://vibe.naver.com/chart/total)
 
-## 빌보드 챠트 수집하기
+## 💸 빌보드 챠트 수집하기
 
 빌보드 핫 뮤직 순위 100 : [https://www.billboard.com/charts/hot-100/](https://www.billboard.com/charts/hot-100/)  
 빌보드 글로벌 뮤직 순위 100 : [https://www.billboard.com/charts/billboard-global-200/](https://www.billboard.com/charts/billboard-global-200/)
 
-## 애플 뮤직 전세계 챠트 수집하기
+## 🍎 애플 뮤직 전세계 챠트 수집하기
 
 애플 뮤직 글로벌 순위 100 : [https://music.apple.com/us/playlist/top-100-global](https://music.apple.com/us/playlist/top-100-global/pl.d25f5d1181894928af76c85c967f8f31)  
 애플 뮤직 🇺🇸 미국 순위 100 : [https://music.apple.com/us/playlist/top-100-usa](https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12)  
