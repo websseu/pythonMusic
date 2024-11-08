@@ -4,10 +4,9 @@
 
 ## 데이터 사용하기
 
-데이터는 최소 시작일 2024-11-06
+샘플
 
 ```
-샘플
 https://websseu.github.io/pythonMusic/korea/apple/appleTop100_2024-11-06.json
 https://websseu.github.io/pythonMusic/korea/bugs/bugsTop100_2024-11-06.json
 https://websseu.github.io/pythonMusic/korea/flo/floTop100_2024-11-06.json
