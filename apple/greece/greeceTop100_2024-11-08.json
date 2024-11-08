@@ -1,0 +1,802 @@
+[
+    {
+        "ranking": "1",
+        "title": "AUTOS",
+        "artist": "Sicario",
+        "album": "AUTOS - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/86/4e/b0864ea6-fe31-fe1c-f3d4-b7d6f4aa0d24/cover.jpg/80x80bb.webp",
+        "length": "3:11"
+    },
+    {
+        "ranking": "2",
+        "title": "São Paulo",
+        "artist": "The Weeknd",
+        "album": "São Paulo - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/4a/64/934a64d3-2665-72ef-e5b4-29d61fd3707a/24UM1IM21420.rgb.jpg/80x80bb.webp",
+        "length": "5:01"
+    },
+    {
+        "ranking": "3",
+        "title": "SILLY BOY",
+        "artist": "Ivan Greko",
+        "album": "EYE OF THE TIGER",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/05/c2/cd05c283-df4f-28be-85f6-a93909157386/198846297651.jpg/80x80bb.webp",
+        "length": "2:50"
+    },
+    {
+        "ranking": "4",
+        "title": "MA BELLA",
+        "artist": "RACK",
+        "album": "EGO THERAPY",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/80/5c/7c805c7f-93ce-be00-bc2b-216e91c5e144/198588267370.jpg/80x80bb.webp",
+        "length": "2:52"
+    },
+    {
+        "ranking": "5",
+        "title": "Timeless",
+        "artist": "The Weeknd",
+        "album": "Timeless - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
+        "length": "4:16"
+    },
+    {
+        "ranking": "6",
+        "title": "Frena",
+        "artist": "Roi 6/12",
+        "album": "Frena - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9c/bc/c5/9cbcc5ce-c0c7-abe9-c554-228afb3ea0a1/24UM1IM08819.rgb.jpg/80x80bb.webp",
+        "length": "2:55"
+    },
+    {
+        "ranking": "7",
+        "title": "GUZMÁN",
+        "artist": "Ivan Greko",
+        "album": "GUZMÁN - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/27/0e/90270e09-7a9f-5269-b3f9-8a85fe03960d/198846214962.jpg/80x80bb.webp",
+        "length": "3:08"
+    },
+    {
+        "ranking": "8",
+        "title": "Xiliometra",
+        "artist": "APON",
+        "album": "Xiliometra - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/1b/04/f91b0448-6458-6ae4-dc63-0cef1c29d15e/cover.jpg/80x80bb.webp",
+        "length": "2:37"
+    },
+    {
+        "ranking": "9",
+        "title": "BIRDS OF A FEATHER",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "3:30"
+    },
+    {
+        "ranking": "10",
+        "title": "Lebron",
+        "artist": "FLY LO",
+        "album": "Lebron - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/96/ba/6396ba85-4c0e-08ea-e376-4061757e8abd/24UM1IM07245.rgb.jpg/80x80bb.webp",
+        "length": "2:57"
+    },
+    {
+        "ranking": "11",
+        "title": "Die With A Smile",
+        "artist": "Lady Gaga",
+        "album": "Die With A Smile - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
+        "length": "4:11"
+    },
+    {
+        "ranking": "12",
+        "title": "Vorias",
+        "artist": "APON",
+        "album": "Vorias - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/21/57/81/215781d0-91e8-38d1-7bdd-74915c9f725e/cover.jpg/80x80bb.webp",
+        "length": "3:09"
+    },
+    {
+        "ranking": "13",
+        "title": "10'",
+        "artist": "Saske",
+        "album": "GET LOVED OR DIE TRYIN'",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/11/f6/1c/11f61c4e-0429-64ef-1daf-8328d6a23ea3/198588890929.jpg/80x80bb.webp",
+        "length": "2:48"
+    },
+    {
+        "ranking": "14",
+        "title": "LALE",
+        "artist": "Roi 6/12",
+        "album": "LALE - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cc/d4/7e/ccd47ee8-9513-55ac-113d-636cbe60e314/24UM1IM00840.rgb.jpg/80x80bb.webp",
+        "length": "3:00"
+    },
+    {
+        "ranking": "15",
+        "title": "PULVO",
+        "artist": "Ivan Greko",
+        "album": "EYE OF THE TIGER",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/05/c2/cd05c283-df4f-28be-85f6-a93909157386/198846297651.jpg/80x80bb.webp",
+        "length": "2:30"
+    },
+    {
+        "ranking": "16",
+        "title": "ISOS",
+        "artist": "Sicario",
+        "album": "H MASKA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/78/88/c9/7888c994-5e27-e875-619b-39af1c69aad3/cover.jpg/80x80bb.webp",
+        "length": "3:26"
+    },
+    {
+        "ranking": "17",
+        "title": "KOINO MYSTIKO",
+        "artist": "LILA",
+        "album": "KOINO MYSTIKO - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/57/7d/54577dd9-aaab-5598-82cc-c9a0819df4e3/198846374321.jpg/80x80bb.webp",
+        "length": "2:26"
+    },
+    {
+        "ranking": "18",
+        "title": "3:15",
+        "artist": "TOQUEL",
+        "album": "1111",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fd/2d/47/fd2d471b-03cf-073c-8430-29d5095b424b/23UM1IM48699.rgb.jpg/80x80bb.webp",
+        "length": "3:00"
+    },
+    {
+        "ranking": "19",
+        "title": "Alitheia?!",
+        "artist": "Evangelia",
+        "album": "Alitheia?! - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d8/cf/96/d8cf962b-ad71-3b26-0f35-76c83085e999/24UM1IM09298.rgb.jpg/80x80bb.webp",
+        "length": "3:03"
+    },
+    {
+        "ranking": "20",
+        "title": "WILDFLOWER",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "4:21"
+    },
+    {
+        "ranking": "21",
+        "title": "I Adore You (feat. Daecolm)",
+        "artist": "HUGEL",
+        "album": "I Adore You (feat. Daecolm) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/df/e6/1ddfe6ea-a5f2-2c59-b574-b56ef0379096/24UMGIM74086.rgb.jpg/80x80bb.webp",
+        "length": "3:34"
+    },
+    {
+        "ranking": "22",
+        "title": "OMERTA",
+        "artist": "RACK",
+        "album": "EGO THERAPY",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/80/5c/7c805c7f-93ce-be00-bc2b-216e91c5e144/198588267370.jpg/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
+        "ranking": "23",
+        "title": "KSEHORISTO",
+        "artist": "Sicario",
+        "album": "H MASKA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/78/88/c9/7888c994-5e27-e875-619b-39af1c69aad3/cover.jpg/80x80bb.webp",
+        "length": "4:07"
+    },
+    {
+        "ranking": "24",
+        "title": "Mosca",
+        "artist": "Light",
+        "album": "Mosca - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e5/81/ea/e581eaee-04b6-fe7d-bf6f-851f2e2f7890/cover.jpg/80x80bb.webp",
+        "length": "3:32"
+    },
+    {
+        "ranking": "25",
+        "title": "Cc",
+        "artist": "Light",
+        "album": "Immortale",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ae/1b/9a/ae1b9a18-fd6c-0368-e30c-316b96d3c338/cover.jpg/80x80bb.webp",
+        "length": "4:25"
+    },
+    {
+        "ranking": "26",
+        "title": "Disease",
+        "artist": "Lady Gaga",
+        "album": "Disease - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/2b/dc/c72bdc7a-7014-e5df-a106-583074c0affa/24UM1IM12462.rgb.jpg/80x80bb.webp",
+        "length": "3:49"
+    },
+    {
+        "ranking": "27",
+        "title": "MVP Freestyle",
+        "artist": "Light",
+        "album": "MVP Freestyle - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ad/fa/f3/adfaf391-6343-1adc-b8dc-724c7049a341/cover.jpg/80x80bb.webp",
+        "length": "3:24"
+    },
+    {
+        "ranking": "28",
+        "title": "PADOU",
+        "artist": "Saske",
+        "album": "PADOU - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/27/1f/16/271f16b0-c665-a9c1-e18e-d337097f57d2/196626393258.jpg/80x80bb.webp",
+        "length": "3:37"
+    },
+    {
+        "ranking": "29",
+        "title": "Monaxiki Kardia",
+        "artist": "Melisses",
+        "album": "Monaxiki Kardia - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/e3/16/e2e31677-76f2-4e6e-d02e-6b785fc71aa1/cover.jpg/80x80bb.webp",
+        "length": "2:32"
+    },
+    {
+        "ranking": "30",
+        "title": "Beverly Hills",
+        "artist": "TOQUEL",
+        "album": "Beverly Hills",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7d/ae/5b/7dae5b73-9827-9226-7734-61c56def7ee7/22UMGIM54570.rgb.jpg/80x80bb.webp",
+        "length": "3:08"
+    },
+    {
+        "ranking": "31",
+        "title": "Allou",
+        "artist": "TOQUEL",
+        "album": "1111",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fd/2d/47/fd2d471b-03cf-073c-8430-29d5095b424b/23UM1IM48699.rgb.jpg/80x80bb.webp",
+        "length": "3:11"
+    },
+    {
+        "ranking": "32",
+        "title": "G63",
+        "artist": "TOQUEL",
+        "album": "G63 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/75/5c/77/755c77c6-58fa-d3fa-075b-f4c6943432c5/23UM1IM20679.rgb.jpg/80x80bb.webp",
+        "length": "3:24"
+    },
+    {
+        "ranking": "33",
+        "title": "Millionaire",
+        "artist": "SNIK",
+        "album": "TOPBOY",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/50/89/c5/5089c563-dd86-a013-6af1-e20719355369/20UMGIM35200.rgb.jpg/80x80bb.webp",
+        "length": "2:35"
+    },
+    {
+        "ranking": "34",
+        "title": "Rabanne",
+        "artist": "FLY LO",
+        "album": "Rabanne - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0a/4d/da/0a4dda89-1418-66f3-4f5e-625074704128/24UM1IM04623.rgb.jpg/80x80bb.webp",
+        "length": "2:21"
+    },
+    {
+        "ranking": "35",
+        "title": "Vradia",
+        "artist": "Roi 6/12",
+        "album": "Vradia - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/19/36/97193605-cf9f-9555-7b26-f30a0d7aff60/24UMGIM61142.rgb.jpg/80x80bb.webp",
+        "length": "3:12"
+    },
+    {
+        "ranking": "36",
+        "title": "NASA",
+        "artist": "RACK",
+        "album": "NASA - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7e/13/05/7e1305ba-f4d1-5f29-09d9-f4a3a0a4c4aa/196006742058.jpg/80x80bb.webp",
+        "length": "3:16"
+    },
+    {
+        "ranking": "37",
+        "title": "Move",
+        "artist": "Adam Port",
+        "album": "Move - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/84/6d/7b846d83-4d1f-36f4-32e5-6289596980c2/dj.kdflvmhp.jpg/80x80bb.webp",
+        "length": "2:57"
+    },
+    {
+        "ranking": "38",
+        "title": "Prestige",
+        "artist": "RACK",
+        "album": "Rackattack",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b4/5e/46/b45e4698-b231-7bcf-6297-9dc6a3b31c1c/196006575052.jpg/80x80bb.webp",
+        "length": "2:58"
+    },
+    {
+        "ranking": "39",
+        "title": "AURIO",
+        "artist": "Saske",
+        "album": "GET LOVED OR DIE TRYIN'",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/11/f6/1c/11f61c4e-0429-64ef-1daf-8328d6a23ea3/198588890929.jpg/80x80bb.webp",
+        "length": "4:01"
+    },
+    {
+        "ranking": "40",
+        "title": "Hallelujah",
+        "artist": "Sadam",
+        "album": "Hallelujah - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/35/02/35/350235a4-e761-e9c6-1f7b-256b8ac8b988/24UMGIM92432.rgb.jpg/80x80bb.webp",
+        "length": "3:23"
+    },
+    {
+        "ranking": "41",
+        "title": "Espresso",
+        "artist": "Sabrina Carpenter",
+        "album": "Espresso - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
+        "length": "2:55"
+    },
+    {
+        "ranking": "42",
+        "title": "King Lo",
+        "artist": "FLY LO",
+        "album": "King Lo - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/52/84/3f/52843f09-de23-fbc0-c61c-988c5bbd4078/22UMGIM05726.rgb.jpg/80x80bb.webp",
+        "length": "2:56"
+    },
+    {
+        "ranking": "43",
+        "title": "APT.",
+        "artist": "ROSÉ",
+        "album": "APT. - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
+        "ranking": "44",
+        "title": "CASABLANCA",
+        "artist": "SNIK",
+        "album": "CASABLANCA - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b1/80/1b/b1801b5c-9c23-8191-dc99-befa16eae145/24UMGIM79710.rgb.jpg/80x80bb.webp",
+        "length": "3:13"
+    },
+    {
+        "ranking": "45",
+        "title": "Big Moves (Vol. 2)",
+        "artist": "Vlospa",
+        "album": "Big Moves (Vol. 2) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/64/44/b3/6444b313-00b5-a0f8-9113-b39a558e5fd4/23UMGIM46768.rgb.jpg/80x80bb.webp",
+        "length": "2:56"
+    },
+    {
+        "ranking": "46",
+        "title": "Epiloges",
+        "artist": "Light",
+        "album": "Romeo",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ab/ce/f0/abcef06e-5cdc-aa9f-fb3e-b09e143816b9/cover.jpg/80x80bb.webp",
+        "length": "3:43"
+    },
+    {
+        "ranking": "47",
+        "title": "Pistoli",
+        "artist": "Sin Laurent",
+        "album": "Pistoli - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/80/9c/9c/809c9c1d-6061-633d-6ba1-1816b7591505/20UMGIM55508.rgb.jpg/80x80bb.webp",
+        "length": "2:55"
+    },
+    {
+        "ranking": "48",
+        "title": "Ores Mikres",
+        "artist": "Giorgos Mazonakis",
+        "album": "Agapo Simeni",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8f/bc/fe/8fbcfe85-f094-c8e6-d4c4-3641989eb5dc/00602577639906.rgb.jpg/80x80bb.webp",
+        "length": "4:29"
+    },
+    {
+        "ranking": "49",
+        "title": "Ocean Drive",
+        "artist": "Hawk",
+        "album": "Ocean Drive - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b1/36/7e/b1367efb-4295-e8b4-6ef5-c14f5a8ed5f2/198846513898.jpg/80x80bb.webp",
+        "length": "2:56"
+    },
+    {
+        "ranking": "50",
+        "title": "That’s So True",
+        "artist": "Gracie Abrams",
+        "album": "The Secret of Us (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
+        "length": "2:46"
+    },
+    {
+        "ranking": "51",
+        "title": "MBAPPE",
+        "artist": "SIDARTA",
+        "album": "MBAPPE - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6e/18/dd/6e18ddfa-fa85-cab6-85ee-0565b9a3dec0/198391673894.jpg/80x80bb.webp",
+        "length": "2:37"
+    },
+    {
+        "ranking": "52",
+        "title": "Hustla",
+        "artist": "Mad Clip",
+        "album": "Hustla - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/94/b9/aa/94b9aa1c-3f46-b4b6-c487-dc8ea3984e5a/cover.jpg/80x80bb.webp",
+        "length": "3:54"
+    },
+    {
+        "ranking": "53",
+        "title": "Erotas",
+        "artist": "SNIK",
+        "album": "Erotas - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ee/ae/77/eeae77f0-6ea3-bd01-e1e1-54dae6e69d68/22UMGIM82909.rgb.jpg/80x80bb.webp",
+        "length": "2:24"
+    },
+    {
+        "ranking": "54",
+        "title": "Taxidi",
+        "artist": "Marina Spanou",
+        "album": "Mia Kaseta Gia Ton Dromo",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c1/aa/d4/c1aad4b8-f41d-d7bf-2917-dc02afab48dd/artwork.jpg/80x80bb.webp",
+        "length": "4:52"
+    },
+    {
+        "ranking": "55",
+        "title": "SPORT PLUS",
+        "artist": "Ivan Greko",
+        "album": "EYE OF THE TIGER",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/05/c2/cd05c283-df4f-28be-85f6-a93909157386/198846297651.jpg/80x80bb.webp",
+        "length": "2:53"
+    },
+    {
+        "ranking": "56",
+        "title": "1+1",
+        "artist": "Sigma",
+        "album": "ELECTRIC",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e9/30/75/e930758e-202a-bc53-15e9-df8642330af4/198391803819.jpg/80x80bb.webp",
+        "length": "2:47"
+    },
+    {
+        "ranking": "57",
+        "title": "Nani",
+        "artist": "Mad Clip",
+        "album": "Money And Drugs Can't Live In Poverty",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4a/fc/98/4afc983c-4672-4d36-8a16-6e69b97ab742/cover.jpg/80x80bb.webp",
+        "length": "3:50"
+    },
+    {
+        "ranking": "58",
+        "title": "FE!N (feat. Playboi Carti)",
+        "artist": "Travis Scott",
+        "album": "UTOPIA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/7d/b0/097db06f-8403-3cf7-7510-139e570ca66b/196871341882.jpg/80x80bb.webp",
+        "length": "3:11"
+    },
+    {
+        "ranking": "59",
+        "title": "Kokaina",
+        "artist": "TOQUEL",
+        "album": "Kokaina - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c2/5e/3b/c25e3bb4-5130-0ada-d879-03c930c0d67d/21UMGIM41375.rgb.jpg/80x80bb.webp",
+        "length": "2:30"
+    },
+    {
+        "ranking": "60",
+        "title": "Pano",
+        "artist": "Bloody Hawk",
+        "album": "Fthina Tricks 2",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0d/e7/0b/0de70b62-8556-ccf0-f437-49509eb0ac7c/24UMGIM57982.rgb.jpg/80x80bb.webp",
+        "length": "3:30"
+    },
+    {
+        "ranking": "61",
+        "title": "Xoros",
+        "artist": "Sicario",
+        "album": "XOROS - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c8/84/3f/c8843fc3-640f-2d49-dc1e-18b7ac7f6533/cover.jpg/80x80bb.webp",
+        "length": "2:45"
+    },
+    {
+        "ranking": "62",
+        "title": "ERIMO",
+        "artist": "SIDARTA",
+        "album": "ERIMO - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3c/31/ef/3c31ef6d-55e7-8e51-721e-f7e1476d5027/196925743686.jpg/80x80bb.webp",
+        "length": "3:37"
+    },
+    {
+        "ranking": "63",
+        "title": "Cyan",
+        "artist": "Saske",
+        "album": "Cyan - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/a7/67/91/a76791ba-7c1b-0bcd-7ab5-0bef4014409a/193483955377.jpg/80x80bb.webp",
+        "length": "2:35"
+    },
+    {
+        "ranking": "64",
+        "title": "DEN EIMAI DIKOS SOU",
+        "artist": "RACK",
+        "album": "RACKATTACK 2",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/3e/97/8a3e97bd-e374-7928-823b-26a034258868/196925222075.jpg/80x80bb.webp",
+        "length": "3:36"
+    },
+    {
+        "ranking": "65",
+        "title": "BLUE NOTE",
+        "artist": "Hawk",
+        "album": "LIBERTA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b5/16/5e/b5165e83-8d05-9fa1-8f64-d66543bb9373/196626825223.jpg/80x80bb.webp",
+        "length": "2:55"
+    },
+    {
+        "ranking": "66",
+        "title": "PRIN MAFISEIS",
+        "artist": "Saske",
+        "album": "DELUXE",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/51/cd/12/51cd120f-447a-9f2c-5db9-dbb3606456be/198391069499.jpg/80x80bb.webp",
+        "length": "3:24"
+    },
+    {
+        "ranking": "67",
+        "title": "Feggari",
+        "artist": "APON",
+        "album": "SEXERO - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a2/23/ef/a223ef65-860f-e168-8212-5bfe57022de3/cover.jpg/80x80bb.webp",
+        "length": "2:17"
+    },
+    {
+        "ranking": "68",
+        "title": "24hrs",
+        "artist": "Light",
+        "album": "24hrs - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7f/b1/d6/7fb1d69f-817c-fe20-81d1-5ddf73942055/cover.jpg/80x80bb.webp",
+        "length": "2:55"
+    },
+    {
+        "ranking": "69",
+        "title": "DEJA VU",
+        "artist": "LILA",
+        "album": "DEJA VU - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/73/e4/a1/73e4a174-a3cd-76c4-179e-67dc6c15fc5b/197188800208.jpg/80x80bb.webp",
+        "length": "2:37"
+    },
+    {
+        "ranking": "70",
+        "title": "Dokimasia",
+        "artist": "Wang",
+        "album": "Homesick",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/56/b7/b456b75a-2053-31d7-43cb-cb2ed58e73ea/198391718014.jpg/80x80bb.webp",
+        "length": "3:57"
+    },
+    {
+        "ranking": "71",
+        "title": "Kokkina Mple",
+        "artist": "FLY LO",
+        "album": "Traplife",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f7/df/14/f7df147d-6766-5c94-38fd-a0294bf6d7a6/23UMGIM41960.rgb.jpg/80x80bb.webp",
+        "length": "2:55"
+    },
+    {
+        "ranking": "72",
+        "title": "Lose Control",
+        "artist": "Teddy Swims",
+        "album": "I've Tried Everything But Therapy (Part 1)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
+        "length": "3:30"
+    },
+    {
+        "ranking": "73",
+        "title": "NAI",
+        "artist": "Ivan Greko",
+        "album": "NAI - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/35/10/2e/35102ec4-71f2-50cd-8cc8-6206574964dd/197188927462.jpg/80x80bb.webp",
+        "length": "2:16"
+    },
+    {
+        "ranking": "74",
+        "title": "OAED",
+        "artist": "SNIK",
+        "album": "OAED - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/50/0e/cc/500ecc36-0c21-b884-7e8b-9931f86b85dd/23UM1IM33542.rgb.jpg/80x80bb.webp",
+        "length": "2:38"
+    },
+    {
+        "ranking": "75",
+        "title": "NANA",
+        "artist": "SNIK",
+        "album": "1987",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1c/b5/1d/1cb51d5b-f8b7-6ba2-d62e-5f80de29eaaa/22UMGIM02443.rgb.jpg/80x80bb.webp",
+        "length": "3:17"
+    },
+    {
+        "ranking": "76",
+        "title": "Senorita",
+        "artist": "SNIK",
+        "album": "Senorita - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/73/a2/f5/73a2f526-9649-7212-db3a-20c2b8d0df1b/19UMGIM62023.rgb.jpg/80x80bb.webp",
+        "length": "2:58"
+    },
+    {
+        "ranking": "77",
+        "title": "CELINE",
+        "artist": "Hawk",
+        "album": "LIBERTA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b5/16/5e/b5165e83-8d05-9fa1-8f64-d66543bb9373/196626825223.jpg/80x80bb.webp",
+        "length": "2:27"
+    },
+    {
+        "ranking": "78",
+        "title": "Normal",
+        "artist": "Roi 6/12",
+        "album": "Normal - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/46/81/1c/46811c00-3a00-56c4-b6c8-a662c8cc110c/24UMGIM75254.rgb.jpg/80x80bb.webp",
+        "length": "2:52"
+    },
+    {
+        "ranking": "79",
+        "title": "Ekptotos Aggelos",
+        "artist": "Nikos Oikonomopoulos",
+        "album": "Ekptotos Aggelos - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0d/67/fe/0d67fe05-3b70-7baa-8680-1d754932b1a1/5204958078752.png/80x80bb.webp",
+        "length": "4:23"
+    },
+    {
+        "ranking": "80",
+        "title": "CHIHIRO",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "5:03"
+    },
+    {
+        "ranking": "81",
+        "title": "Not Like Us",
+        "artist": "Kendrick Lamar",
+        "album": "Not Like Us - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
+        "length": "4:34"
+    },
+    {
+        "ranking": "82",
+        "title": "Too Sweet",
+        "artist": "Hozier",
+        "album": "Unreal Unearth: Unaired",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/12/e3/a412e390-51aa-6625-9adc-d502bf1c349f/196872373004.jpg/80x80bb.webp",
+        "length": "4:11"
+    },
+    {
+        "ranking": "83",
+        "title": "Pali Pali",
+        "artist": "Thodoris Ferris",
+        "album": "Apo To Xthes Sto Simera - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/85/95/ee8595a5-b593-e244-ec5d-2ea71ad406a3/cover.jpg/80x80bb.webp",
+        "length": "2:52"
+    },
+    {
+        "ranking": "84",
+        "title": "9ARI (feat. Beyond)",
+        "artist": "LILA",
+        "album": "9ARI (feat. Beyond) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/53/b6/bf53b6b2-7cda-1a68-e335-2b4a2533654e/198391778780.jpg/80x80bb.webp",
+        "length": "2:52"
+    },
+    {
+        "ranking": "85",
+        "title": "Taste",
+        "artist": "Sabrina Carpenter",
+        "album": "Short n' Sweet",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+        "length": "2:37"
+    },
+    {
+        "ranking": "86",
+        "title": "Ανισόπεδη Ντίσκο (feat. Kalliopi Mitropoulou)",
+        "artist": "Pan Pan",
+        "album": "Ανισόπεδη Ντίσκο - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fc/6c/ee/fc6ceebb-db43-58ca-3638-568b9ef0291a/23UM1IM16454.rgb.jpg/80x80bb.webp",
+        "length": "4:06"
+    },
+    {
+        "ranking": "87",
+        "title": "The Door",
+        "artist": "Teddy Swims",
+        "album": "I've Tried Everything But Therapy (Part 1)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
+        "length": "3:32"
+    },
+    {
+        "ranking": "88",
+        "title": "NANA",
+        "artist": "Saske",
+        "album": "NANA - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/d1/e8/2d/d1e82d59-f16c-fdd6-ec88-a2f50cb1d600/195081781136.jpg/80x80bb.webp",
+        "length": "2:48"
+    },
+    {
+        "ranking": "89",
+        "title": "AMOR",
+        "artist": "RACK",
+        "album": "RACKATTACK 2",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/3e/97/8a3e97bd-e374-7928-823b-26a034258868/196925222075.jpg/80x80bb.webp",
+        "length": "3:14"
+    },
+    {
+        "ranking": "90",
+        "title": "Machete",
+        "artist": "FLY LO",
+        "album": "Traplife",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f7/df/14/f7df147d-6766-5c94-38fd-a0294bf6d7a6/23UMGIM41960.rgb.jpg/80x80bb.webp",
+        "length": "2:35"
+    },
+    {
+        "ranking": "91",
+        "title": "Allo",
+        "artist": "Anastasia",
+        "album": "Allo - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/75/ca/d7/75cad74a-968e-1347-482f-0e7adec0879a/24UMGIM64393.rgb.jpg/80x80bb.webp",
+        "length": "3:33"
+    },
+    {
+        "ranking": "92",
+        "title": "AIORA",
+        "artist": "Lobo",
+        "album": "AIORA - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/2e/bb/ab2ebb27-d21d-e13a-2d42-e8d9306ae361/198588589083.jpg/80x80bb.webp",
+        "length": "3:04"
+    },
+    {
+        "ranking": "93",
+        "title": "MONROE",
+        "artist": "Hawk",
+        "album": "MONROE - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/be/b9/e1/beb9e180-1c79-05a9-6792-e025d3767787/197189942037.jpg/80x80bb.webp",
+        "length": "2:29"
+    },
+    {
+        "ranking": "94",
+        "title": "Gymni",
+        "artist": "Light",
+        "album": "Supernova",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/51/5d/70/515d701a-6253-ae34-1eae-97d4c21dc8df/195497762750.jpg/80x80bb.webp",
+        "length": "2:53"
+    },
+    {
+        "ranking": "95",
+        "title": "MAALOX",
+        "artist": "Bloody Hawk",
+        "album": "THE DEAL (EP)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/df/66/a3/df66a3b0-955a-4d80-aee0-055ad6c9a7e2/24UMGIM21532.rgb.jpg/80x80bb.webp",
+        "length": "5:09"
+    },
+    {
+        "ranking": "96",
+        "title": "HIGHEST IN THE ROOM",
+        "artist": "Travis Scott",
+        "album": "HIGHEST IN THE ROOM - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/30/5f/c4/305fc4b4-155d-8e67-7c7a-8eb35032fbcb/886448042792.jpg/80x80bb.webp",
+        "length": "2:55"
+    },
+    {
+        "ranking": "97",
+        "title": "Esy Me Xereis Pio Poly (Reworks)",
+        "artist": "Haris Alexiou",
+        "album": "Esy Me Xereis Pio Poly (Reworks) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/10/99/7f/10997f31-9d6b-0d91-5352-35360c3bb84d/23UM1IM30288.rgb.jpg/80x80bb.webp",
+        "length": "4:07"
+    },
+    {
+        "ranking": "98",
+        "title": "ATOUTALER",
+        "artist": "LILA",
+        "album": "ATOUTALER - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c4/92/78/c49278b7-d159-b1a1-d878-4edf293a8905/197189282683.jpg/80x80bb.webp",
+        "length": "2:22"
+    },
+    {
+        "ranking": "99",
+        "title": "One Of The Girls",
+        "artist": "The Weeknd",
+        "album": "The Idol Episode 4 (Music from the HBO Original Series) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/db/28/e7/db28e7c3-f53a-76c8-eaa4-d92a22e4f160/23UMGIM72115.rgb.jpg/80x80bb.webp",
+        "length": "4:04"
+    },
+    {
+        "ranking": "100",
+        "title": "ANASAINO KAI ZALIZOMAI",
+        "artist": "LILA",
+        "album": "ANASAINO KAI ZALIZOMAI - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/16/dd/6c/16dd6cbc-a1c7-1c11-e597-99ea0dada464/197190076691.jpg/80x80bb.webp",
+        "length": "2:38"
+    }
+]
