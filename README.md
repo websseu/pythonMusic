@@ -41,9 +41,9 @@ https://websseu.github.io/pythonMusic/billboard/hot/hotTop100_[날짜].json
 
 ## 📹 유튜브 뮤직 전세계 챠트 수집하기
 
-유튜브 뮤직 글로벌 순위 100 : [https://charts.youtube.com/charts/TopSongs/global/weekly](https://charts.youtube.com/charts/TopSongs/global/weekly)
-유튜브 뮤직 아르헨티나 순위 100 : [https://charts.youtube.com/charts/TopSongs/ar/weekly](https://charts.youtube.com/charts/TopSongs/ar/weekly)
-유튜브 뮤직 호주 순위 100 : [https://charts.youtube.com/charts/TopSongs/au/weekly](https://charts.youtube.com/charts/TopSongs/au/weekly)
+유튜브 뮤직 글로벌(global) 순위 100 : [https://charts.youtube.com/charts/TopSongs/global/weekly](https://charts.youtube.com/charts/TopSongs/global/weekly)  
+유튜브 뮤직 아르헨티나(ar) 순위 100 : [https://charts.youtube.com/charts/TopSongs/ar/weekly](https://charts.youtube.com/charts/TopSongs/ar/weekly)  
+유튜브 뮤직 호주(au) 순위 100 : [https://charts.youtube.com/charts/TopSongs/au/weekly](https://charts.youtube.com/charts/TopSongs/au/weekly)
 
 ## 🍎 애플 뮤직 전세계 챠트 수집하기
 
@@ -51,10 +51,10 @@ https://websseu.github.io/pythonMusic/billboard/hot/hotTop100_[날짜].json
 https://websseu.github.io/pythonMusic/apple/[나라이름]/[나라이름]Top100_[날짜].json
 ```
 
-애플 뮤직 글로벌 순위 100 : [https://music.apple.com/us/playlist/top-100-global](https://music.apple.com/us/playlist/top-100-global/pl.d25f5d1181894928af76c85c967f8f31)  
-애플 뮤직 🇺🇸 미국 순위 100 : [https://music.apple.com/us/playlist/top-100-usa](https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12)  
-애플 뮤직 🇬🇧 영국 순위 100 : [https://music.apple.com/us/playlist/top-100-uk](https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7)  
-애플 뮤직 🇲🇽 멕시코 순위 100 : [https://music.apple.com/us/playlist/top-100-mexico](https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b)  
+애플 뮤직 글로벌(global) 순위 100 : [https://music.apple.com/us/playlist/top-100-global](https://music.apple.com/us/playlist/top-100-global/pl.d25f5d1181894928af76c85c967f8f31)  
+애플 뮤직 🇺🇸 미국(usa) 순위 100 : [https://music.apple.com/us/playlist/top-100-usa](https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12)  
+애플 뮤직 🇬🇧 영국(uk) 순위 100 : [https://music.apple.com/us/playlist/top-100-uk](https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7)  
+애플 뮤직 🇲🇽 멕시코(mexico) 순위 100 : [https://music.apple.com/us/playlist/top-100-mexico](https://music.apple.com/us/playlist/top-100-mexico/pl.df3f10ca27b1479087de2cd3f9f6716b)  
 애플 뮤직 🇦🇺 호주 순위 100 : [https://music.apple.com/us/playlist/top-100-australia](https://music.apple.com/us/playlist/top-100-australia/pl.18be1cf04dfd4ffb9b6b0453e8fae8f1)  
 애플 뮤직 🇯🇵 일본 순위 100 : [https://music.apple.com/us/playlist/top-100-japan](https://music.apple.com/us/playlist/top-100-japan/pl.043a2c9876114d95a4659988497567be)  
 애플 뮤직 🇪🇸 스페인 순위 100 : [https://music.apple.com/us/playlist/top-100-spain](https://music.apple.com/us/playlist/top-100-spain/pl.0d656d7feae64198bc5fb1b02786ed75)  
