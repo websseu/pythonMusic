@@ -4,7 +4,7 @@
 
 ## 데이터 사용하기
 
-샘플
+데이터는 다음과 같이 사용할 수 있습니다.
 
 ```
 https://websseu.github.io/pythonMusic/korea/apple/appleTop100_2024-11-06.json
@@ -15,6 +15,7 @@ https://websseu.github.io/pythonMusic/korea/melon/melonTop100_2024-11-06.json
 https://websseu.github.io/pythonMusic/korea/vibe/vibeTop100_2024-11-06.json
 ```
 
+이름과 날짜를 변경하면 사용할 수 있습니다.
 [이름] : 애플(apple), 멜론(melon), 지니(genie), 벅스(bugs), 플로(flo), 바이브(vibe)  
 [날짜] : 2024-11-06월 이후로 넣으면 됨
 
