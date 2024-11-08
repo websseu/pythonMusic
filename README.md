@@ -30,8 +30,20 @@ https://websseu.github.io/pythonMusic/korea/[이름]/[이름]Top100_[날짜].jso
 
 ## 💸 빌보드 챠트 수집하기
 
+```js
+https://websseu.github.io/pythonMusic/billboard/grobal/grobalTop100_[날짜].json
+https://websseu.github.io/pythonMusic/billboard/hot/hotTop100_[날짜].json
+
+```
+
 빌보드 핫 뮤직 순위 100 : [https://www.billboard.com/charts/hot-100/](https://www.billboard.com/charts/hot-100/)  
 빌보드 글로벌 뮤직 순위 100 : [https://www.billboard.com/charts/billboard-global-200/](https://www.billboard.com/charts/billboard-global-200/)
+
+## 📹 유튜브 뮤직 전세계 챠트 수집하기
+
+유튜브 뮤직 글로벌 순위 100 : [https://charts.youtube.com/charts/TopSongs/global/weekly](https://charts.youtube.com/charts/TopSongs/global/weekly)
+유튜브 뮤직 아르헨티나 순위 100 : [https://charts.youtube.com/charts/TopSongs/ar/weekly](https://charts.youtube.com/charts/TopSongs/ar/weekly)
+유튜브 뮤직 호주 순위 100 : [https://charts.youtube.com/charts/TopSongs/au/weekly](https://charts.youtube.com/charts/TopSongs/au/weekly)
 
 ## 🍎 애플 뮤직 전세계 챠트 수집하기
 
