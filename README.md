@@ -35,6 +35,10 @@ https://websseu.github.io/pythonMusic/korea/[이름]/[이름]Top100_[날짜].jso
 
 ## 🍎 애플 뮤직 전세계 챠트 수집하기
 
+```js
+https://websseu.github.io/pythonMusic/apple/[나라이름]/[나라이름]Top100_[날짜].json
+```
+
 애플 뮤직 글로벌 순위 100 : [https://music.apple.com/us/playlist/top-100-global](https://music.apple.com/us/playlist/top-100-global/pl.d25f5d1181894928af76c85c967f8f31)  
 애플 뮤직 🇺🇸 미국 순위 100 : [https://music.apple.com/us/playlist/top-100-usa](https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12)  
 애플 뮤직 🇬🇧 영국 순위 100 : [https://music.apple.com/us/playlist/top-100-uk](https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7)  
