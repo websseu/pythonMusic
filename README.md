@@ -15,22 +15,18 @@ https://websseu.github.io/pythonMusic/korea/melon/melonTop100_2024-11-06.json
 https://websseu.github.io/pythonMusic/korea/vibe/vibeTop100_2024-11-06.json
 ```
 
-이름과 날짜를 변경하면 사용할 수 있습니다.  
-[이름] : 애플(apple), 멜론(melon), 지니(genie), 벅스(bugs), 플로(flo), 바이브(vibe)  
-[날짜] : 2024-11-06월 이후로 넣으면 됨
+## 🇰🇷 한국 노래 챠트 수집하기
+
+애플(apple) 뮤직 코리아 순위 100 : [https://music.apple.com/kr/new](https://music.apple.com/kr/playlist/%EC%98%A4%EB%8A%98%EC%9D%98-top-100-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD/pl.d3d10c32fbc540b38e266367dc8cb00c)  
+멜론(melon) 뮤직 순위 100 : [https://www.melon.com/chart/index.htm](https://www.melon.com/chart/index.htm)  
+지니(genie) 뮤직 순위 100 : [https://www.genie.co.kr/chart/top200](https://www.genie.co.kr/chart/top200?ditc=D&ymd=20241105&hh=10&rtm=Y&pg=1)  
+벅스(bugs) 뮤직 순위 100 : [https://music.bugs.co.kr/chart](https://music.bugs.co.kr/chart)  
+플로(flo) 뮤직 순위 100 : [https://www.music-flo.com/browse](https://www.music-flo.com/browse)  
+바이브(vibe) 뮤직 순위 100 : [https://vibe.naver.com/chart/total](https://vibe.naver.com/chart/total)
 
 ```js
 https://websseu.github.io/pythonMusic/korea/[이름]/[이름]Top100_[날짜].json
 ```
-
-## 🇰🇷 한국 노래 챠트 수집하기
-
-애플 뮤직 코리아 순위 100 : [https://music.apple.com/kr/new](https://music.apple.com/kr/playlist/%EC%98%A4%EB%8A%98%EC%9D%98-top-100-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD/pl.d3d10c32fbc540b38e266367dc8cb00c)  
-멜론 뮤직 순위 100 : [https://www.melon.com/chart/index.htm](https://www.melon.com/chart/index.htm)  
-지니 뮤직 순위 100 : [https://www.genie.co.kr/chart/top200](https://www.genie.co.kr/chart/top200?ditc=D&ymd=20241105&hh=10&rtm=Y&pg=1)  
-벅스 뮤직 순위 100 : [https://music.bugs.co.kr/chart](https://music.bugs.co.kr/chart)  
-플로 뮤직 순위 100 : [https://www.music-flo.com/browse](https://www.music-flo.com/browse)  
-바이브 뮤직 순위 100 : [https://vibe.naver.com/chart/total](https://vibe.naver.com/chart/total)
 
 ## 💸 빌보드 챠트 수집하기
 
