@@ -1,0 +1,802 @@
+[
+    {
+        "ranking": "1",
+        "title": "25",
+        "artist": "Rod Wave",
+        "album": "Last Lap",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/37/da/5a37da14-dea1-6123-6553-4a24010657e8/196872534610.jpg/80x80bb.webp",
+        "length": "3:00"
+    },
+    {
+        "ranking": "2",
+        "title": "Whites",
+        "artist": "Masicka",
+        "album": "Whites - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/01/27/260127e0-4a19-a2ce-f778-6263789a148d/0.jpg/80x80bb.webp",
+        "length": "4:28"
+    },
+    {
+        "ranking": "3",
+        "title": "ROUGH PATCH",
+        "artist": "Armanii",
+        "album": "NO SIGNAL",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/19/eb/4119eb53-e80e-69ba-a8c1-bb8ac4f465a5/198861051238.png/80x80bb.webp",
+        "length": "3:09"
+    },
+    {
+        "ranking": "4",
+        "title": "Get Up",
+        "artist": "SQUASH",
+        "album": "Get Up - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/21/12/5b/21125b78-6265-8a1c-9b91-6408665524d6/198846395463.jpg/80x80bb.webp",
+        "length": "2:37"
+    },
+    {
+        "ranking": "5",
+        "title": "Pounds",
+        "artist": "Armanii",
+        "album": "Pounds - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/74/8b/56748b6c-5841-d592-34cd-fb543ba1f85d/198342681671_cover.jpg/80x80bb.webp",
+        "length": "2:43"
+    },
+    {
+        "ranking": "6",
+        "title": "Shubout",
+        "artist": "SQUASH",
+        "album": "Shubout - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/87/4d/34874d3d-0881-d5f9-818b-75ae7b31a420/198588751008.jpg/80x80bb.webp",
+        "length": "2:38"
+    },
+    {
+        "ranking": "7",
+        "title": "Pestilence (feat. Tman)",
+        "artist": "Kman 6ixx",
+        "album": "Rich Out - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/35/61/81/35618167-3b14-6b59-122e-08dc688143d6/0.jpg/80x80bb.webp",
+        "length": "3:17"
+    },
+    {
+        "ranking": "8",
+        "title": "Who Fi Stop We",
+        "artist": "Masicka",
+        "album": "Who Fi Stop We - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2a/ad/fd/2aadfd94-589c-3d4e-f472-71e4843180ed/0.jpg/80x80bb.webp",
+        "length": "3:44"
+    },
+    {
+        "ranking": "9",
+        "title": "YOU & I",
+        "artist": "Armanii",
+        "album": "NO SIGNAL",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/19/eb/4119eb53-e80e-69ba-a8c1-bb8ac4f465a5/198861051238.png/80x80bb.webp",
+        "length": "3:06"
+    },
+    {
+        "ranking": "10",
+        "title": "Big Breeze",
+        "artist": "SQUASH",
+        "album": "Big Breeze - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/f9/fa/6af9fa33-cf44-388d-0e4d-8d2b2c48eafb/198391892738.jpg/80x80bb.webp",
+        "length": "3:03"
+    },
+    {
+        "ranking": "11",
+        "title": "Last Lap",
+        "artist": "Rod Wave",
+        "album": "Last Lap",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/37/da/5a37da14-dea1-6123-6553-4a24010657e8/196872534610.jpg/80x80bb.webp",
+        "length": "4:08"
+    },
+    {
+        "ranking": "12",
+        "title": "IRan",
+        "artist": "Rod Wave",
+        "album": "Last Lap",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/37/da/5a37da14-dea1-6123-6553-4a24010657e8/196872534610.jpg/80x80bb.webp",
+        "length": "2:58"
+    },
+    {
+        "ranking": "13",
+        "title": "Never Complain (feat. Masicka)",
+        "artist": "Teejay",
+        "album": "Never Complain (feat. Masicka) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b8/2d/ae/b82daed6-a796-2a26-f227-67a352250d87/054391239259.jpg/80x80bb.webp",
+        "length": "2:56"
+    },
+    {
+        "ranking": "14",
+        "title": "Tyrant",
+        "artist": "Masicka",
+        "album": "Tyrant - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/df/d8/9a/dfd89a6c-a372-eb5e-5d99-209d0708d0a3/23UMGIM54147.rgb.jpg/80x80bb.webp",
+        "length": "3:37"
+    },
+    {
+        "ranking": "15",
+        "title": "Don’t Fall",
+        "artist": "Chronic Law",
+        "album": "Don’t Fall - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/44/49/d64449b6-5d7f-3782-cb2c-df38546f62c8/0.jpg/80x80bb.webp",
+        "length": "2:44"
+    },
+    {
+        "ranking": "16",
+        "title": "HULU",
+        "artist": "Armanii",
+        "album": "NO SIGNAL",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/19/eb/4119eb53-e80e-69ba-a8c1-bb8ac4f465a5/198861051238.png/80x80bb.webp",
+        "length": "2:31"
+    },
+    {
+        "ranking": "17",
+        "title": "20 Matic",
+        "artist": "Masicka",
+        "album": "20 Matic - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6e/39/25/6e3925e9-32af-4698-53bb-27f8249b851e/24UMGIM68526.rgb.jpg/80x80bb.webp",
+        "length": "3:12"
+    },
+    {
+        "ranking": "18",
+        "title": "Demon Crease",
+        "artist": "Kraff Gad",
+        "album": "Demon Crease - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/88/c7/5888c710-4027-07a1-d9f6-4879cb05af93/0.jpg/80x80bb.webp",
+        "length": "2:45"
+    },
+    {
+        "ranking": "19",
+        "title": "Saved by a Psalm",
+        "artist": "Govana",
+        "album": "Legacy",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/27/97/62/279762d9-d9e6-46d3-b91e-286d593d75e1/198342964743_cover.jpg/80x80bb.webp",
+        "length": "3:36"
+    },
+    {
+        "ranking": "20",
+        "title": "Heart Of A Woman",
+        "artist": "Summer Walker",
+        "album": "Heart Of A Woman - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/2a/d9/9f2ad9e4-8b12-0759-edbf-962d3064168e/24UM1IM12906.rgb.jpg/80x80bb.webp",
+        "length": "2:51"
+    },
+    {
+        "ranking": "21",
+        "title": "Cups Up",
+        "artist": "Malie Donn",
+        "album": "Cups Up - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/23/49/26/2349266a-4fd1-4c96-8ddd-8a21cfe23227/197189042348.jpg/80x80bb.webp",
+        "length": "3:11"
+    },
+    {
+        "ranking": "22",
+        "title": "Empty",
+        "artist": "Chronic Law",
+        "album": "Empty - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/83/5b/ca/835bca21-8282-9bd0-ddd5-c0d62248ed0f/0.jpg/80x80bb.webp",
+        "length": "3:26"
+    },
+    {
+        "ranking": "23",
+        "title": "Corrupt",
+        "artist": "Chronic Law",
+        "album": "Corrupt - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/af/f8/c6/aff8c634-5968-c3fc-da1b-ffd0633c843e/196925559737.jpg/80x80bb.webp",
+        "length": "3:33"
+    },
+    {
+        "ranking": "24",
+        "title": "Heavy Weight",
+        "artist": "Prince Swanny",
+        "album": "Heavy Weight - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6e/75/8d/6e758d09-3bdf-6bec-cf18-69b03629601d/797885480170_cover.jpg/80x80bb.webp",
+        "length": "3:01"
+    },
+    {
+        "ranking": "25",
+        "title": "Believe",
+        "artist": "Prince Swanny",
+        "album": "Believe - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/df/92/a0df9286-9199-5198-1ad7-0cfbd6bd38c2/0.jpg/80x80bb.webp",
+        "length": "3:12"
+    },
+    {
+        "ranking": "26",
+        "title": "Still a Bleed",
+        "artist": "Chronic Law",
+        "album": "Still a Bleed - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f5/49/2f/f5492f7f-b4c3-8faa-6fc1-3efe6433ca5e/195375164539.jpg/80x80bb.webp",
+        "length": "3:36"
+    },
+    {
+        "ranking": "27",
+        "title": "Residuals",
+        "artist": "Chris Brown",
+        "album": "11:11 (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/5c/c1/2d5cc1a6-86ce-ee16-5985-807f2fffa3cb/196871957267.jpg/80x80bb.webp",
+        "length": "3:35"
+    },
+    {
+        "ranking": "28",
+        "title": "Show Them (feat. Byron Messia & Tafari)",
+        "artist": "Kman 6ixx",
+        "album": "Phoenix The Ep - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/40/11/30401120-e645-671e-9735-d09f30aaea9e/198672189588_KmanPhoenixFront.jpg/80x80bb.webp",
+        "length": "4:00"
+    },
+    {
+        "ranking": "29",
+        "title": "Angel With An Attitude",
+        "artist": "Rod Wave",
+        "album": "Last Lap",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/37/da/5a37da14-dea1-6123-6553-4a24010657e8/196872534610.jpg/80x80bb.webp",
+        "length": "3:15"
+    },
+    {
+        "ranking": "30",
+        "title": "Let Me Be (Skeletons in My Closet)",
+        "artist": "Dejour",
+        "album": "Let Me Be (Skeletons in My Closet) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4d/b6/34/4db63445-83eb-bccd-477d-5ed5d02ba06f/0.jpg/80x80bb.webp",
+        "length": "2:04"
+    },
+    {
+        "ranking": "31",
+        "title": "HAAD (Fiesta)",
+        "artist": "Armanii",
+        "album": "HAAD (Fiesta) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/29/26/c5292650-3f7f-89ba-2a46-2efe26f47fe1/0.jpg/80x80bb.webp",
+        "length": "2:24"
+    },
+    {
+        "ranking": "32",
+        "title": "Someone Else (feat. Quan & Trilla-G)",
+        "artist": "litleboy lsbeats767",
+        "album": "Someone Else (feat. Quan & Trilla-G) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5f/5a/4b/5f5a4bee-b9a6-e8ce-06bd-09059af03f97/artwork.jpg/80x80bb.webp",
+        "length": "3:25"
+    },
+    {
+        "ranking": "33",
+        "title": "ATL",
+        "artist": "Chronic Law",
+        "album": "ATL - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/d0/e6/d4d0e638-4fe1-7def-67a4-02a6ad9f6f80/0.jpg/80x80bb.webp",
+        "length": "2:37"
+    },
+    {
+        "ranking": "34",
+        "title": "M.O.T.M (Man of the Match)",
+        "artist": "Likkle Addi",
+        "album": "M.O.T.M (Man of the Match) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e9/8a/26/e98a263a-48ea-cb24-8608-a27cfd10fa25/195375609238_cover.jpg/80x80bb.webp",
+        "length": "2:50"
+    },
+    {
+        "ranking": "35",
+        "title": "Wheel Up",
+        "artist": "MORGAN",
+        "album": "Emotional Gangster - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/94/99/43/94994334-b576-899a-5337-84f51d0ec0b5/844942135419.jpg/80x80bb.webp",
+        "length": "3:03"
+    },
+    {
+        "ranking": "36",
+        "title": "Snooze",
+        "artist": "SZA",
+        "album": "SOS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
+        "length": "3:21"
+    },
+    {
+        "ranking": "37",
+        "title": "Obsessed",
+        "artist": "Kman 6ixx",
+        "album": "Big League",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/60/4d/d3604dc5-0150-aaba-35eb-b320ee619c15/872132904644_bigleaguecover.jpg/80x80bb.webp",
+        "length": "2:46"
+    },
+    {
+        "ranking": "38",
+        "title": "Little Miss Best Body",
+        "artist": "Kman 6ixx",
+        "album": "Little Ms.BestBody - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/c0/99/8cc09932-e38c-b523-e07d-e0c66cd32eb4/0.jpg/80x80bb.webp",
+        "length": "2:58"
+    },
+    {
+        "ranking": "39",
+        "title": "Turtle Race",
+        "artist": "Rod Wave",
+        "album": "Last Lap",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/37/da/5a37da14-dea1-6123-6553-4a24010657e8/196872534610.jpg/80x80bb.webp",
+        "length": "3:06"
+    },
+    {
+        "ranking": "40",
+        "title": "Unconscious",
+        "artist": "Kman 6ixx",
+        "album": "Rich Out - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/35/61/81/35618167-3b14-6b59-122e-08dc688143d6/0.jpg/80x80bb.webp",
+        "length": "2:46"
+    },
+    {
+        "ranking": "41",
+        "title": "Suicide Note",
+        "artist": "Masicka",
+        "album": "438",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c5/83/a4/c583a46e-286a-6590-6b21-ea2c29f10744/0.jpg/80x80bb.webp",
+        "length": "3:15"
+    },
+    {
+        "ranking": "42",
+        "title": "Expensive",
+        "artist": "Valiant",
+        "album": "Expensive - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/67/ef/ba/67efba92-a95d-8a3e-f26e-7751657948f4/197188257088.jpg/80x80bb.webp",
+        "length": "3:55"
+    },
+    {
+        "ranking": "43",
+        "title": "Wanted Luv",
+        "artist": "Chronic Law",
+        "album": "Wanted Luv - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/de/12/a5/de12a50f-4e37-c5aa-37a3-d0178405d593/195375507855_cover.jpg/80x80bb.webp",
+        "length": "2:52"
+    },
+    {
+        "ranking": "44",
+        "title": "Scars From War, Pt. II",
+        "artist": "Chronic Law",
+        "album": "Scars From War, Pt. II - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b9/07/4e/b9074ef2-d310-b478-951a-1af526c3dff0/198391551154.jpg/80x80bb.webp",
+        "length": "3:27"
+    },
+    {
+        "ranking": "45",
+        "title": "Passport Junkie",
+        "artist": "Rod Wave",
+        "album": "Last Lap",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/37/da/5a37da14-dea1-6123-6553-4a24010657e8/196872534610.jpg/80x80bb.webp",
+        "length": "2:27"
+    },
+    {
+        "ranking": "46",
+        "title": "Apply Pressure",
+        "artist": "Rod Wave",
+        "album": "Last Lap",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/37/da/5a37da14-dea1-6123-6553-4a24010657e8/196872534610.jpg/80x80bb.webp",
+        "length": "2:55"
+    },
+    {
+        "ranking": "47",
+        "title": "SPECIAL (feat. Dyani)",
+        "artist": "Armanii",
+        "album": "NO SIGNAL",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/19/eb/4119eb53-e80e-69ba-a8c1-bb8ac4f465a5/198861051238.png/80x80bb.webp",
+        "length": "3:20"
+    },
+    {
+        "ranking": "48",
+        "title": "People",
+        "artist": "Teejay",
+        "album": "People - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f8/44/69/f844695e-ed75-c4e7-6c27-e3e8627a6d12/0.jpg/80x80bb.webp",
+        "length": "3:20"
+    },
+    {
+        "ranking": "49",
+        "title": "Choppa",
+        "artist": "Byron Messia",
+        "album": "Choppa - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6d/9a/1d/6d9a1d84-5f7d-d7e9-4cbf-80c892821e6f/24UMGIM01167.rgb.jpg/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
+        "ranking": "50",
+        "title": "Reverse Time",
+        "artist": "Masicka",
+        "album": "Generation of Kings",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/53/f5/f7/53f5f78f-7ef0-96cf-4a2f-13f78ca784d2/23UM1IM57611.rgb.jpg/80x80bb.webp",
+        "length": "3:42"
+    },
+    {
+        "ranking": "51",
+        "title": "Sorry",
+        "artist": "Dejour",
+        "album": "Sorry - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c2/a8/ea/c2a8ea32-16e2-9fe3-3772-703b96a93668/artwork.jpg/80x80bb.webp",
+        "length": "2:31"
+    },
+    {
+        "ranking": "52",
+        "title": "Bad",
+        "artist": "Chronic Law",
+        "album": "Bad - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/19/cf/ba19cf02-7d86-1851-63e9-2ab0bf9d3102/0.jpg/80x80bb.webp",
+        "length": "2:33"
+    },
+    {
+        "ranking": "53",
+        "title": "IKATION",
+        "artist": "Kraff Gad",
+        "album": "IKATION - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/20/f4/6020f4c1-f374-3745-6720-c3e9e2ac51c9/artwork.jpg/80x80bb.webp",
+        "length": "3:03"
+    },
+    {
+        "ranking": "54",
+        "title": "Scared Love",
+        "artist": "Rod Wave",
+        "album": "Last Lap",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/37/da/5a37da14-dea1-6123-6553-4a24010657e8/196872534610.jpg/80x80bb.webp",
+        "length": "3:05"
+    },
+    {
+        "ranking": "55",
+        "title": "Nice & Easy",
+        "artist": "Alkaline",
+        "album": "Nice & Easy - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/48/3a/0e/483a0e18-f18b-e02b-075c-017fe3e0ac9c/848760048111.jpg/80x80bb.webp",
+        "length": "2:50"
+    },
+    {
+        "ranking": "56",
+        "title": "This Life (feat. Chronic Law)",
+        "artist": "Kman 6ixx",
+        "album": "Phoenix The Ep - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/40/11/30401120-e645-671e-9735-d09f30aaea9e/198672189588_KmanPhoenixFront.jpg/80x80bb.webp",
+        "length": "2:55"
+    },
+    {
+        "ranking": "57",
+        "title": "BIRDS OF A FEATHER",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "3:30"
+    },
+    {
+        "ranking": "58",
+        "title": "Never Mind",
+        "artist": "Rod Wave",
+        "album": "Last Lap",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/37/da/5a37da14-dea1-6123-6553-4a24010657e8/196872534610.jpg/80x80bb.webp",
+        "length": "2:50"
+    },
+    {
+        "ranking": "59",
+        "title": "The Best",
+        "artist": "Rod Wave",
+        "album": "Last Lap",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/37/da/5a37da14-dea1-6123-6553-4a24010657e8/196872534610.jpg/80x80bb.webp",
+        "length": "2:35"
+    },
+    {
+        "ranking": "60",
+        "title": "POTENTIAL",
+        "artist": "Armanii",
+        "album": "NO SIGNAL",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/19/eb/4119eb53-e80e-69ba-a8c1-bb8ac4f465a5/198861051238.png/80x80bb.webp",
+        "length": "2:23"
+    },
+    {
+        "ranking": "61",
+        "title": "WHAT IF ? (feat. Govana)",
+        "artist": "Armanii",
+        "album": "NO SIGNAL",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/19/eb/4119eb53-e80e-69ba-a8c1-bb8ac4f465a5/198861051238.png/80x80bb.webp",
+        "length": "3:52"
+    },
+    {
+        "ranking": "62",
+        "title": "Moments (feat. Stefflon Don)",
+        "artist": "Masicka",
+        "album": "438",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c5/83/a4/c583a46e-286a-6590-6b21-ea2c29f10744/0.jpg/80x80bb.webp",
+        "length": "3:03"
+    },
+    {
+        "ranking": "63",
+        "title": "Smallest Circle",
+        "artist": "Byron Messia",
+        "album": "No Love",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4f/65/15/4f65159c-285b-5a8d-fbd6-22c6e793a4ff/23UMGIM46699.rgb.jpg/80x80bb.webp",
+        "length": "3:03"
+    },
+    {
+        "ranking": "64",
+        "title": "California",
+        "artist": "Byron Messia",
+        "album": "No Love",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4f/65/15/4f65159c-285b-5a8d-fbd6-22c6e793a4ff/23UMGIM46699.rgb.jpg/80x80bb.webp",
+        "length": "3:38"
+    },
+    {
+        "ranking": "65",
+        "title": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR)",
+        "artist": "Popcaan",
+        "album": "FIXTAPE",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/4b/96/59/4b965946-d2ed-e0c0-0a47-18b7b2af606d/27019.jpg/80x80bb.webp",
+        "length": "4:19"
+    },
+    {
+        "ranking": "66",
+        "title": "No Lethal",
+        "artist": "Kman 6ixx",
+        "album": "Big League",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/60/4d/d3604dc5-0150-aaba-35eb-b320ee619c15/872132904644_bigleaguecover.jpg/80x80bb.webp",
+        "length": "2:58"
+    },
+    {
+        "ranking": "67",
+        "title": "Pain (feat. Popcaan)",
+        "artist": "Masicka",
+        "album": "438",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c5/83/a4/c583a46e-286a-6590-6b21-ea2c29f10744/0.jpg/80x80bb.webp",
+        "length": "3:27"
+    },
+    {
+        "ranking": "68",
+        "title": "Higher Life",
+        "artist": "Kranium",
+        "album": "Higher Life - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/a1/6f/43a16f83-fde2-5594-5b63-0d60e5fb1672/840200585804_cover.jpg/80x80bb.webp",
+        "length": "3:18"
+    },
+    {
+        "ranking": "69",
+        "title": "Baddest In The Room",
+        "artist": "Fridayy",
+        "album": "Baddest In The Room - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/46/d4/0246d497-10cb-e048-2eb7-27207844905e/24UMGIM61141.rgb.jpg/80x80bb.webp",
+        "length": "2:38"
+    },
+    {
+        "ranking": "70",
+        "title": "F**k Fame (feat. Lil Yachty & Lil Baby)",
+        "artist": "Rod Wave",
+        "album": "Last Lap",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/37/da/5a37da14-dea1-6123-6553-4a24010657e8/196872534610.jpg/80x80bb.webp",
+        "length": "3:03"
+    },
+    {
+        "ranking": "71",
+        "title": "Fall Fast in Love",
+        "artist": "Rod Wave",
+        "album": "Fall Fast in Love - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ec/de/90/ecde90d5-16bc-cce0-32f6-5ed1dc7e2219/196872443318.jpg/80x80bb.webp",
+        "length": "2:52"
+    },
+    {
+        "ranking": "72",
+        "title": "Federal Nightmares",
+        "artist": "Rod Wave",
+        "album": "Last Lap",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/37/da/5a37da14-dea1-6123-6553-4a24010657e8/196872534610.jpg/80x80bb.webp",
+        "length": "3:08"
+    },
+    {
+        "ranking": "73",
+        "title": "Jersey Numbers (feat. Rylo Rodriguez)",
+        "artist": "Rod Wave",
+        "album": "Last Lap",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/37/da/5a37da14-dea1-6123-6553-4a24010657e8/196872534610.jpg/80x80bb.webp",
+        "length": "3:49"
+    },
+    {
+        "ranking": "74",
+        "title": "Stars R Us",
+        "artist": "Masicka",
+        "album": "Generation of Kings",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/53/f5/f7/53f5f78f-7ef0-96cf-4a2f-13f78ca784d2/23UM1IM57611.rgb.jpg/80x80bb.webp",
+        "length": "3:41"
+    },
+    {
+        "ranking": "75",
+        "title": "Triumph",
+        "artist": "Masicka",
+        "album": "Generation of Kings",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/53/f5/f7/53f5f78f-7ef0-96cf-4a2f-13f78ca784d2/23UM1IM57611.rgb.jpg/80x80bb.webp",
+        "length": "4:11"
+    },
+    {
+        "ranking": "76",
+        "title": "Mercy (feat. Byron Messia)",
+        "artist": "Fridayy",
+        "album": "Fridayy",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/65/8b/1b/658b1bbc-9253-a2b0-d6dd-524752793bd5/23UMGIM92388.rgb.jpg/80x80bb.webp",
+        "length": "2:42"
+    },
+    {
+        "ranking": "77",
+        "title": "Angel Numbers / Ten Toes",
+        "artist": "Chris Brown",
+        "album": "11:11",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/39/25/4f/39254fd0-e839-c63f-abbe-7423d2c137bf/196871463010.jpg/80x80bb.webp",
+        "length": "5:06"
+    },
+    {
+        "ranking": "78",
+        "title": "Rolling Calf",
+        "artist": "Chronic Law",
+        "album": "Rolling Calf - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b5/79/c5/b579c5dc-13ea-ff8e-d807-04543b2b7271/196292328127.jpg/80x80bb.webp",
+        "length": "3:02"
+    },
+    {
+        "ranking": "79",
+        "title": "Heart Freeze",
+        "artist": "Chronic Law",
+        "album": "Heart Freeze - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4c/b9/f4/4cb9f40f-f6a4-efaf-b864-be305ec6c308/196925653022.jpg/80x80bb.webp",
+        "length": "3:12"
+    },
+    {
+        "ranking": "80",
+        "title": "Proud",
+        "artist": "Chronic Law",
+        "album": "Proud - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/22/e9/ad/22e9ad2f-f859-0f79-d73c-9a2b57ad33fa/0.jpg/80x80bb.webp",
+        "length": "2:54"
+    },
+    {
+        "ranking": "81",
+        "title": "Star Life",
+        "artist": "Imark",
+        "album": "Star Life - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/61/57/75/615775c8-472b-2f71-e6a9-ba08bc0f2b79/artwork.jpg/80x80bb.webp",
+        "length": "3:38"
+    },
+    {
+        "ranking": "82",
+        "title": "All Now",
+        "artist": "SQUASH",
+        "album": "All Now - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3d/df/26/3ddf2670-b524-370b-1baa-b99d88760d8a/198846082875.jpg/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
+        "ranking": "83",
+        "title": "Wicked (Raw)",
+        "artist": "AkaiiUsweet",
+        "album": "Wicked - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/af/d4/44/afd444ff-b996-3ca5-d2f8-16251e5cb2cf/859796163730_cover.jpg/80x80bb.webp",
+        "length": "3:52"
+    },
+    {
+        "ranking": "84",
+        "title": "BAD BAD",
+        "artist": "Armanii",
+        "album": "NO SIGNAL",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/19/eb/4119eb53-e80e-69ba-a8c1-bb8ac4f465a5/198861051238.png/80x80bb.webp",
+        "length": "2:52"
+    },
+    {
+        "ranking": "85",
+        "title": "Vent",
+        "artist": "Byron Messia",
+        "album": "No Love",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4f/65/15/4f65159c-285b-5a8d-fbd6-22c6e793a4ff/23UMGIM46699.rgb.jpg/80x80bb.webp",
+        "length": "3:26"
+    },
+    {
+        "ranking": "86",
+        "title": "Secret",
+        "artist": "Dejour",
+        "album": "Secret - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/40/17/a6/4017a6e5-6a60-bb1f-ecde-47e9d5ba2ed4/0.jpg/80x80bb.webp",
+        "length": "2:52"
+    },
+    {
+        "ranking": "87",
+        "title": "Moca",
+        "artist": "Byron Messia",
+        "album": "Moca - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/85/53/59/85535916-4cbe-bd4c-c60c-11a4f4dedd5a/0.jpg/80x80bb.webp",
+        "length": "3:03"
+    },
+    {
+        "ranking": "88",
+        "title": "Then You & Me",
+        "artist": "Vybz Kartel",
+        "album": "To Tanesha",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/aa/9b/74/aa9b74b2-1960-f894-70e0-a6b3c5055c72/dj.jkdgydjk.jpg/80x80bb.webp",
+        "length": "3:14"
+    },
+    {
+        "ranking": "89",
+        "title": "Wild n' Rich",
+        "artist": "450",
+        "album": "Wild n' Rich - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/72/7f/90727f13-9f47-b059-cf3d-0fc066391ab0/0.jpg/80x80bb.webp",
+        "length": "2:47"
+    },
+    {
+        "ranking": "90",
+        "title": "Mirage",
+        "artist": "Alkaline",
+        "album": "Mirage - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/2f/b7/b0/2fb7b07e-5876-d5eb-a75b-04413bb3ff70/192641024474_Cover.jpg/80x80bb.webp",
+        "length": "3:03"
+    },
+    {
+        "ranking": "91",
+        "title": "Black Rain",
+        "artist": "Kman 6ixx",
+        "album": "Black Rain - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ae/7a/36/ae7a364d-5409-1a01-017a-d6f8d51c5d31/197802973042_KManIxxStill.jpg/80x80bb.webp",
+        "length": "2:18"
+    },
+    {
+        "ranking": "92",
+        "title": "Pitbull",
+        "artist": "Hi Light",
+        "album": "Pitbull - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/46/f9/7e/46f97e8c-f189-c3af-38ae-c787915c2fc9/0.jpg/80x80bb.webp",
+        "length": "3:00"
+    },
+    {
+        "ranking": "93",
+        "title": "Lumbah",
+        "artist": "Valiant",
+        "album": "Lumbah - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/53/78/8b/53788b72-eee8-6635-0a9c-c15b207ff7b0/198391128370.jpg/80x80bb.webp",
+        "length": "2:21"
+    },
+    {
+        "ranking": "94",
+        "title": "Gogo",
+        "artist": "RajahWild",
+        "album": "Gogo - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2a/33/75/2a3375b4-ee9d-3675-d775-bff24ac6fe97/197190628319.jpg/80x80bb.webp",
+        "length": "2:36"
+    },
+    {
+        "ranking": "95",
+        "title": "When It Comes To You",
+        "artist": "Fridayy",
+        "album": "When It Comes To You - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ad/32/74/ad32748c-daf4-0e47-1f1c-124a484c2522/23UMGIM74845.rgb.jpg/80x80bb.webp",
+        "length": "2:48"
+    },
+    {
+        "ranking": "96",
+        "title": "Dungeon",
+        "artist": "Malie Donn",
+        "album": "Dungeon - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e0/98/07/e09807c9-4e01-c8b0-c950-bf603332eb00/197189683930.jpg/80x80bb.webp",
+        "length": "2:57"
+    },
+    {
+        "ranking": "97",
+        "title": "Mad Out",
+        "artist": "Valiant",
+        "album": "Mad Out - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5f/48/5d/5f485d23-a9a6-d49d-4e07-145cc8c9dc52/196871474177.jpg/80x80bb.webp",
+        "length": "2:33"
+    },
+    {
+        "ranking": "98",
+        "title": "Keep Up",
+        "artist": "Plumpy Boss",
+        "album": "Keep Up - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9a/77/a2/9a77a217-6217-b649-ad8e-981a082a11be/5571.jpg/80x80bb.webp",
+        "length": "3:01"
+    },
+    {
+        "ranking": "99",
+        "title": "Sinna",
+        "artist": "Kraff Gad",
+        "album": "Sinna - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/fb/d7/35/fbd73577-aa9d-4380-4a5c-53d64fdc64e2/196925624077.jpg/80x80bb.webp",
+        "length": "4:00"
+    },
+    {
+        "ranking": "100",
+        "title": "Spread Thin",
+        "artist": "Mariah the Scientist",
+        "album": "Buckles Laboratories Presents: The Intermission - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/46/cf/61/46cf610c-c625-8c7a-fa88-25ca2a60caf0/886449948666.jpg/80x80bb.webp",
+        "length": "3:22"
+    }
+]

@@ -1,0 +1,802 @@
+[
+    {
+        "ranking": "1",
+        "title": "Tu Boda",
+        "artist": "Óscar Maydon",
+        "album": "Tu Boda - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/f4/2b/e0f42b78-81c3-81a3-aefb-bad4927c21c7/196872471342.jpg/80x80bb.webp",
+        "length": "3:45"
+    },
+    {
+        "ranking": "2",
+        "title": "DEGENERE (feat. benny blanco)",
+        "artist": "Myke Towers",
+        "album": "LA PANTERA NEGRA (DELUXE)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/bd/f0/76bdf003-0dd5-1ef9-3a77-92d1b15600d7/5021732518545.jpg/80x80bb.webp",
+        "length": "2:10"
+    },
+    {
+        "ranking": "3",
+        "title": "SORRY 4 THAT MUCH",
+        "artist": "Feid",
+        "album": "SORRY 4 THAT MUCH - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9c/20/ab/9c20ab01-62e6-239c-fcce-79dc1d711ac1/24UMGIM61720.rgb.jpg/80x80bb.webp",
+        "length": "3:27"
+    },
+    {
+        "ranking": "4",
+        "title": "SE ME OLVIDA",
+        "artist": "Maisak",
+        "album": "SE ME OLVIDA - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/32/10/6e/32106ef5-e548-6997-3ac5-f1d8351740cb/24UMGIM91467.rgb.jpg/80x80bb.webp",
+        "length": "3:45"
+    },
+    {
+        "ranking": "5",
+        "title": "Si Antes Te Hubiera Conocido",
+        "artist": "KAROL G",
+        "album": "Si Antes Te Hubiera Conocido - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/60/94/a060947c-54d8-0fad-c558-eed12600224c/24UMGIM62705.rgb.jpg/80x80bb.webp",
+        "length": "3:15"
+    },
+    {
+        "ranking": "6",
+        "title": "LUNA",
+        "artist": "Feid",
+        "album": "FERXXOCALIPSIS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7c/54/aa/7c54aa94-9ae3-4b80-7b23-8b23955dc3a2/23UM1IM60703.rgb.jpg/80x80bb.webp",
+        "length": "3:16"
+    },
+    {
+        "ranking": "7",
+        "title": "Mírame",
+        "artist": "Blessd",
+        "album": "Mírame - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/b6/80/40b68000-f1d2-7169-4eeb-029f90e37c82/5021732285225.jpg/80x80bb.webp",
+        "length": "2:37"
+    },
+    {
+        "ranking": "8",
+        "title": "Q U E V A S H A C E R H O Y ?",
+        "artist": "Omar Courtz",
+        "album": "PRIMERA MUSA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/0f/48/300f48fd-f560-8aaf-17c1-00a4531ad61a/198588847695.jpg/80x80bb.webp",
+        "length": "3:44"
+    },
+    {
+        "ranking": "9",
+        "title": "Brickell",
+        "artist": "Feid",
+        "album": "MANIFESTING 20-05 - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/48/03/cf480322-e907-87b3-e933-217d2a73892e/24UMGIM42176.rgb.jpg/80x80bb.webp",
+        "length": "3:00"
+    },
+    {
+        "ranking": "10",
+        "title": "Nueva Era",
+        "artist": "Duki",
+        "album": "AMERI",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/35/73/563573c5-f3a7-0189-1fea-4cd25c6cb2d0/198846671703.jpg/80x80bb.webp",
+        "length": "3:37"
+    },
+    {
+        "ranking": "11",
+        "title": "Doblexxó",
+        "artist": "J Balvin",
+        "album": "Rayo",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/74/f0/93/74f0939f-1c77-9cfd-9d60-3c8ce91e77ea/24UMGIM64063.rgb.jpg/80x80bb.webp",
+        "length": "2:56"
+    },
+    {
+        "ranking": "12",
+        "title": "Moscow Mule",
+        "artist": "Bad Bunny",
+        "album": "Un Verano Sin Ti",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
+        "length": "4:05"
+    },
+    {
+        "ranking": "13",
+        "title": "Die With A Smile",
+        "artist": "Lady Gaga",
+        "album": "Die With A Smile - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
+        "length": "4:11"
+    },
+    {
+        "ranking": "14",
+        "title": "Tití Me Preguntó",
+        "artist": "Bad Bunny",
+        "album": "Un Verano Sin Ti",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
+        "length": "4:03"
+    },
+    {
+        "ranking": "15",
+        "title": "LA CANCIÓN",
+        "artist": "J Balvin",
+        "album": "OASIS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/32/74/7732746d-25e5-baae-b921-bad4a07d87b1/19UMGIM55524.rgb.jpg/80x80bb.webp",
+        "length": "4:02"
+    },
+    {
+        "ranking": "16",
+        "title": "La Santa",
+        "artist": "Bad Bunny",
+        "album": "YHLQMDLG",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8c/0f/81/8c0f81f2-9f10-5e3d-b9de-5961a73e8e52/195081078724.jpg/80x80bb.webp",
+        "length": "3:26"
+    },
+    {
+        "ranking": "17",
+        "title": "Vete",
+        "artist": "Bad Bunny",
+        "album": "YHLQMDLG",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8c/0f/81/8c0f81f2-9f10-5e3d-b9de-5961a73e8e52/195081078724.jpg/80x80bb.webp",
+        "length": "3:12"
+    },
+    {
+        "ranking": "18",
+        "title": "PERRO NEGRO",
+        "artist": "Bad Bunny",
+        "album": "nadie sabe lo que va a pasar mañana",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/13/21/22/132122a1-2ef2-381b-94b6-7b9449dcaa4a/197190137897.jpg/80x80bb.webp",
+        "length": "2:42"
+    },
+    {
+        "ranking": "19",
+        "title": "Soltera (W Sound 01)",
+        "artist": "W Sound",
+        "album": "Soltera (W Sound 01) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/4f/9a/724f9aae-c509-6d90-b767-0455435e0934/5021732457028.jpg/80x80bb.webp",
+        "length": "2:22"
+    },
+    {
+        "ranking": "20",
+        "title": "Gata Only",
+        "artist": "FloyyMenor",
+        "album": "Gata Only - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ca/4e/0f/ca4e0f11-2cbc-7aec-b2e4-53f5fac7cb0e/198309012715-copy-6dfc57c0.png/80x80bb.webp",
+        "length": "3:42"
+    },
+    {
+        "ranking": "21",
+        "title": "ADIVINO",
+        "artist": "Myke Towers",
+        "album": "ADIVINO - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6c/79/1e/6c791e10-d063-a4ad-45d7-047581c289cb/5021732285218.jpg/80x80bb.webp",
+        "length": "4:38"
+    },
+    {
+        "ranking": "22",
+        "title": "AMARGURA",
+        "artist": "KAROL G",
+        "album": "MAÑANA SERÁ BONITO",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9b/01/44/9b0144e6-21ae-b53f-2b25-ef6c594b18a3/22UM1IM38716.rgb.jpg/80x80bb.webp",
+        "length": "2:50"
+    },
+    {
+        "ranking": "23",
+        "title": "LA INOCENTE",
+        "artist": "Mora",
+        "album": "MICRODOSIS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8e/41/85/8e418597-e72f-9998-a0d1-1cd40f55d6e9/196626706898.jpg/80x80bb.webp",
+        "length": "3:22"
+    },
+    {
+        "ranking": "24",
+        "title": "Hey Mor (feat. Feid)",
+        "artist": "Ozuna",
+        "album": "OzuTochi",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/46/b1/35/46b135cc-592e-8b51-1e91-ac955d4200a0/196925396240.jpg/80x80bb.webp",
+        "length": "3:16"
+    },
+    {
+        "ranking": "25",
+        "title": "DILUVIO",
+        "artist": "Rauw Alejandro",
+        "album": "PLAYA SATURNO",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d2/1a/63/d21a6376-80b9-ce89-e4f3-af3f0b70acf9/196871287098.jpg/80x80bb.webp",
+        "length": "3:17"
+    },
+    {
+        "ranking": "26",
+        "title": "Pa' Que La Pases Bien",
+        "artist": "Arcángel",
+        "album": "El Fenómeno",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/22/4e/72/224e725e-aa32-9332-626c-98ea931d984e/898717002017_art.jpg/80x80bb.webp",
+        "length": "3:34"
+    },
+    {
+        "ranking": "27",
+        "title": "Efecto",
+        "artist": "Bad Bunny",
+        "album": "Un Verano Sin Ti",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
+        "length": "3:33"
+    },
+    {
+        "ranking": "28",
+        "title": "Soltera",
+        "artist": "Shakira",
+        "album": "Soltera - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/e4/a5/cbe4a5ca-085e-e3ef-eda5-d521ee55bb4b/196872485844.jpg/80x80bb.webp",
+        "length": "3:34"
+    },
+    {
+        "ranking": "29",
+        "title": "NEL",
+        "artist": "Fuerza Regida",
+        "album": "PERO NO TE ENAMORES",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/95/0f/24950f19-f5dd-696b-8295-df4f780a0d9a/196872326017.jpg/80x80bb.webp",
+        "length": "2:29"
+    },
+    {
+        "ranking": "30",
+        "title": "Ojitos Lindos",
+        "artist": "Bad Bunny",
+        "album": "Un Verano Sin Ti",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
+        "length": "4:18"
+    },
+    {
+        "ranking": "31",
+        "title": "QLONA",
+        "artist": "KAROL G",
+        "album": "MAÑANA SERÁ BONITO (BICHOTA SEASON)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/56/45/46/5645464b-7fad-b6ea-6c15-9dbf754a8d83/23UMGIM68667.rgb.jpg/80x80bb.webp",
+        "length": "2:52"
+    },
+    {
+        "ranking": "32",
+        "title": "APT.",
+        "artist": "ROSÉ",
+        "album": "APT. - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
+        "ranking": "33",
+        "title": "SI NO ES CONTIGO (REMIX)",
+        "artist": "Cris Mj",
+        "album": "SI NO ES CONTIGO (REMIX) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/91/fc/bc/91fcbc2c-2920-e950-907c-eac90b45c828/198846710273.jpg/80x80bb.webp",
+        "length": "4:14"
+    },
+    {
+        "ranking": "34",
+        "title": "Yonaguni",
+        "artist": "Bad Bunny",
+        "album": "Yonaguni - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b6/12/da/b612daba-6c68-c2ab-7492-fb2e079074d5/196006829308.jpg/80x80bb.webp",
+        "length": "3:26"
+    },
+    {
+        "ranking": "35",
+        "title": "Orion",
+        "artist": "Boza",
+        "album": "Orion - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c6/20/8a/c6208a06-d26d-27c1-317f-a49107a0895a/196872039450.jpg/80x80bb.webp",
+        "length": "4:00"
+    },
+    {
+        "ranking": "36",
+        "title": "Prohibidox",
+        "artist": "Feid",
+        "album": "FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/54/90/df/5490dfaf-d6a4-579c-f6e4-81fd59f6ae3f/22UM1IM04831.rgb.jpg/80x80bb.webp",
+        "length": "2:46"
+    },
+    {
+        "ranking": "37",
+        "title": "LA FALDA",
+        "artist": "Myke Towers",
+        "album": "LVEU: VIVE LA TUYA...NO LA MIA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fd/f9/40/fdf9402c-95ae-8152-17b0-984649c6172a/5054197903205.jpg/80x80bb.webp",
+        "length": "2:54"
+    },
+    {
+        "ranking": "38",
+        "title": "UWAIE",
+        "artist": "Kapo",
+        "album": "UWAIE - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4d/e8/03/4de80347-86da-bed6-47c4-1478b3aa46fa/196872367263.jpg/80x80bb.webp",
+        "length": "2:52"
+    },
+    {
+        "ranking": "39",
+        "title": "CHORRITO PA LAS ANIMAS",
+        "artist": "Feid",
+        "album": "SIXDO - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/cc/f5/7f/ccf57f57-249c-f3bc-ada4-d55315640999/22UM1IM37587.rgb.jpg/80x80bb.webp",
+        "length": "2:48"
+    },
+    {
+        "ranking": "40",
+        "title": "DÁKITI",
+        "artist": "Bad Bunny",
+        "album": "EL ÚLTIMO TOUR DEL MUNDO",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/64/70/1c/64701cff-71ed-912f-ce62-71d409f5e6ad/195497640560.jpg/80x80bb.webp",
+        "length": "3:25"
+    },
+    {
+        "ranking": "41",
+        "title": "EL LOKERÓN",
+        "artist": "Tito Double P",
+        "album": "INCÓMODO",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/b1/c5/d6b1c5e2-104d-c427-465e-fea8dfe663d4/198588874653.jpg/80x80bb.webp",
+        "length": "2:25"
+    },
+    {
+        "ranking": "42",
+        "title": "BIRDS OF A FEATHER",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "3:30"
+    },
+    {
+        "ranking": "43",
+        "title": "Qué Onda",
+        "artist": "Calle 24",
+        "album": "Qué Onda - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2c/32/72/2c327216-8562-911a-f6e8-5c268f55afd6/717340552815_cover.jpg/80x80bb.webp",
+        "length": "3:11"
+    },
+    {
+        "ranking": "44",
+        "title": "Me Porto Bonito",
+        "artist": "Bad Bunny",
+        "album": "Un Verano Sin Ti",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
+        "length": "2:58"
+    },
+    {
+        "ranking": "45",
+        "title": "LOKERA",
+        "artist": "Rauw Alejandro",
+        "album": "SATURNO",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/99/0f/ef/990fefcb-db12-0cf0-90f9-44115c095c73/196589764720.jpg/80x80bb.webp",
+        "length": "3:17"
+    },
+    {
+        "ranking": "46",
+        "title": "Yandel 150",
+        "artist": "Yandel",
+        "album": "Yandel 150 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/6c/73/8f/6c738fd4-53cd-36f1-c8fe-0f20ba2f31d8/197187733972.jpg/80x80bb.webp",
+        "length": "3:36"
+    },
+    {
+        "ranking": "47",
+        "title": "Ferxxo 100",
+        "artist": "Feid",
+        "album": "FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/54/90/df/5490dfaf-d6a4-579c-f6e4-81fd59f6ae3f/22UM1IM04831.rgb.jpg/80x80bb.webp",
+        "length": "2:47"
+    },
+    {
+        "ranking": "48",
+        "title": "Classy 101",
+        "artist": "Feid",
+        "album": "Classy 101 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/31/ee/51/31ee513b-fed4-2827-ee30-075b48c33e5d/23UMGIM36009.rgb.jpg/80x80bb.webp",
+        "length": "3:15"
+    },
+    {
+        "ranking": "49",
+        "title": "DONDE SE APRENDE A QUERER?",
+        "artist": "Mora",
+        "album": "ESTRELLA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1c/aa/25/1caa25e7-2a5a-8091-4d7a-bd39a0549834/197189639050.jpg/80x80bb.webp",
+        "length": "2:24"
+    },
+    {
+        "ranking": "50",
+        "title": "Santa",
+        "artist": "Rvssian",
+        "album": "Santa - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/3b/65/783b6546-bf40-4583-1064-1d4946a82f50/196871978293.jpg/80x80bb.webp",
+        "length": "3:13"
+    },
+    {
+        "ranking": "51",
+        "title": "Se Preparó",
+        "artist": "Ozuna",
+        "album": "Odisea",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/df/7c/1b/df7c1b32-0fca-94f0-866b-ba89e420ca04/697691884103.jpg/80x80bb.webp",
+        "length": "3:08"
+    },
+    {
+        "ranking": "52",
+        "title": "Callaita",
+        "artist": "Bad Bunny",
+        "album": "Callaita - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a8/5d/7c/a85d7c43-777a-f2b7-5abc-1e4d59d8fe7c/193483903545.jpg/80x80bb.webp",
+        "length": "4:10"
+    },
+    {
+        "ranking": "53",
+        "title": "11 PM",
+        "artist": "Maluma",
+        "album": "11:11",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/09/c5/c2/09c5c2c4-b022-bcbe-a3ab-7e85e1d7084d/886447616321.jpg/80x80bb.webp",
+        "length": "2:55"
+    },
+    {
+        "ranking": "54",
+        "title": "MOJABI GHOST",
+        "artist": "Tainy",
+        "album": "DATA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ad/da/1f/adda1f4a-f2d3-fe31-c965-e0753d2990ad/196922654572_Cover.jpg/80x80bb.webp",
+        "length": "3:52"
+    },
+    {
+        "ranking": "55",
+        "title": "Ohnana",
+        "artist": "Kapo",
+        "album": "Ohnana - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/26/da/4426daa2-4b70-91d7-cb18-6bb219d176c5/196872167030.jpg/80x80bb.webp",
+        "length": "2:36"
+    },
+    {
+        "ranking": "56",
+        "title": "Normal",
+        "artist": "Feid",
+        "album": "FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/54/90/df/5490dfaf-d6a4-579c-f6e4-81fd59f6ae3f/22UM1IM04831.rgb.jpg/80x80bb.webp",
+        "length": "2:52"
+    },
+    {
+        "ranking": "57",
+        "title": "Cúrame",
+        "artist": "Rauw Alejandro",
+        "album": "VICE VERSA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/58/13/c3/5813c326-a7fa-f792-77e1-8310d9c80742/886449738724.jpg/80x80bb.webp",
+        "length": "2:44"
+    },
+    {
+        "ranking": "58",
+        "title": "Borró Cassette",
+        "artist": "Maluma",
+        "album": "Pretty Boy, Dirty Boy",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/05/17/51/051751c2-d6cd-c466-9e0d-c185d8e22897/886445195026.jpg/80x80bb.webp",
+        "length": "3:27"
+    },
+    {
+        "ranking": "59",
+        "title": "Todo De Ti",
+        "artist": "Rauw Alejandro",
+        "album": "Todo De Ti - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/24/d6/4d/24d64d11-dcba-a475-7a0f-87fbef4c6ba6/886449222681.jpg/80x80bb.webp",
+        "length": "3:19"
+    },
+    {
+        "ranking": "60",
+        "title": "Después De La 1",
+        "artist": "Cris Mj",
+        "album": "MJ - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/2a/e7/742ae73f-8357-bdf3-bada-769796f2ef8a/198846286426.jpg/80x80bb.webp",
+        "length": "2:57"
+    },
+    {
+        "ranking": "61",
+        "title": "Tuyo",
+        "artist": "Mora",
+        "album": "Primer Día de Clases",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/56/4b/16/564b1602-3cdf-04ad-d0a0-b47f63656663/196006084233.jpg/80x80bb.webp",
+        "length": "4:29"
+    },
+    {
+        "ranking": "62",
+        "title": "LALA",
+        "artist": "Myke Towers",
+        "album": "LA VIDA ES UNA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/25/11/48/251148e6-c933-0ff3-a9f4-f95c0dd41c04/5054197502804.jpg/80x80bb.webp",
+        "length": "3:17"
+    },
+    {
+        "ranking": "63",
+        "title": "El malo",
+        "artist": "Aventura",
+        "album": "The Last",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/82/a7/0d/82a70d84-9617-2525-c39b-c72c1942745a/dj.hxcnslvw.jpg/80x80bb.webp",
+        "length": "3:58"
+    },
+    {
+        "ranking": "64",
+        "title": "La Bachata",
+        "artist": "Manuel Turizo",
+        "album": "La Bachata - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/df/70/11/df701101-9f0f-3c43-ff6d-2186235d7e9c/196589129123.jpg/80x80bb.webp",
+        "length": "2:42"
+    },
+    {
+        "ranking": "65",
+        "title": "Vida De Rock",
+        "artist": "Duki",
+        "album": "AMERI",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/35/73/563573c5-f3a7-0189-1fea-4cd25c6cb2d0/198846671703.jpg/80x80bb.webp",
+        "length": "3:01"
+    },
+    {
+        "ranking": "66",
+        "title": "Adicto",
+        "artist": "Tainy",
+        "album": "Adicto - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/bc/86/c3/bc86c389-d022-cd6e-d8d9-96981621e507/19UMGIM60949.rgb.jpg/80x80bb.webp",
+        "length": "4:30"
+    },
+    {
+        "ranking": "67",
+        "title": "Melissa & Julissa",
+        "artist": "DJ Lalo",
+        "album": "Melissa & Julissa - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ca/20/a7/ca20a7e2-a86f-83c1-83f4-d09e141d6875/617513914078_cover.jpg/80x80bb.webp",
+        "length": "4:16"
+    },
+    {
+        "ranking": "68",
+        "title": "NO ME QUIERO CASAR",
+        "artist": "Bad Bunny",
+        "album": "nadie sabe lo que va a pasar mañana",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/13/21/22/132122a1-2ef2-381b-94b6-7b9449dcaa4a/197190137897.jpg/80x80bb.webp",
+        "length": "3:45"
+    },
+    {
+        "ranking": "69",
+        "title": "El Cielo",
+        "artist": "Sky Rompiendo",
+        "album": "El Cielo - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/60/08/cd/6008cd39-cd68-4fad-5d8f-dc233e36bd3d/196871152099.jpg/80x80bb.webp",
+        "length": "3:11"
+    },
+    {
+        "ranking": "70",
+        "title": "LEJOS DEL CIELO",
+        "artist": "Rauw Alejandro",
+        "album": "SATURNO",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/99/0f/ef/990fefcb-db12-0cf0-90f9-44115c095c73/196589764720.jpg/80x80bb.webp",
+        "length": "3:28"
+    },
+    {
+        "ranking": "71",
+        "title": "Dile",
+        "artist": "Don Omar",
+        "album": "The Last Don",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/71/44/ab/7144ab43-17de-e8a2-fa09-21f333ec3485/06UMGIM15438.rgb.jpg/80x80bb.webp",
+        "length": "3:24"
+    },
+    {
+        "ranking": "72",
+        "title": "PROVENZA",
+        "artist": "KAROL G",
+        "album": "PROVENZA - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4b/91/32/4b91325f-a1ae-05d8-523d-011549d20a42/22UMGIM40133.rgb.jpg/80x80bb.webp",
+        "length": "3:29"
+    },
+    {
+        "ranking": "73",
+        "title": "Frente al Mar",
+        "artist": "Beéle",
+        "album": "Frente al Mar - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/5e/1d/075e1d44-02ef-6a69-433d-ee3f68d1dd23/196872443325.jpg/80x80bb.webp",
+        "length": "2:45"
+    },
+    {
+        "ranking": "74",
+        "title": "Azul",
+        "artist": "J Balvin",
+        "album": "Colores",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ae/b3/66/aeb36667-f9b2-c455-c3fc-a53bbd5ec4c1/20UMGIM10542.rgb.jpg/80x80bb.webp",
+        "length": "3:25"
+    },
+    {
+        "ranking": "75",
+        "title": "SI SABE FERXXO",
+        "artist": "Blessd",
+        "album": "SI SABE",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4d/40/9c/4d409cb7-d6c7-bf35-69a2-76d093ab8804/5054197938894.jpg/80x80bb.webp",
+        "length": "2:32"
+    },
+    {
+        "ranking": "76",
+        "title": "La Jumpa",
+        "artist": "Arcángel",
+        "album": "SR. SANTOS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c2/48/5a/c2485a96-58d4-5874-c9d6-cf479c06020b/197187400171.jpg/80x80bb.webp",
+        "length": "4:15"
+    },
+    {
+        "ranking": "77",
+        "title": "Holanda",
+        "artist": "JHAYCO",
+        "album": "Holanda - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a6/c6/ff/a6c6ff16-b92a-72f6-600c-112d69305cd6/23UMGIM80474.rgb.jpg/80x80bb.webp",
+        "length": "3:51"
+    },
+    {
+        "ranking": "78",
+        "title": "Chillax (feat. Ky-Mani Marley)",
+        "artist": "Farruko",
+        "album": "Visionary",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b6/31/b2/b631b2ee-70e7-a59a-cf28-bb939873d013/mzm.qofgvzhf.jpg/80x80bb.webp",
+        "length": "3:17"
+    },
+    {
+        "ranking": "79",
+        "title": "WHERE SHE GOES",
+        "artist": "Bad Bunny",
+        "album": "WHERE SHE GOES - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ad/b7/0e/adb70ef8-c456-3b31-136c-450d196d7cda/197188909819.jpg/80x80bb.webp",
+        "length": "3:51"
+    },
+    {
+        "ranking": "80",
+        "title": "Por un Segundo",
+        "artist": "Aventura",
+        "album": "The Last",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/82/a7/0d/82a70d84-9617-2525-c39b-c72c1942745a/dj.hxcnslvw.jpg/80x80bb.webp",
+        "length": "4:15"
+    },
+    {
+        "ranking": "81",
+        "title": "Según Quién",
+        "artist": "Maluma",
+        "album": "Don Juan",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/bb/56/17bb564e-a9a9-f533-e68a-be28cde81c94/196871359399.jpg/80x80bb.webp",
+        "length": "2:22"
+    },
+    {
+        "ranking": "82",
+        "title": "Luces Tenues",
+        "artist": "Anuel AA",
+        "album": "Luces Tenues - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0e/79/0c/0e790cc8-c67d-6e06-cc92-4137c9a8afe4/197190645262.jpg/80x80bb.webp",
+        "length": "3:10"
+    },
+    {
+        "ranking": "83",
+        "title": "Me Rehúso",
+        "artist": "Danny Ocean",
+        "album": "Me Rehúso - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/38/8c/26/388c26af-a2d3-bb9c-391d-bf02e3b2319c/190296949630.jpg/80x80bb.webp",
+        "length": "3:25"
+    },
+    {
+        "ranking": "84",
+        "title": "En Otra Vida",
+        "artist": "Yami Safdie",
+        "album": "En Otra Vida - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/93/f9/9b93f94e-a4b6-353c-8bd9-39789b4cffce/5021732509734.jpg/80x80bb.webp",
+        "length": "2:33"
+    },
+    {
+        "ranking": "85",
+        "title": "Ferxxoko",
+        "artist": "Joyce Santana",
+        "album": "Ferxxoko - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bc/6d/dc/bc6ddcba-39c6-83fd-bef3-ef557c312407/198846695709.jpg/80x80bb.webp",
+        "length": "2:57"
+    },
+    {
+        "ranking": "86",
+        "title": "Dile Al Amor",
+        "artist": "Aventura",
+        "album": "The Last",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/82/a7/0d/82a70d84-9617-2525-c39b-c72c1942745a/dj.hxcnslvw.jpg/80x80bb.webp",
+        "length": "3:49"
+    },
+    {
+        "ranking": "87",
+        "title": "Espresso",
+        "artist": "Sabrina Carpenter",
+        "album": "Espresso - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
+        "length": "2:55"
+    },
+    {
+        "ranking": "88",
+        "title": "Feliz Cumpleaños Ferxxo",
+        "artist": "Feid",
+        "album": "FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/54/90/df/5490dfaf-d6a4-579c-f6e4-81fd59f6ae3f/22UM1IM04831.rgb.jpg/80x80bb.webp",
+        "length": "2:36"
+    },
+    {
+        "ranking": "89",
+        "title": "Hardaway",
+        "artist": "Duki",
+        "album": "AMERI",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/35/73/563573c5-f3a7-0189-1fea-4cd25c6cb2d0/198846671703.jpg/80x80bb.webp",
+        "length": "3:36"
+    },
+    {
+        "ranking": "90",
+        "title": "Buscarte Lejos",
+        "artist": "Duki",
+        "album": "AMERI",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/35/73/563573c5-f3a7-0189-1fea-4cd25c6cb2d0/198846671703.jpg/80x80bb.webp",
+        "length": "3:14"
+    },
+    {
+        "ranking": "91",
+        "title": "Desenfocao'",
+        "artist": "Rauw Alejandro",
+        "album": "VICE VERSA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/58/13/c3/5813c326-a7fa-f792-77e1-8310d9c80742/886449738724.jpg/80x80bb.webp",
+        "length": "2:50"
+    },
+    {
+        "ranking": "92",
+        "title": "Ameri",
+        "artist": "Duki",
+        "album": "AMERI",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/35/73/563573c5-f3a7-0189-1fea-4cd25c6cb2d0/198846671703.jpg/80x80bb.webp",
+        "length": "3:19"
+    },
+    {
+        "ranking": "93",
+        "title": "DOS DÍAS",
+        "artist": "Tito Double P",
+        "album": "INCÓMODO",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/b1/c5/d6b1c5e2-104d-c427-465e-fea8dfe663d4/198588874653.jpg/80x80bb.webp",
+        "length": "2:33"
+    },
+    {
+        "ranking": "94",
+        "title": "Monastery",
+        "artist": "Ryan Castro",
+        "album": "Monastery - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/55/3b/a2/553ba2e5-0bce-b326-dca0-df49d50c2a2c/21UM1IM40148.rgb.jpg/80x80bb.webp",
+        "length": "3:08"
+    },
+    {
+        "ranking": "95",
+        "title": "offline",
+        "artist": "Young Miko",
+        "album": "att. (Apple Music Edition)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/5f/ea/6b5fea68-2476-d5ef-6fde-53ccc998ede3/196922877384_Cover.jpg/80x80bb.webp",
+        "length": "3:21"
+    },
+    {
+        "ranking": "96",
+        "title": "Hawái",
+        "artist": "Maluma",
+        "album": "Hawái - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6f/4a/ab/6f4aab37-196a-3df8-a584-baf24772ed59/886448614913.jpg/80x80bb.webp",
+        "length": "3:20"
+    },
+    {
+        "ranking": "97",
+        "title": "Girl",
+        "artist": "Myke Towers",
+        "album": "Easy Money Baby",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/76/63/86/76638602-1e1a-5656-20de-442dfb6e2b6f/194491908096.jpg/80x80bb.webp",
+        "length": "3:06"
+    },
+    {
+        "ranking": "98",
+        "title": "MONACO",
+        "artist": "Bad Bunny",
+        "album": "nadie sabe lo que va a pasar mañana",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/13/21/22/132122a1-2ef2-381b-94b6-7b9449dcaa4a/197190137897.jpg/80x80bb.webp",
+        "length": "4:27"
+    },
+    {
+        "ranking": "99",
+        "title": "Déjame Entrar",
+        "artist": "Rauw Alejandro",
+        "album": "Déjame Entrar - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/75/1a/80751a50-a14c-0a55-35e4-bc8ca2411820/196872272987.jpg/80x80bb.webp",
+        "length": "4:14"
+    },
+    {
+        "ranking": "100",
+        "title": "Me Acostumbré (feat. Bad Bunny)",
+        "artist": "Arcángel",
+        "album": "Me Acostumbré (feat. Bad Bunny) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c4/ec/f2/c4ecf24e-2b24-b71f-a885-a6293f830434/654827031824_cover.jpg/80x80bb.webp",
+        "length": "4:23"
+    }
+]
