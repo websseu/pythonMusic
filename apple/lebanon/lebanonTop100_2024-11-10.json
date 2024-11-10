@@ -1,0 +1,802 @@
+[
+    {
+        "ranking": "1",
+        "title": "That’s So True",
+        "artist": "Gracie Abrams",
+        "album": "The Secret of Us (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
+        "length": "2:46"
+    },
+    {
+        "ranking": "2",
+        "title": "Timeless",
+        "artist": "The Weeknd",
+        "album": "Timeless - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
+        "length": "4:16"
+    },
+    {
+        "ranking": "3",
+        "title": "Die With A Smile",
+        "artist": "Lady Gaga",
+        "album": "Die With A Smile - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
+        "length": "4:11"
+    },
+    {
+        "ranking": "4",
+        "title": "São Paulo",
+        "artist": "The Weeknd",
+        "album": "São Paulo - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/4a/64/934a64d3-2665-72ef-e5b4-29d61fd3707a/24UM1IM21420.rgb.jpg/80x80bb.webp",
+        "length": "5:01"
+    },
+    {
+        "ranking": "5",
+        "title": "WILDFLOWER",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "4:21"
+    },
+    {
+        "ranking": "6",
+        "title": "BIRDS OF A FEATHER",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "3:30"
+    },
+    {
+        "ranking": "7",
+        "title": "I Love You, I'm Sorry",
+        "artist": "Gracie Abrams",
+        "album": "The Secret of Us",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/9a/a7/529aa76f-5d60-cd81-9eb0-0eb521de861d/24UMGIM43968.rgb.jpg/80x80bb.webp",
+        "length": "2:37"
+    },
+    {
+        "ranking": "8",
+        "title": "I Adore You (feat. Daecolm)",
+        "artist": "HUGEL",
+        "album": "I Adore You (feat. Daecolm) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/df/e6/1ddfe6ea-a5f2-2c59-b574-b56ef0379096/24UMGIM74086.rgb.jpg/80x80bb.webp",
+        "length": "3:34"
+    },
+    {
+        "ranking": "9",
+        "title": "APT.",
+        "artist": "ROSÉ",
+        "album": "APT. - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
+        "ranking": "10",
+        "title": "Move",
+        "artist": "Adam Port",
+        "album": "Move - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/84/6d/7b846d83-4d1f-36f4-32e5-6289596980c2/dj.kdflvmhp.jpg/80x80bb.webp",
+        "length": "2:57"
+    },
+    {
+        "ranking": "11",
+        "title": "CHIHIRO",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "5:03"
+    },
+    {
+        "ranking": "12",
+        "title": "Good Luck, Babe!",
+        "artist": "Chappell Roan",
+        "album": "Good Luck, Babe! - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/80x80bb.webp",
+        "length": "3:38"
+    },
+    {
+        "ranking": "13",
+        "title": "Sailor Song",
+        "artist": "Gigi Perez",
+        "album": "Sailor Song - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/d4/96/25d49699-acc0-401f-a7cc-d7697339a474/24UM1IM03751.rgb.jpg/80x80bb.webp",
+        "length": "3:31"
+    },
+    {
+        "ranking": "14",
+        "title": "Close To You",
+        "artist": "Gracie Abrams",
+        "album": "The Secret of Us",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/9a/a7/529aa76f-5d60-cd81-9eb0-0eb521de861d/24UMGIM43968.rgb.jpg/80x80bb.webp",
+        "length": "3:45"
+    },
+    {
+        "ranking": "15",
+        "title": "No Pole",
+        "artist": "Don Toliver",
+        "album": "Love Sick (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8b/53/6d/8b536d87-020f-ae55-87e4-d316b9ef570b/075679693464.jpg/80x80bb.webp",
+        "length": "3:07"
+    },
+    {
+        "ranking": "16",
+        "title": "Wein",
+        "artist": "AL SHAMI",
+        "album": "Wein - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/da/5a/d9/da5ad9c5-1a42-56a3-e6a9-36082188ec88/630902181103_cover.jpg/80x80bb.webp",
+        "length": "2:52"
+    },
+    {
+        "ranking": "17",
+        "title": "Viva La Vida",
+        "artist": "Coldplay",
+        "album": "Viva La Vida or Death and All His Friends",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/52/aa/85/52aa851f-15b7-6322-f91f-df84b15b7b19/190295978044.jpg/80x80bb.webp",
+        "length": "4:01"
+    },
+    {
+        "ranking": "18",
+        "title": "Espresso",
+        "artist": "Sabrina Carpenter",
+        "album": "Espresso - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
+        "length": "2:55"
+    },
+    {
+        "ranking": "19",
+        "title": "Gata Only",
+        "artist": "FloyyMenor",
+        "album": "Gata Only - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ca/4e/0f/ca4e0f11-2cbc-7aec-b2e4-53f5fac7cb0e/198309012715-copy-6dfc57c0.png/80x80bb.webp",
+        "length": "3:42"
+    },
+    {
+        "ranking": "20",
+        "title": "Too Sweet",
+        "artist": "Hozier",
+        "album": "Unreal Unearth: Unaired",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/12/e3/a412e390-51aa-6625-9adc-d502bf1c349f/196872373004.jpg/80x80bb.webp",
+        "length": "4:11"
+    },
+    {
+        "ranking": "21",
+        "title": "L’AMOUR DE MA VIE",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "5:33"
+    },
+    {
+        "ranking": "22",
+        "title": "Say What (feat. chuala)",
+        "artist": "Rampa",
+        "album": "Say What (feat. chuala) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/9c/29/389c29e9-f028-72ba-4abd-6391b83de186/4251353212053.png/80x80bb.webp",
+        "length": "3:01"
+    },
+    {
+        "ranking": "23",
+        "title": "Moth To A Flame",
+        "artist": "Swedish House Mafia",
+        "album": "Moth To A Flame - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2f/56/e7/2f56e79c-fdaa-c0d5-545e-9942e54301c3/21UM1IM29516.rgb.jpg/80x80bb.webp",
+        "length": "3:54"
+    },
+    {
+        "ranking": "24",
+        "title": "we can't be friends (wait for your love)",
+        "artist": "Ariana Grande",
+        "album": "eternal sunshine",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/34/fe/a1/34fea184-6d20-3f50-b4ce-5e1501c1c5ab/24UMGIM00198.rgb.jpg/80x80bb.webp",
+        "length": "3:48"
+    },
+    {
+        "ranking": "25",
+        "title": "Yamore (feat. Cesária Evora, Benja (NL) & Franc Fala)",
+        "artist": "MoBlack",
+        "album": "Yamore (feat. Cesária Evora, Benja (NL) & Franc Fala) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/89/f7/90/89f79081-22b9-0a8b-681b-2214be80d2a3/24UMGIM55941.rgb.jpg/80x80bb.webp",
+        "length": "4:08"
+    },
+    {
+        "ranking": "26",
+        "title": "nachez",
+        "artist": "Marilyne Naaman",
+        "album": "nachez - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/68/b5/10/68b51057-91d9-9f7a-9007-0f2c13215d00/5283024026354_Cover.jpg/80x80bb.webp",
+        "length": "3:42"
+    },
+    {
+        "ranking": "27",
+        "title": "NEW DROP",
+        "artist": "Don Toliver",
+        "album": "HARDSTONE PSYCHO",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/3c/5d/223c5d96-501e-040e-a34d-0608e6e5c4ff/075679638434.jpg/80x80bb.webp",
+        "length": "3:37"
+    },
+    {
+        "ranking": "28",
+        "title": "Dancing In The Flames",
+        "artist": "The Weeknd",
+        "album": "Dancing In The Flames - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/7e/9f/347e9f54-2d74-820f-a910-68d01f044fcf/24UMGIM95646.rgb.jpg/80x80bb.webp",
+        "length": "3:40"
+    },
+    {
+        "ranking": "29",
+        "title": "HIGHEST IN THE ROOM",
+        "artist": "Travis Scott",
+        "album": "HIGHEST IN THE ROOM - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/30/5f/c4/305fc4b4-155d-8e67-7c7a-8eb35032fbcb/886448042792.jpg/80x80bb.webp",
+        "length": "2:55"
+    },
+    {
+        "ranking": "30",
+        "title": "One Of The Girls",
+        "artist": "The Weeknd",
+        "album": "The Idol Episode 4 (Music from the HBO Original Series) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/db/28/e7/db28e7c3-f53a-76c8-eaa4-d92a22e4f160/23UMGIM72115.rgb.jpg/80x80bb.webp",
+        "length": "4:04"
+    },
+    {
+        "ranking": "31",
+        "title": "Taste",
+        "artist": "Sabrina Carpenter",
+        "album": "Short n' Sweet",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+        "length": "2:37"
+    },
+    {
+        "ranking": "32",
+        "title": "It's ok I'm ok",
+        "artist": "Tate McRae",
+        "album": "It's ok I'm ok - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/61/e6/3e/61e63e45-56a5-f035-edd5-4c6c52e9369d/196872401141.jpg/80x80bb.webp",
+        "length": "2:36"
+    },
+    {
+        "ranking": "33",
+        "title": "Disease",
+        "artist": "Lady Gaga",
+        "album": "Disease - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/2b/dc/c72bdc7a-7014-e5df-a106-583074c0affa/24UM1IM12462.rgb.jpg/80x80bb.webp",
+        "length": "3:49"
+    },
+    {
+        "ranking": "34",
+        "title": "Hold On, We're Going Home (feat. Majid Jordan)",
+        "artist": "Drake",
+        "album": "Nothing Was the Same (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/51/61/f3/5161f3c4-2292-f035-eb68-6f95bbc9edd6/00602537542338.rgb.jpg/80x80bb.webp",
+        "length": "3:51"
+    },
+    {
+        "ranking": "35",
+        "title": "Violent Crimes",
+        "artist": "Kanye West",
+        "album": "ye",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/76/1b/36/761b368d-a267-4a99-9689-f5daf9bb1325/18UMGIM26291.rgb.jpg/80x80bb.webp",
+        "length": "3:35"
+    },
+    {
+        "ranking": "36",
+        "title": "BLUE",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "5:43"
+    },
+    {
+        "ranking": "37",
+        "title": "THE GREATEST",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "4:53"
+    },
+    {
+        "ranking": "38",
+        "title": "Stargazing",
+        "artist": "Myles Smith",
+        "album": "Stargazing - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/c3/a5/bfc3a56d-a51b-69cb-cdfc-26ee63631cb8/196872051872.jpg/80x80bb.webp",
+        "length": "2:52"
+    },
+    {
+        "ranking": "39",
+        "title": "WE PRAY (Elyanna Version)",
+        "artist": "Coldplay",
+        "album": "WE PRAY (Elyanna Version) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/53/04/d55304c4-4e8c-eea5-ee34-de6cdaec9a21/5021732474308.jpg/80x80bb.webp",
+        "length": "3:53"
+    },
+    {
+        "ranking": "40",
+        "title": "Move (feat. Keinemusik, Malachiii & Orso)",
+        "artist": "Adam Port",
+        "album": "Move (feat. Keinemusik, Malachiii & Orso) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/64/cc/0764cc54-d6a1-8d1f-4381-737fd7a2ed02/24UM1IM06602.rgb.jpg/80x80bb.webp",
+        "length": "3:00"
+    },
+    {
+        "ranking": "41",
+        "title": "everything i wanted",
+        "artist": "Billie Eilish",
+        "album": "everything i wanted - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c5/6c/b1/c56cb16a-52c3-33b5-5189-6c65028001fb/19UM1IM00404.rgb.jpg/80x80bb.webp",
+        "length": "4:05"
+    },
+    {
+        "ranking": "42",
+        "title": "Another Love",
+        "artist": "Tom Odell",
+        "album": "Long Way Down (Expanded Edition)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/3d/80/6e/3d806e1d-106c-7483-2024-032042519ab3/886443996779.jpg/80x80bb.webp",
+        "length": "4:04"
+    },
+    {
+        "ranking": "43",
+        "title": "Set Fire to the Rain",
+        "artist": "Adele",
+        "album": "21",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d8/e3/f9/d8e3f9ea-d6fe-9a1b-9f13-109983d3062e/191404113868.png/80x80bb.webp",
+        "length": "4:02"
+    },
+    {
+        "ranking": "44",
+        "title": "Apocalypse",
+        "artist": "Cigarettes After Sex",
+        "album": "Cigarettes After Sex",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/17/39/2c/17392c47-b74d-4bb7-4817-63ffcf2a07f0/cover.jpg/80x80bb.webp",
+        "length": "4:50"
+    },
+    {
+        "ranking": "45",
+        "title": "The Color Violet",
+        "artist": "Tory Lanez",
+        "album": "Alone At Prom",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/16/c8/eb/16c8eb6d-fe23-fa03-5e43-9827972763d3/cover.jpg/80x80bb.webp",
+        "length": "3:46"
+    },
+    {
+        "ranking": "46",
+        "title": "Tamly Maak",
+        "artist": "Amr Diab",
+        "album": "Tamally Maak",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/31/4d/d4/314dd42d-3246-e7a3-107a-3d521fa9a7e2/dj.iiicnpub.jpg/80x80bb.webp",
+        "length": "4:29"
+    },
+    {
+        "ranking": "47",
+        "title": "Beautiful Things",
+        "artist": "Benson Boone",
+        "album": "Beautiful Things - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
+        "length": "3:00"
+    },
+    {
+        "ranking": "48",
+        "title": "Not Like Us",
+        "artist": "Kendrick Lamar",
+        "album": "Not Like Us - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
+        "length": "4:34"
+    },
+    {
+        "ranking": "49",
+        "title": "Ganeni",
+        "artist": "Elyanna",
+        "album": "WOLEDTO",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/79/f5/b2/79f5b2a4-71e3-c2aa-e31c-73c427b46fa8/196922873577_Cover.jpg/80x80bb.webp",
+        "length": "2:57"
+    },
+    {
+        "ranking": "50",
+        "title": "Sideways",
+        "artist": "Gordo",
+        "album": "DIAMANTE",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/98/5d/3d985daf-139f-a484-5797-897b3c420849/196872335002.jpg/80x80bb.webp",
+        "length": "4:13"
+    },
+    {
+        "ranking": "51",
+        "title": "Dwali",
+        "artist": "AL SHAMI",
+        "album": "Dwali - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/0d/4d/bf0d4de4-c091-9169-8610-a68388743f4f/630902182681_cover.jpg/80x80bb.webp",
+        "length": "2:54"
+    },
+    {
+        "ranking": "52",
+        "title": "TORE UP",
+        "artist": "Don Toliver",
+        "album": "HARDSTONE PSYCHO",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/de/bf/44debf50-b8c0-85b7-0ac9-1f5acfc3e138/075679660763.jpg/80x80bb.webp",
+        "length": "2:06"
+    },
+    {
+        "ranking": "53",
+        "title": "Aquamarine",
+        "artist": "Addison Rae",
+        "album": "Aquamarine - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/0f/b0/930fb08d-096d-60fd-26f7-48dbb9366c74/196872418965.jpg/80x80bb.webp",
+        "length": "2:42"
+    },
+    {
+        "ranking": "54",
+        "title": "Yellow",
+        "artist": "Coldplay",
+        "album": "Parachutes",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/93/8c/f5938c49-964c-31d1-4b33-78b634f71fb7/190295978075.jpg/80x80bb.webp",
+        "length": "4:29"
+    },
+    {
+        "ranking": "55",
+        "title": "Please Please Please",
+        "artist": "Sabrina Carpenter",
+        "album": "Short n' Sweet",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+        "length": "3:06"
+    },
+    {
+        "ranking": "56",
+        "title": "Like That",
+        "artist": "Future",
+        "album": "WE DON'T TRUST YOU",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/9f/7b/4e9f7b71-28ad-a8dc-9b34-da532feb82f6/196871937382.jpg/80x80bb.webp",
+        "length": "4:27"
+    },
+    {
+        "ranking": "57",
+        "title": "Type Shit",
+        "artist": "Future",
+        "album": "WE DON'T TRUST YOU",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/9f/7b/4e9f7b71-28ad-a8dc-9b34-da532feb82f6/196871937382.jpg/80x80bb.webp",
+        "length": "3:48"
+    },
+    {
+        "ranking": "58",
+        "title": "SPIDER",
+        "artist": "GIMS",
+        "album": "SPIDER - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/82/df/6782df30-18ea-9803-e2d3-a1d66a040f08/cover.jpg/80x80bb.webp",
+        "length": "3:08"
+    },
+    {
+        "ranking": "59",
+        "title": "WE PRAY",
+        "artist": "Coldplay",
+        "album": "Moon Music",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/3c/0f/af3c0fe2-1c4f-8499-67a8-14a8e41fdbf8/5021732410535.jpg/80x80bb.webp",
+        "length": "3:53"
+    },
+    {
+        "ranking": "60",
+        "title": "Diet Pepsi",
+        "artist": "Addison Rae",
+        "album": "Diet Pepsi - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/ef/7a/01ef7a06-1b48-0460-efbf-983d6a0a37fa/196872309959.jpg/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
+        "ranking": "61",
+        "title": "1+1=3",
+        "artist": "Naïka",
+        "album": "1+1=3 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/57/7e/17/577e1772-59b6-002e-d956-170635f7bfcd/197189513220.jpg/80x80bb.webp",
+        "length": "3:36"
+    },
+    {
+        "ranking": "62",
+        "title": "Dirty Cash (Money Talks) [Sold Out 7 Inch Mix]",
+        "artist": "The Adventures of Stevie V",
+        "album": "Dirty Cash (Money Talks)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e9/31/9c/e9319ccd-2482-110b-a118-f7bd7a20dec1/6417128100422.jpg/80x80bb.webp",
+        "length": "4:03"
+    },
+    {
+        "ranking": "63",
+        "title": "PUSH 2 START",
+        "artist": "Tyla",
+        "album": "TYLA +",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2a/cc/48/2acc48c7-e092-6b83-ce65-ff80ac6eb51c/196872520118.jpg/80x80bb.webp",
+        "length": "2:36"
+    },
+    {
+        "ranking": "64",
+        "title": "One Dance (feat. Wizkid & Kyla)",
+        "artist": "Drake",
+        "album": "Views",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f2/0d/8b/f20d8bff-a927-ae98-6784-20a1f51cb23e/16UMGIM27642.rgb.jpg/80x80bb.webp",
+        "length": "2:53"
+    },
+    {
+        "ranking": "65",
+        "title": "lovely",
+        "artist": "Billie Eilish",
+        "album": "lovely - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/27/94/d4/2794d4fc-c3e2-2373-3e6c-dd82fd5aefe6/18UMGIM18200.rgb.jpg/80x80bb.webp",
+        "length": "3:20"
+    },
+    {
+        "ranking": "66",
+        "title": "7 rings",
+        "artist": "Ariana Grande",
+        "album": "thank u, next",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e4/06/d3/e406d3d8-2507-e585-c919-60bc5446985c/19UMGIM03689.rgb.jpg/80x80bb.webp",
+        "length": "2:58"
+    },
+    {
+        "ranking": "67",
+        "title": "goosebumps",
+        "artist": "Travis Scott",
+        "album": "Birds In The Trap Sing McKnight",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b8/e5/27/b8e527c8-aaf4-c7b7-5562-c479458ed7d9/886446092645.jpg/80x80bb.webp",
+        "length": "4:03"
+    },
+    {
+        "ranking": "68",
+        "title": "Adventure of a Lifetime",
+        "artist": "Coldplay",
+        "album": "A Head Full of Dreams",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c8/0a/6d/c80a6df9-e55a-fb83-0311-f4776984ac67/mzm.lasidxkv.jpg/80x80bb.webp",
+        "length": "4:23"
+    },
+    {
+        "ranking": "69",
+        "title": "when the party's over",
+        "artist": "Billie Eilish",
+        "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1a/37/d1/1a37d1b1-8508-54f2-f541-bf4e437dda76/19UMGIM05028.rgb.jpg/80x80bb.webp",
+        "length": "3:16"
+    },
+    {
+        "ranking": "70",
+        "title": "ocean eyes",
+        "artist": "Billie Eilish",
+        "album": "dont smile at me",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/02/1d/30/021d3036-5503-3ed3-df00-882f2833a6ae/17UM1IM17026.rgb.jpg/80x80bb.webp",
+        "length": "3:20"
+    },
+    {
+        "ranking": "71",
+        "title": "Born to Die",
+        "artist": "Lana Del Rey",
+        "album": "Born to Die: The Paradise Edition",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/5e/30/32/5e30329b-2765-60a6-96b8-8151c4b15a01/12UMGIM54175.rgb.jpg/80x80bb.webp",
+        "length": "4:45"
+    },
+    {
+        "ranking": "72",
+        "title": "عشانك",
+        "artist": "siilawy",
+        "album": "عشانك - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/08/19/ba08199a-e167-6a6f-8dcb-4c045cb54460/3616845875757_Cover.jpg/80x80bb.webp",
+        "length": "3:07"
+    },
+    {
+        "ranking": "73",
+        "title": "K.",
+        "artist": "Cigarettes After Sex",
+        "album": "Cigarettes After Sex",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/17/39/2c/17392c47-b74d-4bb7-4817-63ffcf2a07f0/cover.jpg/80x80bb.webp",
+        "length": "5:19"
+    },
+    {
+        "ranking": "74",
+        "title": "Flashing Lights (feat. Dwele)",
+        "artist": "Kanye West",
+        "album": "Graduation",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2f/db/2c/2fdb2c9d-171c-c6dc-57ee-4bae2b4bb11a/07UMGIM12671.rgb.jpg/80x80bb.webp",
+        "length": "3:57"
+    },
+    {
+        "ranking": "75",
+        "title": "I miss you, I’m sorry",
+        "artist": "Gracie Abrams",
+        "album": "I miss you, I’m sorry - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b2/7d/57/b27d57d5-c136-9897-e7cf-9f79f987d3d2/20UMGIM24084.rgb.jpg/80x80bb.webp",
+        "length": "2:47"
+    },
+    {
+        "ranking": "76",
+        "title": "LUNCH",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "2:59"
+    },
+    {
+        "ranking": "77",
+        "title": "TV",
+        "artist": "Billie Eilish",
+        "album": "Guitar Songs - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/98/97/b2/9897b250-e07c-06d9-6d60-c72f74084dff/22UMGIM77990.rgb.jpg/80x80bb.webp",
+        "length": "4:41"
+    },
+    {
+        "ranking": "78",
+        "title": "lech ma bterjaa?",
+        "artist": "Marilyne Naaman",
+        "album": "‘aa amal’ series soundtrack",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/de/35/b9/de35b9c3-bf8a-f4bb-b0ff-b8b6cb5f716c/5283024015686_Cover.jpg/80x80bb.webp",
+        "length": "1:52"
+    },
+    {
+        "ranking": "79",
+        "title": "hedne",
+        "artist": "Marilyne Naaman",
+        "album": "‘aa amal’ series soundtrack",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/de/35/b9/de35b9c3-bf8a-f4bb-b0ff-b8b6cb5f716c/5283024015686_Cover.jpg/80x80bb.webp",
+        "length": "2:12"
+    },
+    {
+        "ranking": "80",
+        "title": "NIGHTS LIKE THIS",
+        "artist": "The Kid LAROI",
+        "album": "THE FIRST TIME",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/46/26/10/46261095-a39c-9231-7d1c-9718aa092b3a/196871605403.jpg/80x80bb.webp",
+        "length": "1:26"
+    },
+    {
+        "ranking": "81",
+        "title": "5 minutes (feat. Emdee Jabr)",
+        "artist": "Marilyne Naaman",
+        "album": "5 minutes (feat. Emdee Jabr) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/79/f9/9b79f96a-3912-cffe-2b4d-f7ce417fea79/3616844851646_Cover.jpg/80x80bb.webp",
+        "length": "3:51"
+    },
+    {
+        "ranking": "82",
+        "title": "Too Cool To Be Careless",
+        "artist": "PAWSA",
+        "album": "TOO COOL TO BE CARELESS - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/c7/81/43c781bd-3411-5443-c377-636a7ae6cae4/cover.jpg/80x80bb.webp",
+        "length": "3:40"
+    },
+    {
+        "ranking": "83",
+        "title": "Bad Dreams",
+        "artist": "Teddy Swims",
+        "album": "Bad Dreams - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/5d/64/cd5d64c2-338b-00c9-52d6-578a0f19d826/054391245908.jpg/80x80bb.webp",
+        "length": "3:04"
+    },
+    {
+        "ranking": "84",
+        "title": "A Sky Full of Stars",
+        "artist": "Coldplay",
+        "album": "Ghost Stories",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/60/90/ad/6090adc3-8863-861d-afcc-23c55c6fe5da/dj.vmtulfyu.jpg/80x80bb.webp",
+        "length": "4:28"
+    },
+    {
+        "ranking": "85",
+        "title": "Save Your Tears",
+        "artist": "The Weeknd",
+        "album": "After Hours",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6f/bc/e6/6fbce6c4-c38c-72d8-4fd0-66cfff32f679/20UMGIM12176.rgb.jpg/80x80bb.webp",
+        "length": "3:35"
+    },
+    {
+        "ranking": "86",
+        "title": "Someone Like You",
+        "artist": "Adele",
+        "album": "21",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d8/e3/f9/d8e3f9ea-d6fe-9a1b-9f13-109983d3062e/191404113868.png/80x80bb.webp",
+        "length": "4:45"
+    },
+    {
+        "ranking": "87",
+        "title": "Mockingbird",
+        "artist": "Eminem",
+        "album": "Encore (Deluxe Version)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8b/bf/10/8bbf10dc-5dcb-9b81-6ec2-83341286ff72/00602498646717.rgb.jpg/80x80bb.webp",
+        "length": "4:10"
+    },
+    {
+        "ranking": "88",
+        "title": "After Hours",
+        "artist": "The Weeknd",
+        "album": "After Hours",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6f/bc/e6/6fbce6c4-c38c-72d8-4fd0-66cfff32f679/20UMGIM12176.rgb.jpg/80x80bb.webp",
+        "length": "6:01"
+    },
+    {
+        "ranking": "89",
+        "title": "Summertime Sadness",
+        "artist": "Lana Del Rey",
+        "album": "Born to Die: The Paradise Edition",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/5e/30/32/5e30329b-2765-60a6-96b8-8151c4b15a01/12UMGIM54175.rgb.jpg/80x80bb.webp",
+        "length": "4:25"
+    },
+    {
+        "ranking": "90",
+        "title": "Video Games",
+        "artist": "Lana Del Rey",
+        "album": "Born to Die: The Paradise Edition",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/5e/30/32/5e30329b-2765-60a6-96b8-8151c4b15a01/12UMGIM54175.rgb.jpg/80x80bb.webp",
+        "length": "4:41"
+    },
+    {
+        "ranking": "91",
+        "title": "Night Changes",
+        "artist": "One Direction",
+        "album": "FOUR (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/62/2d/19/622d19da-eb88-022c-2bc5-d843657defe8/886444549851.jpg/80x80bb.webp",
+        "length": "3:46"
+    },
+    {
+        "ranking": "92",
+        "title": "cardigan",
+        "artist": "Taylor Swift",
+        "album": "folklore",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ca/f3/67/caf367a5-2cf6-6b2e-a891-97dc57b19f08/20UMGIM64216.rgb.jpg/80x80bb.webp",
+        "length": "3:59"
+    },
+    {
+        "ranking": "93",
+        "title": "Bel Ahlam",
+        "artist": "Nassif Zeytoun",
+        "album": "Bel Ahlam - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4e/9c/cd/4e9ccd74-ac9d-fcf4-91b4-bd0d6eee596f/657479904195_cover.jpg/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
+        "ranking": "94",
+        "title": "Amarain",
+        "artist": "Amr Diab",
+        "album": "Amarain",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/b9/56/14/b956146c-ca00-7619-d521-d002b61ad1a6/dj.vlndmiyw.jpg/80x80bb.webp",
+        "length": "4:27"
+    },
+    {
+        "ranking": "95",
+        "title": "Love in the Dark",
+        "artist": "Adele",
+        "album": "25",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/08/8c/24/088c2405-2e33-801b-5c38-e967f2c01e69/191404113974.png/80x80bb.webp",
+        "length": "4:45"
+    },
+    {
+        "ranking": "96",
+        "title": "Sabran",
+        "artist": "AL SHAMI",
+        "album": "Sabran - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/99/2f/06/992f06ec-63b2-1fa3-7c91-3e4a7cb9187d/630902174945_cover.jpg/80x80bb.webp",
+        "length": "3:22"
+    },
+    {
+        "ranking": "97",
+        "title": "MY EYES",
+        "artist": "Travis Scott",
+        "album": "UTOPIA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/7d/b0/097db06f-8403-3cf7-7510-139e570ca66b/196871341882.jpg/80x80bb.webp",
+        "length": "4:11"
+    },
+    {
+        "ranking": "98",
+        "title": "Skyfall",
+        "artist": "Adele",
+        "album": "Skyfall - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b3/fe/cf/b3fecf76-0359-8e14-0651-4b101fc68a3f/886443673632.jpg/80x80bb.webp",
+        "length": "4:46"
+    },
+    {
+        "ranking": "99",
+        "title": "Baasha Rouhik",
+        "artist": "Marwan Khoury",
+        "album": "Baasha Rouhik - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/a6/b0/a3/a6b0a3f5-b84d-ad21-6d3b-e81981710ec4/dj.bkeejvry.jpg/80x80bb.webp",
+        "length": "4:12"
+    },
+    {
+        "ranking": "100",
+        "title": "El Watar El Hassas",
+        "artist": "Sherine",
+        "album": "Nassay",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/9d/7e/42/9d7e42a4-bb6a-17a3-8545-d7f3a75a3fdf/942835.jpg/80x80bb.webp",
+        "length": "4:21"
+    }
+]
