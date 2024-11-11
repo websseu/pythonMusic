@@ -1,0 +1,802 @@
+[
+    {
+        "ranking": "1",
+        "title": "APT.",
+        "artist": "ROSÉ",
+        "album": "APT. - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
+        "ranking": "2",
+        "title": "Die With A Smile",
+        "artist": "Lady Gaga",
+        "album": "Die With A Smile - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
+        "length": "4:11"
+    },
+    {
+        "ranking": "3",
+        "title": "BIRDS OF A FEATHER",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "3:30"
+    },
+    {
+        "ranking": "4",
+        "title": "WILDFLOWER",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "4:21"
+    },
+    {
+        "ranking": "5",
+        "title": "Mantra",
+        "artist": "JENNIE",
+        "album": "Mantra - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/9a/4c/5d9a4c5f-1c34-1265-0fa5-860dc8f0e802/196872495263.jpg/80x80bb.webp",
+        "length": "2:16"
+    },
+    {
+        "ranking": "6",
+        "title": "DRIP",
+        "artist": "BABYMONSTER",
+        "album": "DRIP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/e1/ef/b9e1ef3a-e3eb-8152-e91b-20aca0fc9ffd/BM_DRIP_Digital-Cover_4000.jpg/80x80bb.webp",
+        "length": "3:00"
+    },
+    {
+        "ranking": "7",
+        "title": "Reminisensi",
+        "artist": "Insomniacks",
+        "album": "Kepala Batu - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5c/2b/74/5c2b74ce-c7ac-157d-b62c-54a0a259ccad/886448602224.jpg/80x80bb.webp",
+        "length": "4:25"
+    },
+    {
+        "ranking": "8",
+        "title": "Moonlit Floor",
+        "artist": "LISA",
+        "album": "Moonlit Floor (Kiss Me) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/83/fb/7c83fbdf-27c1-39d5-dfb6-b8d6e2cd8dad/196872478501.jpg/80x80bb.webp",
+        "length": "2:35"
+    },
+    {
+        "ranking": "9",
+        "title": "Rahsia Tuhan",
+        "artist": "Noh Salleh",
+        "album": "Rahsia Tuhan - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/d9/bc/8dd9bcff-5c50-270f-5650-0a89a61c6761/Rahsia_Tuhan.jpg/80x80bb.webp",
+        "length": "4:47"
+    },
+    {
+        "ranking": "10",
+        "title": "Whiplash",
+        "artist": "aespa",
+        "album": "Whiplash - The 5th Mini Album - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/c1/f5/d5c1f505-f588-775f-df05-c672a8ec22e9/888735949562_Cover.jpg/80x80bb.webp",
+        "length": "3:03"
+    },
+    {
+        "ranking": "11",
+        "title": "Espresso",
+        "artist": "Sabrina Carpenter",
+        "album": "Espresso - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
+        "length": "2:55"
+    },
+    {
+        "ranking": "12",
+        "title": "Untungnya, Hidup Harus Tetap Berjalan",
+        "artist": "Bernadya",
+        "album": "Sialnya, Hidup Harus Tetap Berjalan",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/9f/80/9c9f80d1-cb53-db64-9bca-03f06cd1000c/24UMGIM57224.rgb.jpg/80x80bb.webp",
+        "length": "3:02"
+    },
+    {
+        "ranking": "13",
+        "title": "Timeless",
+        "artist": "The Weeknd",
+        "album": "Timeless - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
+        "length": "4:16"
+    },
+    {
+        "ranking": "14",
+        "title": "Taste",
+        "artist": "Sabrina Carpenter",
+        "album": "Short n' Sweet",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+        "length": "2:37"
+    },
+    {
+        "ranking": "15",
+        "title": "UP (KARINA Solo)",
+        "artist": "aespa",
+        "album": "SYNK : PARALLEL LINE - Special Digital Single - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fd/85/0e/fd850e67-f6e2-c4e9-6ea5-501ca5afccbd/aespa_DS_Synk-PARALLEL_LINE_DC.jpg/80x80bb.webp",
+        "length": "2:46"
+    },
+    {
+        "ranking": "16",
+        "title": "we can't be friends (wait for your love)",
+        "artist": "Ariana Grande",
+        "album": "eternal sunshine",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/34/fe/a1/34fea184-6d20-3f50-b4ce-5e1501c1c5ab/24UMGIM00198.rgb.jpg/80x80bb.webp",
+        "length": "3:48"
+    },
+    {
+        "ranking": "17",
+        "title": "Cherish (My Love)",
+        "artist": "ILLIT",
+        "album": "I'LL LIKE YOU - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e9/20/73/e9207332-1b22-18d0-5d1b-daaf370a4317/198704136962_Cover.jpg/80x80bb.webp",
+        "length": "2:56"
+    },
+    {
+        "ranking": "18",
+        "title": "FOREVER",
+        "artist": "BABYMONSTER",
+        "album": "FOREVER - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/2a/86/5b2a8611-2005-2287-1981-9edac10b795b/BABYMONSTER_FORVER.jpg/80x80bb.webp",
+        "length": "3:32"
+    },
+    {
+        "ranking": "19",
+        "title": "Masing Masing",
+        "artist": "Ernie Zakri",
+        "album": "Aura",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/9c/c5/369cc5a9-dee3-0621-6144-c4605e8609c8/23UM1IM33523.rgb.jpg/80x80bb.webp",
+        "length": "3:54"
+    },
+    {
+        "ranking": "20",
+        "title": "POWER",
+        "artist": "G-DRAGON",
+        "album": "POWER - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/fa/03/36fa0306-b040-b01b-36d3-181256366615/197342805353_cover.jpg/80x80bb.webp",
+        "length": "2:23"
+    },
+    {
+        "ranking": "21",
+        "title": "Please Please Please",
+        "artist": "Sabrina Carpenter",
+        "album": "Short n' Sweet",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+        "length": "3:06"
+    },
+    {
+        "ranking": "22",
+        "title": "That’s So True",
+        "artist": "Gracie Abrams",
+        "album": "The Secret of Us (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
+        "length": "2:46"
+    },
+    {
+        "ranking": "23",
+        "title": "Sumpah Dan Cinta Matiku",
+        "artist": "Nidji",
+        "album": "Tenggelamnya Kapal Van der Wijck (Original Motion Picture Soundtrack) - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/12/81/a5/1281a53f-e07a-33f6-ea0a-f975d5d3a399/24UMGIM29043.rgb.jpg/80x80bb.webp",
+        "length": "4:45"
+    },
+    {
+        "ranking": "24",
+        "title": "Dancing In The Flames",
+        "artist": "The Weeknd",
+        "album": "Dancing In The Flames - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/7e/9f/347e9f54-2d74-820f-a910-68d01f044fcf/24UMGIM95646.rgb.jpg/80x80bb.webp",
+        "length": "3:40"
+    },
+    {
+        "ranking": "25",
+        "title": "Good Luck, Babe!",
+        "artist": "Chappell Roan",
+        "album": "Good Luck, Babe! - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/80x80bb.webp",
+        "length": "3:38"
+    },
+    {
+        "ranking": "26",
+        "title": "Pulang",
+        "artist": "Insomniacks",
+        "album": "Pulang - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2c/aa/5a/2caa5ad2-b833-9efc-40e8-6ec7abedfb89/886447434543.jpg/80x80bb.webp",
+        "length": "4:47"
+    },
+    {
+        "ranking": "27",
+        "title": "Stuck with U",
+        "artist": "Ariana Grande",
+        "album": "Stuck with U - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/56/ee/ec/56eeecfb-a5f3-ced0-fa69-4eda0e474aec/20UMGIM34924.rgb.jpg/80x80bb.webp",
+        "length": "3:48"
+    },
+    {
+        "ranking": "28",
+        "title": "penjaga hati",
+        "artist": "Nadhif Basalamah",
+        "album": "penjaga hati - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/81/07/bf/8107bf80-0d4e-8f5c-9dfe-544dbf3f2dd9/cover.jpg/80x80bb.webp",
+        "length": "4:20"
+    },
+    {
+        "ranking": "29",
+        "title": "Di Balik Pertanda",
+        "artist": "Kaleb J",
+        "album": "OFF GUARD - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/e0/84/b1e084f3-b209-7080-effc-dc9197b1f930/cover.jpg/80x80bb.webp",
+        "length": "3:36"
+    },
+    {
+        "ranking": "30",
+        "title": "drunk text",
+        "artist": "Henry Moodie",
+        "album": "drunk text - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/61/3d/a6/613da60e-5b3d-7305-19db-ed79f5aa0b05/196589768643.jpg/80x80bb.webp",
+        "length": "3:07"
+    },
+    {
+        "ranking": "31",
+        "title": "CLIK CLAK",
+        "artist": "BABYMONSTER",
+        "album": "DRIP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/e1/ef/b9e1ef3a-e3eb-8152-e91b-20aca0fc9ffd/BM_DRIP_Digital-Cover_4000.jpg/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
+        "ranking": "32",
+        "title": "Saturn",
+        "artist": "SZA",
+        "album": "Saturn - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0f/90/a8/0f90a856-0447-d846-fa7b-b9c937e72310/196871881180.jpg/80x80bb.webp",
+        "length": "3:06"
+    },
+    {
+        "ranking": "33",
+        "title": "Pesan Terakhir",
+        "artist": "Lyodra",
+        "album": "Lyodra",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5f/4f/68/5f4f6824-86e0-0efa-a2c9-9fbd104b0470/21UMGIM62551.rgb.jpg/80x80bb.webp",
+        "length": "4:21"
+    },
+    {
+        "ranking": "34",
+        "title": "Snooze",
+        "artist": "SZA",
+        "album": "SOS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
+        "length": "3:21"
+    },
+    {
+        "ranking": "35",
+        "title": "Sempurna",
+        "artist": "Insomniacks",
+        "album": "Sempurna - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/c1/df/54c1dffc-bc73-6d24-5974-33301c81fe47/22UMGIM13261.rgb.jpg/80x80bb.webp",
+        "length": "4:11"
+    },
+    {
+        "ranking": "36",
+        "title": "São Paulo",
+        "artist": "The Weeknd",
+        "album": "São Paulo - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/4a/64/934a64d3-2665-72ef-e5b4-29d61fd3707a/24UM1IM21420.rgb.jpg/80x80bb.webp",
+        "length": "5:01"
+    },
+    {
+        "ranking": "37",
+        "title": "Bohongi Hati",
+        "artist": "Mahalini",
+        "album": "fábula",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/45/c6/11/45c6115e-b076-b4ac-ba8d-90856bd324ec/cover.jpg/80x80bb.webp",
+        "length": "4:22"
+    },
+    {
+        "ranking": "38",
+        "title": "Mati-Matian",
+        "artist": "Mahalini",
+        "album": "Mati-Matian - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/91/eb/e691eb58-7ae3-cb1b-0a5f-839ad3a010e0/cover.jpg/80x80bb.webp",
+        "length": "4:04"
+    },
+    {
+        "ranking": "39",
+        "title": "Igloo",
+        "artist": "KISS OF LIFE",
+        "album": "Lose Yourself",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/70/86/dd70863e-2571-25cd-d1eb-c44a5cdba57f/cover_KM0020274_1.jpg/80x80bb.webp",
+        "length": "2:11"
+    },
+    {
+        "ranking": "40",
+        "title": "Janji",
+        "artist": "Aziz Harun",
+        "album": "Janji - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/91/5a/92/915a9242-11c2-48fa-d00b-4e8f81c3efd0/24UMGIM57225.rgb.jpg/80x80bb.webp",
+        "length": "3:21"
+    },
+    {
+        "ranking": "41",
+        "title": "Bawa Dia Kembali",
+        "artist": "Mahalini",
+        "album": "Bawa Dia Kembali - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/3b/f2/d6/3bf2d632-27fb-86d1-bc4a-06112b5e66bb/cover.jpg/80x80bb.webp",
+        "length": "4:11"
+    },
+    {
+        "ranking": "42",
+        "title": "Hapus Aku",
+        "artist": "Nidji",
+        "album": "Breakthru",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c3/9c/04/c39c040e-64a3-90e7-0abd-64cd0f1b1b56/24UMGIM29485.rgb.jpg/80x80bb.webp",
+        "length": "4:12"
+    },
+    {
+        "ranking": "43",
+        "title": "Cruel Summer",
+        "artist": "Taylor Swift",
+        "album": "Lover",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/80x80bb.webp",
+        "length": "2:58"
+    },
+    {
+        "ranking": "44",
+        "title": "One Of The Girls",
+        "artist": "The Weeknd",
+        "album": "The Idol Episode 4 (Music from the HBO Original Series) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/db/28/e7/db28e7c3-f53a-76c8-eaa4-d92a22e4f160/23UMGIM72115.rgb.jpg/80x80bb.webp",
+        "length": "4:04"
+    },
+    {
+        "ranking": "45",
+        "title": "Happier Than Ever",
+        "artist": "Billie Eilish",
+        "album": "Happier Than Ever",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2d/f3/c9/2df3c9fd-e0eb-257c-c035-b04f05a66580/21UMGIM36691.rgb.jpg/80x80bb.webp",
+        "length": "4:58"
+    },
+    {
+        "ranking": "46",
+        "title": "Tak Segampang Itu",
+        "artist": "Anggi Marito",
+        "album": "Tak Segampang Itu - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/59/b4/b8/59b4b872-6c07-242b-4a46-dffd4aa22f77/22UM1IM34409.rgb.jpg/80x80bb.webp",
+        "length": "3:51"
+    },
+    {
+        "ranking": "47",
+        "title": "Sial",
+        "artist": "Mahalini",
+        "album": "fábula",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/45/c6/11/45c6115e-b076-b4ac-ba8d-90856bd324ec/cover.jpg/80x80bb.webp",
+        "length": "4:03"
+    },
+    {
+        "ranking": "48",
+        "title": "Nobody Gets Me",
+        "artist": "SZA",
+        "album": "SOS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
+        "length": "3:00"
+    },
+    {
+        "ranking": "49",
+        "title": "Too Sweet",
+        "artist": "Hozier",
+        "album": "Unreal Unearth: Unaired",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/12/e3/a412e390-51aa-6625-9adc-d502bf1c349f/196872373004.jpg/80x80bb.webp",
+        "length": "4:11"
+    },
+    {
+        "ranking": "50",
+        "title": "Perfect",
+        "artist": "Ed Sheeran",
+        "album": "÷ (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
+        "length": "4:23"
+    },
+    {
+        "ranking": "51",
+        "title": "Sampai Menutup Mata",
+        "artist": "Mahalini",
+        "album": "Sampai Menutup Mata - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4c/b5/5a/4cb55ac8-8aec-67e3-be4d-236635802504/cover.jpg/80x80bb.webp",
+        "length": "4:08"
+    },
+    {
+        "ranking": "52",
+        "title": "Mean It",
+        "artist": "Lauv",
+        "album": "~How I'm Feeling~",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/cf/1e/eb/cf1eeb6a-0f86-c668-95b1-39991737d577/5056167172123_1.jpg/80x80bb.webp",
+        "length": "3:52"
+    },
+    {
+        "ranking": "53",
+        "title": "Bye Bye Bye",
+        "artist": "*NSYNC",
+        "album": "No Strings Attached",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/36/22/d6/3622d665-873c-57b8-392b-971292e6086f/012414170224.jpg/80x80bb.webp",
+        "length": "3:20"
+    },
+    {
+        "ranking": "54",
+        "title": "Igauan Malam",
+        "artist": "Insomniacks",
+        "album": "Igauan Malam - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/2e/63/dc/2e63dc8e-da93-c124-cd9b-d578903894cd/22UM1IM25156.rgb.jpg/80x80bb.webp",
+        "length": "4:53"
+    },
+    {
+        "ranking": "55",
+        "title": "Aku Cinta Padamu",
+        "artist": "Siti Nurhaliza",
+        "album": "Aku Cinta Padamu",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/c9/a7/09/c9a709e2-2743-79ee-8720-9fb03d9855e3/SRCD_03-33436.jpg/80x80bb.webp",
+        "length": "5:28"
+    },
+    {
+        "ranking": "56",
+        "title": "7 rings",
+        "artist": "Ariana Grande",
+        "album": "thank u, next",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e4/06/d3/e406d3d8-2507-e585-c919-60bc5446985c/19UMGIM03689.rgb.jpg/80x80bb.webp",
+        "length": "2:58"
+    },
+    {
+        "ranking": "57",
+        "title": "Kill Bill",
+        "artist": "SZA",
+        "album": "SOS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
+        "length": "2:33"
+    },
+    {
+        "ranking": "58",
+        "title": "BABY I'M BACK",
+        "artist": "The Kid LAROI",
+        "album": "THE FIRST TIME (DELUXE VERSION)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/4d/01/c64d014b-67f5-77cd-6b23-67130d1915ad/196872372113.jpg/80x80bb.webp",
+        "length": "2:51"
+    },
+    {
+        "ranking": "59",
+        "title": "Talking to the Moon",
+        "artist": "Bruno Mars",
+        "album": "Doo-Wops & Hooligans (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/98/ae/c2/98aec2e1-3be4-0311-1b44-69348fc87abb/075679956484.jpg/80x80bb.webp",
+        "length": "3:37"
+    },
+    {
+        "ranking": "60",
+        "title": "Bed Chem",
+        "artist": "Sabrina Carpenter",
+        "album": "Short n' Sweet",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+        "length": "2:51"
+    },
+    {
+        "ranking": "61",
+        "title": "Diet Pepsi",
+        "artist": "Addison Rae",
+        "album": "Diet Pepsi - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/ef/7a/01ef7a06-1b48-0460-efbf-983d6a0a37fa/196872309959.jpg/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
+        "ranking": "62",
+        "title": "Love, Maybe",
+        "artist": "BABYMONSTER",
+        "album": "DRIP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/e1/ef/b9e1ef3a-e3eb-8152-e91b-20aca0fc9ffd/BM_DRIP_Digital-Cover_4000.jpg/80x80bb.webp",
+        "length": "3:07"
+    },
+    {
+        "ranking": "63",
+        "title": "FE!N (feat. Playboi Carti)",
+        "artist": "Travis Scott",
+        "album": "UTOPIA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/7d/b0/097db06f-8403-3cf7-7510-139e570ca66b/196871341882.jpg/80x80bb.webp",
+        "length": "3:11"
+    },
+    {
+        "ranking": "64",
+        "title": "Armageddon",
+        "artist": "aespa",
+        "album": "Armageddon - The 1st Album",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/7e/e0/507ee09f-ccfd-1e3c-af90-ca5e92b1221b/00888735949869_Cover.jpg/80x80bb.webp",
+        "length": "3:16"
+    },
+    {
+        "ranking": "65",
+        "title": "L’AMOUR DE MA VIE",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "5:33"
+    },
+    {
+        "ranking": "66",
+        "title": "thank u, next",
+        "artist": "Ariana Grande",
+        "album": "thank u, next",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e4/06/d3/e406d3d8-2507-e585-c919-60bc5446985c/19UMGIM03689.rgb.jpg/80x80bb.webp",
+        "length": "3:27"
+    },
+    {
+        "ranking": "67",
+        "title": "Die For You",
+        "artist": "The Weeknd",
+        "album": "Starboy",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e2/61/f8/e261f8c1-73db-9a7a-c89e-1068f19970e0/16UMGIM67863.rgb.jpg/80x80bb.webp",
+        "length": "4:20"
+    },
+    {
+        "ranking": "68",
+        "title": "MEOW",
+        "artist": "MEOVV",
+        "album": "MEOW - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/7f/b9/9b7fb97f-57fd-0a2e-64de-30cd3a259c71/198704128974_Cover.jpg/80x80bb.webp",
+        "length": "2:52"
+    },
+    {
+        "ranking": "69",
+        "title": "New Rules",
+        "artist": "Dua Lipa",
+        "album": "Dua Lipa (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c1/54/2d/c1542d45-c6c2-12ca-7308-6eacd762c562/190295807870.jpg/80x80bb.webp",
+        "length": "3:29"
+    },
+    {
+        "ranking": "70",
+        "title": "I Love You, I'm Sorry",
+        "artist": "Gracie Abrams",
+        "album": "The Secret of Us",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/9a/a7/529aa76f-5d60-cd81-9eb0-0eb521de861d/24UMGIM43968.rgb.jpg/80x80bb.webp",
+        "length": "2:37"
+    },
+    {
+        "ranking": "71",
+        "title": "Lover",
+        "artist": "Taylor Swift",
+        "album": "Lover",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/80x80bb.webp",
+        "length": "3:41"
+    },
+    {
+        "ranking": "72",
+        "title": "Too Good at Goodbyes",
+        "artist": "Sam Smith",
+        "album": "The Thrill of It All (Special Video Edition)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/ee/26/c7ee26a6-8b1e-c224-4872-bb5df0614e64/17UM1IM18858.rgb.jpg/80x80bb.webp",
+        "length": "3:21"
+    },
+    {
+        "ranking": "73",
+        "title": "Zikir Tidurkan Bayi  Zikir Tenangkan Bayi",
+        "artist": "CahayaKeikhlasan",
+        "album": "Zikir Tidurkan Bayi  Zikir Tenangkan Bayi",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/13/a0/00/13a000b8-d027-e658-2d92-cb3ebb43e224/5059654241395_cover.jpg/80x80bb.webp",
+        "length": "1:00:42"
+    },
+    {
+        "ranking": "74",
+        "title": "Rumah Singgah",
+        "artist": "Fabio Asher",
+        "album": "Rumah Singgah - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/22/14/f6/2214f696-6a81-af27-daf6-8c3fa5dabcaa/717124150305.png/80x80bb.webp",
+        "length": "4:06"
+    },
+    {
+        "ranking": "75",
+        "title": "Enchanted",
+        "artist": "Taylor Swift",
+        "album": "Speak Now (Deluxe Edition)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/12/2d/92/122d9245-3380-dfd9-38ab-db71544102b7/17UM1IM06953.rgb.jpg/80x80bb.webp",
+        "length": "5:52"
+    },
+    {
+        "ranking": "76",
+        "title": "SHEESH",
+        "artist": "BABYMONSTER",
+        "album": "BABYMONS7ER - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fb/68/85/fb68856f-4965-5d30-78ea-fe6bb261f4ff/3000px.jpg/80x80bb.webp",
+        "length": "2:50"
+    },
+    {
+        "ranking": "77",
+        "title": "drivers license",
+        "artist": "Olivia Rodrigo",
+        "album": "drivers license - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f0/19/d6/f019d61e-6bd3-d936-1214-22b732083ef0/20UM1IM14285.rgb.jpg/80x80bb.webp",
+        "length": "4:02"
+    },
+    {
+        "ranking": "78",
+        "title": "traitor",
+        "artist": "Olivia Rodrigo",
+        "album": "SOUR",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/33/fd/32/33fd32b1-0e43-9b4a-8ed6-19643f23544e/21UMGIM26092.rgb.jpg/80x80bb.webp",
+        "length": "3:49"
+    },
+    {
+        "ranking": "79",
+        "title": "Tanpa Rasa Bersalah",
+        "artist": "Fabio Asher",
+        "album": "ASHER",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/70/9d/86/709d8675-a608-2f31-91da-018d230f86bb/681178393479.png/80x80bb.webp",
+        "length": "4:38"
+    },
+    {
+        "ranking": "80",
+        "title": "Fortnight (feat. Post Malone)",
+        "artist": "Taylor Swift",
+        "album": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/86/59/a486593a-53c9-1c2a-5122-8f25339f7359/24UMGIM44778.rgb.jpg/80x80bb.webp",
+        "length": "3:48"
+    },
+    {
+        "ranking": "81",
+        "title": "LUNCH",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "2:59"
+    },
+    {
+        "ranking": "82",
+        "title": "Sisa Rasa",
+        "artist": "Mahalini",
+        "album": "Sisa Rasa - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/cb/a6/84/cba684fc-720b-485a-ebb0-96e9b79f6b5e/cover.jpg/80x80bb.webp",
+        "length": "4:14"
+    },
+    {
+        "ranking": "83",
+        "title": "Intentions (feat. Quavo)",
+        "artist": "Justin Bieber",
+        "album": "Changes",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/21/4e/d2214ea9-97ff-46ef-ac45-7fca6fb73839/20UMGIM03126.rgb.jpg/80x80bb.webp",
+        "length": "3:32"
+    },
+    {
+        "ranking": "84",
+        "title": "I Think They Call This Love",
+        "artist": "Elliot James Reay",
+        "album": "I Think They Call This Love - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/a8/f1/30a8f1b6-e75d-55b4-ee88-667a062e0103/24UM1IM12416.rgb.jpg/80x80bb.webp",
+        "length": "3:13"
+    },
+    {
+        "ranking": "85",
+        "title": "Maps",
+        "artist": "Maroon 5",
+        "album": "V (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ac/20/32/ac203235-b03b-0e60-e03d-1ea1ee53aceb/14UMGIM31675.rgb.jpg/80x80bb.webp",
+        "length": "3:10"
+    },
+    {
+        "ranking": "86",
+        "title": "no tears left to cry",
+        "artist": "Ariana Grande",
+        "album": "Sweetener",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/70/53/76/705376dc-d0dc-6945-7fb2-415038e3aafa/18UMGIM36925.rgb.jpg/80x80bb.webp",
+        "length": "3:25"
+    },
+    {
+        "ranking": "87",
+        "title": "End of Beginning",
+        "artist": "Djo",
+        "album": "DECIDE",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e5/94/31/e59431de-7591-58e6-c4d4-105b6373ad6a/5056494917336_1.jpg/80x80bb.webp",
+        "length": "2:39"
+    },
+    {
+        "ranking": "88",
+        "title": "ocean eyes",
+        "artist": "Billie Eilish",
+        "album": "dont smile at me",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/02/1d/30/021d3036-5503-3ed3-df00-882f2833a6ae/17UM1IM17026.rgb.jpg/80x80bb.webp",
+        "length": "3:20"
+    },
+    {
+        "ranking": "89",
+        "title": "BILLIONAIRE",
+        "artist": "BABYMONSTER",
+        "album": "DRIP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/e1/ef/b9e1ef3a-e3eb-8152-e91b-20aca0fc9ffd/BM_DRIP_Digital-Cover_4000.jpg/80x80bb.webp",
+        "length": "2:37"
+    },
+    {
+        "ranking": "90",
+        "title": "Magnetic",
+        "artist": "ILLIT",
+        "album": "SUPER REAL ME - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3e/49/1e/3e491e43-4961-21ab-2abe-37fb1c0feb40/196922879227_Cover.jpg/80x80bb.webp",
+        "length": "2:40"
+    },
+    {
+        "ranking": "91",
+        "title": "Call Out My Name",
+        "artist": "The Weeknd",
+        "album": "My Dear Melancholy,",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2a/aa/b4/2aaab42a-a4cb-a600-4a25-d78961495960/18UMGIM17204.rgb.jpg/80x80bb.webp",
+        "length": "3:48"
+    },
+    {
+        "ranking": "92",
+        "title": "Beautiful Things",
+        "artist": "Benson Boone",
+        "album": "Beautiful Things - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
+        "length": "3:00"
+    },
+    {
+        "ranking": "93",
+        "title": "Supernova",
+        "artist": "aespa",
+        "album": "Armageddon - The 1st Album",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/7e/e0/507ee09f-ccfd-1e3c-af90-ca5e92b1221b/00888735949869_Cover.jpg/80x80bb.webp",
+        "length": "2:58"
+    },
+    {
+        "ranking": "94",
+        "title": "Glimpse of Us",
+        "artist": "Joji",
+        "album": "Glimpse of Us - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f0/45/85/f0458570-7306-662e-01aa-a6bc3bded675/054391890016.jpg/80x80bb.webp",
+        "length": "3:53"
+    },
+    {
+        "ranking": "95",
+        "title": "It's ok I'm ok",
+        "artist": "Tate McRae",
+        "album": "It's ok I'm ok - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/61/e6/3e/61e63e45-56a5-f035-edd5-4c6c52e9369d/196872401141.jpg/80x80bb.webp",
+        "length": "2:36"
+    },
+    {
+        "ranking": "96",
+        "title": "Easy On Me",
+        "artist": "Adele",
+        "album": "30",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/73/6d/7c/736d7cfb-c79d-c9a9-4170-5e71d008dea1/886449666430.jpg/80x80bb.webp",
+        "length": "3:44"
+    },
+    {
+        "ranking": "97",
+        "title": "Ku Dengannya Kau Dengan Dia",
+        "artist": "Afgan",
+        "album": "Sides",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/cc/9f/cd/cc9fcd60-4406-946c-2a73-46863908e66e/8994945002026.jpg/80x80bb.webp",
+        "length": "4:27"
+    },
+    {
+        "ranking": "98",
+        "title": "Really Like You",
+        "artist": "BABYMONSTER",
+        "album": "DRIP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/e1/ef/b9e1ef3a-e3eb-8152-e91b-20aca0fc9ffd/BM_DRIP_Digital-Cover_4000.jpg/80x80bb.webp",
+        "length": "3:17"
+    },
+    {
+        "ranking": "99",
+        "title": "Terlalu Cinta",
+        "artist": "Yovie Widianto",
+        "album": "Terlalu Cinta - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/b9/5d/93b95d35-0e81-de82-99e7-8ec0abba4b7f/24UMGIM72605.rgb.jpg/80x80bb.webp",
+        "length": "4:19"
+    },
+    {
+        "ranking": "100",
+        "title": "Night Changes",
+        "artist": "One Direction",
+        "album": "FOUR (The Ultimate Edition)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/14/e4/98/14e49846-57a9-dc8d-6fa3-5e03ccf3606c/dj.ljogvxod.jpg/80x80bb.webp",
+        "length": "3:46"
+    }
+]

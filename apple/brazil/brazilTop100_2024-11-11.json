@@ -1,0 +1,802 @@
+[
+    {
+        "ranking": "1",
+        "title": "São Paulo",
+        "artist": "The Weeknd",
+        "album": "São Paulo - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/4a/64/934a64d3-2665-72ef-e5b4-29d61fd3707a/24UM1IM21420.rgb.jpg/80x80bb.webp",
+        "length": "5:01"
+    },
+    {
+        "ranking": "2",
+        "title": "Die With A Smile",
+        "artist": "Lady Gaga",
+        "album": "Die With A Smile - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
+        "length": "4:11"
+    },
+    {
+        "ranking": "3",
+        "title": "Barbie",
+        "artist": "MC Tuto",
+        "album": "Barbie - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/54/30/3d543015-acf1-3f79-42ba-bc61f471c1fa/cover.jpg/80x80bb.webp",
+        "length": "3:12"
+    },
+    {
+        "ranking": "4",
+        "title": "APT.",
+        "artist": "ROSÉ",
+        "album": "APT. - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
+        "ranking": "5",
+        "title": "BIRDS OF A FEATHER",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "3:30"
+    },
+    {
+        "ranking": "6",
+        "title": "Coração Partido (Corazón Partío) [Ao Vivo]",
+        "artist": "Grupo Menos É Mais",
+        "album": "Coração Partido (Corazón Partío) [Ao Vivo] - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/72/dd/5a/72dd5ac3-5f16-fc6a-ceb3-09b253e410d7/196872400793.jpg/80x80bb.webp",
+        "length": "3:15"
+    },
+    {
+        "ranking": "7",
+        "title": "Xonei",
+        "artist": "Jorge & Mateus",
+        "album": "Xonei - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/f3/bd/ccf3bdf5-e1dd-a8d4-83c0-211d3eaf1528/196872349641.jpg/80x80bb.webp",
+        "length": "2:34"
+    },
+    {
+        "ranking": "8",
+        "title": "Espresso",
+        "artist": "Sabrina Carpenter",
+        "album": "Espresso - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
+        "length": "2:55"
+    },
+    {
+        "ranking": "9",
+        "title": "Disease",
+        "artist": "Lady Gaga",
+        "album": "Disease - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/2b/dc/c72bdc7a-7014-e5df-a106-583074c0affa/24UM1IM12462.rgb.jpg/80x80bb.webp",
+        "length": "3:49"
+    },
+    {
+        "ranking": "10",
+        "title": "Nocaute",
+        "artist": "Jorge & Mateus",
+        "album": "Os Anjos Cantam",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/32/30/71/3230717e-c44d-958f-239e-7f6f93bec158/7891430378028.jpg/80x80bb.webp",
+        "length": "2:47"
+    },
+    {
+        "ranking": "11",
+        "title": "Haverá Sinais (Ao Vivo)",
+        "artist": "Jorge & Mateus",
+        "album": "Haverá Sinais (Ao Vivo) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/61/9e/4c/619e4cf6-de65-588c-9dca-13b823e06f38/7891430879471.jpg/80x80bb.webp",
+        "length": "3:11"
+    },
+    {
+        "ranking": "12",
+        "title": "Taste",
+        "artist": "Sabrina Carpenter",
+        "album": "Short n' Sweet",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+        "length": "2:37"
+    },
+    {
+        "ranking": "13",
+        "title": "ESCADA DO PRÉDIO",
+        "artist": "PEDRO SAMPAIO",
+        "album": "ASTRO",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f2/e6/02/f2e6023d-d0dd-8006-d7d7-cddf753bc49f/5021732449290.jpg/80x80bb.webp",
+        "length": "2:17"
+    },
+    {
+        "ranking": "14",
+        "title": "Desejo Imortal (It Must Have Been Love)",
+        "artist": "Gusttavo Lima",
+        "album": "Desejo Imortal (It Must Have Been Love) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/10/7d/ed/107ded25-b668-167c-210f-16ce33ace059/196871008945.jpg/80x80bb.webp",
+        "length": "3:04"
+    },
+    {
+        "ranking": "15",
+        "title": "WILDFLOWER",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "4:21"
+    },
+    {
+        "ranking": "16",
+        "title": "Who",
+        "artist": "Jimin",
+        "album": "MUSE",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/80x80bb.webp",
+        "length": "2:50"
+    },
+    {
+        "ranking": "17",
+        "title": "Cantada Boba (Ao Vivo)",
+        "artist": "Jorge & Mateus",
+        "album": "Check-In (Ao Vivo)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a6/e1/11/a6e11169-ad71-078f-58f4-687db011834c/196872386431.jpg/80x80bb.webp",
+        "length": "3:03"
+    },
+    {
+        "ranking": "18",
+        "title": "Please Please Please",
+        "artist": "Sabrina Carpenter",
+        "album": "Short n' Sweet",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+        "length": "3:06"
+    },
+    {
+        "ranking": "19",
+        "title": "Locked Out of Heaven",
+        "artist": "Bruno Mars",
+        "album": "Unorthodox Jukebox",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/a4/7c/e0a47c6f-005a-9f9f-ce29-8e858e2bcfcb/075679957283.jpg/80x80bb.webp",
+        "length": "3:53"
+    },
+    {
+        "ranking": "20",
+        "title": "A Danada Me Ligando",
+        "artist": "MC Cebezinho",
+        "album": "A Danada Me Ligando - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/b9/af/c7b9af61-fc15-7da9-238d-82ba4153ba64/0.jpg/80x80bb.webp",
+        "length": "4:43"
+    },
+    {
+        "ranking": "21",
+        "title": "A Noite (La Notte) [Ao Vivo]",
+        "artist": "Gusttavo Lima",
+        "album": "Embaixador Acústico - Ao Vivo",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/97/87/479787d1-21dc-1e79-933f-85d9268514df/196872521009.jpg/80x80bb.webp",
+        "length": "3:21"
+    },
+    {
+        "ranking": "22",
+        "title": "That’s So True",
+        "artist": "Gracie Abrams",
+        "album": "The Secret of Us (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
+        "length": "2:46"
+    },
+    {
+        "ranking": "23",
+        "title": "Just the Way You Are",
+        "artist": "Bruno Mars",
+        "album": "Doo-Wops & Hooligans (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/98/ae/c2/98aec2e1-3be4-0311-1b44-69348fc87abb/075679956484.jpg/80x80bb.webp",
+        "length": "3:40"
+    },
+    {
+        "ranking": "24",
+        "title": "CAJU",
+        "artist": "Liniker",
+        "album": "CAJU",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/52/a0/29/52a029fe-621c-b449-0c6a-15cfb0784e6c/8447053186220.jpg/80x80bb.webp",
+        "length": "4:26"
+    },
+    {
+        "ranking": "25",
+        "title": "CHIHIRO",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "5:03"
+    },
+    {
+        "ranking": "26",
+        "title": "Beautiful Things",
+        "artist": "Benson Boone",
+        "album": "Beautiful Things - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
+        "length": "3:00"
+    },
+    {
+        "ranking": "27",
+        "title": "The Emptiness Machine",
+        "artist": "LINKIN PARK",
+        "album": "From Zero",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/21/cf/6921cff3-7074-118a-ece2-4012450e6c75/093624839811.jpg/80x80bb.webp",
+        "length": "3:10"
+    },
+    {
+        "ranking": "28",
+        "title": "Lose Control",
+        "artist": "Teddy Swims",
+        "album": "I've Tried Everything But Therapy (Part 1)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
+        "length": "3:30"
+    },
+    {
+        "ranking": "29",
+        "title": "300 no 7 (feat. Dj Yuri Pedrada)",
+        "artist": "Mc GP",
+        "album": "300 no 7 (feat. Dj Yuri Pedrada) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/f3/ae/d4f3aedc-aab9-4cc8-13da-7f4ed6798929/0.jpg/80x80bb.webp",
+        "length": "3:15"
+    },
+    {
+        "ranking": "30",
+        "title": "Última Saudade (Ao Vivo)",
+        "artist": "Henrique & Juliano",
+        "album": "Manifesto Musical 2 (Ao Vivo) - EP1",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/1b/0e/491b0e9f-a0aa-b28e-f8d2-8fc50c5e7bc4/24UM1IM03742.rgb.jpg/80x80bb.webp",
+        "length": "2:30"
+    },
+    {
+        "ranking": "31",
+        "title": "Romântico (Ao Vivo)",
+        "artist": "Henrique & Juliano",
+        "album": "Manifesto Musical 2 (Ao Vivo) - EP 2",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1c/68/cb/1c68cbb8-d7e8-275b-b920-92b7d911b985/24UM1IM12909.rgb.jpg/80x80bb.webp",
+        "length": "3:03"
+    },
+    {
+        "ranking": "32",
+        "title": "Traumatizei (Ao Vivo)",
+        "artist": "Henrique & Juliano",
+        "album": "To Be (Ao Vivo) - EP 1",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e3/38/e4/e338e413-4d4f-a9d4-fa6f-84049e373681/23UMGIM08072.rgb.jpg/80x80bb.webp",
+        "length": "2:52"
+    },
+    {
+        "ranking": "33",
+        "title": "Última Noite",
+        "artist": "Léo Foguete",
+        "album": "Última Noite - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cb/4a/48/cb4a4846-ed4b-20d7-6692-29e483e1fd0e/8721093917472.png/80x80bb.webp",
+        "length": "2:34"
+    },
+    {
+        "ranking": "34",
+        "title": "Expectativa x Realidade",
+        "artist": "Matheus & Kauan",
+        "album": "Expectativa x Realidade - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a5/76/9d/a5769de7-c2ec-949c-366f-84b887410836/21UMGIM33210.rgb.jpg/80x80bb.webp",
+        "length": "2:43"
+    },
+    {
+        "ranking": "35",
+        "title": "Too Sweet",
+        "artist": "Hozier",
+        "album": "Unreal Unearth: Unaired",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/12/e3/a412e390-51aa-6625-9adc-d502bf1c349f/196872373004.jpg/80x80bb.webp",
+        "length": "4:11"
+    },
+    {
+        "ranking": "36",
+        "title": "That's What I Like",
+        "artist": "Bruno Mars",
+        "album": "24K Magic",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e3/47/a0/e347a0cc-87ce-5d05-d560-176c7d48f66e/075679904119.jpg/80x80bb.webp",
+        "length": "3:26"
+    },
+    {
+        "ranking": "37",
+        "title": "Tropa do Sem K.O (feat. MC Ryan SP, Mc Duzinho SP, MC LUUKY & Caio Passos)",
+        "artist": "Mc Joaozinho VT",
+        "album": "Tropa do Sem K.O (feat. MC Ryan SP, Mc Duzinho SP, MC LUUKY & Caio Passos) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/85/aa/2a/85aa2a13-8974-c37e-5b79-b26aa9fd1de2/cover.jpg/80x80bb.webp",
+        "length": "6:16"
+    },
+    {
+        "ranking": "38",
+        "title": "Crack com Mussilon",
+        "artist": "Matuê",
+        "album": "333",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/14/b5/4a/14b54a4f-eefd-fb47-cf0f-1c4afe252d0f/5034644060613.jpg/80x80bb.webp",
+        "length": "2:34"
+    },
+    {
+        "ranking": "39",
+        "title": "Barulho Do Foguete (Ao Vivo)",
+        "artist": "Zé Neto & Cristiano",
+        "album": "Barulho Do Foguete (Ao Vivo) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/20/d4/70/20d470c4-315c-fde2-d0bd-b3e99d140854/7891430814472.jpg/80x80bb.webp",
+        "length": "2:13"
+    },
+    {
+        "ranking": "40",
+        "title": "Leão",
+        "artist": "Marília Mendonça",
+        "album": "Decretos Reais, Vol. 2 - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ed/f6/a7/edf6a74f-15fa-1b0e-f172-6c99841d1c32/7891430726072.jpg/80x80bb.webp",
+        "length": "2:46"
+    },
+    {
+        "ranking": "41",
+        "title": "Molhando o Volante",
+        "artist": "Jorge & Mateus",
+        "album": "Molhando o Volante - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8c/c0/ba/8cc0ba34-0422-b493-445f-ff393703bbe5/7891430624576.jpg/80x80bb.webp",
+        "length": "2:42"
+    },
+    {
+        "ranking": "42",
+        "title": "24K Magic",
+        "artist": "Bruno Mars",
+        "album": "24K Magic",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e3/47/a0/e347a0cc-87ce-5d05-d560-176c7d48f66e/075679904119.jpg/80x80bb.webp",
+        "length": "3:46"
+    },
+    {
+        "ranking": "43",
+        "title": "Good Luck, Babe!",
+        "artist": "Chappell Roan",
+        "album": "Good Luck, Babe! - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/80x80bb.webp",
+        "length": "3:38"
+    },
+    {
+        "ranking": "44",
+        "title": "Rancorosa (Ao Vivo Em Brasília)",
+        "artist": "Henrique & Juliano",
+        "album": "To Be (Ao Vivo Em Brasília) - EP 2",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1c/1c/2e/1c1c2eb9-7341-4045-96a9-6de6f0feebea/23UMGIM27692.rgb.jpg/80x80bb.webp",
+        "length": "3:01"
+    },
+    {
+        "ranking": "45",
+        "title": "Morar Nesse Motel",
+        "artist": "Gusttavo Lima",
+        "album": "Morar Nesse Motel - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/cf/60/1acf6085-81a6-c887-93ce-8c24279245fe/196872230581.jpg/80x80bb.webp",
+        "length": "3:07"
+    },
+    {
+        "ranking": "46",
+        "title": "Nosso Quadro",
+        "artist": "AgroPlay",
+        "album": "Nosso Quadro - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e5/eb/29/e5eb29ec-e3ec-9f13-077a-de6bcfb6b66e/8720923452343.png/80x80bb.webp",
+        "length": "2:53"
+    },
+    {
+        "ranking": "47",
+        "title": "Pirulito Vermelho",
+        "artist": "Diego & Victor Hugo",
+        "album": "Pirulito Vermelho - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2b/dd/35/2bdd3543-1edd-22bb-4246-dcdcfbc59bad/196871215114.jpg/80x80bb.webp",
+        "length": "2:32"
+    },
+    {
+        "ranking": "48",
+        "title": "When I Was Your Man",
+        "artist": "Bruno Mars",
+        "album": "Unorthodox Jukebox",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/a4/7c/e0a47c6f-005a-9f9f-ce29-8e858e2bcfcb/075679957283.jpg/80x80bb.webp",
+        "length": "3:33"
+    },
+    {
+        "ranking": "49",
+        "title": "Blinding Lights",
+        "artist": "The Weeknd",
+        "album": "Blinding Lights - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a6/6e/bf/a66ebf79-5008-8948-b352-a790fc87446b/19UM1IM04638.rgb.jpg/80x80bb.webp",
+        "length": "3:21"
+    },
+    {
+        "ranking": "50",
+        "title": "THE BOX MEDLEY FUNK 2",
+        "artist": "The Box",
+        "album": "THE BOX MEDLEY FUNK 2 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/a5/a1/63a5a127-cb15-c2fd-f6fa-85e5013378a0/196872018301.jpg/80x80bb.webp",
+        "length": "4:26"
+    },
+    {
+        "ranking": "51",
+        "title": "Sagrado Profano",
+        "artist": "Luísa Sonza",
+        "album": "Escândalo Íntimo",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/64/33/5c/64335cda-ff96-cf5e-f4d0-d50fb826ae16/196871415392.jpg/80x80bb.webp",
+        "length": "3:16"
+    },
+    {
+        "ranking": "52",
+        "title": "Enchendo e Derramando",
+        "artist": "Zé Neto & Cristiano",
+        "album": "Enchendo e Derramando - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/be/58/81/be588100-0a39-c700-f580-c22623562092/7891430384579.jpg/80x80bb.webp",
+        "length": "3:12"
+    },
+    {
+        "ranking": "53",
+        "title": "Juno",
+        "artist": "Sabrina Carpenter",
+        "album": "Short n' Sweet",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+        "length": "3:43"
+    },
+    {
+        "ranking": "54",
+        "title": "TUDO",
+        "artist": "Liniker",
+        "album": "CAJU",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/52/a0/29/52a029fe-621c-b449-0c6a-15cfb0784e6c/8447053186220.jpg/80x80bb.webp",
+        "length": "3:34"
+    },
+    {
+        "ranking": "55",
+        "title": "Leave The Door Open",
+        "artist": "Silk Sonic",
+        "album": "An Evening With Silk Sonic",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c5/33/dc/c533dc8e-2baa-94f9-22be-e6e28945f932/075679754134.jpg/80x80bb.webp",
+        "length": "4:02"
+    },
+    {
+        "ranking": "56",
+        "title": "Believer",
+        "artist": "Imagine Dragons",
+        "album": "Evolve",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/11/7a/b8/117ab805-6811-8929-18b9-0fad7baf0c25/17UMGIM98210.rgb.jpg/80x80bb.webp",
+        "length": "3:24"
+    },
+    {
+        "ranking": "57",
+        "title": "Você Beberia Ou Não Beberia?",
+        "artist": "Zé Neto & Cristiano",
+        "album": "Chaaama - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4f/59/bb/4f59bbde-7dcc-c0c3-4418-f60e9f911ed7/7891430579678.jpg/80x80bb.webp",
+        "length": "2:34"
+    },
+    {
+        "ranking": "58",
+        "title": "we can't be friends (wait for your love)",
+        "artist": "Ariana Grande",
+        "album": "eternal sunshine",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/34/fe/a1/34fea184-6d20-3f50-b4ce-5e1501c1c5ab/24UMGIM00198.rgb.jpg/80x80bb.webp",
+        "length": "3:48"
+    },
+    {
+        "ranking": "59",
+        "title": "Flowers",
+        "artist": "Miley Cyrus",
+        "album": "Endless Summer Vacation",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c4/40/d8/c440d88a-2bcd-5d10-e814-e482271134f4/196871387361.jpg/80x80bb.webp",
+        "length": "3:20"
+    },
+    {
+        "ranking": "60",
+        "title": "Canudinho (Ao Vivo)",
+        "artist": "Gusttavo Lima",
+        "album": "Paraíso Particular (Ao Vivo)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f3/9f/50/f39f508f-4b99-4ba0-4bf0-aa105ef71316/196872002997.jpg/80x80bb.webp",
+        "length": "2:04"
+    },
+    {
+        "ranking": "61",
+        "title": "Talking to the Moon",
+        "artist": "Bruno Mars",
+        "album": "Doo-Wops & Hooligans (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/98/ae/c2/98aec2e1-3be4-0311-1b44-69348fc87abb/075679956484.jpg/80x80bb.webp",
+        "length": "3:37"
+    },
+    {
+        "ranking": "62",
+        "title": "Bed Chem",
+        "artist": "Sabrina Carpenter",
+        "album": "Short n' Sweet",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+        "length": "2:51"
+    },
+    {
+        "ranking": "63",
+        "title": "As It Was",
+        "artist": "Harry Styles",
+        "album": "Harry's House",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2a/19/fb/2a19fb85-2f70-9e44-f2a9-82abe679b88e/886449990061.jpg/80x80bb.webp",
+        "length": "2:47"
+    },
+    {
+        "ranking": "64",
+        "title": "Cruel Summer",
+        "artist": "Taylor Swift",
+        "album": "Lover",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/80x80bb.webp",
+        "length": "2:58"
+    },
+    {
+        "ranking": "65",
+        "title": "LUNCH",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "2:59"
+    },
+    {
+        "ranking": "66",
+        "title": "Bebe e Vem Me Procurar / Quem Ama Sente Saudade (feat. Grupo Menos É Mais) [Ao Vivo]",
+        "artist": "Turma do Pagode",
+        "album": "Bebe e Vem Me Procurar / Quem Ama Sente Saudade (feat. Grupo Menos É Mais) [Ao Vivo] - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a4/be/58/a4be58a4-edb0-0bc7-e030-85767fa90647/886449042265.jpg/80x80bb.webp",
+        "length": "3:36"
+    },
+    {
+        "ranking": "67",
+        "title": "Joga Pra Lua",
+        "artist": "Anitta",
+        "album": "Joga Pra Lua - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/36/5b/3a/365b3a5b-1f79-db2a-ffb6-fcb57239a245/23UM1IM58141.rgb.jpg/80x80bb.webp",
+        "length": "2:05"
+    },
+    {
+        "ranking": "68",
+        "title": "Tem Amor, Tem Volta (Ao Vivo)",
+        "artist": "Jorge & Mateus",
+        "album": "Check-In (Ao Vivo)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a6/e1/11/a6e11169-ad71-078f-58f4-687db011834c/196872386431.jpg/80x80bb.webp",
+        "length": "2:22"
+    },
+    {
+        "ranking": "69",
+        "title": "Dói",
+        "artist": "Jorge & Mateus",
+        "album": "Dói - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/05/9c/9d/059c9db1-c995-0677-097e-43c494dde930/7891430812171.jpg/80x80bb.webp",
+        "length": "3:03"
+    },
+    {
+        "ranking": "70",
+        "title": "Heavy Is the Crown",
+        "artist": "LINKIN PARK",
+        "album": "From Zero",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/21/cf/6921cff3-7074-118a-ece2-4012450e6c75/093624839811.jpg/80x80bb.webp",
+        "length": "2:47"
+    },
+    {
+        "ranking": "71",
+        "title": "In the End",
+        "artist": "LINKIN PARK",
+        "album": "Hybrid Theory (Deluxe Edition)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/53/a7/7f/53a77fab-c54c-a57b-8130-248fc12d0c80/093624948995.jpg/80x80bb.webp",
+        "length": "3:36"
+    },
+    {
+        "ranking": "72",
+        "title": "Mó Fita",
+        "artist": "DJ Victor",
+        "album": "Mó Fita - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/33/50/83/33508356-ad3a-01d5-068b-71edcaf22ecf/0.jpg/80x80bb.webp",
+        "length": "4:16"
+    },
+    {
+        "ranking": "73",
+        "title": "Melhor Que Muita Gente (O Copo Não Mente)",
+        "artist": "Israel & Rodolffo",
+        "album": "Aqui e Agora Deluxe",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/04/ed/60/04ed606b-2e84-2989-3d4d-c1eed43a5b82/7891430584573.jpg/80x80bb.webp",
+        "length": "2:41"
+    },
+    {
+        "ranking": "74",
+        "title": "VELUDO MARROM",
+        "artist": "Liniker",
+        "album": "CAJU",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/52/a0/29/52a029fe-621c-b449-0c6a-15cfb0784e6c/8447053186220.jpg/80x80bb.webp",
+        "length": "7:17"
+    },
+    {
+        "ranking": "75",
+        "title": "New Rules",
+        "artist": "Dua Lipa",
+        "album": "Dua Lipa (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c1/54/2d/c1542d45-c6c2-12ca-7308-6eacd762c562/190295807870.jpg/80x80bb.webp",
+        "length": "3:29"
+    },
+    {
+        "ranking": "76",
+        "title": "Arruma Um Bão",
+        "artist": "Israel & Rodolffo",
+        "album": "Termômetro",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/1a/8b/891a8b54-0ce1-6bd8-5115-458966857e91/196872473940.jpg/80x80bb.webp",
+        "length": "2:55"
+    },
+    {
+        "ranking": "77",
+        "title": "Isso é Sério",
+        "artist": "Matuê",
+        "album": "333",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/14/b5/4a/14b54a4f-eefd-fb47-cf0f-1c4afe252d0f/5034644060613.jpg/80x80bb.webp",
+        "length": "4:45"
+    },
+    {
+        "ranking": "78",
+        "title": "Mtg na Imaginação (Topo Sessions Vol. 1)",
+        "artist": "DJ Topo",
+        "album": "Mtg na Imaginação (Topo Sessions Vol. 1) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/a4/ba/34a4bab2-808c-de71-4724-4909ebade637/724997530752.png/80x80bb.webp",
+        "length": "2:24"
+    },
+    {
+        "ranking": "79",
+        "title": "Nosso Primeiro Beijo (Ao Vivo)",
+        "artist": "Gloria Groove",
+        "album": "Serenata da GG, Vol. 1 (Ao Vivo)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/8c/9e/a98c9e7d-178a-3959-f95a-e5a0ed1db06e/198588151495.jpg/80x80bb.webp",
+        "length": "2:48"
+    },
+    {
+        "ranking": "80",
+        "title": "Viva La Vida",
+        "artist": "Coldplay",
+        "album": "Viva La Vida or Death and All His Friends",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/52/aa/85/52aa851f-15b7-6322-f91f-df84b15b7b19/190295978044.jpg/80x80bb.webp",
+        "length": "4:01"
+    },
+    {
+        "ranking": "81",
+        "title": "Sweet Child O' Mine",
+        "artist": "Guns N' Roses",
+        "album": "Appetite for Destruction (Super Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/56/47/b7/5647b700-6b9d-9e72-ec9f-51140b6d4492/00602567673781.rgb.jpg/80x80bb.webp",
+        "length": "5:56"
+    },
+    {
+        "ranking": "82",
+        "title": "Timeless",
+        "artist": "The Weeknd",
+        "album": "Timeless - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
+        "length": "4:16"
+    },
+    {
+        "ranking": "83",
+        "title": "Quase Algo (Ao Vivo)",
+        "artist": "Henrique & Juliano",
+        "album": "To Be (Ao Vivo Em Nova Iorque) - EP1",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/64/97/c4/6497c499-78c3-b5e6-be91-0474f6955318/23UM1IM01743.rgb.jpg/80x80bb.webp",
+        "length": "2:58"
+    },
+    {
+        "ranking": "84",
+        "title": "360",
+        "artist": "Charli xcx",
+        "album": "BRAT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3b/13/68/3b1368de-9cf1-076f-c7d1-fa2720bfc55c/075679666130.jpg/80x80bb.webp",
+        "length": "2:13"
+    },
+    {
+        "ranking": "85",
+        "title": "Propaganda (Ao Vivo)",
+        "artist": "Jorge & Mateus",
+        "album": "Terra Sem CEP (Ao Vivo)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/36/7c/20/367c2019-5049-fea8-5e7e-539c81486874/7891430462727.jpg/80x80bb.webp",
+        "length": "2:21"
+    },
+    {
+        "ranking": "86",
+        "title": "Funk Rave",
+        "artist": "Anitta",
+        "album": "Funk Rave - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ed/3e/3c/ed3e3c28-757a-c338-db2e-3eb774ce282c/23UMGIM63507.rgb.jpg/80x80bb.webp",
+        "length": "2:27"
+    },
+    {
+        "ranking": "87",
+        "title": "Guess featuring Billie Eilish",
+        "artist": "Charli xcx",
+        "album": "Guess featuring Billie Eilish - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/a7/a2/2ca7a20f-13aa-81ac-9423-a09147acab76/075679636072.jpg/80x80bb.webp",
+        "length": "2:23"
+    },
+    {
+        "ranking": "88",
+        "title": "no tears left to cry",
+        "artist": "Ariana Grande",
+        "album": "sweetener (Bonus Videos Edition)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9e/71/a4/9e71a47f-c290-a542-07fd-a3aed41eefa7/18UMGIM36924.rgb.jpg/80x80bb.webp",
+        "length": "3:25"
+    },
+    {
+        "ranking": "89",
+        "title": "Supera (Ao Vivo)",
+        "artist": "Marília Mendonça",
+        "album": "Todos os Cantos, Vol. 3 (Ao Vivo) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/28/88/8a/28888ad9-7027-56d0-2094-66c5c8e91021/7891430413873.jpg/80x80bb.webp",
+        "length": "2:27"
+    },
+    {
+        "ranking": "90",
+        "title": "Don't Stop Believin' (2024 Remaster)",
+        "artist": "Journey",
+        "album": "Greatest Hits (2024 Remaster)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/71/2d/61/712d617d-f4a4-5904-1b11-d4b4b45c47c5/828768588925.jpg/80x80bb.webp",
+        "length": "4:10"
+    },
+    {
+        "ranking": "91",
+        "title": "Bênçãos Que Não Têm Fim (Counting My Blessings)",
+        "artist": "Isadora Pompeo",
+        "album": "Bênçãos Que Não Têm Fim (Counting My Blessings) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a2/92/12/a2921245-82be-b2e4-5aa2-20c0c932b0bb/196871586658.jpg/80x80bb.webp",
+        "length": "3:29"
+    },
+    {
+        "ranking": "92",
+        "title": "Thunder",
+        "artist": "Imagine Dragons",
+        "album": "Evolve",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/11/7a/b8/117ab805-6811-8929-18b9-0fad7baf0c25/17UMGIM98210.rgb.jpg/80x80bb.webp",
+        "length": "3:07"
+    },
+    {
+        "ranking": "93",
+        "title": "Manda Áudio",
+        "artist": "Di Propósito",
+        "album": "Manda Áudio - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6b/d9/82/6bd98290-b926-ceb7-ce87-7897f96be984/886448654445.jpg/80x80bb.webp",
+        "length": "2:42"
+    },
+    {
+        "ranking": "94",
+        "title": "Malvadinho",
+        "artist": "MC LUUKY",
+        "album": "Malvadinho - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/c9/1d/8bc91dfe-d63f-0d3b-fa35-894f94e5b7e6/cover.jpg/80x80bb.webp",
+        "length": "2:00"
+    },
+    {
+        "ranking": "95",
+        "title": "Uptown Funk (feat. Bruno Mars)",
+        "artist": "Mark Ronson",
+        "album": "Uptown Special",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7e/30/c5/7e30c572-aa47-5f7b-c6fd-42d50cd2c56d/886444959797.jpg/80x80bb.webp",
+        "length": "4:29"
+    },
+    {
+        "ranking": "96",
+        "title": "Wonderwall (Remastered)",
+        "artist": "Oasis",
+        "album": "(What's The Story) Morning Glory? [Deluxe Remastered Edition]",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/34/2e/cb/342ecb17-ef19-816a-4ce5-e60b9ceec161/5051961073164.jpg/80x80bb.webp",
+        "length": "4:18"
+    },
+    {
+        "ranking": "97",
+        "title": "Good Graces",
+        "artist": "Sabrina Carpenter",
+        "album": "Short n' Sweet",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+        "length": "3:05"
+    },
+    {
+        "ranking": "98",
+        "title": "Cronômetro (Ao Vivo)",
+        "artist": "Matheus & Kauan",
+        "album": "Praiou, Vol. 3 (Ao Vivo)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/58/c1/2858c154-159a-9de9-d4f1-ddf3905983b4/24UMGIM68884.rgb.jpg/80x80bb.webp",
+        "length": "2:45"
+    },
+    {
+        "ranking": "99",
+        "title": "Lapada Dela (Ao Vivo)",
+        "artist": "Grupo Menos É Mais",
+        "album": "Confia (Ao Vivo)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/e8/69/b5/e869b5f8-ec2b-85e2-c1cd-21f985a546ec/7891430747176.jpg/80x80bb.webp",
+        "length": "2:39"
+    },
+    {
+        "ranking": "100",
+        "title": "Melhor Eu Ir / Ligando os Fatos / Sonho de Amor / Deixa Eu Te Querer (feat. Di Propósito & Vou Zuar) [Ao Vivo]",
+        "artist": "Grupo Menos É Mais",
+        "album": "Churrasquinho Menos É Mais (feat. Di Propósito & Vou Zuar) [Ao Vivo]",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/94/48/46/94484633-e4b4-a4a3-e6ce-5ede9850157c/7891430505479.jpg/80x80bb.webp",
+        "length": "8:41"
+    }
+]

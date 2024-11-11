@@ -1,0 +1,802 @@
+[
+    {
+        "ranking": "1",
+        "title": "Ohnivej kruh",
+        "artist": "Viktor Sheen",
+        "album": "Impostor syndrom",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/ab/92/2cab92a4-bcac-5da9-89e2-18a52a39e77e/5021732523303.jpg/80x80bb.webp",
+        "length": "2:10"
+    },
+    {
+        "ranking": "2",
+        "title": "Cígo a káva (feat. Saul)",
+        "artist": "Viktor Sheen",
+        "album": "Impostor syndrom",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/ab/92/2cab92a4-bcac-5da9-89e2-18a52a39e77e/5021732523303.jpg/80x80bb.webp",
+        "length": "3:03"
+    },
+    {
+        "ranking": "3",
+        "title": "Zvyk (feat. SIMILIVINLIFE)",
+        "artist": "Viktor Sheen",
+        "album": "Impostor syndrom",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/ab/92/2cab92a4-bcac-5da9-89e2-18a52a39e77e/5021732523303.jpg/80x80bb.webp",
+        "length": "2:31"
+    },
+    {
+        "ranking": "4",
+        "title": "Převlečená žízeň",
+        "artist": "Viktor Sheen",
+        "album": "Impostor syndrom",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/ab/92/2cab92a4-bcac-5da9-89e2-18a52a39e77e/5021732523303.jpg/80x80bb.webp",
+        "length": "2:53"
+    },
+    {
+        "ranking": "5",
+        "title": "Zima Blue (feat. Nik Tendo & Yzomandias)",
+        "artist": "Viktor Sheen",
+        "album": "Impostor syndrom",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/ab/92/2cab92a4-bcac-5da9-89e2-18a52a39e77e/5021732523303.jpg/80x80bb.webp",
+        "length": "2:28"
+    },
+    {
+        "ranking": "6",
+        "title": "Máta",
+        "artist": "Viktor Sheen",
+        "album": "Impostor syndrom",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/ab/92/2cab92a4-bcac-5da9-89e2-18a52a39e77e/5021732523303.jpg/80x80bb.webp",
+        "length": "2:55"
+    },
+    {
+        "ranking": "7",
+        "title": "Pátky",
+        "artist": "Viktor Sheen",
+        "album": "Impostor syndrom",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/ab/92/2cab92a4-bcac-5da9-89e2-18a52a39e77e/5021732523303.jpg/80x80bb.webp",
+        "length": "3:08"
+    },
+    {
+        "ranking": "8",
+        "title": "Roleplay",
+        "artist": "Viktor Sheen",
+        "album": "Impostor syndrom",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/ab/92/2cab92a4-bcac-5da9-89e2-18a52a39e77e/5021732523303.jpg/80x80bb.webp",
+        "length": "2:52"
+    },
+    {
+        "ranking": "9",
+        "title": "Další den",
+        "artist": "Viktor Sheen",
+        "album": "Impostor syndrom",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/ab/92/2cab92a4-bcac-5da9-89e2-18a52a39e77e/5021732523303.jpg/80x80bb.webp",
+        "length": "2:25"
+    },
+    {
+        "ranking": "10",
+        "title": "Syndrom",
+        "artist": "Viktor Sheen",
+        "album": "Impostor syndrom",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/ab/92/2cab92a4-bcac-5da9-89e2-18a52a39e77e/5021732523303.jpg/80x80bb.webp",
+        "length": "2:46"
+    },
+    {
+        "ranking": "11",
+        "title": "Hory Kazachstánu",
+        "artist": "Viktor Sheen",
+        "album": "Impostor syndrom",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/ab/92/2cab92a4-bcac-5da9-89e2-18a52a39e77e/5021732523303.jpg/80x80bb.webp",
+        "length": "3:38"
+    },
+    {
+        "ranking": "12",
+        "title": "Ty a já (feat. Lil Buca Near)",
+        "artist": "Viktor Sheen",
+        "album": "Impostor syndrom",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/ab/92/2cab92a4-bcac-5da9-89e2-18a52a39e77e/5021732523303.jpg/80x80bb.webp",
+        "length": "3:08"
+    },
+    {
+        "ranking": "13",
+        "title": "GHETTO ROMANTIKA",
+        "artist": "Hard Rico",
+        "album": "GHETTO ROMANTIKA - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/ea/57/a8ea57d2-427a-4b6b-e3b0-6f0fa4530ca3/24UM1IM09553.rgb.jpg/80x80bb.webp",
+        "length": "2:33"
+    },
+    {
+        "ranking": "14",
+        "title": "NENI STRE$S",
+        "artist": "Pil C",
+        "album": "VOJNA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/cc/c6/5eccc6ec-77b7-7738-5ff4-9070abf6a700/24UMGIM60453.rgb.jpg/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
+        "ranking": "15",
+        "title": "Kiki",
+        "artist": "Trabo",
+        "album": "Kiki - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/a4/82/e2a48218-1c50-4bbc-5702-41bc309a46d1/e3b79d18-05db-4799-a895-350537df02a6.jpg/80x80bb.webp",
+        "length": "2:53"
+    },
+    {
+        "ranking": "16",
+        "title": "São Paulo",
+        "artist": "The Weeknd",
+        "album": "São Paulo - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/4a/64/934a64d3-2665-72ef-e5b4-29d61fd3707a/24UM1IM21420.rgb.jpg/80x80bb.webp",
+        "length": "5:01"
+    },
+    {
+        "ranking": "17",
+        "title": "Timeless",
+        "artist": "The Weeknd",
+        "album": "Timeless - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
+        "length": "4:16"
+    },
+    {
+        "ranking": "18",
+        "title": "Narcos",
+        "artist": "Hard Rico",
+        "album": "Narcos - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/19/55/72/1955728f-c8ea-536e-74d4-adadaae10b86/24UMGIM60225.rgb.jpg/80x80bb.webp",
+        "length": "3:11"
+    },
+    {
+        "ranking": "19",
+        "title": "BIRDS OF A FEATHER",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "3:30"
+    },
+    {
+        "ranking": "20",
+        "title": "Die With A Smile",
+        "artist": "Lady Gaga",
+        "album": "Die With A Smile - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
+        "length": "4:11"
+    },
+    {
+        "ranking": "21",
+        "title": "MANDELA",
+        "artist": "Zayo",
+        "album": "MANDELA - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/ea/5e/49ea5ef1-8ef1-dce8-6671-c388015eea40/24UM1IM25400.rgb.jpg/80x80bb.webp",
+        "length": "2:32"
+    },
+    {
+        "ranking": "22",
+        "title": "The Sound of Silence (CYRIL Remix)",
+        "artist": "Disturbed",
+        "album": "To The World - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3f/be/33/3fbe339b-6da1-7bdc-1083-0345a1aa40f0/5021732450494.jpg/80x80bb.webp",
+        "length": "3:05"
+    },
+    {
+        "ranking": "23",
+        "title": "APT.",
+        "artist": "ROSÉ",
+        "album": "APT. - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
+        "ranking": "24",
+        "title": "Pro štěstí",
+        "artist": "Ektor",
+        "album": "Pro štěstí - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/b4/cf/6ab4cf88-d092-b1d8-7bbf-cad4630b961f/24UM1IM22640.rgb.jpg/80x80bb.webp",
+        "length": "2:47"
+    },
+    {
+        "ranking": "25",
+        "title": "ULICE DRUHÁ MÁMA",
+        "artist": "Hard Rico",
+        "album": "GLOBAL",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/8b/bc/a38bbc91-e43f-a2bb-ebd7-44b975d65156/24UM1IM11950.rgb.jpg/80x80bb.webp",
+        "length": "3:06"
+    },
+    {
+        "ranking": "26",
+        "title": "Bbejbb",
+        "artist": "Separ",
+        "album": "DOVIDENIA - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ea/a2/f3/eaa2f3ac-4657-5449-6cc6-b0bb98360244/9e8a871f-a723-470d-86e9-207eb8a5360b.jpg/80x80bb.webp",
+        "length": "2:53"
+    },
+    {
+        "ranking": "27",
+        "title": "Safír",
+        "artist": "Calin",
+        "album": "ROADTRIP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/5c/01/97/5c019729-9ebf-067d-6177-ec4b59065979/5054197525186.jpg/80x80bb.webp",
+        "length": "2:29"
+    },
+    {
+        "ranking": "28",
+        "title": "Sailor Song",
+        "artist": "Gigi Perez",
+        "album": "Sailor Song - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/d4/96/25d49699-acc0-401f-a7cc-d7697339a474/24UM1IM03751.rgb.jpg/80x80bb.webp",
+        "length": "3:31"
+    },
+    {
+        "ranking": "29",
+        "title": "ONLY G'Z",
+        "artist": "Hard Rico",
+        "album": "GLOBAL",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/8b/bc/a38bbc91-e43f-a2bb-ebd7-44b975d65156/24UM1IM11950.rgb.jpg/80x80bb.webp",
+        "length": "2:27"
+    },
+    {
+        "ranking": "30",
+        "title": "Sunset",
+        "artist": "Separ",
+        "album": "Sunset - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ed/47/b9/ed47b977-7f0c-1403-9dae-92f715b75a4c/f5109eca-d33b-4eba-a235-0b3f7419b0b9.jpg/80x80bb.webp",
+        "length": "2:35"
+    },
+    {
+        "ranking": "31",
+        "title": "That’s So True",
+        "artist": "Gracie Abrams",
+        "album": "The Secret of Us (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
+        "length": "2:46"
+    },
+    {
+        "ranking": "32",
+        "title": "Domov",
+        "artist": "Alan Murin",
+        "album": "Domov - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/bc/37/1abc37ef-9e61-5051-2c9b-df4c5db5c295/5b1de79e-3d01-4ed6-a0df-2dd791e0b266.jpg/80x80bb.webp",
+        "length": "4:00"
+    },
+    {
+        "ranking": "33",
+        "title": "The Emptiness Machine",
+        "artist": "LINKIN PARK",
+        "album": "From Zero",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/21/cf/6921cff3-7074-118a-ece2-4012450e6c75/093624839811.jpg/80x80bb.webp",
+        "length": "3:10"
+    },
+    {
+        "ranking": "34",
+        "title": "Espresso",
+        "artist": "Sabrina Carpenter",
+        "album": "Espresso - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
+        "length": "2:55"
+    },
+    {
+        "ranking": "35",
+        "title": "NESTARAM SA",
+        "artist": "Pil C",
+        "album": "VOJNA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/cc/c6/5eccc6ec-77b7-7738-5ff4-9070abf6a700/24UMGIM60453.rgb.jpg/80x80bb.webp",
+        "length": "2:47"
+    },
+    {
+        "ranking": "36",
+        "title": "Rest In Piss",
+        "artist": "Dollar Prync",
+        "album": "Rest In Piss - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/76/58/fa765829-6875-069a-d66d-a944c2839a81/24UMGIM98854.rgb.jpg/80x80bb.webp",
+        "length": "2:31"
+    },
+    {
+        "ranking": "37",
+        "title": "Režim nerušit",
+        "artist": "Dollar Prync",
+        "album": "Kures Drill",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/22/63/bb/2263bb5b-dd48-cebe-48d2-84d3dbd99398/23UMGIM91960.rgb.jpg/80x80bb.webp",
+        "length": "3:06"
+    },
+    {
+        "ranking": "38",
+        "title": "Peniaze (feat. C.Rosso & Tisci)",
+        "artist": "Luca Brassi10x",
+        "album": "Ghettoven",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/db/65/ec/db65ec42-91e0-7a55-e21d-74934ec24f1e/64dc1b7c-e11e-41ce-84dc-4023e4b1afb5.jpg/80x80bb.webp",
+        "length": "3:37"
+    },
+    {
+        "ranking": "39",
+        "title": "WILDFLOWER",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "4:21"
+    },
+    {
+        "ranking": "40",
+        "title": "FE!N (feat. Playboi Carti)",
+        "artist": "Travis Scott",
+        "album": "UTOPIA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/7d/b0/097db06f-8403-3cf7-7510-139e570ca66b/196871341882.jpg/80x80bb.webp",
+        "length": "3:11"
+    },
+    {
+        "ranking": "41",
+        "title": "Mám ťa rád (feat. Šorty)",
+        "artist": "Kali",
+        "album": "Mám ťa rád (feat. Šorty) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f9/68/d1/f968d1c1-65e7-82dd-6b28-4f9940d59bc3/04206c2e-5e0e-4677-832b-015ac60014ee.jpg/80x80bb.webp",
+        "length": "3:36"
+    },
+    {
+        "ranking": "42",
+        "title": "Pinokio (feat. Dano Kapitán)",
+        "artist": "Separ",
+        "album": "OG",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1c/0a/b9/1c0ab988-ed05-995a-c9c1-72f915c762b7/73dc4fd3-dd16-4691-afcb-db1c992ab6fa.jpg/80x80bb.webp",
+        "length": "3:37"
+    },
+    {
+        "ranking": "43",
+        "title": "CARA MIA (feat. Alan Murin)",
+        "artist": "Pil C",
+        "album": "ODSÚDENÍ NA ÚSPECH",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/49/9a/ce/499ace44-3d89-f088-1283-a121c8ee0400/21UM1IM54150.rgb.jpg/80x80bb.webp",
+        "length": "3:10"
+    },
+    {
+        "ranking": "44",
+        "title": "Hannah Montana",
+        "artist": "Calin",
+        "album": "POPSTAR",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fe/2b/37/fe2b3796-1cba-ce3e-5959-97b56d71ad0f/190296161483.jpg/80x80bb.webp",
+        "length": "2:38"
+    },
+    {
+        "ranking": "45",
+        "title": "Houdini",
+        "artist": "Eminem",
+        "album": "Houdini - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c0/c0/a2/c0c0a21c-421d-63b5-7b9b-d630bd602341/24UMGIM59994.rgb.jpg/80x80bb.webp",
+        "length": "3:47"
+    },
+    {
+        "ranking": "46",
+        "title": "A Bar Song (Tipsy)",
+        "artist": "Shaboozey",
+        "album": "Where I've Been, Isn't Where I'm Going",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/b5/bc/97b5bca2-6238-2421-4f0d-1f7a39d5d9d4/197342550925_cover.jpg/80x80bb.webp",
+        "length": "2:51"
+    },
+    {
+        "ranking": "47",
+        "title": "Suave",
+        "artist": "Calin",
+        "album": "Bieber Fever",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/df/6c/d6/df6cd617-917e-32e3-6de8-5860249bde81/5021732388148.jpg/80x80bb.webp",
+        "length": "2:01"
+    },
+    {
+        "ranking": "48",
+        "title": "Too Sweet",
+        "artist": "Hozier",
+        "album": "Unreal Unearth: Unaired",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/12/e3/a412e390-51aa-6625-9adc-d502bf1c349f/196872373004.jpg/80x80bb.webp",
+        "length": "4:11"
+    },
+    {
+        "ranking": "49",
+        "title": "Beautiful Things",
+        "artist": "Benson Boone",
+        "album": "Beautiful Things - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
+        "length": "3:00"
+    },
+    {
+        "ranking": "50",
+        "title": "Dívej",
+        "artist": "Calin",
+        "album": "ROADTRIP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/5c/01/97/5c019729-9ebf-067d-6177-ec4b59065979/5054197525186.jpg/80x80bb.webp",
+        "length": "2:35"
+    },
+    {
+        "ranking": "51",
+        "title": "ITALODISCO",
+        "artist": "The Kolors",
+        "album": "ITALODISCO - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e4/f5/24/e4f524c5-9451-287f-d4b1-3e50756917e2/5054197670473.jpg/80x80bb.webp",
+        "length": "3:19"
+    },
+    {
+        "ranking": "52",
+        "title": "Pohoda (feat. Kali)",
+        "artist": "Sám Sebou",
+        "album": "Pohoda (feat. Kali) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f6/9a/86/f69a8601-0bf5-d17b-782b-030c5598636b/cover.jpg/80x80bb.webp",
+        "length": "2:47"
+    },
+    {
+        "ranking": "53",
+        "title": "mamaididit (feat. Facefront & LUJA)",
+        "artist": "Luca Brassi10x",
+        "album": "mamaididit (feat. Facefront & LUJA) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1c/59/01/1c590121-e118-ff0f-55e7-1b5a58292c60/8a87fac9-28d9-43ec-b87a-7c7af7552d20.jpg/80x80bb.webp",
+        "length": "3:27"
+    },
+    {
+        "ranking": "54",
+        "title": "Dokola",
+        "artist": "Alan Murin",
+        "album": "Dokola - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/4a/2b/c84a2bcd-4299-cead-4ee8-261dfba3e50e/2b05d19a-4495-4f4c-8656-7b7b3989ad5c.jpg/80x80bb.webp",
+        "length": "2:35"
+    },
+    {
+        "ranking": "55",
+        "title": "Můj Shit",
+        "artist": "Nik Tendo",
+        "album": "v gastru nejsou lidi",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/05/27/cf052740-6454-bd37-0d4f-d52643e82574/24UMGIM96657.rgb.jpg/80x80bb.webp",
+        "length": "2:37"
+    },
+    {
+        "ranking": "56",
+        "title": "Bad Dreams",
+        "artist": "Teddy Swims",
+        "album": "Bad Dreams - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/5d/64/cd5d64c2-338b-00c9-52d6-578a0f19d826/054391245908.jpg/80x80bb.webp",
+        "length": "3:04"
+    },
+    {
+        "ranking": "57",
+        "title": "Dancing In The Flames",
+        "artist": "The Weeknd",
+        "album": "Dancing In The Flames - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/7e/9f/347e9f54-2d74-820f-a910-68d01f044fcf/24UMGIM95646.rgb.jpg/80x80bb.webp",
+        "length": "3:40"
+    },
+    {
+        "ranking": "58",
+        "title": "Uprostřed Oceánu",
+        "artist": "P T K",
+        "album": "Uprostřed Oceánu - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6c/2b/3b/6c2b3baf-5302-d675-72f1-5e331326ee79/cover.jpg/80x80bb.webp",
+        "length": "3:21"
+    },
+    {
+        "ranking": "59",
+        "title": "Strýko Separ",
+        "artist": "Separ",
+        "album": "OG",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1c/0a/b9/1c0ab988-ed05-995a-c9c1-72f915c762b7/73dc4fd3-dd16-4691-afcb-db1c992ab6fa.jpg/80x80bb.webp",
+        "length": "2:14"
+    },
+    {
+        "ranking": "60",
+        "title": "AM4",
+        "artist": "Shimmi",
+        "album": "BENIHANA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/40/c2/6d/40c26da0-ab6c-044f-a750-76b04f07a0b5/24UMGIM25948.rgb.jpg/80x80bb.webp",
+        "length": "2:51"
+    },
+    {
+        "ranking": "61",
+        "title": "Až na měsíc (feat. Calin, Hasan & Nik Tendo)",
+        "artist": "Viktor Sheen",
+        "album": "Černobílej svět",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/b0/53/36b053d7-f157-4404-ba97-cd0fb95c2a40/190295384760.jpg/80x80bb.webp",
+        "length": "3:28"
+    },
+    {
+        "ranking": "62",
+        "title": "Lose Control",
+        "artist": "Teddy Swims",
+        "album": "I've Tried Everything But Therapy (Part 1)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
+        "length": "3:30"
+    },
+    {
+        "ranking": "63",
+        "title": "Mockingbird",
+        "artist": "Eminem",
+        "album": "Encore (Deluxe Version)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8b/bf/10/8bbf10dc-5dcb-9b81-6ec2-83341286ff72/00602498646717.rgb.jpg/80x80bb.webp",
+        "length": "4:10"
+    },
+    {
+        "ranking": "64",
+        "title": "RBMK (feat. Viktor Sheen)",
+        "artist": "Pil C",
+        "album": "2086",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ce/ba/f5/cebaf556-1ce7-bdb5-847e-98816e884974/19UMGIM99694.rgb.jpg/80x80bb.webp",
+        "length": "3:40"
+    },
+    {
+        "ranking": "65",
+        "title": "Heavy Is the Crown",
+        "artist": "LINKIN PARK",
+        "album": "From Zero",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/21/cf/6921cff3-7074-118a-ece2-4012450e6c75/093624839811.jpg/80x80bb.webp",
+        "length": "2:47"
+    },
+    {
+        "ranking": "66",
+        "title": "Pedro",
+        "artist": "Jaxomy",
+        "album": "Pedro - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/70/78/d8/7078d812-3ab7-2a74-41b4-44f179be8973/196871959841.jpg/80x80bb.webp",
+        "length": "2:24"
+    },
+    {
+        "ranking": "67",
+        "title": "Balada",
+        "artist": "Lil Buca Near",
+        "album": "Balada - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/09/86/62/0986623c-cefe-675b-3ce0-b1b70bca2d19/5021732544698.jpg/80x80bb.webp",
+        "length": "2:28"
+    },
+    {
+        "ranking": "68",
+        "title": "No Sleep Gang",
+        "artist": "Yzomandias",
+        "album": "No Sleep Gang / Get Low - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/64/0b/6d/640b6d9f-b9a7-c21f-1c0d-897683f2d33e/cover.jpg/80x80bb.webp",
+        "length": "2:44"
+    },
+    {
+        "ranking": "69",
+        "title": "i like the way you kiss me",
+        "artist": "Artemas",
+        "album": "i like the way you kiss me - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/1e/ac/b61eaceb-b493-0909-abfe-0930b7e53d9f/810129998306.jpg/80x80bb.webp",
+        "length": "2:22"
+    },
+    {
+        "ranking": "70",
+        "title": "VIDÍM JAK SA NA MŇA POZERÁŠ (feat. Ego)",
+        "artist": "Pil C",
+        "album": "ODSÚDENÍ NA ÚSPECH",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/49/9a/ce/499ace44-3d89-f088-1283-a121c8ee0400/21UM1IM54150.rgb.jpg/80x80bb.webp",
+        "length": "3:01"
+    },
+    {
+        "ranking": "71",
+        "title": "Viac",
+        "artist": "Nerieš",
+        "album": "OK",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d7/1c/b6/d71cb614-cc07-0946-7f11-b112391aad63/1d0d4938-0424-49ea-8c62-192812bbf78f.jpg/80x80bb.webp",
+        "length": "3:32"
+    },
+    {
+        "ranking": "72",
+        "title": "Another Love",
+        "artist": "Tom Odell",
+        "album": "Long Way Down (Expanded Edition)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/3d/80/6e/3d806e1d-106c-7483-2024-032042519ab3/886443996779.jpg/80x80bb.webp",
+        "length": "4:04"
+    },
+    {
+        "ranking": "73",
+        "title": "V Mojom Svete (feat. Separ & Ektor)",
+        "artist": "Kontrafakt",
+        "album": "Navždy",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/6f/02/a7/6f02a712-c80a-2769-4fd7-85c528d4bb96/f73fc3bb-53f7-44f5-bc35-2314df124a07.jpg/80x80bb.webp",
+        "length": "7:18"
+    },
+    {
+        "ranking": "74",
+        "title": "Brick na brick",
+        "artist": "Hard Rico",
+        "album": "Brick na brick - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9d/74/61/9d746150-617d-4c34-1720-609bcc13d874/23UM1IM04436.rgb.jpg/80x80bb.webp",
+        "length": "2:53"
+    },
+    {
+        "ranking": "75",
+        "title": "All I Want for Christmas Is You",
+        "artist": "Mariah Carey",
+        "album": "Merry Christmas",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/80x80bb.webp",
+        "length": "4:01"
+    },
+    {
+        "ranking": "76",
+        "title": "Cikády",
+        "artist": "Calin",
+        "album": "ROADTRIP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/5c/01/97/5c019729-9ebf-067d-6177-ec4b59065979/5054197525186.jpg/80x80bb.webp",
+        "length": "2:48"
+    },
+    {
+        "ranking": "77",
+        "title": "Taste",
+        "artist": "Sabrina Carpenter",
+        "album": "Short n' Sweet",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+        "length": "2:37"
+    },
+    {
+        "ranking": "78",
+        "title": "The Door",
+        "artist": "Teddy Swims",
+        "album": "I've Tried Everything But Therapy (Part 1)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
+        "length": "3:32"
+    },
+    {
+        "ranking": "79",
+        "title": "Rolls",
+        "artist": "Yzomandias",
+        "album": "Melanž - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/73/96/7b/73967b36-43ae-0e53-0052-b2e14e3ea155/20UMGIM67406.rgb.jpg/80x80bb.webp",
+        "length": "3:26"
+    },
+    {
+        "ranking": "80",
+        "title": "Vypínam",
+        "artist": "Alan Murin",
+        "album": "15 23 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2e/9e/16/2e9e1651-9d29-cba1-a5fb-cae0b360fbd7/671d0602-237a-4fc1-bd70-a81232764a8c.jpg/80x80bb.webp",
+        "length": "3:26"
+    },
+    {
+        "ranking": "81",
+        "title": "Disease",
+        "artist": "Lady Gaga",
+        "album": "Disease - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/2b/dc/c72bdc7a-7014-e5df-a106-583074c0affa/24UM1IM12462.rgb.jpg/80x80bb.webp",
+        "length": "3:49"
+    },
+    {
+        "ranking": "82",
+        "title": "Alibi",
+        "artist": "Sevdaliza",
+        "album": "Alibi - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/78/35/c9783504-7a20-6197-3f32-ad36f6200bc1/87.jpg/80x80bb.webp",
+        "length": "2:41"
+    },
+    {
+        "ranking": "83",
+        "title": "OG",
+        "artist": "Separ",
+        "album": "OG",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1c/0a/b9/1c0ab988-ed05-995a-c9c1-72f915c762b7/73dc4fd3-dd16-4691-afcb-db1c992ab6fa.jpg/80x80bb.webp",
+        "length": "3:22"
+    },
+    {
+        "ranking": "84",
+        "title": "Ahoj Ahoj Čo Ty",
+        "artist": "Separ",
+        "album": "OG",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1c/0a/b9/1c0ab988-ed05-995a-c9c1-72f915c762b7/73dc4fd3-dd16-4691-afcb-db1c992ab6fa.jpg/80x80bb.webp",
+        "length": "2:15"
+    },
+    {
+        "ranking": "85",
+        "title": "Praha/Vídeň",
+        "artist": "Calin",
+        "album": "Praha/Vídeň - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/24/2f/fa/242ffa76-02b9-e260-7c8b-b2da486dde1a/190296444753.jpg/80x80bb.webp",
+        "length": "2:42"
+    },
+    {
+        "ranking": "86",
+        "title": "Origami (feat. Ben Cristovao)",
+        "artist": "Separ",
+        "album": "OG",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1c/0a/b9/1c0ab988-ed05-995a-c9c1-72f915c762b7/73dc4fd3-dd16-4691-afcb-db1c992ab6fa.jpg/80x80bb.webp",
+        "length": "3:50"
+    },
+    {
+        "ranking": "87",
+        "title": "Chcem mať s tebou bejby",
+        "artist": "Pil C",
+        "album": "S láskou, Lukáš.",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/96/18/49/96184924-a15b-e333-35ed-92c4b72c7483/23UMGIM11501.rgb.jpg/80x80bb.webp",
+        "length": "2:33"
+    },
+    {
+        "ranking": "88",
+        "title": "Ruka Na Volante",
+        "artist": "Nerieš",
+        "album": "OK",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/78/50/bf/7850bf80-f351-7180-4f49-ceff3f91ec27/1d0d4938-0424-49ea-8c62-192812bbf78f.jpg/80x80bb.webp",
+        "length": "2:52"
+    },
+    {
+        "ranking": "89",
+        "title": "Rande",
+        "artist": "Emma Drobna",
+        "album": "Rande - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9e/cf/8e/9ecf8eeb-2d9f-9f19-f7a4-100921f3a9a2/a89f66ca-0307-4ff4-acb3-a719a318e657.jpg/80x80bb.webp",
+        "length": "2:51"
+    },
+    {
+        "ranking": "90",
+        "title": "Stargazing",
+        "artist": "Myles Smith",
+        "album": "Stargazing - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/c3/a5/bfc3a56d-a51b-69cb-cdfc-26ee63631cb8/196872051872.jpg/80x80bb.webp",
+        "length": "2:52"
+    },
+    {
+        "ranking": "91",
+        "title": "Stíny",
+        "artist": "Viktor Sheen",
+        "album": "Příběhy a sny",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cb/e9/51/cbe95142-24c3-3071-93b7-2be155ae20d4/190296350849.jpg/80x80bb.webp",
+        "length": "2:52"
+    },
+    {
+        "ranking": "92",
+        "title": "Without Me",
+        "artist": "Eminem",
+        "album": "The Eminem Show",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b4/13/e9/b413e91d-40aa-a1a8-b8e3-2bacc3b3e222/00606949329020.rgb.jpg/80x80bb.webp",
+        "length": "4:50"
+    },
+    {
+        "ranking": "93",
+        "title": "Good Luck, Babe!",
+        "artist": "Chappell Roan",
+        "album": "Good Luck, Babe! - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/80x80bb.webp",
+        "length": "3:38"
+    },
+    {
+        "ranking": "94",
+        "title": "I'm Good (Blue)",
+        "artist": "David Guetta",
+        "album": "I'm Good (Blue) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/10/07/f9/1007f9e3-9815-38a2-66ae-c1952b1688e9/5054197324338.jpg/80x80bb.webp",
+        "length": "2:55"
+    },
+    {
+        "ranking": "95",
+        "title": "Type Shit",
+        "artist": "Future",
+        "album": "WE DON'T TRUST YOU",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/9f/7b/4e9f7b71-28ad-a8dc-9b34-da532feb82f6/196871937382.jpg/80x80bb.webp",
+        "length": "3:48"
+    },
+    {
+        "ranking": "96",
+        "title": "J Lo (feat. Dalyb & Zayo)",
+        "artist": "Kontrafakt",
+        "album": "Real Newz",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/58/cb/e9/58cbe95a-7fe8-0cab-059a-25c308175adb/0edab8ef-6614-46cf-9f14-bb1284d5c0a1.jpg/80x80bb.webp",
+        "length": "3:32"
+    },
+    {
+        "ranking": "97",
+        "title": "Gata Only",
+        "artist": "FloyyMenor",
+        "album": "Gata Only - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ca/4e/0f/ca4e0f11-2cbc-7aec-b2e4-53f5fac7cb0e/198309012715-copy-6dfc57c0.png/80x80bb.webp",
+        "length": "3:42"
+    },
+    {
+        "ranking": "98",
+        "title": "Inverzia",
+        "artist": "Pil C",
+        "album": "S láskou, Lukáš.",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/96/18/49/96184924-a15b-e333-35ed-92c4b72c7483/23UMGIM11501.rgb.jpg/80x80bb.webp",
+        "length": "3:24"
+    },
+    {
+        "ranking": "99",
+        "title": "CHIHIRO",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "5:03"
+    },
+    {
+        "ranking": "100",
+        "title": "Fénix (feat. Kali & Dame)",
+        "artist": "Separ",
+        "album": "Pancier",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/54/ea/f3/54eaf325-3336-096d-db2c-af46d58da97a/727e2fd1-c1bc-4cfc-a8a8-1da8a74af0b3.jpg/80x80bb.webp",
+        "length": "4:02"
+    }
+]

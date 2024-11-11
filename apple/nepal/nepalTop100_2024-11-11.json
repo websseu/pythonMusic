@@ -1,0 +1,802 @@
+[
+    {
+        "ranking": "1",
+        "title": "Bardali",
+        "artist": "Sushant KC",
+        "album": "Bardali - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fe/da/19/feda19fe-45d8-8588-61e8-5bbdad42085d/cover.jpg/80x80bb.webp",
+        "length": "3:29"
+    },
+    {
+        "ranking": "2",
+        "title": "Sparsha Sangeet",
+        "artist": "Purna Rai",
+        "album": "Sparsha Sangeet - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d8/e4/89/d8e48960-8a56-cdfb-1547-d1fa68496631/artwork.jpg/80x80bb.webp",
+        "length": "6:07"
+    },
+    {
+        "ranking": "3",
+        "title": "I'll Be There",
+        "artist": "JIN",
+        "album": "I'll Be There - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e9/70/b4/e970b466-2d1d-ec04-22f3-5cb0913048b5/198704169137_Cover.jpg/80x80bb.webp",
+        "length": "3:01"
+    },
+    {
+        "ranking": "4",
+        "title": "Suna Kaanchi",
+        "artist": "Sajjan Raj Vaidya",
+        "album": "Suna Kaanchi - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/80/c8/c4/80c8c453-9d4f-c0f6-6cf8-1ccc7c6bb687/128194.jpg/80x80bb.webp",
+        "length": "4:47"
+    },
+    {
+        "ranking": "5",
+        "title": "APT.",
+        "artist": "ROSÉ",
+        "album": "APT. - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
+        "ranking": "6",
+        "title": "Die With A Smile",
+        "artist": "Lady Gaga",
+        "album": "Die With A Smile - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
+        "length": "4:11"
+    },
+    {
+        "ranking": "7",
+        "title": "Hawa Jastai (feat. Changa Productions)",
+        "artist": "John Rai",
+        "album": "Hawa Jastai (feat. Changa Productions) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/00/00/fb/0000fb0f-799d-2579-7258-c30987a0c44e/artwork.jpg/80x80bb.webp",
+        "length": "4:34"
+    },
+    {
+        "ranking": "8",
+        "title": "Manaka Kura",
+        "artist": "Purna Rai",
+        "album": "Manaka Kura - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/45/35/6b/45356b11-4ca7-9755-3a27-08f48155297d/artwork.jpg/80x80bb.webp",
+        "length": "3:36"
+    },
+    {
+        "ranking": "9",
+        "title": "A Mai Re",
+        "artist": "Kuma Sagar",
+        "album": "A Mai Re - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c6/db/4a/c6db4a12-92bb-0805-8495-5d9c3344a9c4/5059552542600.jpg/80x80bb.webp",
+        "length": "4:59"
+    },
+    {
+        "ranking": "10",
+        "title": "Apna Bana Le (From \"Bhediya\")",
+        "artist": "Arijit Singh",
+        "album": "Apna Bana Le (From \"Bhediya\") - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/2e/0b/c0/2e0bc070-112f-a827-6ad8-6bc64f7caaff/840214460180.png/80x80bb.webp",
+        "length": "4:21"
+    },
+    {
+        "ranking": "11",
+        "title": "Sasto Mutu",
+        "artist": "Sajjan Raj Vaidya",
+        "album": "Sasto Mutu - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/18/99/5d/18995d07-3f92-daae-b0ac-6ea397acff3a/93974.jpg/80x80bb.webp",
+        "length": "4:24"
+    },
+    {
+        "ranking": "12",
+        "title": "Dhairya",
+        "artist": "Sajjan Raj Vaidya",
+        "album": "Dhairya - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/20/94/6e/20946e94-207c-6448-0bbd-05f67548f178/108385.jpg/80x80bb.webp",
+        "length": "5:35"
+    },
+    {
+        "ranking": "13",
+        "title": "NEURON",
+        "artist": "j-hope",
+        "album": "HOPE ON THE STREET VOL.1 - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d2/05/0f/d2050f71-95a3-1bad-daaf-b8922e0918d8/196922839696_Cover.jpg/80x80bb.webp",
+        "length": "4:33"
+    },
+    {
+        "ranking": "14",
+        "title": "Husn",
+        "artist": "Anuv Jain",
+        "album": "Husn - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b6/3d/12/b63d1218-7bc1-f4f2-5fdd-5d1909abda1c/23UM1IM56437.rgb.jpg/80x80bb.webp",
+        "length": "3:37"
+    },
+    {
+        "ranking": "15",
+        "title": "Ranga",
+        "artist": "Rockheads",
+        "album": "Ranga - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b8/bd/5a/b8bd5a95-893f-e4d1-c809-79f680c72b0d/198000637880.jpg/80x80bb.webp",
+        "length": "3:13"
+    },
+    {
+        "ranking": "16",
+        "title": "BIRDS OF A FEATHER",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "3:30"
+    },
+    {
+        "ranking": "17",
+        "title": "Sajni",
+        "artist": "Ram Sampath",
+        "album": "Laapataa Ladies (Original Motion Picture Soundtrack)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/48/d8/bf/48d8bf8f-df58-e05f-62e2-bc494d748ea4/8902894362252_cover.jpg/80x80bb.webp",
+        "length": "2:50"
+    },
+    {
+        "ranking": "18",
+        "title": "In My Valley",
+        "artist": "Corey Broadwater",
+        "album": "It Tears Me to My Seams - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c6/8b/1f/c68b1fcd-f830-2ae3-6697-4e1878e6147f/artwork.jpg/80x80bb.webp",
+        "length": "6:11"
+    },
+    {
+        "ranking": "19",
+        "title": "Twenty Three",
+        "artist": "Corey Broadwater",
+        "album": "Twenty Three - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/a9/d7/0d/a9d70d46-d916-ffa9-2f45-bdbbc56fb921/artwork.jpg/80x80bb.webp",
+        "length": "6:51"
+    },
+    {
+        "ranking": "20",
+        "title": "Next To You",
+        "artist": "Corey Broadwater",
+        "album": "Next To You - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/18/cc/5d/18cc5dfe-7172-df27-1d53-5ea268522735/artwork.jpg/80x80bb.webp",
+        "length": "3:52"
+    },
+    {
+        "ranking": "21",
+        "title": "Even When",
+        "artist": "Corey Broadwater",
+        "album": "It Tears Me to My Seams - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c6/8b/1f/c68b1fcd-f830-2ae3-6697-4e1878e6147f/artwork.jpg/80x80bb.webp",
+        "length": "3:54"
+    },
+    {
+        "ranking": "22",
+        "title": "I'll Follow You",
+        "artist": "Corey Broadwater",
+        "album": "It Tears Me to My Seams - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c6/8b/1f/c68b1fcd-f830-2ae3-6697-4e1878e6147f/artwork.jpg/80x80bb.webp",
+        "length": "3:55"
+    },
+    {
+        "ranking": "23",
+        "title": "God Forgive Me",
+        "artist": "Corey Broadwater",
+        "album": "God Forgive Me - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8d/b2/25/8db225d2-2cdc-9cd1-bfc4-b1b53701c635/artwork.jpg/80x80bb.webp",
+        "length": "5:52"
+    },
+    {
+        "ranking": "24",
+        "title": "Sea of Grace",
+        "artist": "Corey Broadwater",
+        "album": "Sea of Grace - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/68/7b/09/687b09cb-56e2-99f4-8650-0d805667d574/artwork.jpg/80x80bb.webp",
+        "length": "6:11"
+    },
+    {
+        "ranking": "25",
+        "title": "Fight for Me",
+        "artist": "Corey Broadwater",
+        "album": "Fight for Me - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/31/68/32/31683272-2fc8-b604-b397-f3665af1f502/artwork.jpg/80x80bb.webp",
+        "length": "4:55"
+    },
+    {
+        "ranking": "26",
+        "title": "Tujhe Kitna Chahne Lage",
+        "artist": "Arijit Singh",
+        "album": "Kabir Singh (Original Motion Picture Soundtrack)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f6/70/84/f6708434-0123-ff36-0ac3-7401e8cf0f94/8902894360807_cover.jpg/80x80bb.webp",
+        "length": "4:44"
+    },
+    {
+        "ranking": "27",
+        "title": "Run BTS",
+        "artist": "BTS",
+        "album": "Proof",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f7/68/9c/f7689ce3-6d41-60cd-62d2-57a91ddf5b9d/196922067341_Cover.jpg/80x80bb.webp",
+        "length": "3:24"
+    },
+    {
+        "ranking": "28",
+        "title": "Blinding Lights",
+        "artist": "The Weeknd",
+        "album": "Blinding Lights - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a6/6e/bf/a66ebf79-5008-8948-b352-a790fc87446b/19UM1IM04638.rgb.jpg/80x80bb.webp",
+        "length": "3:21"
+    },
+    {
+        "ranking": "29",
+        "title": "Haegeum",
+        "artist": "Agust D",
+        "album": "D-DAY",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6d/46/83/6d4683b6-ab6f-db69-aa58-4a5a69c93fd6/196922439957_Cover.jpg/80x80bb.webp",
+        "length": "2:48"
+    },
+    {
+        "ranking": "30",
+        "title": "Standing Next to You",
+        "artist": "Jung Kook",
+        "album": "GOLDEN",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/86/78/b4/8678b4b3-2341-7239-b6cb-bcfdaef0e4e0/196922656545_Cover.jpg/80x80bb.webp",
+        "length": "3:26"
+    },
+    {
+        "ranking": "31",
+        "title": "Kaise Hua",
+        "artist": "Vishal Mishra",
+        "album": "Kabir Singh (Original Motion Picture Soundtrack)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f6/70/84/f6708434-0123-ff36-0ac3-7401e8cf0f94/8902894360807_cover.jpg/80x80bb.webp",
+        "length": "3:54"
+    },
+    {
+        "ranking": "32",
+        "title": "Sarangi",
+        "artist": "Sushant KC",
+        "album": "Sarangi - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d7/36/76/d7367676-1f84-4742-96cd-04ea3b7b5b97/cover.jpg/80x80bb.webp",
+        "length": "4:48"
+    },
+    {
+        "ranking": "33",
+        "title": "Who",
+        "artist": "Jimin",
+        "album": "MUSE",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/80x80bb.webp",
+        "length": "2:50"
+    },
+    {
+        "ranking": "34",
+        "title": "Nihita",
+        "artist": "John Rai",
+        "album": "Nihita - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e5/50/ae/e550aeb5-77de-0da0-865a-1a8fd0acdd6c/artwork.jpg/80x80bb.webp",
+        "length": "3:06"
+    },
+    {
+        "ranking": "35",
+        "title": "Neva Play (feat. RM of BTS)",
+        "artist": "Megan Thee Stallion",
+        "album": "MEGAN: ACT II",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/cb/2d/08cb2dd5-1f26-8882-d629-200389df5802/075679624840.jpg/80x80bb.webp",
+        "length": "2:37"
+    },
+    {
+        "ranking": "36",
+        "title": "Kalo/Seto",
+        "artist": "Purna Rai",
+        "album": "Kalo/Seto - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e1/e6/33/e1e633e5-17d0-029c-090b-058809de55a6/artwork.jpg/80x80bb.webp",
+        "length": "4:28"
+    },
+    {
+        "ranking": "37",
+        "title": "Heaven",
+        "artist": "RM",
+        "album": "Right Place, Wrong Person",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/8e/78/658e78ae-253d-2b9c-ed83-3f623e607d36/196922948947_Cover.jpg/80x80bb.webp",
+        "length": "3:14"
+    },
+    {
+        "ranking": "38",
+        "title": "Kasturi (From \"Amar Prem Ki Prem Kahani\")",
+        "artist": "Arijit Singh",
+        "album": "Kasturi (From \"Amar Prem Ki Prem Kahani\") - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0f/7f/6a/0f7f6ac7-4050-5496-45e6-1992ffdf9ab7/8902633358836.jpg/80x80bb.webp",
+        "length": "3:52"
+    },
+    {
+        "ranking": "39",
+        "title": "Furfuri",
+        "artist": "Kuma Sagar",
+        "album": "Furfuri - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/be/e6/cdbee652-00a2-8eba-ee81-8c9ba36c3e36/5059552595071.jpg/80x80bb.webp",
+        "length": "4:13"
+    },
+    {
+        "ranking": "40",
+        "title": "Bhool Bhulaiyaa 3 - Title Track [From \"Bhool Bhulaiyaa 3\"]",
+        "artist": "Pitbull",
+        "album": "Bhool Bhulaiyaa 3 - Title Track [From \"Bhool Bhulaiyaa 3\"] - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/74/19/c3/7419c310-bae2-40a7-a799-0b18318b2f2a/8903431020192_cover.jpg/80x80bb.webp",
+        "length": "3:50"
+    },
+    {
+        "ranking": "41",
+        "title": "Naganya Maya",
+        "artist": "Sajjan Raj Vaidya",
+        "album": "Naganya Maya - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/43/08/d343084c-e22a-8215-54ae-148d58cf1e95/91882.jpg/80x80bb.webp",
+        "length": "5:13"
+    },
+    {
+        "ranking": "42",
+        "title": "Hawayein",
+        "artist": "Pritam",
+        "album": "Jab Harry Met Sejal (Original Motion Picture Soundtrack)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/c2/6e/b6/c26eb6da-f6ac-d7a8-1d3e-893f32b1244d/886446683584.jpg/80x80bb.webp",
+        "length": "4:50"
+    },
+    {
+        "ranking": "43",
+        "title": "Raataan Lambiyan",
+        "artist": "Tanishk Bagchi",
+        "album": "Shershaah (Original Motion Picture Soundtrack)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/61/65/ae/6165aee9-8bb9-0bd4-02b0-5d0f1e6257a3/886449510238.jpg/80x80bb.webp",
+        "length": "3:50"
+    },
+    {
+        "ranking": "44",
+        "title": "Hataarindai, Bataasindai (feat. Shyam Nepali)",
+        "artist": "Sajjan Raj Vaidya",
+        "album": "Hataarindai, Bataasindai (feat. Shyam Nepali) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/96/02/44/9602442d-1751-25e7-6687-e7bf6b1928bd/52201.jpg/80x80bb.webp",
+        "length": "5:30"
+    },
+    {
+        "ranking": "45",
+        "title": "For Youth",
+        "artist": "BTS",
+        "album": "Proof",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f7/68/9c/f7689ce3-6d41-60cd-62d2-57a91ddf5b9d/196922067341_Cover.jpg/80x80bb.webp",
+        "length": "4:24"
+    },
+    {
+        "ranking": "46",
+        "title": "Satranga",
+        "artist": "Shreyas Puranik",
+        "album": "ANIMAL (Original Motion Picture Soundtrack)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/db/ad/5e/dbad5e8b-0bee-d962-92d4-021c90e375ac/8902894362092_cover.jpg/80x80bb.webp",
+        "length": "4:31"
+    },
+    {
+        "ranking": "47",
+        "title": "Parkha Na",
+        "artist": "Sushant KC",
+        "album": "Parkha Na - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b9/54/46/b954467b-966b-ea91-2610-8ffde55fbab8/cover.jpg/80x80bb.webp",
+        "length": "4:02"
+    },
+    {
+        "ranking": "48",
+        "title": "Sadhana",
+        "artist": "John Rai",
+        "album": "Sadhana - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/45/c9/15/45c915c9-bd87-8984-b330-e8b82e32d2b2/artwork.jpg/80x80bb.webp",
+        "length": "2:01"
+    },
+    {
+        "ranking": "49",
+        "title": "Je Chhau Timi",
+        "artist": "Swoopna Suman",
+        "album": "Je Chhau Timi - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/74/3a/ae/743aae57-8d7b-0837-2bda-db5e8c0feb4d/859772172053_cover.jpg/80x80bb.webp",
+        "length": "3:56"
+    },
+    {
+        "ranking": "50",
+        "title": "Akhiyaan Gulaab (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
+        "artist": "Mitraz",
+        "album": "Akhiyaan Gulaab (From \"Teri Baaton Mein Aisa Uljha Jiya\") - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ff/3c/2f/ff3c2ff1-a7fd-42fa-1a9c-83e524d37545/8903431980878_cover.jpg/80x80bb.webp",
+        "length": "2:51"
+    },
+    {
+        "ranking": "51",
+        "title": "Choo Lo",
+        "artist": "The Local Train",
+        "album": "Aalas Ka Pedh",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b4/ab/c3/b4abc3c3-bd25-b8cb-0011-4311e3f9497e/197189936111.jpg/80x80bb.webp",
+        "length": "3:53"
+    },
+    {
+        "ranking": "52",
+        "title": "Snow Flower (feat. Peakboy)",
+        "artist": "V",
+        "album": "Snow Flower (feat. Peakboy) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/01/0d/b9/010db95c-23f5-0b87-8d56-9ef533627247/196922587597_Cover.jpg/80x80bb.webp",
+        "length": "3:49"
+    },
+    {
+        "ranking": "53",
+        "title": "K Garu",
+        "artist": "John Rai",
+        "album": "K Garu - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/91/1f/fb911f4e-1c3b-6139-d304-4c0e09b00e1e/artwork.jpg/80x80bb.webp",
+        "length": "5:00"
+    },
+    {
+        "ranking": "54",
+        "title": "Jo Tum Mere Ho",
+        "artist": "Anuv Jain",
+        "album": "Jo Tum Mere Ho - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/df/37/cddf37f9-9794-175e-d68f-272c8a3853b2/24UMGIM79558.rgb.jpg/80x80bb.webp",
+        "length": "4:11"
+    },
+    {
+        "ranking": "55",
+        "title": "9841",
+        "artist": "Sajjan Raj Vaidya",
+        "album": "9841 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/60/00/da/6000dad7-048b-33cc-e9ab-bd6655fbc56d/151698.jpg/80x80bb.webp",
+        "length": "3:30"
+    },
+    {
+        "ranking": "56",
+        "title": "Taste",
+        "artist": "Sabrina Carpenter",
+        "album": "Short n' Sweet",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+        "length": "2:37"
+    },
+    {
+        "ranking": "57",
+        "title": "Raanjhan (From \"Do Patti\")",
+        "artist": "Sachet-Parampara",
+        "album": "Raanjhan (From \"Do Patti\") - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/99/a9/ca/99a9caf7-5d9f-5890-3fdf-e3ff8c860e79/8903431018915_cover.jpg/80x80bb.webp",
+        "length": "4:00"
+    },
+    {
+        "ranking": "58",
+        "title": "Rukum Maikot (From \"Khushma\")",
+        "artist": "Kendra Motion Pictures",
+        "album": "Rukum Maikot (From \"Khushma\") - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/0e/09/530e09fb-3477-6963-50f2-4e08dcbc1561/1509.jpg/80x80bb.webp",
+        "length": "4:49"
+    },
+    {
+        "ranking": "59",
+        "title": "Makha Twa Ya Gwa (feat. Nisha Deshar)",
+        "artist": "Roj Man Maharjan",
+        "album": "Makha Twa Ya Gwa (feat. Nisha Deshar) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9a/c8/f0/9ac8f016-7312-d58b-97c7-9d01ae45bc5f/1232.jpg/80x80bb.webp",
+        "length": "6:02"
+    },
+    {
+        "ranking": "60",
+        "title": "Jaana Samjho Na (From \"Bhool Bhulaiyaa 3\")",
+        "artist": "Lijo George-Dj Chetas",
+        "album": "Jaana Samjho Na (From \"Bhool Bhulaiyaa 3\") - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ad/74/0e/ad740efd-fd44-35e6-625f-5fb5579ffc6b/8903431021427_cover.jpg/80x80bb.webp",
+        "length": "3:32"
+    },
+    {
+        "ranking": "61",
+        "title": "FAKE LOVE (Rocking Vibe Mix)",
+        "artist": "BTS",
+        "album": "Love Yourself 結 'Answer'",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ff/00/2c/ff002c29-6da9-1a26-16b3-282a73180366/192562871591_Cover.jpg/80x80bb.webp",
+        "length": "3:58"
+    },
+    {
+        "ranking": "62",
+        "title": "Kesariya (From \"Brahmastra\")",
+        "artist": "Pritam",
+        "album": "Kesariya (From \"Brahmastra\") - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9f/13/ca/9f13ca3b-e533-03e0-f19a-f0aaa774581d/196589311191.jpg/80x80bb.webp",
+        "length": "4:28"
+    },
+    {
+        "ranking": "63",
+        "title": "Chitthi Bhitra",
+        "artist": "Sajjan Raj Vaidya",
+        "album": "Chitthi Bhitra - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5d/3b/17/5d3b1742-4f0d-2439-e13b-598176127cb2/40566.jpg/80x80bb.webp",
+        "length": "5:02"
+    },
+    {
+        "ranking": "64",
+        "title": "Risaune Bhaye",
+        "artist": "Sushant KC",
+        "album": "Risaune Bhaye - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6b/8f/3d/6b8f3dfc-9a12-674e-ee23-0b34eb5a95b7/cover.jpg/80x80bb.webp",
+        "length": "3:16"
+    },
+    {
+        "ranking": "65",
+        "title": "Kabira",
+        "artist": "Pritam",
+        "album": "Yeh Jawaani Hai Deewani (Original Motion Picture Soundtrack)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/62/d6/74/62d67432-0670-631f-db6a-d4bac3adae4b/8902894353328_cover.jpg/80x80bb.webp",
+        "length": "3:43"
+    },
+    {
+        "ranking": "66",
+        "title": "Phir Se Ud Chala",
+        "artist": "Mohit Chauhan",
+        "album": "Rockstar (Original Motion Picture Soundtrack)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/56/ac/41/56ac41f7-99f3-3eae-3b07-443167292c4e/8902894697408_cover.jpg/80x80bb.webp",
+        "length": "4:28"
+    },
+    {
+        "ranking": "67",
+        "title": "Qaafirana",
+        "artist": "Arijit Singh",
+        "album": "Kedarnath (Original Motion Picture Soundtrack)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/5e/89/605e897e-5caa-b9ec-ac42-6a8c293dcc83/8718857673460.png/80x80bb.webp",
+        "length": "5:41"
+    },
+    {
+        "ranking": "68",
+        "title": "Birsiney Hau Ki",
+        "artist": "The Elements",
+        "album": "Birsiney Hau Ki - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/45/a1/90/45a190f6-6eb2-4ba5-c15e-87d7d6b0cb10/859731597828_cover.jpg/80x80bb.webp",
+        "length": "4:21"
+    },
+    {
+        "ranking": "69",
+        "title": "Sapana Ko Mayalu",
+        "artist": "The Elements",
+        "album": "Sapana Ko Mayalu - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e6/f0/15/e6f015e6-53d2-f041-6dda-a679cc93913e/artwork.jpg/80x80bb.webp",
+        "length": "4:07"
+    },
+    {
+        "ranking": "70",
+        "title": "Farkanna Hola",
+        "artist": "John Rai",
+        "album": "Farkanna Hola - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9c/ce/c2/9ccec23c-aa35-4435-2409-31e616b14bbe/artwork.jpg/80x80bb.webp",
+        "length": "3:13"
+    },
+    {
+        "ranking": "71",
+        "title": "With You",
+        "artist": "AP Dhillon",
+        "album": "With You - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5a/ac/00/5aac005f-9403-70e4-bce0-cf452017476e/197189606472.jpg/80x80bb.webp",
+        "length": "2:34"
+    },
+    {
+        "ranking": "72",
+        "title": "Tum Se Hi",
+        "artist": "Pritam",
+        "album": "Jab We Met (Original Motion Picture Soundtrack)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3d/c7/43/3dc74387-e7f4-2342-397c-4cf2037c69a5/8902894623223_cover.jpg/80x80bb.webp",
+        "length": "5:21"
+    },
+    {
+        "ranking": "73",
+        "title": "Khuda Jaane",
+        "artist": "Vishal & Shekhar",
+        "album": "Bachna Ae Haseeno (Original Soundtrack)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/ca/0e/95ca0eee-4709-b2a0-7e2d-7097c944d2cc/849486005822_cover.jpg/80x80bb.webp",
+        "length": "5:37"
+    },
+    {
+        "ranking": "74",
+        "title": "Set Fire to the Rain",
+        "artist": "Adele",
+        "album": "21",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d8/e3/f9/d8e3f9ea-d6fe-9a1b-9f13-109983d3062e/191404113868.png/80x80bb.webp",
+        "length": "4:02"
+    },
+    {
+        "ranking": "75",
+        "title": "Khaseka Tara",
+        "artist": "Albatross",
+        "album": "Jo Jas Sanga Sambandhit Chha - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/37/c7/2b/37c72ba7-d9a0-b6bb-86eb-75f03d28f9cc/cover.jpg/80x80bb.webp",
+        "length": "5:01"
+    },
+    {
+        "ranking": "76",
+        "title": "Tera Yaar Hoon Main",
+        "artist": "Arijit Singh",
+        "album": "Sonu Ke Titu Ki Sweety (Original Motion Picture Soundtrack)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/81/a5/b0/81a5b084-89f7-7ed8-372e-aefd67504922/8902894360074_cover.jpg/80x80bb.webp",
+        "length": "4:24"
+    },
+    {
+        "ranking": "77",
+        "title": "Samjhanchu ( )",
+        "artist": "Sabin Rai & The Pharaoh",
+        "album": "Dhanyavaad",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/72/0f/d9/720fd9fc-9407-df3c-f275-22b5e2cce842/cover.jpg/80x80bb.webp",
+        "length": "4:34"
+    },
+    {
+        "ranking": "78",
+        "title": "Upahar",
+        "artist": "The Elements",
+        "album": "Urja - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7c/9c/5a/7c9c5a46-d36f-2ffe-9409-149ed8b17b8a/859751904583_cover.jpg/80x80bb.webp",
+        "length": "4:04"
+    },
+    {
+        "ranking": "79",
+        "title": "Please Please Please",
+        "artist": "Sabrina Carpenter",
+        "album": "Short n' Sweet",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/1c/ca/a11ccab6-7d4c-e041-d028-998bcebeb709/24UMGIM61704.rgb.jpg/80x80bb.webp",
+        "length": "3:06"
+    },
+    {
+        "ranking": "80",
+        "title": "Tauba Tauba (From \"Bad Newz\")",
+        "artist": "Karan Aujla",
+        "album": "Tauba Tauba (From \"Bad Newz\") - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/79/d2/01/79d201d2-e54d-5604-81fb-313f30db7219/198588533581.jpg/80x80bb.webp",
+        "length": "3:27"
+    },
+    {
+        "ranking": "81",
+        "title": "Kya Kardiya",
+        "artist": "Sushant KC",
+        "album": "Kya Kardiya - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/7f/6d/e37f6d9d-b155-47d7-e1ed-1e8c25e4a415/cover.jpg/80x80bb.webp",
+        "length": "3:26"
+    },
+    {
+        "ranking": "82",
+        "title": "Naina (From \"Crew\")",
+        "artist": "Diljit Dosanjh",
+        "album": "Naina (From \"Crew\") - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/5e/29/bc5e2962-1e89-ac6c-566f-fd087c788acb/8901854099214.jpg/80x80bb.webp",
+        "length": "3:00"
+    },
+    {
+        "ranking": "83",
+        "title": "Chahare Sari (Daaya Taya (Bhagwan Sari))",
+        "artist": "Kuma Sagar",
+        "album": "Chahare Sari (Daaya Taya (Bhagwan Sari)) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/15/68/81/156881d0-e527-249b-7ed1-b37d43c9a3f7/5059552573970.jpg/80x80bb.webp",
+        "length": "5:42"
+    },
+    {
+        "ranking": "84",
+        "title": "Stargazing",
+        "artist": "Myles Smith",
+        "album": "Stargazing - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/c3/a5/bfc3a56d-a51b-69cb-cdfc-26ee63631cb8/196872051872.jpg/80x80bb.webp",
+        "length": "2:52"
+    },
+    {
+        "ranking": "85",
+        "title": "Tadha Tadha (feat. Prajina)",
+        "artist": "Wangden Sherpa",
+        "album": "Tadha Tadha (feat. Prajina) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/e7/3a/b8e73adc-72b8-a4c1-88fc-cc168991f121/7300342426135.jpg/80x80bb.webp",
+        "length": "2:39"
+    },
+    {
+        "ranking": "86",
+        "title": "Paribhasa",
+        "artist": "Purna Rai",
+        "album": "Paribhasa - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/05/15/5f/05155f8f-6c8f-90fe-155b-a49335046a8e/artwork.jpg/80x80bb.webp",
+        "length": "5:56"
+    },
+    {
+        "ranking": "87",
+        "title": "23",
+        "artist": "Diamond Eyes",
+        "album": "23 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/6e/e7/dd/6ee7dde9-74d2-c3a5-226c-bf3f9003ee93/cover.jpg/80x80bb.webp",
+        "length": "4:28"
+    },
+    {
+        "ranking": "88",
+        "title": "Speed",
+        "artist": "Chirag Khadka",
+        "album": "Speed - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/52/c0/35/52c035e3-8492-0b26-142d-030bbdb194d0/859782092242_cover.jpg/80x80bb.webp",
+        "length": "3:31"
+    },
+    {
+        "ranking": "89",
+        "title": "Hero (feat. Christina Perri)",
+        "artist": "Cash Cash",
+        "album": "Blood, Sweat & 3 Years",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f8/71/f4/f871f4e4-cc0f-5e92-9a65-a75e74fb0342/dj.fknepdjb.jpg/80x80bb.webp",
+        "length": "3:17"
+    },
+    {
+        "ranking": "90",
+        "title": "Baiguni",
+        "artist": "Kehar Sing Limbu",
+        "album": "Baiguni - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/df/7f/8f/df7f8f07-dc3f-9761-190b-00a180aa1e8a/artwork.jpg/80x80bb.webp",
+        "length": "5:12"
+    },
+    {
+        "ranking": "91",
+        "title": "Breakdown",
+        "artist": "Xaia",
+        "album": "Breakdown - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3a/46/c1/3a46c17f-dac4-44f0-7a32-16ca05923b5f/cover.jpg/80x80bb.webp",
+        "length": "4:10"
+    },
+    {
+        "ranking": "92",
+        "title": "Star Song (feat. Lil Durk)",
+        "artist": "Sally Sossa",
+        "album": "4EVER SOSSA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5e/3c/5c/5e3c5cac-893c-0d10-b9a5-3fa51e40e46a/808391147980_Cover.jpg/80x80bb.webp",
+        "length": "3:16"
+    },
+    {
+        "ranking": "93",
+        "title": "FRI(END)S",
+        "artist": "V",
+        "album": "FRI(END)S - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/d0/5b/cfd05b16-1638-2b3c-b8fd-7d539bb373dc/196922869839_Cover.jpg/80x80bb.webp",
+        "length": "2:28"
+    },
+    {
+        "ranking": "94",
+        "title": "Take Two",
+        "artist": "BTS",
+        "album": "Take Two - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4b/87/06/4b870698-31fd-8d96-c03b-ceb512776335/196922462139_Cover.jpg/80x80bb.webp",
+        "length": "3:49"
+    },
+    {
+        "ranking": "95",
+        "title": "Agar Tum Saath Ho",
+        "artist": "Alka Yagnik",
+        "album": "Tamasha (Original Motion Picture Soundtrack)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/cb/ac/67/cbac673a-9213-7118-bb4e-2440273afb03/8902894357470_cover.jpg/80x80bb.webp",
+        "length": "5:41"
+    },
+    {
+        "ranking": "96",
+        "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
+        "artist": "Post Malone",
+        "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4b/30/2c/4b302cb6-7a14-5464-4e97-0577e9d0be49/18UMGIM82277.rgb.jpg/80x80bb.webp",
+        "length": "2:38"
+    },
+    {
+        "ranking": "97",
+        "title": "Perfect",
+        "artist": "Ed Sheeran",
+        "album": "÷ (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
+        "length": "4:23"
+    },
+    {
+        "ranking": "98",
+        "title": "Shayad (From \"Love Aaj Kal\")",
+        "artist": "Pritam",
+        "album": "Shayad (From \"Love Aaj Kal\") - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9d/8a/c6/9d8ac667-9857-5794-0a57-b81ebb23aae4/886448257929.jpg/80x80bb.webp",
+        "length": "4:07"
+    },
+    {
+        "ranking": "99",
+        "title": "Thamana Haat",
+        "artist": "Samir Shrestha",
+        "album": "Thamana Haat - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2a/2b/0c/2a2b0c1b-2a3d-f210-a085-dfcd02253151/859753761665_cover.jpg/80x80bb.webp",
+        "length": "3:10"
+    },
+    {
+        "ranking": "100",
+        "title": "Maya",
+        "artist": "Ashutosh KC",
+        "album": "Maya - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/be/a7/80/bea78043-925e-3777-149a-dfca8c99e1a1/859748030134_cover.jpg/80x80bb.webp",
+        "length": "4:42"
+    }
+]
