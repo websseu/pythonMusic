@@ -33,6 +33,14 @@
     },
     {
         "ranking": "5",
+        "title": "PROBATION",
+        "artist": "Gazo",
+        "album": "PROBATION - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7e/cd/60/7ecd6037-c833-3b0d-c638-d734e3b06c22/196872607345.jpg/80x80bb.webp",
+        "length": "3:39"
+    },
+    {
+        "ranking": "6",
         "title": "Sous la lune",
         "artist": "Jul",
         "album": "Rien 100 Rien",
@@ -40,20 +48,12 @@
         "length": "2:51"
     },
     {
-        "ranking": "6",
+        "ranking": "7",
         "title": "SOIS PAS TIMIDE",
         "artist": "GIMS",
         "album": "SOIS PAS TIMIDE - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/45/19/714519f5-40a6-b81a-d099-56512c4e4914/cover.jpg/80x80bb.webp",
         "length": "2:45"
-    },
-    {
-        "ranking": "7",
-        "title": "PROBATION",
-        "artist": "Gazo",
-        "album": "PROBATION - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7e/cd/60/7ecd6037-c833-3b0d-c638-d734e3b06c22/196872607345.jpg/80x80bb.webp",
-        "length": "3:39"
     },
     {
         "ranking": "8",
@@ -73,19 +73,19 @@
     },
     {
         "ranking": "10",
-        "title": "SPIDER",
-        "artist": "GIMS",
-        "album": "SPIDER - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/82/df/6782df30-18ea-9803-e2d3-a1d66a040f08/cover.jpg/80x80bb.webp",
-        "length": "3:08"
-    },
-    {
-        "ranking": "11",
         "title": "TOKA",
         "artist": "SDM",
         "album": "A LA VIE A LA MORT",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/46/95/64469515-0230-b26c-69cf-5db61f5ea879/24UMGIM72197.rgb.jpg/80x80bb.webp",
         "length": "2:55"
+    },
+    {
+        "ranking": "11",
+        "title": "SPIDER",
+        "artist": "GIMS",
+        "album": "SPIDER - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/82/df/6782df30-18ea-9803-e2d3-a1d66a040f08/cover.jpg/80x80bb.webp",
+        "length": "3:08"
     },
     {
         "ranking": "12",
@@ -121,19 +121,19 @@
     },
     {
         "ranking": "16",
-        "title": "Monaco",
-        "artist": "Guy2Bezbar",
-        "album": "Monaco - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8b/3d/d9/8b3dd98a-d961-72a2-161f-cc099c4b5689/196872257809.jpg/80x80bb.webp",
-        "length": "2:21"
-    },
-    {
-        "ranking": "17",
         "title": "Jungle",
         "artist": "Ninho",
         "album": "GOAT",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/9a/cc/149accc7-965e-043a-666a-50ea360bab61/5021732509574.jpg/80x80bb.webp",
         "length": "3:01"
+    },
+    {
+        "ranking": "17",
+        "title": "Monaco",
+        "artist": "Guy2Bezbar",
+        "album": "Monaco - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8b/3d/d9/8b3dd98a-d961-72a2-161f-cc099c4b5689/196872257809.jpg/80x80bb.webp",
+        "length": "2:21"
     },
     {
         "ranking": "18",
@@ -169,22 +169,6 @@
     },
     {
         "ranking": "22",
-        "title": "Guitare",
-        "artist": "Ninho",
-        "album": "GOAT",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/9a/cc/149accc7-965e-043a-666a-50ea360bab61/5021732509574.jpg/80x80bb.webp",
-        "length": "3:08"
-    },
-    {
-        "ranking": "23",
-        "title": "Dolce Camara",
-        "artist": "Booba",
-        "album": "AD VITAM ÆTERNAM",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/08/cf/c9/08cfc9e9-fb3c-03cd-c6ef-45a64aba953c/24UMGIM11836.rgb.jpg/80x80bb.webp",
-        "length": "2:58"
-    },
-    {
-        "ranking": "24",
         "title": "Où aller",
         "artist": "GIMS",
         "album": "Ceinture noire (Décennie)",
@@ -192,12 +176,28 @@
         "length": "3:56"
     },
     {
-        "ranking": "25",
+        "ranking": "23",
+        "title": "Guitare",
+        "artist": "Ninho",
+        "album": "GOAT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/9a/cc/149accc7-965e-043a-666a-50ea360bab61/5021732509574.jpg/80x80bb.webp",
+        "length": "3:08"
+    },
+    {
+        "ranking": "24",
         "title": "Malsain",
         "artist": "Ninho",
         "album": "GOAT",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/9a/cc/149accc7-965e-043a-666a-50ea360bab61/5021732509574.jpg/80x80bb.webp",
         "length": "3:27"
+    },
+    {
+        "ranking": "25",
+        "title": "Dolce Camara",
+        "artist": "Booba",
+        "album": "AD VITAM ÆTERNAM",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/08/cf/c9/08cfc9e9-fb3c-03cd-c6ef-45a64aba953c/24UMGIM11836.rgb.jpg/80x80bb.webp",
+        "length": "2:58"
     },
     {
         "ranking": "26",
@@ -209,19 +209,19 @@
     },
     {
         "ranking": "27",
-        "title": "Opinel 12",
-        "artist": "Ninho",
-        "album": "GOAT",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/9a/cc/149accc7-965e-043a-666a-50ea360bab61/5021732509574.jpg/80x80bb.webp",
-        "length": "2:37"
-    },
-    {
-        "ranking": "28",
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "album": "HIT ME HARD AND SOFT",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
         "length": "3:30"
+    },
+    {
+        "ranking": "28",
+        "title": "Die With A Smile",
+        "artist": "Lady Gaga",
+        "album": "Die With A Smile - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
+        "length": "4:11"
     },
     {
         "ranking": "29",
@@ -233,14 +233,22 @@
     },
     {
         "ranking": "30",
-        "title": "Die With A Smile",
-        "artist": "Lady Gaga",
-        "album": "Die With A Smile - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "length": "4:11"
+        "title": "Opinel 12",
+        "artist": "Ninho",
+        "album": "GOAT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/9a/cc/149accc7-965e-043a-666a-50ea360bab61/5021732509574.jpg/80x80bb.webp",
+        "length": "2:37"
     },
     {
         "ranking": "31",
+        "title": "Only You",
+        "artist": "Soolking",
+        "album": "Only You - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/6e/92/356e92ed-8177-9755-8bdc-5432a1792864/24UM1IM19795.rgb.jpg/80x80bb.webp",
+        "length": "3:01"
+    },
+    {
+        "ranking": "32",
         "title": "Il pleut des balles (feat. SDM)",
         "artist": "Jul",
         "album": "Mise à jour",
@@ -248,31 +256,7 @@
         "length": "2:52"
     },
     {
-        "ranking": "32",
-        "title": "C63",
-        "artist": "Werenoi",
-        "album": "Pyramide 2",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/e6/57/93e6578c-90e6-ebff-4c77-3511b2fcdd2a/cover.jpg/80x80bb.webp",
-        "length": "3:29"
-    },
-    {
         "ranking": "33",
-        "title": "Du Sal",
-        "artist": "Ninho",
-        "album": "GOAT",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/9a/cc/149accc7-965e-043a-666a-50ea360bab61/5021732509574.jpg/80x80bb.webp",
-        "length": "2:44"
-    },
-    {
-        "ranking": "34",
-        "title": "HAQ",
-        "artist": "Ninho",
-        "album": "GOAT",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/9a/cc/149accc7-965e-043a-666a-50ea360bab61/5021732509574.jpg/80x80bb.webp",
-        "length": "2:29"
-    },
-    {
-        "ranking": "35",
         "title": "APT.",
         "artist": "ROSÉ",
         "album": "APT. - Single",
@@ -280,7 +264,31 @@
         "length": "2:49"
     },
     {
+        "ranking": "34",
+        "title": "C63",
+        "artist": "Werenoi",
+        "album": "Pyramide 2",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/e6/57/93e6578c-90e6-ebff-4c77-3511b2fcdd2a/cover.jpg/80x80bb.webp",
+        "length": "3:29"
+    },
+    {
+        "ranking": "35",
+        "title": "Du Sal",
+        "artist": "Ninho",
+        "album": "GOAT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/9a/cc/149accc7-965e-043a-666a-50ea360bab61/5021732509574.jpg/80x80bb.webp",
+        "length": "2:44"
+    },
+    {
         "ranking": "36",
+        "title": "HAQ",
+        "artist": "Ninho",
+        "album": "GOAT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/9a/cc/149accc7-965e-043a-666a-50ea360bab61/5021732509574.jpg/80x80bb.webp",
+        "length": "2:29"
+    },
+    {
+        "ranking": "37",
         "title": "Broly",
         "artist": "Ninho",
         "album": "GOAT",
@@ -288,20 +296,12 @@
         "length": "2:20"
     },
     {
-        "ranking": "37",
+        "ranking": "38",
         "title": "Si Antes Te Hubiera Conocido",
         "artist": "KAROL G",
         "album": "Si Antes Te Hubiera Conocido - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/60/94/a060947c-54d8-0fad-c558-eed12600224c/24UMGIM62705.rgb.jpg/80x80bb.webp",
         "length": "3:15"
-    },
-    {
-        "ranking": "38",
-        "title": "Only You",
-        "artist": "Soolking",
-        "album": "Only You - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/6e/92/356e92ed-8177-9755-8bdc-5432a1792864/24UM1IM19795.rgb.jpg/80x80bb.webp",
-        "length": "3:01"
     },
     {
         "ranking": "39",
@@ -321,14 +321,6 @@
     },
     {
         "ranking": "41",
-        "title": "J’crois qu’ils ont pas compris",
-        "artist": "Leto",
-        "album": "Capitaine fait de l'art",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/35/af/15/35af1501-44d5-4334-4f43-622e0262e070/5021732437006.jpg/80x80bb.webp",
-        "length": "2:10"
-    },
-    {
-        "ranking": "42",
         "title": "Oh qu'elle est belle (feat. Dystinct)",
         "artist": "Jul",
         "album": "Décennie",
@@ -336,23 +328,15 @@
         "length": "3:40"
     },
     {
+        "ranking": "42",
+        "title": "J’crois qu’ils ont pas compris",
+        "artist": "Leto",
+        "album": "Capitaine fait de l'art",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/35/af/15/35af1501-44d5-4334-4f43-622e0262e070/5021732437006.jpg/80x80bb.webp",
+        "length": "2:10"
+    },
+    {
         "ranking": "43",
-        "title": "J'fais plaisir à la zone (feat. SDM)",
-        "artist": "Jul",
-        "album": "La route est longue",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/44/87/f3/4487f3c5-14ba-a9ae-1341-a2567cb58065/cover.jpg/80x80bb.webp",
-        "length": "3:03"
-    },
-    {
-        "ranking": "44",
-        "title": "METALLICA",
-        "artist": "SDM",
-        "album": "A LA VIE A LA MORT",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/46/95/64469515-0230-b26c-69cf-5db61f5ea879/24UMGIM72197.rgb.jpg/80x80bb.webp",
-        "length": "3:21"
-    },
-    {
-        "ranking": "45",
         "title": "Imagine",
         "artist": "Carbonne",
         "album": "Imagine - Single",
@@ -360,15 +344,15 @@
         "length": "2:45"
     },
     {
-        "ranking": "46",
-        "title": "Boucan (feat. Franglish)",
-        "artist": "KeBlack",
-        "album": "Boucan (feat. Franglish) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/bb/8a/48bb8a9f-cf75-7e76-622d-b662d1ee3c9a/cover.jpg/80x80bb.webp",
-        "length": "2:51"
+        "ranking": "44",
+        "title": "J'fais plaisir à la zone (feat. SDM)",
+        "artist": "Jul",
+        "album": "La route est longue",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/44/87/f3/4487f3c5-14ba-a9ae-1341-a2567cb58065/cover.jpg/80x80bb.webp",
+        "length": "3:03"
     },
     {
-        "ranking": "47",
+        "ranking": "45",
         "title": "Tout en Gucci",
         "artist": "Ninho",
         "album": "M.I.L.S 3 (Réédition)",
@@ -376,7 +360,31 @@
         "length": "3:47"
     },
     {
+        "ranking": "46",
+        "title": "KONGOLESE SOUS BBL",
+        "artist": "Theodora",
+        "album": "KONGOLESE SOUS BBL - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6e/72/23/6e72239a-a2d5-8e30-3cbd-2eaae9fcc2fc/24UM1IM03894.rgb.jpg/80x80bb.webp",
+        "length": "2:44"
+    },
+    {
+        "ranking": "47",
+        "title": "METALLICA",
+        "artist": "SDM",
+        "album": "A LA VIE A LA MORT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/46/95/64469515-0230-b26c-69cf-5db61f5ea879/24UMGIM72197.rgb.jpg/80x80bb.webp",
+        "length": "3:21"
+    },
+    {
         "ranking": "48",
+        "title": "Boucan (feat. Franglish)",
+        "artist": "KeBlack",
+        "album": "Boucan (feat. Franglish) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/bb/8a/48bb8a9f-cf75-7e76-622d-b662d1ee3c9a/cover.jpg/80x80bb.webp",
+        "length": "2:51"
+    },
+    {
+        "ranking": "49",
         "title": "Bolide allemand",
         "artist": "SDM",
         "album": "Liens du 100",
@@ -384,20 +392,12 @@
         "length": "2:56"
     },
     {
-        "ranking": "49",
-        "title": "Stigmates",
-        "artist": "SCH",
-        "album": "JVLIVS III : Ad Finem",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/09/ec/b009ec04-d42a-d0a2-4f5d-1db4e800098a/5021732530165.jpg/80x80bb.webp",
-        "length": "4:53"
-    },
-    {
         "ranking": "50",
-        "title": "La famine (feat. Gazo)",
-        "artist": "Werenoi",
-        "album": "Pyramide 2",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/e6/57/93e6578c-90e6-ebff-4c77-3511b2fcdd2a/cover.jpg/80x80bb.webp",
-        "length": "3:09"
+        "title": "Jefe",
+        "artist": "Ninho",
+        "album": "Jefe",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5d/b4/53/5db45349-6035-32c8-1faf-0c7e47d62d22/190296368370.jpg/80x80bb.webp",
+        "length": "2:57"
     },
     {
         "ranking": "51",
@@ -409,11 +409,11 @@
     },
     {
         "ranking": "52",
-        "title": "KONGOLESE SOUS BBL",
-        "artist": "Theodora",
-        "album": "KONGOLESE SOUS BBL - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6e/72/23/6e72239a-a2d5-8e30-3cbd-2eaae9fcc2fc/24UM1IM03894.rgb.jpg/80x80bb.webp",
-        "length": "2:44"
+        "title": "La famine (feat. Gazo)",
+        "artist": "Werenoi",
+        "album": "Pyramide 2",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/e6/57/93e6578c-90e6-ebff-4c77-3511b2fcdd2a/cover.jpg/80x80bb.webp",
+        "length": "3:09"
     },
     {
         "ranking": "53",
@@ -425,19 +425,19 @@
     },
     {
         "ranking": "54",
-        "title": "Jefe",
-        "artist": "Ninho",
-        "album": "Jefe",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5d/b4/53/5db45349-6035-32c8-1faf-0c7e47d62d22/190296368370.jpg/80x80bb.webp",
-        "length": "2:57"
+        "title": "Stigmates",
+        "artist": "SCH",
+        "album": "JVLIVS III : Ad Finem",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/09/ec/b009ec04-d42a-d0a2-4f5d-1db4e800098a/5021732530165.jpg/80x80bb.webp",
+        "length": "4:53"
     },
     {
         "ranking": "55",
-        "title": "Hakayet",
-        "artist": "VEN1",
-        "album": "Hakayet - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/d2/db/01d2dba7-e4d6-83f3-0332-ea4511dab88c/859780494628.jpg/80x80bb.webp",
-        "length": "2:38"
+        "title": "Beautiful Things",
+        "artist": "Benson Boone",
+        "album": "Beautiful Things - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
+        "length": "3:00"
     },
     {
         "ranking": "56",
@@ -449,19 +449,19 @@
     },
     {
         "ranking": "57",
+        "title": "Dis-moi que tu m'aimes",
+        "artist": "Ninho",
+        "album": "M.I.L.S",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2e/31/63/2e316368-53ec-7021-fa5f-719cc36de925/190295937270.jpg/80x80bb.webp",
+        "length": null
+    },
+    {
+        "ranking": "58",
         "title": "Nightcall",
         "artist": "Kavinsky",
         "album": "Nightcall - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/de/e1/61/dee16173-c361-9d23-9fbe-9ef3ad1daa46/24UM1IM00411.rgb.jpg/80x80bb.webp",
         "length": "2:59"
-    },
-    {
-        "ranking": "58",
-        "title": "Beautiful Things",
-        "artist": "Benson Boone",
-        "album": "Beautiful Things - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
-        "length": "3:00"
     },
     {
         "ranking": "59",
@@ -473,22 +473,14 @@
     },
     {
         "ranking": "60",
-        "title": "Dis-moi que tu m'aimes",
-        "artist": "Ninho",
-        "album": "M.I.L.S",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2e/31/63/2e316368-53ec-7021-fa5f-719cc36de925/190295937270.jpg/80x80bb.webp",
-        "length": null
+        "title": "Hakayet",
+        "artist": "VEN1",
+        "album": "Hakayet - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/d2/db/01d2dba7-e4d6-83f3-0332-ea4511dab88c/859780494628.jpg/80x80bb.webp",
+        "length": "2:38"
     },
     {
         "ranking": "61",
-        "title": "Gata Only",
-        "artist": "FloyyMenor",
-        "album": "Gata Only - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ca/4e/0f/ca4e0f11-2cbc-7aec-b2e4-53f5fac7cb0e/198309012715-copy-6dfc57c0.png/80x80bb.webp",
-        "length": "3:42"
-    },
-    {
-        "ranking": "62",
         "title": "VVS",
         "artist": "Ninho",
         "album": "Jefe",
@@ -496,39 +488,15 @@
         "length": "3:07"
     },
     {
+        "ranking": "62",
+        "title": "Gata Only",
+        "artist": "FloyyMenor",
+        "album": "Gata Only - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ca/4e/0f/ca4e0f11-2cbc-7aec-b2e4-53f5fac7cb0e/198309012715-copy-6dfc57c0.png/80x80bb.webp",
+        "length": "3:42"
+    },
+    {
         "ranking": "63",
-        "title": "RESTE-LÀ",
-        "artist": "Tiakola",
-        "album": "BDLM VOL.1",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/aa/fa/97aafa92-339c-685f-4750-eae886de5c04/5021732479280.jpg/80x80bb.webp",
-        "length": "4:02"
-    },
-    {
-        "ranking": "64",
-        "title": "Vanilla",
-        "artist": "VEN1",
-        "album": "Vanilla - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/be/c5/fbbec512-672e-bb64-d6ca-db6f9a5d4545/198830952894.jpg/80x80bb.webp",
-        "length": "3:07"
-    },
-    {
-        "ranking": "65",
-        "title": "J'oublie tout",
-        "artist": "Jul",
-        "album": "Dans ma paranoïa",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/52/1b/66/521b6644-19b6-2c93-e484-ac815d3ec027/3700187655792.jpg/80x80bb.webp",
-        "length": "5:16"
-    },
-    {
-        "ranking": "66",
-        "title": "FC BEAUDOTTES",
-        "artist": "Maes",
-        "album": "FC BEAUDOTTES - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/99/9f/6f999fb4-1559-2a93-8f73-2a80f8a8680c/24UM1IM15709.rgb.jpg/80x80bb.webp",
-        "length": "3:05"
-    },
-    {
-        "ranking": "67",
         "title": "No lo sé",
         "artist": "Lacrim",
         "album": "VENI VIDI VICI",
@@ -536,7 +504,31 @@
         "length": "2:45"
     },
     {
-        "ranking": "68",
+        "ranking": "64",
+        "title": "RESTE-LÀ",
+        "artist": "Tiakola",
+        "album": "BDLM VOL.1",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/aa/fa/97aafa92-339c-685f-4750-eae886de5c04/5021732479280.jpg/80x80bb.webp",
+        "length": "4:02"
+    },
+    {
+        "ranking": "65",
+        "title": "Vanilla",
+        "artist": "VEN1",
+        "album": "Vanilla - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/be/c5/fbbec512-672e-bb64-d6ca-db6f9a5d4545/198830952894.jpg/80x80bb.webp",
+        "length": "3:07"
+    },
+    {
+        "ranking": "66",
+        "title": "J'oublie tout",
+        "artist": "Jul",
+        "album": "Dans ma paranoïa",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/52/1b/66/521b6644-19b6-2c93-e484-ac815d3ec027/3700187655792.jpg/80x80bb.webp",
+        "length": "5:16"
+    },
+    {
+        "ranking": "67",
         "title": "Sur paname",
         "artist": "Ninho",
         "album": "Art de rue",
@@ -544,7 +536,7 @@
         "length": "2:25"
     },
     {
-        "ranking": "69",
+        "ranking": "68",
         "title": "Recommence-moi",
         "artist": "SANTA",
         "album": "RECOMMENCE-MOI",
@@ -552,7 +544,7 @@
         "length": "3:16"
     },
     {
-        "ranking": "70",
+        "ranking": "69",
         "title": "Petit génie (feat. Abou Debeing & Lossa)",
         "artist": "Jungeli",
         "album": "Petit génie (feat. Abou Debeing & Lossa) - Single",
@@ -560,15 +552,7 @@
         "length": "3:37"
     },
     {
-        "ranking": "71",
-        "title": "Passe ton chemin",
-        "artist": "Lynda",
-        "album": "Passe ton chemin - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ae/0e/64/ae0e64f1-82f3-a525-bbc9-70fd9c3514ec/cover.jpg/80x80bb.webp",
-        "length": "2:49"
-    },
-    {
-        "ranking": "72",
+        "ranking": "70",
         "title": "J'ai tout su",
         "artist": "Jul",
         "album": "Extraterrestre",
@@ -576,12 +560,28 @@
         "length": "3:09"
     },
     {
+        "ranking": "71",
+        "title": "FC BEAUDOTTES",
+        "artist": "Maes",
+        "album": "FC BEAUDOTTES - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/99/9f/6f999fb4-1559-2a93-8f73-2a80f8a8680c/24UM1IM15709.rgb.jpg/80x80bb.webp",
+        "length": "3:05"
+    },
+    {
+        "ranking": "72",
+        "title": "WILDFLOWER",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "4:21"
+    },
+    {
         "ranking": "73",
-        "title": "La faille",
-        "artist": "Jul",
-        "album": "C'est quand qu'il s'éteint ?",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ea/24/83/ea24830c-365a-c13f-2852-1bf879c0fac6/cover.jpg/80x80bb.webp",
-        "length": "4:51"
+        "title": "Passe ton chemin",
+        "artist": "Lynda",
+        "album": "Passe ton chemin - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ae/0e/64/ae0e64f1-82f3-a525-bbc9-70fd9c3514ec/cover.jpg/80x80bb.webp",
+        "length": "2:49"
     },
     {
         "ranking": "74",
@@ -593,6 +593,14 @@
     },
     {
         "ranking": "75",
+        "title": "La faille",
+        "artist": "Jul",
+        "album": "C'est quand qu'il s'éteint ?",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ea/24/83/ea24830c-365a-c13f-2852-1bf879c0fac6/cover.jpg/80x80bb.webp",
+        "length": "4:51"
+    },
+    {
+        "ranking": "76",
         "title": "Tu connais",
         "artist": "Werenoi",
         "album": "Telegram 2",
@@ -600,31 +608,15 @@
         "length": "2:49"
     },
     {
-        "ranking": "76",
-        "title": "EL GEMANO",
-        "artist": "Genezio",
-        "album": "EL GEMANO - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/d3/60/73d360c3-34e6-508d-e3c9-33870c68e9ec/cover.jpg/80x80bb.webp",
-        "length": "4:08"
-    },
-    {
         "ranking": "77",
-        "title": "WILDFLOWER",
-        "artist": "Billie Eilish",
-        "album": "HIT ME HARD AND SOFT",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "length": "4:21"
+        "title": "Évidemment",
+        "artist": "Jungeli",
+        "album": "Évidemment - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/8c/1e/1a8c1e83-b1a0-dc71-ffb4-11d1d7d45996/24UM1IM15030.rgb.jpg/80x80bb.webp",
+        "length": "3:03"
     },
     {
         "ranking": "78",
-        "title": "ALVALM",
-        "artist": "SDM",
-        "album": "A LA VIE A LA MORT",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/46/95/64469515-0230-b26c-69cf-5db61f5ea879/24UMGIM72197.rgb.jpg/80x80bb.webp",
-        "length": "3:18"
-    },
-    {
-        "ranking": "79",
         "title": "Meuda",
         "artist": "Tiakola",
         "album": "Mélo",
@@ -632,28 +624,36 @@
         "length": "2:33"
     },
     {
+        "ranking": "79",
+        "title": "ALVALM",
+        "artist": "SDM",
+        "album": "A LA VIE A LA MORT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/46/95/64469515-0230-b26c-69cf-5db61f5ea879/24UMGIM72197.rgb.jpg/80x80bb.webp",
+        "length": "3:18"
+    },
+    {
         "ranking": "80",
+        "title": "Dancing In The Flames",
+        "artist": "The Weeknd",
+        "album": "Dancing In The Flames - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/7e/9f/347e9f54-2d74-820f-a910-68d01f044fcf/24UMGIM95646.rgb.jpg/80x80bb.webp",
+        "length": "3:40"
+    },
+    {
+        "ranking": "81",
+        "title": "EL GEMANO",
+        "artist": "Genezio",
+        "album": "EL GEMANO - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/d3/60/73d360c3-34e6-508d-e3c9-33870c68e9ec/cover.jpg/80x80bb.webp",
+        "length": "4:08"
+    },
+    {
+        "ranking": "82",
         "title": "Wayeh",
         "artist": "THEODORT",
         "album": "Imad",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/83/ac/5d83ac12-6590-6abf-7573-a806d4da3770/196871942898.jpg/80x80bb.webp",
         "length": "2:30"
-    },
-    {
-        "ranking": "81",
-        "title": "MERCI",
-        "artist": "SDM",
-        "album": "A LA VIE A LA MORT",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/46/95/64469515-0230-b26c-69cf-5db61f5ea879/24UMGIM72197.rgb.jpg/80x80bb.webp",
-        "length": "3:12"
-    },
-    {
-        "ranking": "82",
-        "title": "I'M SORRY",
-        "artist": "La Mano 1.9",
-        "album": "I'M SORRY - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d1/7a/eb/d17aebab-1107-ab17-a819-be0fca81a402/24UMGIM99345.rgb.jpg/80x80bb.webp",
-        "length": "2:32"
     },
     {
         "ranking": "83",
@@ -665,38 +665,14 @@
     },
     {
         "ranking": "84",
-        "title": "Dancing In The Flames",
-        "artist": "The Weeknd",
-        "album": "Dancing In The Flames - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/7e/9f/347e9f54-2d74-820f-a910-68d01f044fcf/24UMGIM95646.rgb.jpg/80x80bb.webp",
-        "length": "3:40"
-    },
-    {
-        "ranking": "85",
-        "title": "AFFRANCHIS",
+        "title": "MERCI",
         "artist": "SDM",
         "album": "A LA VIE A LA MORT",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/46/95/64469515-0230-b26c-69cf-5db61f5ea879/24UMGIM72197.rgb.jpg/80x80bb.webp",
-        "length": "3:50"
+        "length": "3:12"
     },
     {
-        "ranking": "86",
-        "title": "PLAISIR NOCIF",
-        "artist": "Tiakola",
-        "album": "BDLM VOL.1",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/aa/fa/97aafa92-339c-685f-4750-eae886de5c04/5021732479280.jpg/80x80bb.webp",
-        "length": "3:32"
-    },
-    {
-        "ranking": "87",
-        "title": "Sierra Leone",
-        "artist": "La Fouine",
-        "album": "Sierra Leone - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/2d/08/8c2d0882-e69a-bdb4-eeda-1373816deed9/cover.jpg/80x80bb.webp",
-        "length": "2:39"
-    },
-    {
-        "ranking": "88",
+        "ranking": "85",
         "title": "Move",
         "artist": "Adam Port",
         "album": "Move - Single",
@@ -704,15 +680,31 @@
         "length": "2:57"
     },
     {
-        "ranking": "89",
-        "title": "MAMI WATA",
-        "artist": "Gazo",
-        "album": "LA MELO EST GANGX",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1c/10/59/1c105953-8e25-a202-81b1-a745806beb59/196871589017.jpg/80x80bb.webp",
-        "length": "3:52"
+        "ranking": "86",
+        "title": "I'M SORRY",
+        "artist": "La Mano 1.9",
+        "album": "I'M SORRY - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d1/7a/eb/d17aebab-1107-ab17-a819-be0fca81a402/24UMGIM99345.rgb.jpg/80x80bb.webp",
+        "length": "2:32"
     },
     {
-        "ranking": "90",
+        "ranking": "87",
+        "title": "PLAISIR NOCIF",
+        "artist": "Tiakola",
+        "album": "BDLM VOL.1",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/aa/fa/97aafa92-339c-685f-4750-eae886de5c04/5021732479280.jpg/80x80bb.webp",
+        "length": "3:32"
+    },
+    {
+        "ranking": "88",
+        "title": "AFFRANCHIS",
+        "artist": "SDM",
+        "album": "A LA VIE A LA MORT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/46/95/64469515-0230-b26c-69cf-5db61f5ea879/24UMGIM72197.rgb.jpg/80x80bb.webp",
+        "length": "3:50"
+    },
+    {
+        "ranking": "89",
         "title": "Stargazing",
         "artist": "Myles Smith",
         "album": "Stargazing - Single",
@@ -720,28 +712,36 @@
         "length": "2:52"
     },
     {
+        "ranking": "90",
+        "title": "Sierra Leone",
+        "artist": "La Fouine",
+        "album": "Sierra Leone - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/2d/08/8c2d0882-e69a-bdb4-eeda-1373816deed9/cover.jpg/80x80bb.webp",
+        "length": "2:39"
+    },
+    {
         "ranking": "91",
-        "title": "Boston George (feat. Maes)",
-        "artist": "Lacrim",
-        "album": "R.I.P.R.O 4",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a8/a7/7e/a8a77e2b-1171-3f5c-0038-2a010ba95b53/20UMGIM79344.rgb.jpg/80x80bb.webp",
-        "length": "3:22"
+        "title": "MAMI WATA",
+        "artist": "Gazo",
+        "album": "LA MELO EST GANGX",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1c/10/59/1c105953-8e25-a202-81b1-a745806beb59/196871589017.jpg/80x80bb.webp",
+        "length": "3:52"
     },
     {
         "ranking": "92",
+        "title": "Malya",
+        "artist": "AMK",
+        "album": "15",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/e6/98/b8e698ca-0681-51a7-c244-4b0c49f94c7b/24UM1IM03565.rgb.jpg/80x80bb.webp",
+        "length": "3:12"
+    },
+    {
+        "ranking": "93",
         "title": "Espresso",
         "artist": "Sabrina Carpenter",
         "album": "Espresso - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
         "length": "2:55"
-    },
-    {
-        "ranking": "93",
-        "title": "Évidemment",
-        "artist": "Jungeli",
-        "album": "Évidemment - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/8c/1e/1a8c1e83-b1a0-dc71-ffb4-11d1d7d45996/24UM1IM15030.rgb.jpg/80x80bb.webp",
-        "length": "3:03"
     },
     {
         "ranking": "94",
@@ -753,38 +753,6 @@
     },
     {
         "ranking": "95",
-        "title": "Malya",
-        "artist": "AMK",
-        "album": "15",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/e6/98/b8e698ca-0681-51a7-c244-4b0c49f94c7b/24UM1IM03565.rgb.jpg/80x80bb.webp",
-        "length": "3:12"
-    },
-    {
-        "ranking": "96",
-        "title": "JEUX D'ECHECS",
-        "artist": "SDM",
-        "album": "A LA VIE A LA MORT",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/46/95/64469515-0230-b26c-69cf-5db61f5ea879/24UMGIM72197.rgb.jpg/80x80bb.webp",
-        "length": "3:14"
-    },
-    {
-        "ranking": "97",
-        "title": "SANS BOUSSOLE",
-        "artist": "Maes",
-        "album": "LA VIE CONTINUE (BONUS)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c1/5c/06/c15c0626-38d3-ddf8-4876-ce6db326ebba/24UMGIM67419.rgb.jpg/80x80bb.webp",
-        "length": "2:53"
-    },
-    {
-        "ranking": "98",
-        "title": "Namek (feat. Omah Lay)",
-        "artist": "Jul",
-        "album": "Cœur blanc",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/70/98/ec/7098ec71-c59e-e6f5-a336-1ed1288df3a6/cover.jpg/80x80bb.webp",
-        "length": "3:06"
-    },
-    {
-        "ranking": "99",
         "title": "G.A.N.G",
         "artist": "Tiakola",
         "album": "BDLM VOL.1",
@@ -792,11 +760,43 @@
         "length": "3:07"
     },
     {
-        "ranking": "100",
+        "ranking": "96",
+        "title": "Boston George (feat. Maes)",
+        "artist": "Lacrim",
+        "album": "R.I.P.R.O 4",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a8/a7/7e/a8a77e2b-1171-3f5c-0038-2a010ba95b53/20UMGIM79344.rgb.jpg/80x80bb.webp",
+        "length": "3:22"
+    },
+    {
+        "ranking": "97",
+        "title": "Namek (feat. Omah Lay)",
+        "artist": "Jul",
+        "album": "Cœur blanc",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/70/98/ec/7098ec71-c59e-e6f5-a336-1ed1288df3a6/cover.jpg/80x80bb.webp",
+        "length": "3:06"
+    },
+    {
+        "ranking": "98",
         "title": "J'me tire",
         "artist": "GIMS",
         "album": "Subliminal la face cachée",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0d/d7/a8/0dd7a80c-a96b-0b9b-97e4-5a8ee603032d/dj.cnmkrwhy.jpg/80x80bb.webp",
         "length": "4:09"
+    },
+    {
+        "ranking": "99",
+        "title": "Mon amour",
+        "artist": "Slimane",
+        "album": "Mon amour - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6c/69/f5/6c69f5e4-a420-f252-d802-314e6fb1bbe4/23UM1IM48466.rgb.jpg/80x80bb.webp",
+        "length": "3:00"
+    },
+    {
+        "ranking": "100",
+        "title": "JEUX D'ECHECS",
+        "artist": "SDM",
+        "album": "A LA VIE A LA MORT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/46/95/64469515-0230-b26c-69cf-5db61f5ea879/24UMGIM72197.rgb.jpg/80x80bb.webp",
+        "length": "3:14"
     }
 ]

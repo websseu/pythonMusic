@@ -41,11 +41,11 @@
     },
     {
         "ranking": "6",
-        "title": "BAKPAKK",
-        "artist": "Desh",
-        "album": "BAKPAKK - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/9a/08/659a08c0-74b9-6ae4-e136-b8fc50c9e4c4/cover.jpg/80x80bb.webp",
-        "length": "2:47"
+        "title": "Die With A Smile",
+        "artist": "Lady Gaga",
+        "album": "Die With A Smile - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
+        "length": "4:11"
     },
     {
         "ranking": "7",
@@ -57,19 +57,19 @@
     },
     {
         "ranking": "8",
-        "title": "Die With A Smile",
-        "artist": "Lady Gaga",
-        "album": "Die With A Smile - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "length": "4:11"
+        "title": "BAKPAKK",
+        "artist": "Desh",
+        "album": "BAKPAKK - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/9a/08/659a08c0-74b9-6ae4-e136-b8fc50c9e4c4/cover.jpg/80x80bb.webp",
+        "length": "2:47"
     },
     {
         "ranking": "9",
-        "title": "MOKKA",
-        "artist": "Desh",
-        "album": "BAKPAKK - EP",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/11/4f/f0114fef-4bef-db9e-6f04-d1b30a6897f5/cover.jpg/80x80bb.webp",
-        "length": "2:43"
+        "title": "Timeless",
+        "artist": "The Weeknd",
+        "album": "Timeless - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
+        "length": "4:16"
     },
     {
         "ranking": "10",
@@ -81,27 +81,27 @@
     },
     {
         "ranking": "11",
-        "title": "Timeless",
-        "artist": "The Weeknd",
-        "album": "Timeless - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "length": "4:16"
+        "title": "MOKKA",
+        "artist": "Desh",
+        "album": "BAKPAKK - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/11/4f/f0114fef-4bef-db9e-6f04-d1b30a6897f5/cover.jpg/80x80bb.webp",
+        "length": "2:43"
     },
     {
         "ranking": "12",
-        "title": "díva",
-        "artist": "Dzsúdló",
-        "album": "rabiga - EP",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/94/81/019481a2-5fc4-bdc9-ac1d-41f9f58c2577/cover.jpg/80x80bb.webp",
-        "length": "2:15"
-    },
-    {
-        "ranking": "13",
         "title": "That’s So True",
         "artist": "Gracie Abrams",
         "album": "The Secret of Us (Deluxe)",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
         "length": "2:46"
+    },
+    {
+        "ranking": "13",
+        "title": "díva",
+        "artist": "Dzsúdló",
+        "album": "rabiga - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/94/81/019481a2-5fc4-bdc9-ac1d-41f9f58c2577/cover.jpg/80x80bb.webp",
+        "length": "2:15"
     },
     {
         "ranking": "14",
@@ -121,14 +121,6 @@
     },
     {
         "ranking": "16",
-        "title": "Pakisztáni/popo",
-        "artist": "Desh",
-        "album": "CARPE DIEM - EP",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d4/20/54/d42054eb-fd98-3737-5e65-24e63d9039e6/cover.jpg/80x80bb.webp",
-        "length": "2:41"
-    },
-    {
-        "ranking": "17",
         "title": "Oy Lele",
         "artist": "VZS",
         "album": "Oy Lele - Single",
@@ -136,15 +128,7 @@
         "length": "2:30"
     },
     {
-        "ranking": "18",
-        "title": "Rampapapam (feat. Lord Panamo)",
-        "artist": "Desh",
-        "album": "CARPE DIEM - EP",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d4/20/54/d42054eb-fd98-3737-5e65-24e63d9039e6/cover.jpg/80x80bb.webp",
-        "length": "3:09"
-    },
-    {
-        "ranking": "19",
+        "ranking": "17",
         "title": "São Paulo",
         "artist": "The Weeknd",
         "album": "São Paulo - Single",
@@ -152,12 +136,28 @@
         "length": "5:01"
     },
     {
-        "ranking": "20",
+        "ranking": "18",
+        "title": "Pakisztáni/popo",
+        "artist": "Desh",
+        "album": "CARPE DIEM - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d4/20/54/d42054eb-fd98-3737-5e65-24e63d9039e6/cover.jpg/80x80bb.webp",
+        "length": "2:41"
+    },
+    {
+        "ranking": "19",
         "title": "SANDELA",
         "artist": "HENN",
         "album": "SANDELA - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/82/6f/1c826f5b-1f57-d89e-1aa8-db5dc133d013/cover.jpg/80x80bb.webp",
         "length": "2:57"
+    },
+    {
+        "ranking": "20",
+        "title": "Rampapapam (feat. Lord Panamo)",
+        "artist": "Desh",
+        "album": "CARPE DIEM - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d4/20/54/d42054eb-fd98-3737-5e65-24e63d9039e6/cover.jpg/80x80bb.webp",
+        "length": "3:09"
     },
     {
         "ranking": "21",
@@ -169,14 +169,6 @@
     },
     {
         "ranking": "22",
-        "title": "Strawberry",
-        "artist": "Desh",
-        "album": "Strawberry - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e9/75/1f/e9751f4a-d77a-e81a-1783-489ac5d91584/cover.jpg/80x80bb.webp",
-        "length": "2:42"
-    },
-    {
-        "ranking": "23",
         "title": "Mámor",
         "artist": "Pogány Induló",
         "album": "Vagy Mindent Vagy Semmit",
@@ -184,12 +176,20 @@
         "length": "2:56"
     },
     {
+        "ranking": "23",
+        "title": "Strawberry",
+        "artist": "Desh",
+        "album": "Strawberry - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e9/75/1f/e9751f4a-d77a-e81a-1783-489ac5d91584/cover.jpg/80x80bb.webp",
+        "length": "2:42"
+    },
+    {
         "ranking": "24",
-        "title": "APT.",
-        "artist": "ROSÉ",
-        "album": "APT. - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "length": "2:49"
+        "title": "Boldog igazán (feat. Parno Graszt)",
+        "artist": "DÁNIELFY",
+        "album": "HA MEGÉRKEZEL",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/3a/ed/e03aed86-484b-71fb-a1cd-a57f54076c11/0747973906877_cover.jpg/80x80bb.webp",
+        "length": "3:11"
     },
     {
         "ranking": "25",
@@ -201,30 +201,6 @@
     },
     {
         "ranking": "26",
-        "title": "introvertált dal",
-        "artist": "Azahriah",
-        "album": "introvertált dal - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/94/50/2d/94502db3-e9a3-351b-d97e-1d5a3a0e7239/cover.jpg/80x80bb.webp",
-        "length": "2:49"
-    },
-    {
-        "ranking": "27",
-        "title": "Boldog igazán (feat. Parno Graszt)",
-        "artist": "DÁNIELFY",
-        "album": "HA MEGÉRKEZEL",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/3a/ed/e03aed86-484b-71fb-a1cd-a57f54076c11/0747973906877_cover.jpg/80x80bb.webp",
-        "length": "3:11"
-    },
-    {
-        "ranking": "28",
-        "title": "Székelykapu (feat. Parno Graszt)",
-        "artist": "Pogány Induló",
-        "album": "Vagy Mindent Vagy Semmit",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/60/00/54/60005417-d7ff-aa0a-e00f-26a19f318008/0747973884175_cover.jpg/80x80bb.webp",
-        "length": "2:50"
-    },
-    {
-        "ranking": "29",
         "title": "Úgy Hiszem",
         "artist": "Pogány Induló",
         "album": "Vagy Mindent Vagy Semmit",
@@ -232,15 +208,23 @@
         "length": "3:19"
     },
     {
-        "ranking": "30",
-        "title": "3korty",
+        "ranking": "27",
+        "title": "introvertált dal",
         "artist": "Azahriah",
-        "album": "memento",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5d/33/26/5d33260b-3982-477c-0adf-b0090f5a09b3/cover.jpg/80x80bb.webp",
-        "length": "3:13"
+        "album": "introvertált dal - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/94/50/2d/94502db3-e9a3-351b-d97e-1d5a3a0e7239/cover.jpg/80x80bb.webp",
+        "length": "2:49"
     },
     {
-        "ranking": "31",
+        "ranking": "28",
+        "title": "APT.",
+        "artist": "ROSÉ",
+        "album": "APT. - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
+        "ranking": "29",
         "title": "CHOCO MOMMY",
         "artist": "Desh",
         "album": "BAKPAKK - EP",
@@ -248,12 +232,28 @@
         "length": "1:53"
     },
     {
+        "ranking": "30",
+        "title": "EZ AZ ÁRA",
+        "artist": "Moriones",
+        "album": "EZ AZ ÁRA - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cb/09/d1/cb09d16d-444e-1818-41ac-9af5c2f1f4e7/5999575531376.jpg/80x80bb.webp",
+        "length": "3:02"
+    },
+    {
+        "ranking": "31",
+        "title": "Székelykapu (feat. Parno Graszt)",
+        "artist": "Pogány Induló",
+        "album": "Vagy Mindent Vagy Semmit",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/60/00/54/60005417-d7ff-aa0a-e00f-26a19f318008/0747973884175_cover.jpg/80x80bb.webp",
+        "length": "2:50"
+    },
+    {
         "ranking": "32",
-        "title": "Papa",
-        "artist": "Desh",
-        "album": "DESHPERADO",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4a/bf/52/4abf5243-9768-5a59-8214-2fc0e0e99132/cover.jpg/80x80bb.webp",
-        "length": "2:20"
+        "title": "3korty",
+        "artist": "Azahriah",
+        "album": "memento",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5d/33/26/5d33260b-3982-477c-0adf-b0090f5a09b3/cover.jpg/80x80bb.webp",
+        "length": "3:13"
     },
     {
         "ranking": "33",
@@ -265,14 +265,6 @@
     },
     {
         "ranking": "34",
-        "title": "EZ AZ ÁRA",
-        "artist": "Moriones",
-        "album": "EZ AZ ÁRA - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cb/09/d1/cb09d16d-444e-1818-41ac-9af5c2f1f4e7/5999575531376.jpg/80x80bb.webp",
-        "length": "3:02"
-    },
-    {
-        "ranking": "35",
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "album": "HIT ME HARD AND SOFT",
@@ -280,20 +272,28 @@
         "length": "4:21"
     },
     {
+        "ranking": "35",
+        "title": "Papa",
+        "artist": "Desh",
+        "album": "DESHPERADO",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4a/bf/52/4abf5243-9768-5a59-8214-2fc0e0e99132/cover.jpg/80x80bb.webp",
+        "length": "2:20"
+    },
+    {
         "ranking": "36",
+        "title": "Nekem ez a fless",
+        "artist": "HENN",
+        "album": "Nekem ez a fless - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/80/f7/44/80f74419-d43b-d177-cb33-cc3e33ce89b5/cover.jpg/80x80bb.webp",
+        "length": "3:00"
+    },
+    {
+        "ranking": "37",
         "title": "Voodoo Baba",
         "artist": "Manuel",
         "album": "Torz - EP",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/8a/5e/8c8a5e64-8a02-8395-8be3-defcb4d97596/cover.jpg/80x80bb.webp",
         "length": "2:34"
-    },
-    {
-        "ranking": "37",
-        "title": "szosziazi",
-        "artist": "Azahriah",
-        "album": "szosziazi - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f4/66/31/f46631af-fbb9-075b-65d0-6ed50b10dd41/cover.jpg/80x80bb.webp",
-        "length": "3:26"
     },
     {
         "ranking": "38",
@@ -313,30 +313,6 @@
     },
     {
         "ranking": "40",
-        "title": "Kukásautó",
-        "artist": "Desh",
-        "album": "Kukásautó - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e1/ce/d6/e1ced644-bc1e-fb29-fb75-6588580a3de4/cover.jpg/80x80bb.webp",
-        "length": "3:15"
-    },
-    {
-        "ranking": "41",
-        "title": "Tiara",
-        "artist": "Manuel",
-        "album": "Tiara - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c7/02/f7/c702f76b-8b8f-5253-9223-645d97e6086a/cover.jpg/80x80bb.webp",
-        "length": "3:23"
-    },
-    {
-        "ranking": "42",
-        "title": "Mind1",
-        "artist": "Azahriah",
-        "album": "Mind1 - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/46/e3/d2/46e3d266-4d15-b7d4-bb6b-0f58e29d8ece/cover.jpg/80x80bb.webp",
-        "length": "3:11"
-    },
-    {
-        "ranking": "43",
         "title": "Afro Beat",
         "artist": "Pogány Induló",
         "album": "Megáll Az Idő",
@@ -344,12 +320,36 @@
         "length": "3:12"
     },
     {
-        "ranking": "44",
+        "ranking": "41",
         "title": "Sailor Song",
         "artist": "Gigi Perez",
         "album": "Sailor Song - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/d4/96/25d49699-acc0-401f-a7cc-d7697339a474/24UM1IM03751.rgb.jpg/80x80bb.webp",
         "length": "3:31"
+    },
+    {
+        "ranking": "42",
+        "title": "szosziazi",
+        "artist": "Azahriah",
+        "album": "szosziazi - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f4/66/31/f46631af-fbb9-075b-65d0-6ed50b10dd41/cover.jpg/80x80bb.webp",
+        "length": "3:26"
+    },
+    {
+        "ranking": "43",
+        "title": "Tiara",
+        "artist": "Manuel",
+        "album": "Tiara - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c7/02/f7/c702f76b-8b8f-5253-9223-645d97e6086a/cover.jpg/80x80bb.webp",
+        "length": "3:23"
+    },
+    {
+        "ranking": "44",
+        "title": "Mind1",
+        "artist": "Azahriah",
+        "album": "Mind1 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/46/e3/d2/46e3d266-4d15-b7d4-bb6b-0f58e29d8ece/cover.jpg/80x80bb.webp",
+        "length": "3:11"
     },
     {
         "ranking": "45",
@@ -369,6 +369,14 @@
     },
     {
         "ranking": "47",
+        "title": "Kukásautó",
+        "artist": "Desh",
+        "album": "Kukásautó - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e1/ce/d6/e1ced644-bc1e-fb29-fb75-6588580a3de4/cover.jpg/80x80bb.webp",
+        "length": "3:15"
+    },
+    {
+        "ranking": "48",
         "title": "Várnék",
         "artist": "Dzsúdló",
         "album": "Várnék - Single",
@@ -376,7 +384,7 @@
         "length": "3:07"
     },
     {
-        "ranking": "48",
+        "ranking": "49",
         "title": "Miafasz",
         "artist": "Azahriah",
         "album": "A ló túloldalán",
@@ -384,20 +392,12 @@
         "length": "3:13"
     },
     {
-        "ranking": "49",
+        "ranking": "50",
         "title": "Krisz x Jaki-Prikezsia",
         "artist": "Romano Bengz Studio",
         "album": "Krisz x Jaki-Prikezsia - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c2/80/cb/c280cbe2-ca19-0f17-a9ad-e7c481cc1a50/artwork.jpg/80x80bb.webp",
         "length": "2:37"
-    },
-    {
-        "ranking": "50",
-        "title": "CHIHIRO",
-        "artist": "Billie Eilish",
-        "album": "HIT ME HARD AND SOFT",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "length": "5:03"
     },
     {
         "ranking": "51",
@@ -409,43 +409,43 @@
     },
     {
         "ranking": "52",
-        "title": "FE!N (feat. Playboi Carti)",
-        "artist": "Travis Scott",
-        "album": "UTOPIA",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/7d/b0/097db06f-8403-3cf7-7510-139e570ca66b/196871341882.jpg/80x80bb.webp",
-        "length": "3:11"
+        "title": "Beautiful Things",
+        "artist": "Benson Boone",
+        "album": "Beautiful Things - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
+        "length": "3:00"
     },
     {
         "ranking": "53",
-        "title": "Ördög Nórika",
-        "artist": "Bruno X Spacc",
-        "album": "Ördög Nórika - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5f/55/f7/5f55f79f-dc3f-ca11-1025-fb6a2cdbc1e8/cover.jpg/80x80bb.webp",
-        "length": "2:03"
+        "title": "Ki az a Henn?",
+        "artist": "HENN",
+        "album": "Ki az a Henn? - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/b7/bc/44b7bc57-da47-47ee-26f7-884ffd792855/cover.jpg/80x80bb.webp",
+        "length": "2:45"
     },
     {
         "ranking": "54",
-        "title": "I Adore You (feat. Daecolm)",
-        "artist": "HUGEL",
-        "album": "I Adore You (feat. Daecolm) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/df/e6/1ddfe6ea-a5f2-2c59-b574-b56ef0379096/24UMGIM74086.rgb.jpg/80x80bb.webp",
-        "length": "3:34"
+        "title": "CHIHIRO",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "5:03"
     },
     {
         "ranking": "55",
-        "title": "Pullup",
-        "artist": "Azahriah",
-        "album": "A ló túloldalán",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/62/af/f8/62aff82c-9196-eac6-c829-614f043ba09d/cover.jpg/80x80bb.webp",
-        "length": "2:17"
-    },
-    {
-        "ranking": "56",
         "title": "egyszerű",
         "artist": "Dzsúdló",
         "album": "rabiga - EP",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/94/81/019481a2-5fc4-bdc9-ac1d-41f9f58c2577/cover.jpg/80x80bb.webp",
         "length": "2:50"
+    },
+    {
+        "ranking": "56",
+        "title": "I Adore You (feat. Daecolm)",
+        "artist": "HUGEL",
+        "album": "I Adore You (feat. Daecolm) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/df/e6/1ddfe6ea-a5f2-2c59-b574-b56ef0379096/24UMGIM74086.rgb.jpg/80x80bb.webp",
+        "length": "3:34"
     },
     {
         "ranking": "57",
@@ -457,38 +457,14 @@
     },
     {
         "ranking": "58",
-        "title": "Beautiful Things",
-        "artist": "Benson Boone",
-        "album": "Beautiful Things - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
-        "length": "3:00"
+        "title": "FE!N (feat. Playboi Carti)",
+        "artist": "Travis Scott",
+        "album": "UTOPIA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/7d/b0/097db06f-8403-3cf7-7510-139e570ca66b/196871341882.jpg/80x80bb.webp",
+        "length": "3:11"
     },
     {
         "ranking": "59",
-        "title": "Ki az a Henn?",
-        "artist": "HENN",
-        "album": "Ki az a Henn? - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/b7/bc/44b7bc57-da47-47ee-26f7-884ffd792855/cover.jpg/80x80bb.webp",
-        "length": "2:45"
-    },
-    {
-        "ranking": "60",
-        "title": "The Sound of Silence (CYRIL Remix)",
-        "artist": "Disturbed",
-        "album": "To The World - EP",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3f/be/33/3fbe339b-6da1-7bdc-1083-0345a1aa40f0/5021732450494.jpg/80x80bb.webp",
-        "length": "3:05"
-    },
-    {
-        "ranking": "61",
-        "title": "Taste",
-        "artist": "Sabrina Carpenter",
-        "album": "Short n' Sweet",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
-        "length": "2:37"
-    },
-    {
-        "ranking": "62",
         "title": "BAGIRA",
         "artist": "Beton.Hofi",
         "album": "BAGIRA - Single",
@@ -496,7 +472,7 @@
         "length": "2:03"
     },
     {
-        "ranking": "63",
+        "ranking": "60",
         "title": "Mióta elhagytál (Nem vagyok álmos)",
         "artist": "BSW",
         "album": "Mióta elhagytál (Nem vagyok álmos) - Single",
@@ -504,7 +480,39 @@
         "length": "3:32"
     },
     {
+        "ranking": "61",
+        "title": "Pullup",
+        "artist": "Azahriah",
+        "album": "A ló túloldalán",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/62/af/f8/62aff82c-9196-eac6-c829-614f043ba09d/cover.jpg/80x80bb.webp",
+        "length": "2:17"
+    },
+    {
+        "ranking": "62",
+        "title": "Ördög Nórika",
+        "artist": "Bruno X Spacc",
+        "album": "Ördög Nórika - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5f/55/f7/5f55f79f-dc3f-ca11-1025-fb6a2cdbc1e8/cover.jpg/80x80bb.webp",
+        "length": "2:03"
+    },
+    {
+        "ranking": "63",
+        "title": "The Sound of Silence (CYRIL Remix)",
+        "artist": "Disturbed",
+        "album": "To The World - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3f/be/33/3fbe339b-6da1-7bdc-1083-0345a1aa40f0/5021732450494.jpg/80x80bb.webp",
+        "length": "3:05"
+    },
+    {
         "ranking": "64",
+        "title": "Taste",
+        "artist": "Sabrina Carpenter",
+        "album": "Short n' Sweet",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+        "length": "2:37"
+    },
+    {
+        "ranking": "65",
         "title": "lánc",
         "artist": "Dzsúdló",
         "album": "rabiga - EP",
@@ -512,36 +520,28 @@
         "length": "2:39"
     },
     {
-        "ranking": "65",
-        "title": "Disease",
-        "artist": "Lady Gaga",
-        "album": "Disease - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/2b/dc/c72bdc7a-7014-e5df-a106-583074c0affa/24UM1IM12462.rgb.jpg/80x80bb.webp",
-        "length": "3:49"
-    },
-    {
         "ranking": "66",
-        "title": "four moods",
-        "artist": "Azahriah",
-        "album": "silbak - EP",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e9/23/d4/e923d475-9d36-2d19-5aaf-1568b1bfae3d/cover.jpg/80x80bb.webp",
-        "length": "3:23"
-    },
-    {
-        "ranking": "67",
-        "title": "ceremónia",
-        "artist": "Azahriah",
-        "album": "tripq - EP",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/16/60/a1/1660a163-dac8-59cc-7dc5-7ed1d1569587/cover.jpg/80x80bb.webp",
-        "length": "4:33"
-    },
-    {
-        "ranking": "68",
         "title": "Gengetek ellen",
         "artist": "Pogány Induló",
         "album": "Vagy Mindent Vagy Semmit",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/60/00/54/60005417-d7ff-aa0a-e00f-26a19f318008/0747973884175_cover.jpg/80x80bb.webp",
         "length": "2:49"
+    },
+    {
+        "ranking": "67",
+        "title": "SISS",
+        "artist": "Bruno X Spacc",
+        "album": "SISS - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/d0/7f/f3d07f94-b1c9-1040-d587-21e57a045d5a/cover.jpg/80x80bb.webp",
+        "length": "2:50"
+    },
+    {
+        "ranking": "68",
+        "title": "Disease",
+        "artist": "Lady Gaga",
+        "album": "Disease - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/2b/dc/c72bdc7a-7014-e5df-a106-583074c0affa/24UM1IM12462.rgb.jpg/80x80bb.webp",
+        "length": "3:49"
     },
     {
         "ranking": "69",
@@ -553,27 +553,27 @@
     },
     {
         "ranking": "70",
-        "title": "Tisztán iszom",
+        "title": "four moods",
         "artist": "Azahriah",
-        "album": "A ló túloldalán",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/62/af/f8/62aff82c-9196-eac6-c829-614f043ba09d/cover.jpg/80x80bb.webp",
-        "length": "3:00"
+        "album": "silbak - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e9/23/d4/e923d475-9d36-2d19-5aaf-1568b1bfae3d/cover.jpg/80x80bb.webp",
+        "length": "3:23"
     },
     {
         "ranking": "71",
-        "title": "Csavargó",
-        "artist": "KKevin",
-        "album": "Csavargó - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/1e/80/1c/1e801c6e-ac7f-fea3-3a8b-269f0bc70b66/cover.jpg/80x80bb.webp",
-        "length": "2:54"
+        "title": "12+1 (feat. Ekhoe & Ótvar Pestis)",
+        "artist": "Pogány Induló",
+        "album": "Megáll Az Idő",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0a/80/71/0a8071e8-3f35-6769-e422-fda4fb0e7ec2/0747973883246_cover.jpg/80x80bb.webp",
+        "length": "5:37"
     },
     {
         "ranking": "72",
-        "title": "Gata Only",
-        "artist": "FloyyMenor",
-        "album": "Gata Only - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ca/4e/0f/ca4e0f11-2cbc-7aec-b2e4-53f5fac7cb0e/198309012715-copy-6dfc57c0.png/80x80bb.webp",
-        "length": "3:42"
+        "title": "Heavy Is the Crown",
+        "artist": "LINKIN PARK",
+        "album": "From Zero",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/21/cf/6921cff3-7074-118a-ece2-4012450e6c75/093624839811.jpg/80x80bb.webp",
+        "length": "2:47"
     },
     {
         "ranking": "73",
@@ -585,94 +585,14 @@
     },
     {
         "ranking": "74",
-        "title": "Rét",
+        "title": "Tisztán iszom",
         "artist": "Azahriah",
-        "album": "Rét - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b5/8d/ac/b58dacf3-3423-4647-ed78-7ea874979818/cover.jpg/80x80bb.webp",
-        "length": "2:59"
-    },
-    {
-        "ranking": "75",
-        "title": "Last Christmas (Single Version)",
-        "artist": "Wham!",
-        "album": "Last Christmas - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/eb/4a/f9/eb4af984-fc68-56ab-7b89-1d070c04e1dd/5099765318524.jpg/80x80bb.webp",
-        "length": "4:22"
-    },
-    {
-        "ranking": "76",
-        "title": "15",
-        "artist": "Pogány Induló",
-        "album": "Vagy Mindent Vagy Semmit",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/60/00/54/60005417-d7ff-aa0a-e00f-26a19f318008/0747973884175_cover.jpg/80x80bb.webp",
-        "length": "2:24"
-    },
-    {
-        "ranking": "77",
-        "title": "Without Me",
-        "artist": "Eminem",
-        "album": "The Eminem Show",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b4/13/e9/b413e91d-40aa-a1a8-b8e3-2bacc3b3e222/00606949329020.rgb.jpg/80x80bb.webp",
-        "length": "4:50"
-    },
-    {
-        "ranking": "78",
-        "title": "12+1 (feat. Ekhoe & Ótvar Pestis)",
-        "artist": "Pogány Induló",
-        "album": "Megáll Az Idő",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0a/80/71/0a8071e8-3f35-6769-e422-fda4fb0e7ec2/0747973883246_cover.jpg/80x80bb.webp",
-        "length": "5:37"
-    },
-    {
-        "ranking": "79",
-        "title": "ROSSZ ÖTLET",
-        "artist": "Mihályfi Luca",
-        "album": "ROSSZ ÖTLET - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4a/19/95/4a199524-0064-37c0-0a1e-48b2a113fa3f/cover.jpg/80x80bb.webp",
-        "length": "2:56"
-    },
-    {
-        "ranking": "80",
-        "title": "SISS",
-        "artist": "Bruno X Spacc",
-        "album": "SISS - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/d0/7f/f3d07f94-b1c9-1040-d587-21e57a045d5a/cover.jpg/80x80bb.webp",
-        "length": "2:50"
-    },
-    {
-        "ranking": "81",
-        "title": "Heavy Is the Crown",
-        "artist": "LINKIN PARK",
-        "album": "From Zero",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/21/cf/6921cff3-7074-118a-ece2-4012450e6c75/093624839811.jpg/80x80bb.webp",
-        "length": "2:47"
-    },
-    {
-        "ranking": "82",
-        "title": "Nekem ez a fless",
-        "artist": "HENN",
-        "album": "Nekem ez a fless - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/80/f7/44/80f74419-d43b-d177-cb33-cc3e33ce89b5/cover.jpg/80x80bb.webp",
+        "album": "A ló túloldalán",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/62/af/f8/62aff82c-9196-eac6-c829-614f043ba09d/cover.jpg/80x80bb.webp",
         "length": "3:00"
     },
     {
-        "ranking": "83",
-        "title": "I Love You, I'm Sorry",
-        "artist": "Gracie Abrams",
-        "album": "The Secret of Us",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/9a/a7/529aa76f-5d60-cd81-9eb0-0eb521de861d/24UMGIM43968.rgb.jpg/80x80bb.webp",
-        "length": "2:37"
-    },
-    {
-        "ranking": "84",
-        "title": "A Bar Song (Tipsy)",
-        "artist": "Shaboozey",
-        "album": "Where I've Been, Isn't Where I'm Going",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/b5/bc/97b5bca2-6238-2421-4f0d-1f7a39d5d9d4/197342550925_cover.jpg/80x80bb.webp",
-        "length": "2:51"
-    },
-    {
-        "ranking": "85",
+        "ranking": "75",
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "album": "Not Like Us - Single",
@@ -680,12 +600,92 @@
         "length": "4:34"
     },
     {
-        "ranking": "86",
-        "title": "gát",
+        "ranking": "76",
+        "title": "ceremónia",
         "artist": "Azahriah",
-        "album": "memento",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5d/33/26/5d33260b-3982-477c-0adf-b0090f5a09b3/cover.jpg/80x80bb.webp",
-        "length": "3:09"
+        "album": "tripq - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/16/60/a1/1660a163-dac8-59cc-7dc5-7ed1d1569587/cover.jpg/80x80bb.webp",
+        "length": "4:33"
+    },
+    {
+        "ranking": "77",
+        "title": "ROSSZ ÖTLET",
+        "artist": "Mihályfi Luca",
+        "album": "ROSSZ ÖTLET - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4a/19/95/4a199524-0064-37c0-0a1e-48b2a113fa3f/cover.jpg/80x80bb.webp",
+        "length": "2:56"
+    },
+    {
+        "ranking": "78",
+        "title": "Gata Only",
+        "artist": "FloyyMenor",
+        "album": "Gata Only - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ca/4e/0f/ca4e0f11-2cbc-7aec-b2e4-53f5fac7cb0e/198309012715-copy-6dfc57c0.png/80x80bb.webp",
+        "length": "3:42"
+    },
+    {
+        "ranking": "79",
+        "title": "15",
+        "artist": "Pogány Induló",
+        "album": "Vagy Mindent Vagy Semmit",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/60/00/54/60005417-d7ff-aa0a-e00f-26a19f318008/0747973884175_cover.jpg/80x80bb.webp",
+        "length": "2:24"
+    },
+    {
+        "ranking": "80",
+        "title": "NEW DROP",
+        "artist": "Don Toliver",
+        "album": "HARDSTONE PSYCHO",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/3c/5d/223c5d96-501e-040e-a34d-0608e6e5c4ff/075679638434.jpg/80x80bb.webp",
+        "length": "3:37"
+    },
+    {
+        "ranking": "81",
+        "title": "Rét",
+        "artist": "Azahriah",
+        "album": "Rét - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b5/8d/ac/b58dacf3-3423-4647-ed78-7ea874979818/cover.jpg/80x80bb.webp",
+        "length": "2:59"
+    },
+    {
+        "ranking": "82",
+        "title": "Type Shit",
+        "artist": "Future",
+        "album": "WE DON'T TRUST YOU",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/9f/7b/4e9f7b71-28ad-a8dc-9b34-da532feb82f6/196871937382.jpg/80x80bb.webp",
+        "length": "3:48"
+    },
+    {
+        "ranking": "83",
+        "title": "FÜGGŐ",
+        "artist": "Dzsúdló",
+        "album": "FÜGGŐ - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b8/8f/10/b88f10fa-efed-170e-1923-e840d491c45f/cover.jpg/80x80bb.webp",
+        "length": "3:20"
+    },
+    {
+        "ranking": "84",
+        "title": "Csavargó",
+        "artist": "KKevin",
+        "album": "Csavargó - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/1e/80/1c/1e801c6e-ac7f-fea3-3a8b-269f0bc70b66/cover.jpg/80x80bb.webp",
+        "length": "2:54"
+    },
+    {
+        "ranking": "85",
+        "title": "Last Christmas (Single Version)",
+        "artist": "Wham!",
+        "album": "Last Christmas - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/eb/4a/f9/eb4af984-fc68-56ab-7b89-1d070c04e1dd/5099765318524.jpg/80x80bb.webp",
+        "length": "4:22"
+    },
+    {
+        "ranking": "86",
+        "title": "Good Luck, Babe!",
+        "artist": "Chappell Roan",
+        "album": "Good Luck, Babe! - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/80x80bb.webp",
+        "length": "3:38"
     },
     {
         "ranking": "87",
@@ -697,70 +697,6 @@
     },
     {
         "ranking": "88",
-        "title": "Hello",
-        "artist": "BSW",
-        "album": "Hello - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ab/9b/88/ab9b8860-d21e-6ac2-8c65-71b48f18d453/cover.jpg/80x80bb.webp",
-        "length": "2:43"
-    },
-    {
-        "ranking": "89",
-        "title": "Type Shit",
-        "artist": "Future",
-        "album": "WE DON'T TRUST YOU",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/9f/7b/4e9f7b71-28ad-a8dc-9b34-da532feb82f6/196871937382.jpg/80x80bb.webp",
-        "length": "3:48"
-    },
-    {
-        "ranking": "90",
-        "title": "Good Luck, Babe!",
-        "artist": "Chappell Roan",
-        "album": "Good Luck, Babe! - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/80x80bb.webp",
-        "length": "3:38"
-    },
-    {
-        "ranking": "91",
-        "title": "Spanom",
-        "artist": "Dzsúdló",
-        "album": "Fotofóbia",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/83/55/53/83555381-1679-1525-0bd0-da2c3227a467/cover.jpg/80x80bb.webp",
-        "length": "3:31"
-    },
-    {
-        "ranking": "92",
-        "title": "All I Want for Christmas Is You",
-        "artist": "Mariah Carey",
-        "album": "Merry Christmas",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/80x80bb.webp",
-        "length": "4:01"
-    },
-    {
-        "ranking": "93",
-        "title": "Toxic",
-        "artist": "Manuel",
-        "album": "Idegen",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/52/ed/32/52ed3224-32c2-48b4-3c47-11e85a5dd7ed/cover.jpg/80x80bb.webp",
-        "length": "3:11"
-    },
-    {
-        "ranking": "94",
-        "title": "Már nem szédülök",
-        "artist": "Parno Graszt",
-        "album": "Már nem szédülök (Rolling back)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/88/10/3c/88103c62-0f33-6d95-8192-2abb6b222d47/5998048543120_cover.jpg/80x80bb.webp",
-        "length": "3:28"
-    },
-    {
-        "ranking": "95",
-        "title": "Blinding Lights",
-        "artist": "The Weeknd",
-        "album": "Blinding Lights - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a6/6e/bf/a66ebf79-5008-8948-b352-a790fc87446b/19UM1IM04638.rgb.jpg/80x80bb.webp",
-        "length": "3:21"
-    },
-    {
-        "ranking": "96",
         "title": "Virágok",
         "artist": "Dzsúdló",
         "album": "Szörnyeteg",
@@ -768,15 +704,23 @@
         "length": "3:03"
     },
     {
-        "ranking": "97",
-        "title": "FÜGGŐ",
-        "artist": "Dzsúdló",
-        "album": "FÜGGŐ - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b8/8f/10/b88f10fa-efed-170e-1923-e840d491c45f/cover.jpg/80x80bb.webp",
-        "length": "3:20"
+        "ranking": "89",
+        "title": "Without Me",
+        "artist": "Eminem",
+        "album": "The Eminem Show",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b4/13/e9/b413e91d-40aa-a1a8-b8e3-2bacc3b3e222/00606949329020.rgb.jpg/80x80bb.webp",
+        "length": "4:50"
     },
     {
-        "ranking": "98",
+        "ranking": "90",
+        "title": "A Bar Song (Tipsy)",
+        "artist": "Shaboozey",
+        "album": "Where I've Been, Isn't Where I'm Going",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/b5/bc/97b5bca2-6238-2421-4f0d-1f7a39d5d9d4/197342550925_cover.jpg/80x80bb.webp",
+        "length": "2:51"
+    },
+    {
+        "ranking": "91",
         "title": "i like the way you kiss me",
         "artist": "Artemas",
         "album": "i like the way you kiss me - Single",
@@ -784,19 +728,75 @@
         "length": "2:22"
     },
     {
+        "ranking": "92",
+        "title": "Spanom",
+        "artist": "Dzsúdló",
+        "album": "Fotofóbia",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/83/55/53/83555381-1679-1525-0bd0-da2c3227a467/cover.jpg/80x80bb.webp",
+        "length": "3:31"
+    },
+    {
+        "ranking": "93",
+        "title": "Hello",
+        "artist": "BSW",
+        "album": "Hello - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ab/9b/88/ab9b8860-d21e-6ac2-8c65-71b48f18d453/cover.jpg/80x80bb.webp",
+        "length": "2:43"
+    },
+    {
+        "ranking": "94",
+        "title": "I Love You, I'm Sorry",
+        "artist": "Gracie Abrams",
+        "album": "The Secret of Us",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/9a/a7/529aa76f-5d60-cd81-9eb0-0eb521de861d/24UMGIM43968.rgb.jpg/80x80bb.webp",
+        "length": "2:37"
+    },
+    {
+        "ranking": "95",
+        "title": "gát",
+        "artist": "Azahriah",
+        "album": "memento",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5d/33/26/5d33260b-3982-477c-0adf-b0090f5a09b3/cover.jpg/80x80bb.webp",
+        "length": "3:09"
+    },
+    {
+        "ranking": "96",
+        "title": "goosebumps",
+        "artist": "Travis Scott",
+        "album": "Birds In The Trap Sing McKnight",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/50/f7/a3/50f7a39d-3bd5-28e9-0264-532f08b5b810/886446074726.jpg/80x80bb.webp",
+        "length": "4:03"
+    },
+    {
+        "ranking": "97",
+        "title": "Lowrider",
+        "artist": "HENN",
+        "album": "Lowrider - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/97/a1/7297a124-5979-8b34-0d49-15d9fa174212/cover.jpg/80x80bb.webp",
+        "length": "2:51"
+    },
+    {
+        "ranking": "98",
+        "title": "Már nem szédülök",
+        "artist": "Parno Graszt",
+        "album": "Már nem szédülök (Rolling back)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/88/10/3c/88103c62-0f33-6d95-8192-2abb6b222d47/5998048543120_cover.jpg/80x80bb.webp",
+        "length": "3:28"
+    },
+    {
         "ranking": "99",
+        "title": "Bad Dreams",
+        "artist": "Teddy Swims",
+        "album": "Bad Dreams - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/5d/64/cd5d64c2-338b-00c9-52d6-578a0f19d826/054391245908.jpg/80x80bb.webp",
+        "length": "3:04"
+    },
+    {
+        "ranking": "100",
         "title": "Latyo és haze",
         "artist": "Kain",
         "album": "Focus",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bb/2d/af/bb2daff5-319b-aef2-8026-a1412c4181d9/0197544983538_cover.jpg/80x80bb.webp",
         "length": "2:33"
-    },
-    {
-        "ranking": "100",
-        "title": "NEW DROP",
-        "artist": "Don Toliver",
-        "album": "HARDSTONE PSYCHO",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/3c/5d/223c5d96-501e-040e-a34d-0608e6e5c4ff/075679638434.jpg/80x80bb.webp",
-        "length": "3:37"
     }
 ]

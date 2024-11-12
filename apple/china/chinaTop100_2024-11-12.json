@@ -41,19 +41,19 @@
     },
     {
         "ranking": "6",
-        "title": "明明就",
-        "artist": "Jay Chou",
-        "album": "Opus 12",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/48/95/d0/4895d0c4-c8e3-277b-9616-f878bae55c96/23UM1IM59189.rgb.jpg/80x80bb.webp",
-        "length": "4:20"
-    },
-    {
-        "ranking": "7",
         "title": "Wrong Love",
         "artist": "Wang Leehom",
         "album": "Shangri-La",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/be/4a/77/be4a7730-c144-a39e-c7b6-9d26ea0ebff3/1400X1400.jpg/80x80bb.webp",
         "length": "3:58"
+    },
+    {
+        "ranking": "7",
+        "title": "明明就",
+        "artist": "Jay Chou",
+        "album": "Opus 12",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/48/95/d0/4895d0c4-c8e3-277b-9616-f878bae55c96/23UM1IM59189.rgb.jpg/80x80bb.webp",
+        "length": "4:20"
     },
     {
         "ranking": "8",
@@ -185,14 +185,6 @@
     },
     {
         "ranking": "24",
-        "title": "The Key",
-        "artist": "JJ Lin",
-        "album": "From M.E. To Myself (Experimental Debut Album)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/64/4d/62/644d6263-6518-db86-b5fb-22960ce66804/dj.pjfnccuy.jpg/80x80bb.webp",
-        "length": "3:27"
-    },
-    {
-        "ranking": "25",
         "title": "If Only",
         "artist": "JJ Lin",
         "album": "Genesis",
@@ -200,23 +192,15 @@
         "length": "4:58"
     },
     {
+        "ranking": "25",
+        "title": "The Key",
+        "artist": "JJ Lin",
+        "album": "From M.E. To Myself (Experimental Debut Album)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/64/4d/62/644d6263-6518-db86-b5fb-22960ce66804/dj.pjfnccuy.jpg/80x80bb.webp",
+        "length": "3:27"
+    },
+    {
         "ranking": "26",
-        "title": "普通朋友",
-        "artist": "David Tao",
-        "album": "I'm O.K.",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d0/77/fc/d077fcf8-6a17-e7ea-6c91-6cf40ad39d81/825646245383.jpg/80x80bb.webp",
-        "length": "4:15"
-    },
-    {
-        "ranking": "27",
-        "title": "Mantra",
-        "artist": "JENNIE",
-        "album": "Mantra - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/9a/4c/5d9a4c5f-1c34-1265-0fa5-860dc8f0e802/196872495263.jpg/80x80bb.webp",
-        "length": "2:16"
-    },
-    {
-        "ranking": "28",
         "title": "富士山下",
         "artist": "Eason Chan",
         "album": "What's Going On...?",
@@ -224,20 +208,36 @@
         "length": "4:19"
     },
     {
-        "ranking": "29",
-        "title": "蘭亭序",
-        "artist": "Jay Chou",
-        "album": "Capricorn",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/53/6c/72/536c7219-e177-a912-9322-e1abf70e8733/23UM1IM58828.rgb.jpg/80x80bb.webp",
-        "length": "4:13"
+        "ranking": "27",
+        "title": "普通朋友",
+        "artist": "David Tao",
+        "album": "I'm O.K.",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d0/77/fc/d077fcf8-6a17-e7ea-6c91-6cf40ad39d81/825646245383.jpg/80x80bb.webp",
+        "length": "4:15"
     },
     {
-        "ranking": "30",
+        "ranking": "28",
+        "title": "Mantra",
+        "artist": "JENNIE",
+        "album": "Mantra - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/9a/4c/5d9a4c5f-1c34-1265-0fa5-860dc8f0e802/196872495263.jpg/80x80bb.webp",
+        "length": "2:16"
+    },
+    {
+        "ranking": "29",
         "title": "Twilight",
         "artist": "JJ Lin",
         "album": "From M.E. To Myself (Experimental Debut Album)",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/64/4d/62/644d6263-6518-db86-b5fb-22960ce66804/dj.pjfnccuy.jpg/80x80bb.webp",
         "length": "4:25"
+    },
+    {
+        "ranking": "30",
+        "title": "蘭亭序",
+        "artist": "Jay Chou",
+        "album": "Capricorn",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/53/6c/72/536c7219-e177-a912-9322-e1abf70e8733/23UM1IM58828.rgb.jpg/80x80bb.webp",
+        "length": "4:13"
     },
     {
         "ranking": "31",
@@ -265,22 +265,14 @@
     },
     {
         "ranking": "34",
-        "title": "Airport in 10:30",
-        "artist": "David Tao",
-        "album": "David Tao",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/dd/bb/bd/ddbbbda1-9408-72b2-4c0b-943e648be6c1/190295574086.jpg/80x80bb.webp",
-        "length": "4:40"
+        "title": "All The Things You Never Knew",
+        "artist": "Wang Leehom",
+        "album": "18 Martial Arts",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3e/94/01/3e94013b-17f0-09e9-69ce-4ab94e1507da/18_Material_arts.png/80x80bb.webp",
+        "length": "4:39"
     },
     {
         "ranking": "35",
-        "title": "Long Distance",
-        "artist": "G.E.M.",
-        "album": "Heartbeat",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/55/bb/c7/55bbc782-299e-7f24-bc4a-ae129e6d8030/mzm.rpqttxch.jpg/80x80bb.webp",
-        "length": "3:36"
-    },
-    {
-        "ranking": "36",
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "album": "HIT ME HARD AND SOFT",
@@ -288,12 +280,20 @@
         "length": "3:30"
     },
     {
+        "ranking": "36",
+        "title": "Airport in 10:30",
+        "artist": "David Tao",
+        "album": "David Tao",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/dd/bb/bd/ddbbbda1-9408-72b2-4c0b-943e648be6c1/190295574086.jpg/80x80bb.webp",
+        "length": "4:40"
+    },
+    {
         "ranking": "37",
-        "title": "All The Things You Never Knew",
-        "artist": "Wang Leehom",
-        "album": "18 Martial Arts",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3e/94/01/3e94013b-17f0-09e9-69ce-4ab94e1507da/18_Material_arts.png/80x80bb.webp",
-        "length": "4:39"
+        "title": "Long Distance",
+        "artist": "G.E.M.",
+        "album": "Heartbeat",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/55/bb/c7/55bbc782-299e-7f24-bc4a-ae129e6d8030/mzm.rpqttxch.jpg/80x80bb.webp",
+        "length": "3:36"
     },
     {
         "ranking": "38",
@@ -313,19 +313,19 @@
     },
     {
         "ranking": "40",
-        "title": "愛愛愛",
-        "artist": "Khalil Fong",
-        "album": "This Love",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/c3/d0/e5/mzi.kdgffvqb.jpg/80x80bb.webp",
-        "length": "3:33"
-    },
-    {
-        "ranking": "41",
         "title": "Shouldn't Be (feat. a-mei)",
         "artist": "Jay Chou",
         "album": "Jay Chou's Bedtime Stories",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/43/d4/1c/43d41cbe-fa45-82f6-e2d5-651c17d97aba/23UM1IM59700.rgb.jpg/80x80bb.webp",
         "length": "4:51"
+    },
+    {
+        "ranking": "41",
+        "title": "愛愛愛",
+        "artist": "Khalil Fong",
+        "album": "This Love",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/c3/d0/e5/mzi.kdgffvqb.jpg/80x80bb.webp",
+        "length": "3:33"
     },
     {
         "ranking": "42",
@@ -353,14 +353,6 @@
     },
     {
         "ranking": "45",
-        "title": "Silence",
-        "artist": "Jay Chou",
-        "album": "Fantasy",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/14/b9/fa/14b9fa3f-ef0c-01de-3721-93ff740062b5/23UM1IM56711.rgb.jpg/80x80bb.webp",
-        "length": "5:34"
-    },
-    {
-        "ranking": "46",
         "title": "Hair Like Snow",
         "artist": "Jay Chou",
         "album": "November's Chopin",
@@ -368,7 +360,7 @@
         "length": "5:01"
     },
     {
-        "ranking": "47",
+        "ranking": "46",
         "title": "Practice Love",
         "artist": "JJ Lin",
         "album": "Stories Untold",
@@ -376,12 +368,20 @@
         "length": "4:47"
     },
     {
-        "ranking": "48",
+        "ranking": "47",
         "title": "53 Dawns",
         "artist": "JJ Lin",
         "album": "Message In a Bottle",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/d5/8c/43/d58c435f-3229-822b-70bb-c5be6a83d191/190295707569.jpg/80x80bb.webp",
         "length": "4:52"
+    },
+    {
+        "ranking": "48",
+        "title": "Silence",
+        "artist": "Jay Chou",
+        "album": "Fantasy",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/14/b9/fa/14b9fa3f-ef0c-01de-3721-93ff740062b5/23UM1IM56711.rgb.jpg/80x80bb.webp",
+        "length": "5:34"
     },
     {
         "ranking": "49",
@@ -393,22 +393,6 @@
     },
     {
         "ranking": "50",
-        "title": "Cruel Summer",
-        "artist": "Taylor Swift",
-        "album": "Lover",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/80x80bb.webp",
-        "length": "2:58"
-    },
-    {
-        "ranking": "51",
-        "title": "Rashomon(Follow)",
-        "artist": "Pear freezes tightly",
-        "album": "Rashomon(Follow) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/69/93/c4/6993c425-9006-68c6-1497-01b650aae5c0/luoshengmen.jpg/80x80bb.webp",
-        "length": "4:02"
-    },
-    {
-        "ranking": "52",
         "title": "她說",
         "artist": "JJ Lin",
         "album": "她說",
@@ -416,15 +400,23 @@
         "length": "5:18"
     },
     {
-        "ranking": "53",
-        "title": "Our Song",
-        "artist": "Wang Leehom",
-        "album": "Change Me",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d6/d1/bb/d6d1bb74-e2d3-743e-f514-5668390c4d67/gaibianziji_fengmian.jpg/80x80bb.webp",
-        "length": "4:06"
+        "ranking": "51",
+        "title": "Cruel Summer",
+        "artist": "Taylor Swift",
+        "album": "Lover",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/80x80bb.webp",
+        "length": "2:58"
     },
     {
-        "ranking": "54",
+        "ranking": "52",
+        "title": "背對背擁抱",
+        "artist": "JJ Lin",
+        "album": "100天",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4a/84/a2/4a84a274-3678-533c-c1e1-5fd9216b7f1d/dj.kxuxixwe.jpg/80x80bb.webp",
+        "length": "3:54"
+    },
+    {
+        "ranking": "53",
         "title": "Track",
         "artist": "Jay Chou",
         "album": "尋找周杰倫 - EP",
@@ -432,12 +424,20 @@
         "length": "5:26"
     },
     {
+        "ranking": "54",
+        "title": "Everything's Gone",
+        "artist": "David Tao",
+        "album": "David Tao",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/dd/bb/bd/ddbbbda1-9408-72b2-4c0b-943e648be6c1/190295574086.jpg/80x80bb.webp",
+        "length": "4:02"
+    },
+    {
         "ranking": "55",
-        "title": "背對背擁抱",
-        "artist": "JJ Lin",
-        "album": "100天",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4a/84/a2/4a84a274-3678-533c-c1e1-5fd9216b7f1d/dj.kxuxixwe.jpg/80x80bb.webp",
-        "length": "3:54"
+        "title": "Our Song",
+        "artist": "Wang Leehom",
+        "album": "Change Me",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d6/d1/bb/d6d1bb74-e2d3-743e-f514-5668390c4d67/gaibianziji_fengmian.jpg/80x80bb.webp",
+        "length": "4:06"
     },
     {
         "ranking": "56",
@@ -449,6 +449,14 @@
     },
     {
         "ranking": "57",
+        "title": "Rashomon(Follow)",
+        "artist": "Pear freezes tightly",
+        "album": "Rashomon(Follow) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/69/93/c4/6993c425-9006-68c6-1497-01b650aae5c0/luoshengmen.jpg/80x80bb.webp",
+        "length": "4:02"
+    },
+    {
+        "ranking": "58",
         "title": "天天",
         "artist": "David Tao",
         "album": "I'm O.K.",
@@ -456,23 +464,7 @@
         "length": "4:15"
     },
     {
-        "ranking": "58",
-        "title": "Everything's Gone",
-        "artist": "David Tao",
-        "album": "David Tao",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/dd/bb/bd/ddbbbda1-9408-72b2-4c0b-943e648be6c1/190295574086.jpg/80x80bb.webp",
-        "length": "4:02"
-    },
-    {
         "ranking": "59",
-        "title": "The Longest Movie",
-        "artist": "Jay Chou",
-        "album": "Jay Chou On The Run",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f7/2c/9f/f72c9fc6-c4dc-d6a0-4386-0478b09cb797/23UM1IM58609.rgb.jpg/80x80bb.webp",
-        "length": "3:55"
-    },
-    {
-        "ranking": "60",
         "title": "Coral Sea (feat. Lara Veronin)",
         "artist": "Jay Chou",
         "album": "November's Chopin",
@@ -480,39 +472,15 @@
         "length": "4:16"
     },
     {
-        "ranking": "61",
-        "title": "Qing Hua",
-        "artist": "Steve Chou",
-        "album": "Turkey in Blue",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f3/20/fe/f320fe21-a301-5bb1-3b2e-fa49617bd858/196871048606.jpg/80x80bb.webp",
-        "length": "4:57"
-    },
-    {
-        "ranking": "62",
-        "title": "My Only Girl",
-        "artist": "Khalil Fong",
-        "album": "Back to Wonderland",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/91/41/8c/91418cce-4b5b-a7a7-cf54-858af87966e3/dj.munrszcb.jpg/80x80bb.webp",
-        "length": "4:48"
-    },
-    {
-        "ranking": "63",
-        "title": "You Hear Me",
+        "ranking": "60",
+        "title": "The Longest Movie",
         "artist": "Jay Chou",
-        "album": "Yeh, Hwei-Mei",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8c/47/86/8c47862d-e254-8b49-30cf-d1f05ebba05b/23UM1IM56855.rgb.jpg/80x80bb.webp",
-        "length": "3:50"
+        "album": "Jay Chou On The Run",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f7/2c/9f/f72c9fc6-c4dc-d6a0-4386-0478b09cb797/23UM1IM58609.rgb.jpg/80x80bb.webp",
+        "length": "3:55"
     },
     {
-        "ranking": "64",
-        "title": "特別的人",
-        "artist": "Khalil Fong",
-        "album": "危險世界",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/35/d7/2a/35d72a0a-7e0c-fc2d-b2da-4bd030219997/190296501159.jpg/80x80bb.webp",
-        "length": "4:19"
-    },
-    {
-        "ranking": "65",
+        "ranking": "61",
         "title": "Full Stop",
         "artist": "G.E.M.",
         "album": "City Zoo",
@@ -520,7 +488,31 @@
         "length": "3:55"
     },
     {
-        "ranking": "66",
+        "ranking": "62",
+        "title": "You Hear Me",
+        "artist": "Jay Chou",
+        "album": "Yeh, Hwei-Mei",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8c/47/86/8c47862d-e254-8b49-30cf-d1f05ebba05b/23UM1IM56855.rgb.jpg/80x80bb.webp",
+        "length": "3:50"
+    },
+    {
+        "ranking": "63",
+        "title": "Qing Hua",
+        "artist": "Steve Chou",
+        "album": "Turkey in Blue",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f3/20/fe/f320fe21-a301-5bb1-3b2e-fa49617bd858/196871048606.jpg/80x80bb.webp",
+        "length": "4:57"
+    },
+    {
+        "ranking": "64",
+        "title": "You Better Not Think About Me",
+        "artist": "Hebe Tien",
+        "album": "Insignificance",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/81/a2/8f/81a28f90-7d3e-305b-0c3e-88b2aa6b32f4/4716220194806.jpg/80x80bb.webp",
+        "length": "4:40"
+    },
+    {
+        "ranking": "65",
         "title": "Excuse",
         "artist": "Jay Chou",
         "album": "Common Jasmine Orange",
@@ -528,12 +520,20 @@
         "length": "4:18"
     },
     {
+        "ranking": "66",
+        "title": "特別的人",
+        "artist": "Khalil Fong",
+        "album": "危險世界",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/35/d7/2a/35d72a0a-7e0c-fc2d-b2da-4bd030219997/190296501159.jpg/80x80bb.webp",
+        "length": "4:19"
+    },
+    {
         "ranking": "67",
-        "title": "You Better Not Think About Me",
-        "artist": "Hebe Tien",
-        "album": "Insignificance",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/81/a2/8f/81a28f90-7d3e-305b-0c3e-88b2aa6b32f4/4716220194806.jpg/80x80bb.webp",
-        "length": "4:40"
+        "title": "My Only Girl",
+        "artist": "Khalil Fong",
+        "album": "Back to Wonderland",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/91/41/8c/91418cce-4b5b-a7a7-cf54-858af87966e3/dj.munrszcb.jpg/80x80bb.webp",
+        "length": "4:48"
     },
     {
         "ranking": "68",
@@ -569,22 +569,6 @@
     },
     {
         "ranking": "72",
-        "title": "江南",
-        "artist": "JJ Lin",
-        "album": "第二天堂(江南)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/9b/98/eb/9b98ebae-69b1-8009-678c-65e94124e0a8/dj.cqtiyqmo.jpg/80x80bb.webp",
-        "length": "4:27"
-    },
-    {
-        "ranking": "73",
-        "title": "這樣很好 (《英雄聯盟:雙城之戰》動畫第二季原聲)",
-        "artist": "Eason Chan",
-        "album": "这样很好 (《英雄联盟:双城之战》动画第二季原声) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/70/ac/b4/70acb4b8-14a2-f673-96b0-b5d09aba5d5d/24UM1IM23970.rgb.jpg/80x80bb.webp",
-        "length": null
-    },
-    {
-        "ranking": "74",
         "title": "Dust and Ashes",
         "artist": "JJ Lin",
         "album": "Happily, Painfully After",
@@ -592,23 +576,23 @@
         "length": "3:51"
     },
     {
+        "ranking": "73",
+        "title": "No Doubt",
+        "artist": "ENHYPEN",
+        "album": "ROMANCE : UNTOLD -daydream-",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/c8/8c/5fc88cb7-faf5-483a-ea42-ebf112c5f3d7/198704187797_Cover.jpg/80x80bb.webp",
+        "length": "2:47"
+    },
+    {
+        "ranking": "74",
+        "title": "江南",
+        "artist": "JJ Lin",
+        "album": "第二天堂(江南)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/9b/98/eb/9b98ebae-69b1-8009-678c-65e94124e0a8/dj.cqtiyqmo.jpg/80x80bb.webp",
+        "length": "4:27"
+    },
+    {
         "ranking": "75",
-        "title": "Won't Cry",
-        "artist": "Jay Chou",
-        "album": "Greatest Works Of Art",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c4/92/9c/c4929c9f-b605-7ac3-41c8-9f9091b00741/23UM1IM59704.rgb.jpg/80x80bb.webp",
-        "length": "3:40"
-    },
-    {
-        "ranking": "76",
-        "title": "紅塵客棧",
-        "artist": "Jay Chou",
-        "album": "Opus 12",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/48/95/d0/4895d0c4-c8e3-277b-9616-f878bae55c96/23UM1IM59189.rgb.jpg/80x80bb.webp",
-        "length": "4:34"
-    },
-    {
-        "ranking": "77",
         "title": "Melody",
         "artist": "David Tao",
         "album": "黑色柳丁",
@@ -616,7 +600,31 @@
         "length": "4:29"
     },
     {
+        "ranking": "76",
+        "title": "這樣很好 (《英雄聯盟:雙城之戰》動畫第二季原聲)",
+        "artist": "Eason Chan",
+        "album": "这样很好 (《英雄联盟:双城之战》动画第二季原声) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/70/ac/b4/70acb4b8-14a2-f673-96b0-b5d09aba5d5d/24UM1IM23970.rgb.jpg/80x80bb.webp",
+        "length": null
+    },
+    {
+        "ranking": "77",
+        "title": "Won't Cry",
+        "artist": "Jay Chou",
+        "album": "Greatest Works Of Art",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c4/92/9c/c4929c9f-b605-7ac3-41c8-9f9091b00741/23UM1IM59704.rgb.jpg/80x80bb.webp",
+        "length": "3:40"
+    },
+    {
         "ranking": "78",
+        "title": "紅塵客棧",
+        "artist": "Jay Chou",
+        "album": "Opus 12",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/48/95/d0/4895d0c4-c8e3-277b-9616-f878bae55c96/23UM1IM59189.rgb.jpg/80x80bb.webp",
+        "length": "4:34"
+    },
+    {
+        "ranking": "79",
         "title": "Fun Fair",
         "artist": "Jay Chou",
         "album": "Common Jasmine Orange",
@@ -624,7 +632,7 @@
         "length": "4:13"
     },
     {
-        "ranking": "79",
+        "ranking": "80",
         "title": "遇見",
         "artist": "Yanzi Sun",
         "album": "Your Song (2006 新歌+精選)",
@@ -632,7 +640,7 @@
         "length": "3:29"
     },
     {
-        "ranking": "80",
+        "ranking": "81",
         "title": "蝴蝶",
         "artist": "David Tao",
         "album": "黑色柳丁",
@@ -640,20 +648,12 @@
         "length": "4:43"
     },
     {
-        "ranking": "81",
-        "title": "Armageddon",
-        "artist": "aespa",
-        "album": "Armageddon - The 1st Album",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/7e/e0/507ee09f-ccfd-1e3c-af90-ca5e92b1221b/00888735949869_Cover.jpg/80x80bb.webp",
-        "length": "3:16"
-    },
-    {
         "ranking": "82",
-        "title": "LOVE, MONEY, FAME (feat. DJ Khaled)",
-        "artist": "SEVENTEEN",
-        "album": "SEVENTEEN 12th Mini Album 'SPILL THE FEELS' - EP",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/30/ec/9a30ec28-9484-eaa3-5c5d-3aa7039ce0c1/198704184437_Cover.jpg/80x80bb.webp",
-        "length": "3:06"
+        "title": "HOWLING",
+        "artist": "XG",
+        "album": "AWE",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ae/69/ce/ae69ce7b-6007-c83a-f692-93ebfca55449/ANTCD-A0000014930.jpg/80x80bb.webp",
+        "length": "3:08"
     },
     {
         "ranking": "83",
@@ -665,6 +665,14 @@
     },
     {
         "ranking": "84",
+        "title": "Armageddon",
+        "artist": "aespa",
+        "album": "Armageddon - The 1st Album",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/7e/e0/507ee09f-ccfd-1e3c-af90-ca5e92b1221b/00888735949869_Cover.jpg/80x80bb.webp",
+        "length": "3:16"
+    },
+    {
+        "ranking": "85",
         "title": "Adorable Lady",
         "artist": "Jay Chou",
         "album": "Jay",
@@ -672,15 +680,15 @@
         "length": "3:59"
     },
     {
-        "ranking": "85",
-        "title": "Tornado",
-        "artist": "Jay Chou",
-        "album": "Jay",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/69/f7/7f/69f77f5e-9b36-917e-cf15-7bd8442572c7/23UM1IM56109.rgb.jpg/80x80bb.webp",
-        "length": "4:10"
+        "ranking": "86",
+        "title": "LOVE, MONEY, FAME (feat. DJ Khaled)",
+        "artist": "SEVENTEEN",
+        "album": "SEVENTEEN 12th Mini Album 'SPILL THE FEELS' - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/30/ec/9a30ec28-9484-eaa3-5c5d-3aa7039ce0c1/198704184437_Cover.jpg/80x80bb.webp",
+        "length": "3:06"
     },
     {
-        "ranking": "86",
+        "ranking": "87",
         "title": "K歌之王",
         "artist": "Eason Chan",
         "album": "Eason Chan (Cantonese Collection)",
@@ -688,23 +696,7 @@
         "length": "3:43"
     },
     {
-        "ranking": "87",
-        "title": "瞬",
-        "artist": "郑润泽",
-        "album": "瞬 - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0d/cb/b5/0dcbb554-fa10-418b-5626-85889a910c3b/cover.jpg/80x80bb.webp",
-        "length": "4:44"
-    },
-    {
         "ranking": "88",
-        "title": "Say Goodbye",
-        "artist": "Jay Chou",
-        "album": "The Era",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/35/8b/ff/358bffcf-4327-7688-3a3b-cbc66cfbac23/23UM1IM58832.rgb.jpg/80x80bb.webp",
-        "length": "4:42"
-    },
-    {
-        "ranking": "89",
         "title": "Kiss Goodbye",
         "artist": "Wang Leehom",
         "album": "Heroes of Earth",
@@ -712,15 +704,15 @@
         "length": "4:22"
     },
     {
-        "ranking": "90",
-        "title": "Red High Heels",
-        "artist": "Tanya Chua",
-        "album": "If You See Him",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f3/f4/c9/f3f4c9cc-1af9-8595-0834-63c719b4cb92/asset.jpg/80x80bb.webp",
-        "length": "3:26"
+        "ranking": "89",
+        "title": "Tornado",
+        "artist": "Jay Chou",
+        "album": "Jay",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/69/f7/7f/69f77f5e-9b36-917e-cf15-7bd8442572c7/23UM1IM56109.rgb.jpg/80x80bb.webp",
+        "length": "4:10"
     },
     {
-        "ranking": "91",
+        "ranking": "90",
         "title": "最佳損友",
         "artist": "Eason Chan",
         "album": "Life Continues",
@@ -728,7 +720,23 @@
         "length": "3:53"
     },
     {
+        "ranking": "91",
+        "title": "Say Goodbye",
+        "artist": "Jay Chou",
+        "album": "The Era",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/35/8b/ff/358bffcf-4327-7688-3a3b-cbc66cfbac23/23UM1IM58832.rgb.jpg/80x80bb.webp",
+        "length": "4:42"
+    },
+    {
         "ranking": "92",
+        "title": "瞬",
+        "artist": "郑润泽",
+        "album": "瞬 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0d/cb/b5/0dcbb554-fa10-418b-5626-85889a910c3b/cover.jpg/80x80bb.webp",
+        "length": "4:44"
+    },
+    {
+        "ranking": "93",
         "title": "Espresso",
         "artist": "Sabrina Carpenter",
         "album": "Espresso - Single",
@@ -736,7 +744,15 @@
         "length": "2:55"
     },
     {
-        "ranking": "93",
+        "ranking": "94",
+        "title": "Red High Heels",
+        "artist": "Tanya Chua",
+        "album": "If You See Him",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f3/f4/c9/f3f4c9cc-1af9-8595-0834-63c719b4cb92/asset.jpg/80x80bb.webp",
+        "length": "3:26"
+    },
+    {
+        "ranking": "95",
         "title": "Handwritten Past",
         "artist": "Jay Chou",
         "album": "Aiyo, Not Bad",
@@ -744,39 +760,7 @@
         "length": "4:57"
     },
     {
-        "ranking": "94",
-        "title": "情歌",
-        "artist": "Fish Leong",
-        "album": "别再为他流泪",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bf/f0/11/bff01142-f4f0-f9c4-f497-007f43e42783/BD0018-_-_Fall_In_Love_Songs.jpg/80x80bb.webp",
-        "length": "4:20"
-    },
-    {
-        "ranking": "95",
-        "title": "HOWLING",
-        "artist": "XG",
-        "album": "AWE",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ae/69/ce/ae69ce7b-6007-c83a-f692-93ebfca55449/ANTCD-A0000014930.jpg/80x80bb.webp",
-        "length": "3:08"
-    },
-    {
         "ranking": "96",
-        "title": "Red Scarf (\"Till We Meet Again\" Movie Theme Song)",
-        "artist": "WeiBird",
-        "album": "Red Scarf (\"Till We Meet Again\" Movie Theme Song) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5b/63/0c/5b630c9d-3b66-d1fa-9c2e-c7ceeac165fb/886449697779.jpg/80x80bb.webp",
-        "length": "4:34"
-    },
-    {
-        "ranking": "97",
-        "title": "Twenty Three",
-        "artist": "Khalil Fong",
-        "album": "The Dreamer",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/1b/dc/6a1bdcc8-ff18-3ddc-5e31-2d65267fbaeb/5034644139906.jpg/80x80bb.webp",
-        "length": "3:44"
-    },
-    {
-        "ranking": "98",
         "title": "Dong-Feng-Po",
         "artist": "Jay Chou",
         "album": "Yeh, Hwei-Mei",
@@ -784,7 +768,7 @@
         "length": "5:15"
     },
     {
-        "ranking": "99",
+        "ranking": "97",
         "title": "Supernova",
         "artist": "aespa",
         "album": "Armageddon - The 1st Album",
@@ -792,11 +776,27 @@
         "length": "2:58"
     },
     {
+        "ranking": "98",
+        "title": "Listen to Mom",
+        "artist": "Jay Chou",
+        "album": "Still Fantasy",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6b/05/16/6b051613-864c-b2b4-af7a-1fade330fa7c/23UM1IM58372.rgb.jpg/80x80bb.webp",
+        "length": "4:25"
+    },
+    {
+        "ranking": "99",
+        "title": "情歌",
+        "artist": "Fish Leong",
+        "album": "别再为他流泪",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bf/f0/11/bff01142-f4f0-f9c4-f497-007f43e42783/BD0018-_-_Fall_In_Love_Songs.jpg/80x80bb.webp",
+        "length": "4:20"
+    },
+    {
         "ranking": "100",
-        "title": "七月七日晴",
-        "artist": "Evonne Hsu",
-        "album": "萬中選一 02-05 (新歌+精選)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2c/2c/d8/2c2cd8f5-5869-1f29-34d2-20a3c15ddda2/00602498350287.rgb.jpg/80x80bb.webp",
-        "length": "4:03"
+        "title": "Twenty Three",
+        "artist": "Khalil Fong",
+        "album": "The Dreamer",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/1b/dc/6a1bdcc8-ff18-3ddc-5e31-2d65267fbaeb/5034644139906.jpg/80x80bb.webp",
+        "length": "3:44"
     }
 ]

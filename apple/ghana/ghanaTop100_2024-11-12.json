@@ -1,14 +1,6 @@
 [
     {
         "ranking": "1",
-        "title": "Lomo Lomo",
-        "artist": "KiDi",
-        "album": "Lomo Lomo - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/12/98/b5/1298b59a-bd77-a90c-cdfd-ccf9ba2785bc/197342688000_cover.jpg/80x80bb.webp",
-        "length": "2:55"
-    },
-    {
-        "ranking": "2",
         "title": "Jesus Christ 2 (feat. Black Sherif)",
         "artist": "AratheJay",
         "album": "Jesus Christ 2 (feat. Black Sherif) - Single",
@@ -16,20 +8,28 @@
         "length": "3:37"
     },
     {
-        "ranking": "3",
-        "title": "Very Soon",
-        "artist": "Fameye",
-        "album": "Very Soon - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6e/00/3e/6e003e45-268b-2fd7-42d2-18776f297753/0.jpg/80x80bb.webp",
-        "length": "3:09"
+        "ranking": "2",
+        "title": "Lomo Lomo",
+        "artist": "KiDi",
+        "album": "Lomo Lomo - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/12/98/b5/1298b59a-bd77-a90c-cdfd-ccf9ba2785bc/197342688000_cover.jpg/80x80bb.webp",
+        "length": "2:55"
     },
     {
-        "ranking": "4",
+        "ranking": "3",
         "title": "Rebel Music",
         "artist": "Black Sherif",
         "album": "Rebel Music - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/04/d3/6204d342-9de6-1a52-3f55-dc87885f004c/197342786195_cover.jpg/80x80bb.webp",
         "length": "2:41"
+    },
+    {
+        "ranking": "4",
+        "title": "Very Soon",
+        "artist": "Fameye",
+        "album": "Very Soon - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6e/00/3e/6e003e45-268b-2fd7-42d2-18776f297753/0.jpg/80x80bb.webp",
+        "length": "3:09"
     },
     {
         "ranking": "5",
@@ -57,14 +57,6 @@
     },
     {
         "ranking": "8",
-        "title": "Remember",
-        "artist": "Asake",
-        "album": "Work Of Art",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cc/23/83/cc2383d9-eecc-f974-5f5b-d445c583acdb/197342233958_cover.jpg/80x80bb.webp",
-        "length": "3:02"
-    },
-    {
-        "ranking": "9",
         "title": "Fi Kan We Kan",
         "artist": "Bnxn",
         "album": "Fi Kan We Kan - Single",
@@ -72,12 +64,20 @@
         "length": "2:39"
     },
     {
-        "ranking": "10",
+        "ranking": "9",
         "title": "Holy Ghost",
         "artist": "Kweku Smoke",
         "album": "Born in Hell",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/4f/43/794f43e4-9f50-36f9-6510-93e10f30f228/766214667995.png/80x80bb.webp",
         "length": "3:17"
+    },
+    {
+        "ranking": "10",
+        "title": "Remember",
+        "artist": "Asake",
+        "album": "Work Of Art",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cc/23/83/cc2383d9-eecc-f974-5f5b-d445c583acdb/197342233958_cover.jpg/80x80bb.webp",
+        "length": "3:02"
     },
     {
         "ranking": "11",
@@ -89,22 +89,6 @@
     },
     {
         "ranking": "12",
-        "title": "JEJEREJE (with Ginton)",
-        "artist": "Stonebwoy",
-        "album": "UP & RUNNIN6",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4d/be/01/4dbe015a-dd13-df80-e6a5-dd6d0b0acd52/5034644115368.jpg/80x80bb.webp",
-        "length": "3:04"
-    },
-    {
-        "ranking": "13",
-        "title": "Shut Up",
-        "artist": "Black Sherif",
-        "album": "Shut Up - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/86/9e/0c/869e0ccc-db0f-e2fc-7a19-3de050204cd5/197342565448_cover.jpg/80x80bb.webp",
-        "length": "3:12"
-    },
-    {
-        "ranking": "14",
         "title": "25",
         "artist": "Rod Wave",
         "album": "Last Lap",
@@ -112,7 +96,15 @@
         "length": "3:00"
     },
     {
-        "ranking": "15",
+        "ranking": "13",
+        "title": "JEJEREJE (with Ginton)",
+        "artist": "Stonebwoy",
+        "album": "UP & RUNNIN6",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4d/be/01/4dbe015a-dd13-df80-e6a5-dd6d0b0acd52/5034644115368.jpg/80x80bb.webp",
+        "length": "3:04"
+    },
+    {
+        "ranking": "14",
         "title": "Higher",
         "artist": "Burna Boy",
         "album": "Higher - Single",
@@ -120,7 +112,7 @@
         "length": "2:17"
     },
     {
-        "ranking": "16",
+        "ranking": "15",
         "title": "Agyekum",
         "artist": "Kweku Smoke",
         "album": "Kweku Jesus",
@@ -128,15 +120,15 @@
         "length": "2:58"
     },
     {
-        "ranking": "17",
-        "title": "Kilos Milos",
+        "ranking": "16",
+        "title": "Shut Up",
         "artist": "Black Sherif",
-        "album": "Kilos Milos - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/6f/23/4e6f231c-3db7-5c94-07e3-637819a9f173/197342640008_cover.jpg/80x80bb.webp",
-        "length": "2:37"
+        "album": "Shut Up - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/86/9e/0c/869e0ccc-db0f-e2fc-7a19-3de050204cd5/197342565448_cover.jpg/80x80bb.webp",
+        "length": "3:12"
     },
     {
-        "ranking": "18",
+        "ranking": "17",
         "title": "Holy Ghost",
         "artist": "Omah Lay",
         "album": "Holy Ghost - Single",
@@ -144,15 +136,15 @@
         "length": "3:06"
     },
     {
-        "ranking": "19",
-        "title": "Awuke",
-        "artist": "Davido",
-        "album": "Awuke - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/bc/1f/0cbc1f82-dd46-46d4-e8d8-1ba5f3b97712/196872531879.jpg/80x80bb.webp",
-        "length": "2:52"
+        "ranking": "18",
+        "title": "Kilos Milos",
+        "artist": "Black Sherif",
+        "album": "Kilos Milos - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/6f/23/4e6f231c-3db7-5c94-07e3-637819a9f173/197342640008_cover.jpg/80x80bb.webp",
+        "length": "2:37"
     },
     {
-        "ranking": "20",
+        "ranking": "19",
         "title": "Born in Hell",
         "artist": "Kweku Smoke",
         "album": "Born in Hell",
@@ -160,7 +152,7 @@
         "length": "2:15"
     },
     {
-        "ranking": "21",
+        "ranking": "20",
         "title": "Omemma (Live)",
         "artist": "Chandler Moore",
         "album": "Chandler Moore: Live in Los Angeles",
@@ -168,15 +160,15 @@
         "length": "11:25"
     },
     {
-        "ranking": "22",
-        "title": "Cheddar",
-        "artist": "Kweku Smoke",
-        "album": "Born in Hell",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/4f/43/794f43e4-9f50-36f9-6510-93e10f30f228/766214667995.png/80x80bb.webp",
-        "length": "2:35"
+        "ranking": "21",
+        "title": "Awuke",
+        "artist": "Davido",
+        "album": "Awuke - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/bc/1f/0cbc1f82-dd46-46d4-e8d8-1ba5f3b97712/196872531879.jpg/80x80bb.webp",
+        "length": "2:52"
     },
     {
-        "ranking": "23",
+        "ranking": "22",
         "title": "Jah Guide",
         "artist": "Kweku Smoke",
         "album": "Kweku Jesus",
@@ -184,47 +176,15 @@
         "length": "3:04"
     },
     {
+        "ranking": "23",
+        "title": "Cheddar",
+        "artist": "Kweku Smoke",
+        "album": "Born in Hell",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/4f/43/794f43e4-9f50-36f9-6510-93e10f30f228/766214667995.png/80x80bb.webp",
+        "length": "2:35"
+    },
+    {
         "ranking": "24",
-        "title": "WOTOWOTO SEASONING",
-        "artist": "ODUMODUBLVCK",
-        "album": "EZIOKWU (UNCUT)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6d/cb/99/6dcb99ea-1f7f-6fdb-89d9-37fcfe0dbd19/23UM1IM57757.rgb.jpg/80x80bb.webp",
-        "length": "2:51"
-    },
-    {
-        "ranking": "25",
-        "title": "January 9th",
-        "artist": "Black Sherif",
-        "album": "January 9th - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d9/56/43/d9564379-88f2-1fc2-2eb8-a19d5b7e1a15/197342463393_cover.jpg/80x80bb.webp",
-        "length": "3:42"
-    },
-    {
-        "ranking": "26",
-        "title": "Piece of My Heart (feat. Brent Faiyaz)",
-        "artist": "Wizkid",
-        "album": "Piece of My Heart (feat. Brent Faiyaz) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/6a/1d/316a1d33-c077-d011-54ac-d2fda862896f/196872495171.jpg/80x80bb.webp",
-        "length": "4:19"
-    },
-    {
-        "ranking": "27",
-        "title": "Defe Defe",
-        "artist": "Team Eternity Ghana",
-        "album": "Testimony",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/34/59/fa345957-47eb-bacb-26a1-5e7ffc34ddab/859787669685_cover.jpg/80x80bb.webp",
-        "length": "6:46"
-    },
-    {
-        "ranking": "28",
-        "title": "Awolowo",
-        "artist": "Fido",
-        "album": "Awolowo - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/47/35/62473588-693f-71ba-87cb-29f90cfb637d/386564.jpg/80x80bb.webp",
-        "length": "2:15"
-    },
-    {
-        "ranking": "29",
         "title": "Adenuga (feat. Qing Madi)",
         "artist": "Joeboy",
         "album": "Adenuga x Concerning - Single",
@@ -232,7 +192,23 @@
         "length": "2:40"
     },
     {
-        "ranking": "30",
+        "ranking": "25",
+        "title": "Piece of My Heart (feat. Brent Faiyaz)",
+        "artist": "Wizkid",
+        "album": "Piece of My Heart (feat. Brent Faiyaz) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/6a/1d/316a1d33-c077-d011-54ac-d2fda862896f/196872495171.jpg/80x80bb.webp",
+        "length": "4:19"
+    },
+    {
+        "ranking": "26",
+        "title": "January 9th",
+        "artist": "Black Sherif",
+        "album": "January 9th - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d9/56/43/d9564379-88f2-1fc2-2eb8-a19d5b7e1a15/197342463393_cover.jpg/80x80bb.webp",
+        "length": "3:42"
+    },
+    {
+        "ranking": "27",
         "title": "Days Pass By",
         "artist": "KJ Spio",
         "album": "Days Pass By - Single",
@@ -240,31 +216,31 @@
         "length": "2:26"
     },
     {
+        "ranking": "28",
+        "title": "WOTOWOTO SEASONING",
+        "artist": "ODUMODUBLVCK",
+        "album": "EZIOKWU (UNCUT)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6d/cb/99/6dcb99ea-1f7f-6fdb-89d9-37fcfe0dbd19/23UM1IM57757.rgb.jpg/80x80bb.webp",
+        "length": "2:51"
+    },
+    {
+        "ranking": "29",
+        "title": "Defe Defe",
+        "artist": "Team Eternity Ghana",
+        "album": "Testimony",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/34/59/fa345957-47eb-bacb-26a1-5e7ffc34ddab/859787669685_cover.jpg/80x80bb.webp",
+        "length": "6:46"
+    },
+    {
+        "ranking": "30",
+        "title": "Awolowo",
+        "artist": "Fido",
+        "album": "Awolowo - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/47/35/62473588-693f-71ba-87cb-29f90cfb637d/386564.jpg/80x80bb.webp",
+        "length": "2:15"
+    },
+    {
         "ranking": "31",
-        "title": "Active",
-        "artist": "Asake",
-        "album": "Lungu Boy",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/34/59/383459da-ba6a-4bee-67df-7de269764383/197342707992_cover.jpg/80x80bb.webp",
-        "length": "2:52"
-    },
-    {
-        "ranking": "32",
-        "title": "Asylum",
-        "artist": "Olivetheboy",
-        "album": "Avana (Deluxe)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9c/15/a8/9c15a80b-df7c-b1c7-6811-85661bb26374/196871836722.jpg/80x80bb.webp",
-        "length": "3:02"
-    },
-    {
-        "ranking": "33",
-        "title": "Makoma",
-        "artist": "King Paluta",
-        "album": "Makoma - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/7c/12/267c129c-4ce7-626b-faa2-36de364cbd5c/0.jpg/80x80bb.webp",
-        "length": "2:44"
-    },
-    {
-        "ranking": "34",
         "title": "Hold Tight",
         "artist": "Kweku Smoke",
         "album": "Playman",
@@ -272,15 +248,23 @@
         "length": "3:33"
     },
     {
-        "ranking": "35",
-        "title": "YAYA",
-        "artist": "Black Sherif",
-        "album": "Take Care of Yourself Blacko - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/51/bd/dd/51bddd16-ff4e-8e55-11bd-b0d4e63acd2b/197342303194_cover.jpg/80x80bb.webp",
-        "length": "3:13"
+        "ranking": "32",
+        "title": "Lonely At The Top",
+        "artist": "Asake",
+        "album": "Work Of Art",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cc/23/83/cc2383d9-eecc-f974-5f5b-d445c583acdb/197342233958_cover.jpg/80x80bb.webp",
+        "length": "2:37"
     },
     {
-        "ranking": "36",
+        "ranking": "33",
+        "title": "Active",
+        "artist": "Asake",
+        "album": "Lungu Boy",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/34/59/383459da-ba6a-4bee-67df-7de269764383/197342707992_cover.jpg/80x80bb.webp",
+        "length": "2:52"
+    },
+    {
+        "ranking": "34",
         "title": "Puul",
         "artist": "Lasmid",
         "album": "Puul - Single",
@@ -288,12 +272,28 @@
         "length": "2:52"
     },
     {
+        "ranking": "35",
+        "title": "Regrets",
+        "artist": "Kweku Smoke",
+        "album": "Born in Hell",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/4f/43/794f43e4-9f50-36f9-6510-93e10f30f228/766214667995.png/80x80bb.webp",
+        "length": "2:43"
+    },
+    {
+        "ranking": "36",
+        "title": "Asylum",
+        "artist": "Olivetheboy",
+        "album": "Avana (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9c/15/a8/9c15a80b-df7c-b1c7-6811-85661bb26374/196871836722.jpg/80x80bb.webp",
+        "length": "3:02"
+    },
+    {
         "ranking": "37",
-        "title": "Lonely At The Top",
-        "artist": "Asake",
-        "album": "Work Of Art",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cc/23/83/cc2383d9-eecc-f974-5f5b-d445c583acdb/197342233958_cover.jpg/80x80bb.webp",
-        "length": "2:37"
+        "title": "YAYA",
+        "artist": "Black Sherif",
+        "album": "Take Care of Yourself Blacko - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/51/bd/dd/51bddd16-ff4e-8e55-11bd-b0d4e63acd2b/197342303194_cover.jpg/80x80bb.webp",
+        "length": "3:13"
     },
     {
         "ranking": "38",
@@ -321,6 +321,14 @@
     },
     {
         "ranking": "41",
+        "title": "Makoma",
+        "artist": "King Paluta",
+        "album": "Makoma - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/7c/12/267c129c-4ce7-626b-faa2-36de364cbd5c/0.jpg/80x80bb.webp",
+        "length": "2:44"
+    },
+    {
+        "ranking": "42",
         "title": "OVERLORD (feat. Jahmiel, 10TIK & Larruso)",
         "artist": "Stonebwoy",
         "album": "UP & RUNNIN6",
@@ -328,39 +336,7 @@
         "length": "4:04"
     },
     {
-        "ranking": "42",
-        "title": "everyday",
-        "artist": "Fireboy DML",
-        "album": "everyday - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/8e/31/db8e319e-27bd-0646-5423-d9e8c0e5f5c7/197342563185_cover.jpg/80x80bb.webp",
-        "length": "2:46"
-    },
-    {
         "ranking": "43",
-        "title": "Regrets",
-        "artist": "Kweku Smoke",
-        "album": "Born in Hell",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/4f/43/794f43e4-9f50-36f9-6510-93e10f30f228/766214667995.png/80x80bb.webp",
-        "length": "2:43"
-    },
-    {
-        "ranking": "44",
-        "title": "OZEBA",
-        "artist": "Rema",
-        "album": "HEIS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/67/cd/4367cd08-da60-dbd5-783d-edf824fd5710/24UMGIM73107.rgb.jpg/80x80bb.webp",
-        "length": "2:17"
-    },
-    {
-        "ranking": "45",
-        "title": "Continental (feat. Shallipopi)",
-        "artist": "King Promise",
-        "album": "True To Self",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/ec/e9/7eece967-e84f-5550-03e0-787eff34cb1b/196872118834.jpg/80x80bb.webp",
-        "length": "3:00"
-    },
-    {
-        "ranking": "46",
         "title": "Moving",
         "artist": "Omah Lay",
         "album": "Moving - Single",
@@ -368,23 +344,15 @@
         "length": "2:20"
     },
     {
-        "ranking": "47",
-        "title": "Killa Ji Mi",
-        "artist": "Shatta Wale",
-        "album": "Killa Ji Mi - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/ed/fd/36edfdf8-d690-de8d-f96c-b171cd7f257f/artwork.jpg/80x80bb.webp",
-        "length": "2:43"
+        "ranking": "44",
+        "title": "everyday",
+        "artist": "Fireboy DML",
+        "album": "everyday - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/8e/31/db8e319e-27bd-0646-5423-d9e8c0e5f5c7/197342563185_cover.jpg/80x80bb.webp",
+        "length": "2:46"
     },
     {
-        "ranking": "48",
-        "title": "reason",
-        "artist": "Omah Lay",
-        "album": "Boy Alone (Deluxe)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/ff/1f/c8ff1f28-54db-8c3a-91b1-8042173223c2/093624841319_02.jpg/80x80bb.webp",
-        "length": "2:27"
-    },
-    {
-        "ranking": "49",
+        "ranking": "45",
         "title": "No Complaining",
         "artist": "Kweku Smoke",
         "album": "Born in Hell",
@@ -392,15 +360,31 @@
         "length": "2:40"
     },
     {
-        "ranking": "50",
-        "title": "JUJU (feat. Shallipopi)",
-        "artist": "Smur Lee",
-        "album": "JUJU (feat. Shallipopi) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4a/a9/c0/4aa9c0c0-d12d-3660-c13f-96c6f41c2cc7/198704122057_Cover.jpg/80x80bb.webp",
-        "length": "2:37"
+        "ranking": "46",
+        "title": "Higher",
+        "artist": "Kweku Smoke",
+        "album": "Born in Hell",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/4f/43/794f43e4-9f50-36f9-6510-93e10f30f228/766214667995.png/80x80bb.webp",
+        "length": "3:12"
     },
     {
-        "ranking": "51",
+        "ranking": "47",
+        "title": "OZEBA",
+        "artist": "Rema",
+        "album": "HEIS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/67/cd/4367cd08-da60-dbd5-783d-edf824fd5710/24UMGIM73107.rgb.jpg/80x80bb.webp",
+        "length": "2:17"
+    },
+    {
+        "ranking": "48",
+        "title": "Mmerepa",
+        "artist": "Kweku Smoke",
+        "album": "Kweku Jesus",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/63/4d/b9/634db9d7-4a79-af76-23c6-b49e5ace67b7/0766214662181.png/80x80bb.webp",
+        "length": "3:06"
+    },
+    {
+        "ranking": "49",
         "title": "Terminator",
         "artist": "Asake",
         "album": "Mr. Money With The Vibe",
@@ -408,20 +392,36 @@
         "length": "2:35"
     },
     {
-        "ranking": "52",
-        "title": "YESU",
-        "artist": "Beeztrap Kotm",
-        "album": "YESU - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/12/50/351250eb-9e22-91f0-31a6-f944e15fde39/9360932596998.jpg/80x80bb.webp",
-        "length": "3:21"
+        "ranking": "50",
+        "title": "reason",
+        "artist": "Omah Lay",
+        "album": "Boy Alone (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/ff/1f/c8ff1f28-54db-8c3a-91b1-8042173223c2/093624841319_02.jpg/80x80bb.webp",
+        "length": "2:27"
     },
     {
-        "ranking": "53",
-        "title": "Higher",
+        "ranking": "51",
+        "title": "Continental (feat. Shallipopi)",
+        "artist": "King Promise",
+        "album": "True To Self",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/ec/e9/7eece967-e84f-5550-03e0-787eff34cb1b/196872118834.jpg/80x80bb.webp",
+        "length": "3:00"
+    },
+    {
+        "ranking": "52",
+        "title": "Nkwanehia",
         "artist": "Kweku Smoke",
         "album": "Born in Hell",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/4f/43/794f43e4-9f50-36f9-6510-93e10f30f228/766214667995.png/80x80bb.webp",
-        "length": "3:12"
+        "length": "2:42"
+    },
+    {
+        "ranking": "53",
+        "title": "Killa Ji Mi",
+        "artist": "Shatta Wale",
+        "album": "Killa Ji Mi - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/ed/fd/36edfdf8-d690-de8d-f96c-b171cd7f257f/artwork.jpg/80x80bb.webp",
+        "length": "2:43"
     },
     {
         "ranking": "54",
@@ -433,30 +433,22 @@
     },
     {
         "ranking": "55",
-        "title": "UNAVAILABLE (feat. Musa Keys)",
-        "artist": "Davido",
-        "album": "Timeless",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
-        "length": "2:49"
+        "title": "YESU",
+        "artist": "Beeztrap Kotm",
+        "album": "YESU - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/12/50/351250eb-9e22-91f0-31a6-f944e15fde39/9360932596998.jpg/80x80bb.webp",
+        "length": "3:21"
     },
     {
         "ranking": "56",
-        "title": "Nkwanehia",
-        "artist": "Kweku Smoke",
-        "album": "Born in Hell",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/4f/43/794f43e4-9f50-36f9-6510-93e10f30f228/766214667995.png/80x80bb.webp",
-        "length": "2:42"
-    },
-    {
-        "ranking": "57",
         "title": "For the Popping",
         "artist": "King Paluta",
         "album": "For the Popping - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/95/df/0595df02-fff4-0020-dc97-ce9eb74f80aa/0.jpg/80x80bb.webp",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/de/f0/cd/def0cdca-41bd-7551-aceb-5e354ede5178/0.jpg/80x80bb.webp",
         "length": "2:57"
     },
     {
-        "ranking": "58",
+        "ranking": "57",
         "title": "It's Plenty",
         "artist": "Burna Boy",
         "album": "Love, Damini",
@@ -464,15 +456,15 @@
         "length": "3:36"
     },
     {
-        "ranking": "59",
-        "title": "Mmerepa",
-        "artist": "Kweku Smoke",
-        "album": "Kweku Jesus",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/63/4d/b9/634db9d7-4a79-af76-23c6-b49e5ace67b7/0766214662181.png/80x80bb.webp",
-        "length": "3:06"
+        "ranking": "58",
+        "title": "JUJU (feat. Shallipopi)",
+        "artist": "Smur Lee",
+        "album": "JUJU (feat. Shallipopi) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4a/a9/c0/4aa9c0c0-d12d-3660-c13f-96c6f41c2cc7/198704122057_Cover.jpg/80x80bb.webp",
+        "length": "2:37"
     },
     {
-        "ranking": "60",
+        "ranking": "59",
         "title": "Stronger",
         "artist": "Young Jonn",
         "album": "Jiggy Forever",
@@ -480,31 +472,15 @@
         "length": "2:21"
     },
     {
+        "ranking": "60",
+        "title": "UNAVAILABLE (feat. Musa Keys)",
+        "artist": "Davido",
+        "album": "Timeless",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
         "ranking": "61",
-        "title": "Real Life (feat. Stormzy)",
-        "artist": "Burna Boy",
-        "album": "Twice As Tall",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/85/a1/42/85a142dc-b01b-6840-c0d6-b52f90c5397c/075679807311.jpg/80x80bb.webp",
-        "length": "3:17"
-    },
-    {
-        "ranking": "62",
-        "title": "Ngozi",
-        "artist": "Crayon",
-        "album": "Trench to Triumph",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/da/0a/6e/da0a6e7d-769d-209b-c8f8-c9af3789b0ee/5059449136325.png/80x80bb.webp",
-        "length": "3:41"
-    },
-    {
-        "ranking": "63",
-        "title": "NLF (Breakfast) [feat. Lyrical Joe, Medikal & Beeztrap Kotm] [Remix]",
-        "artist": "Camidoh",
-        "album": "NLF (Breakfast) [Remix] (feat. Lyrical Joe, Medikal & Beeztrap KOTM) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f5/2b/edf52b43-0774-f9bd-93fe-f3ed619d3af5/197342743907_cover.jpg/80x80bb.webp",
-        "length": "4:26"
-    },
-    {
-        "ranking": "64",
         "title": "Anadwo (feat. King Promise)",
         "artist": "Sarkodie",
         "album": "Black Love",
@@ -512,15 +488,7 @@
         "length": "3:11"
     },
     {
-        "ranking": "65",
-        "title": "Aseda",
-        "artist": "King Paluta",
-        "album": "Aseda - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/20/22/d2/2022d2b7-c3f6-1841-56d7-772dc304f1b2/0.jpg/80x80bb.webp",
-        "length": "3:00"
-    },
-    {
-        "ranking": "66",
+        "ranking": "62",
         "title": "Dreams",
         "artist": "Kweku Smoke",
         "album": "Born in Hell",
@@ -528,7 +496,15 @@
         "length": "3:29"
     },
     {
-        "ranking": "67",
+        "ranking": "63",
+        "title": "Ngozi",
+        "artist": "Crayon",
+        "album": "Trench to Triumph",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/da/0a/6e/da0a6e7d-769d-209b-c8f8-c9af3789b0ee/5059449136325.png/80x80bb.webp",
+        "length": "3:41"
+    },
+    {
+        "ranking": "64",
         "title": "Non Living Thing (feat. Oxlade)",
         "artist": "Sarkodie",
         "album": "No Pressure",
@@ -536,15 +512,31 @@
         "length": "3:49"
     },
     {
-        "ranking": "68",
-        "title": "For My Hand (feat. Ed Sheeran)",
+        "ranking": "65",
+        "title": "Real Life (feat. Stormzy)",
         "artist": "Burna Boy",
-        "album": "Love, Damini",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/98/76/a198761e-7c9b-e512-be2a-1b323199f902/075679688477.jpg/80x80bb.webp",
-        "length": "2:39"
+        "album": "Twice As Tall",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/85/a1/42/85a142dc-b01b-6840-c0d6-b52f90c5397c/075679807311.jpg/80x80bb.webp",
+        "length": "3:17"
     },
     {
-        "ranking": "69",
+        "ranking": "66",
+        "title": "NLF (Breakfast) [feat. Lyrical Joe, Medikal & Beeztrap Kotm] [Remix]",
+        "artist": "Camidoh",
+        "album": "NLF (Breakfast) [Remix] (feat. Lyrical Joe, Medikal & Beeztrap KOTM) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f5/2b/edf52b43-0774-f9bd-93fe-f3ed619d3af5/197342743907_cover.jpg/80x80bb.webp",
+        "length": "4:26"
+    },
+    {
+        "ranking": "67",
+        "title": "Love Me JeJe",
+        "artist": "Tems",
+        "album": "Love Me JeJe - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e5/a2/55/e5a255b3-f83e-f67a-e20f-23962b18dc3a/196871994545.jpg/80x80bb.webp",
+        "length": "2:58"
+    },
+    {
+        "ranking": "68",
         "title": "Fallen Angel",
         "artist": "Smallgod",
         "album": "Fallen Angel - Single",
@@ -552,12 +544,20 @@
         "length": "3:20"
     },
     {
+        "ranking": "69",
+        "title": "Aseda",
+        "artist": "King Paluta",
+        "album": "Aseda - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/20/22/d2/2022d2b7-c3f6-1841-56d7-772dc304f1b2/0.jpg/80x80bb.webp",
+        "length": "3:00"
+    },
+    {
         "ranking": "70",
-        "title": "Love Me JeJe",
-        "artist": "Tems",
-        "album": "Love Me JeJe - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e5/a2/55/e5a255b3-f83e-f67a-e20f-23962b18dc3a/196871994545.jpg/80x80bb.webp",
-        "length": "2:58"
+        "title": "Worldwide",
+        "artist": "Asake",
+        "album": "Lungu Boy",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/34/59/383459da-ba6a-4bee-67df-7de269764383/197342707992_cover.jpg/80x80bb.webp",
+        "length": "3:02"
     },
     {
         "ranking": "71",
@@ -569,14 +569,6 @@
     },
     {
         "ranking": "72",
-        "title": "Worldwide",
-        "artist": "Asake",
-        "album": "Lungu Boy",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/34/59/383459da-ba6a-4bee-67df-7de269764383/197342707992_cover.jpg/80x80bb.webp",
-        "length": "3:02"
-    },
-    {
-        "ranking": "73",
         "title": "MEMORIES (feat. Ir Sais)",
         "artist": "Stonebwoy",
         "album": "UP & RUNNIN6",
@@ -584,31 +576,7 @@
         "length": "2:45"
     },
     {
-        "ranking": "74",
-        "title": "Bandana",
-        "artist": "Fireboy DML",
-        "album": "Playboy",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f3/e9/34/f3e93478-8d0e-b366-55c1-bfc05d2f4e0b/194690888939_cover.jpg/80x80bb.webp",
-        "length": "2:58"
-    },
-    {
-        "ranking": "75",
-        "title": "Charm",
-        "artist": "Rema",
-        "album": "Rave & Roses Ultra",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c8/97/ea/c897ea8e-fbc6-d4b8-48fe-d9e31b46f1ed/23SYMIM04172.rgb.jpg/80x80bb.webp",
-        "length": "3:24"
-    },
-    {
-        "ranking": "76",
-        "title": "Tested, Approved & Trusted",
-        "artist": "Burna Boy",
-        "album": "I Told Them...",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/01/ee/63/01ee6370-1805-15e4-de8c-293a889a439c/075679676351.jpg/80x80bb.webp",
-        "length": "3:40"
-    },
-    {
-        "ranking": "77",
+        "ranking": "73",
         "title": "My Youth",
         "artist": "Kweku Smoke",
         "album": "Born in Hell",
@@ -616,31 +584,31 @@
         "length": "3:08"
     },
     {
-        "ranking": "78",
-        "title": "45",
-        "artist": "Black Sherif",
-        "album": "The Villain I Never Was",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/73/16/88/73168899-de60-6429-b70b-6de58aefe55e/194690942938_cover.jpg/80x80bb.webp",
-        "length": "2:52"
+        "ranking": "74",
+        "title": "For My Hand (feat. Ed Sheeran)",
+        "artist": "Burna Boy",
+        "album": "Love, Damini",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/98/76/a198761e-7c9b-e512-be2a-1b323199f902/075679688477.jpg/80x80bb.webp",
+        "length": "2:39"
     },
     {
-        "ranking": "79",
-        "title": "10 Toes (feat. Omah Lay)",
-        "artist": "King Promise",
-        "album": "10 Toes (feat. Omah Lay) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d8/b0/24/d8b024e3-4943-f1a8-a2df-c643515dc3a5/196589293107.jpg/80x80bb.webp",
-        "length": "2:57"
+        "ranking": "75",
+        "title": "Tested, Approved & Trusted",
+        "artist": "Burna Boy",
+        "album": "I Told Them...",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/01/ee/63/01ee6370-1805-15e4-de8c-293a889a439c/075679676351.jpg/80x80bb.webp",
+        "length": "3:40"
     },
     {
-        "ranking": "80",
-        "title": "YOUR BODY",
-        "artist": "Stonebwoy",
-        "album": "UP & RUNNIN6",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4d/be/01/4dbe015a-dd13-df80-e6a5-dd6d0b0acd52/5034644115368.jpg/80x80bb.webp",
-        "length": "2:46"
+        "ranking": "76",
+        "title": "Bandana",
+        "artist": "Fireboy DML",
+        "album": "Playboy",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f3/e9/34/f3e93478-8d0e-b366-55c1-bfc05d2f4e0b/194690888939_cover.jpg/80x80bb.webp",
+        "length": "2:58"
     },
     {
-        "ranking": "81",
+        "ranking": "77",
         "title": "Last Heartbreak Song",
         "artist": "Ayra Starr",
         "album": "The Year I Turned 21",
@@ -648,7 +616,7 @@
         "length": "2:29"
     },
     {
-        "ranking": "82",
+        "ranking": "78",
         "title": "Sika",
         "artist": "DJ Vyrusky",
         "album": "Sika - Single",
@@ -656,15 +624,15 @@
         "length": "2:34"
     },
     {
-        "ranking": "83",
-        "title": "Soja",
-        "artist": "Black Sherif",
-        "album": "The Villain I Never Was",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/73/16/88/73168899-de60-6429-b70b-6de58aefe55e/194690942938_cover.jpg/80x80bb.webp",
-        "length": "3:01"
+        "ranking": "79",
+        "title": "Charm",
+        "artist": "Rema",
+        "album": "Rave & Roses Ultra",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c8/97/ea/c897ea8e-fbc6-d4b8-48fe-d9e31b46f1ed/23SYMIM04172.rgb.jpg/80x80bb.webp",
+        "length": "3:24"
     },
     {
-        "ranking": "84",
+        "ranking": "80",
         "title": "Choppa",
         "artist": "Byron Messia",
         "album": "Choppa - Single",
@@ -672,20 +640,52 @@
         "length": "2:49"
     },
     {
-        "ranking": "85",
-        "title": "Order",
-        "artist": "Shallipopi",
-        "album": "Order - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/7f/e0/187fe0d5-4df3-106e-f172-5b3fa96cd1d3/198704212307_Cover.jpg/80x80bb.webp",
-        "length": "2:49"
+        "ranking": "81",
+        "title": "Soja",
+        "artist": "Black Sherif",
+        "album": "The Villain I Never Was",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/73/16/88/73168899-de60-6429-b70b-6de58aefe55e/194690942938_cover.jpg/80x80bb.webp",
+        "length": "3:01"
     },
     {
-        "ranking": "86",
+        "ranking": "82",
         "title": "Turn on the Lights",
         "artist": "Kwesi Arthur",
         "album": "Turn on the Lights - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/24/f0/06/24f006e6-7c7e-e823-9382-5fcc09b50f43/5060726322805.png/80x80bb.webp",
         "length": "2:50"
+    },
+    {
+        "ranking": "83",
+        "title": "Online",
+        "artist": "Kweku Smoke",
+        "album": "Kweku Jesus",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/63/4d/b9/634db9d7-4a79-af76-23c6-b49e5ace67b7/0766214662181.png/80x80bb.webp",
+        "length": "2:50"
+    },
+    {
+        "ranking": "84",
+        "title": "YOUR BODY",
+        "artist": "Stonebwoy",
+        "album": "UP & RUNNIN6",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4d/be/01/4dbe015a-dd13-df80-e6a5-dd6d0b0acd52/5034644115368.jpg/80x80bb.webp",
+        "length": "2:46"
+    },
+    {
+        "ranking": "85",
+        "title": "KANTE (feat. Fave)",
+        "artist": "Davido",
+        "album": "Timeless",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
+        "length": "3:14"
+    },
+    {
+        "ranking": "86",
+        "title": "Give Me Oil (feat. Sandra Boakye-Duah)",
+        "artist": "Joe Mettle",
+        "album": "Give Me Oil (feat. Sandra Boakye-Duah) - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/f0/2a/71f02a35-141c-1739-b039-2552fb0a4829/859785831640_cover.jpg/80x80bb.webp",
+        "length": "11:33"
     },
     {
         "ranking": "87",
@@ -705,14 +705,6 @@
     },
     {
         "ranking": "89",
-        "title": "Timing",
-        "artist": "Juls",
-        "album": "Timing - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d8/28/61/d8286137-cd0c-63a6-45dd-4ca9dd0bbe02/198846182643.jpg/80x80bb.webp",
-        "length": "2:58"
-    },
-    {
-        "ranking": "90",
         "title": "SIMMER DOWN",
         "artist": "Black Sherif",
         "album": "Take Care of Yourself Blacko - Single",
@@ -720,7 +712,23 @@
         "length": "2:58"
     },
     {
+        "ranking": "90",
+        "title": "10 Toes (feat. Omah Lay)",
+        "artist": "King Promise",
+        "album": "10 Toes (feat. Omah Lay) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d8/b0/24/d8b024e3-4943-f1a8-a2df-c643515dc3a5/196589293107.jpg/80x80bb.webp",
+        "length": "2:57"
+    },
+    {
         "ranking": "91",
+        "title": "Firm Foundation (He Won't)",
+        "artist": "Maverick City Music",
+        "album": "Firm Foundation (He Won't) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/36/0f/76/360f76c4-69bf-b987-1a22-281ecf4ee9cc/196626154507.jpg/80x80bb.webp",
+        "length": "8:44"
+    },
+    {
+        "ranking": "92",
         "title": "Tshwala Bam (feat. S.N.E) [Remix]",
         "artist": "TitoM",
         "album": "Tshwala Bam (feat. S.N.E) [Remix] - Single",
@@ -728,23 +736,31 @@
         "length": "3:23"
     },
     {
-        "ranking": "92",
-        "title": "Give Me Oil (feat. Sandra Boakye-Duah)",
-        "artist": "Joe Mettle",
-        "album": "Give Me Oil (feat. Sandra Boakye-Duah) - EP",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/f0/2a/71f02a35-141c-1739-b039-2552fb0a4829/859785831640_cover.jpg/80x80bb.webp",
-        "length": "11:33"
-    },
-    {
         "ranking": "93",
-        "title": "Dodo",
-        "artist": "Davido",
-        "album": "Dodo - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f5/61/02/f5610291-dcda-e86d-f248-7097c44eae06/3477.jpg/80x80bb.webp",
-        "length": "3:33"
+        "title": "Oba Awon Oba (feat. Sunmisola Agbebi)",
+        "artist": "Joe Mettle",
+        "album": "Oba Awon Oba - EP (feat. Sunmisola Agbebi)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/96/9d/39/969d39e7-1f91-f258-b3eb-d17fa8cae945/859789259242_cover.jpg/80x80bb.webp",
+        "length": "12:13"
     },
     {
         "ranking": "94",
+        "title": "YAYO",
+        "artist": "Rema",
+        "album": "HEIS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/67/cd/4367cd08-da60-dbd5-783d-edf824fd5710/24UMGIM73107.rgb.jpg/80x80bb.webp",
+        "length": "2:30"
+    },
+    {
+        "ranking": "95",
+        "title": "Order",
+        "artist": "Shallipopi",
+        "album": "Order - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/7f/e0/187fe0d5-4df3-106e-f172-5b3fa96cd1d3/198704212307_Cover.jpg/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
+        "ranking": "96",
         "title": "Oil in my Head",
         "artist": "Black Sherif",
         "album": "The Villain I Never Was",
@@ -752,36 +768,20 @@
         "length": "2:29"
     },
     {
-        "ranking": "95",
-        "title": "KANTE (feat. Fave)",
-        "artist": "Davido",
-        "album": "Timeless",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
-        "length": "3:14"
-    },
-    {
-        "ranking": "96",
-        "title": "Online",
-        "artist": "Kweku Smoke",
-        "album": "Kweku Jesus",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/63/4d/b9/634db9d7-4a79-af76-23c6-b49e5ace67b7/0766214662181.png/80x80bb.webp",
-        "length": "2:50"
-    },
-    {
         "ranking": "97",
-        "title": "JIGGLE & WHINE (feat. Spice)",
-        "artist": "Stonebwoy",
-        "album": "UP & RUNNIN6",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4d/be/01/4dbe015a-dd13-df80-e6a5-dd6d0b0acd52/5034644115368.jpg/80x80bb.webp",
-        "length": "3:09"
+        "title": "45",
+        "artist": "Black Sherif",
+        "album": "The Villain I Never Was",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/73/16/88/73168899-de60-6429-b70b-6de58aefe55e/194690942938_cover.jpg/80x80bb.webp",
+        "length": "2:52"
     },
     {
         "ranking": "98",
-        "title": "YAYO",
-        "artist": "Rema",
-        "album": "HEIS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/67/cd/4367cd08-da60-dbd5-783d-edf824fd5710/24UMGIM73107.rgb.jpg/80x80bb.webp",
-        "length": "2:30"
+        "title": "Dodo",
+        "artist": "Davido",
+        "album": "Dodo - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f5/61/02/f5610291-dcda-e86d-f248-7097c44eae06/3477.jpg/80x80bb.webp",
+        "length": "3:33"
     },
     {
         "ranking": "99",
@@ -793,10 +793,10 @@
     },
     {
         "ranking": "100",
-        "title": "Firm Foundation (He Won't)",
-        "artist": "Maverick City Music",
-        "album": "Firm Foundation (He Won't) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/36/0f/76/360f76c4-69bf-b987-1a22-281ecf4ee9cc/196626154507.jpg/80x80bb.webp",
-        "length": "8:44"
+        "title": "OH HOW (feat. Jay Bahd & Kwaku DMC)",
+        "artist": "Skyface SDW",
+        "album": "OH HOW (feat. Jay Bahd & Kwaku DMC) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/94/13/8b941300-7ae2-07a3-13d7-64880a52452f/288714.jpg/80x80bb.webp",
+        "length": "3:08"
     }
 ]

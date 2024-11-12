@@ -73,19 +73,19 @@
     },
     {
         "ranking": "10",
-        "title": "BIRDS OF A FEATHER",
-        "artist": "Billie Eilish",
-        "album": "HIT ME HARD AND SOFT",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "length": "3:30"
-    },
-    {
-        "ranking": "11",
         "title": "APT.",
         "artist": "ROSÉ",
         "album": "APT. - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
         "length": "2:49"
+    },
+    {
+        "ranking": "11",
+        "title": "BIRDS OF A FEATHER",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "3:30"
     },
     {
         "ranking": "12",
@@ -105,11 +105,11 @@
     },
     {
         "ranking": "14",
-        "title": "OTKACHALKI",
-        "artist": "V:RGO",
-        "album": "OTKACHALKI - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/71/10/22711010-2cc8-46ff-b30a-11c1f7a5b382/cover.jpg/80x80bb.webp",
-        "length": "4:26"
+        "title": "Delta Force",
+        "artist": "Galena",
+        "album": "GALENAXX",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/f6/1b/71f61bff-275d-0944-fb92-c64c11123846/A86792C2-2C8C-11EF-ABAD-43D6E1D9DD29.jpg/80x80bb.webp",
+        "length": "3:07"
     },
     {
         "ranking": "15",
@@ -121,38 +121,6 @@
     },
     {
         "ranking": "16",
-        "title": "Lose Control",
-        "artist": "Teddy Swims",
-        "album": "I've Tried Everything But Therapy (Part 1)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "length": "3:30"
-    },
-    {
-        "ranking": "17",
-        "title": "Mi Amor",
-        "artist": "Dessita",
-        "album": "Mi Amor - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8b/14/c6/8b14c65b-c2ea-3c15-e3c3-a87077e957f6/4C19AD9C-35FC-11EF-8942-A697E6D9DD29.jpg/80x80bb.webp",
-        "length": "3:18"
-    },
-    {
-        "ranking": "18",
-        "title": "Бом, Бом",
-        "artist": "DJORDAN",
-        "album": "Бом, Бом - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f3/52/f3/f352f351-ca40-2e99-d2a2-5604dc728577/0CC23DDC-49EB-11EF-9631-60C9F0D9DD29.jpg/80x80bb.webp",
-        "length": "2:58"
-    },
-    {
-        "ranking": "19",
-        "title": "Delta Force",
-        "artist": "Galena",
-        "album": "GALENAXX",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/f6/1b/71f61bff-275d-0944-fb92-c64c11123846/A86792C2-2C8C-11EF-ABAD-43D6E1D9DD29.jpg/80x80bb.webp",
-        "length": "3:07"
-    },
-    {
-        "ranking": "20",
         "title": "The Door",
         "artist": "Teddy Swims",
         "album": "I've Tried Everything But Therapy (Part 1)",
@@ -160,7 +128,7 @@
         "length": "3:32"
     },
     {
-        "ranking": "21",
+        "ranking": "17",
         "title": "Муцуна",
         "artist": "DJORDAN",
         "album": "Муцуна - Single",
@@ -168,87 +136,15 @@
         "length": "3:36"
     },
     {
-        "ranking": "22",
-        "title": "Направи така",
-        "artist": "Emanuela",
-        "album": "Направи така - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/08/3b/19/083b1986-f6f3-e258-a343-b83d7c4eac46/3800725600052.jpg/80x80bb.webp",
-        "length": "3:40"
+        "ranking": "18",
+        "title": "OTKACHALKI",
+        "artist": "V:RGO",
+        "album": "OTKACHALKI - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/71/10/22711010-2cc8-46ff-b30a-11c1f7a5b382/cover.jpg/80x80bb.webp",
+        "length": "4:26"
     },
     {
-        "ranking": "23",
-        "title": "Euphoria",
-        "artist": "Galena",
-        "album": "Euphoria - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ec/37/a7/ec37a758-7954-dd1a-908a-84996baa2d8f/57201DA4-DFEE-11EC-A951-A6BFE2995EF1.jpg/80x80bb.webp",
-        "length": "3:43"
-    },
-    {
-        "ranking": "24",
-        "title": "Espresso",
-        "artist": "Sabrina Carpenter",
-        "album": "Espresso - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
-        "length": "2:55"
-    },
-    {
-        "ranking": "25",
-        "title": "100 живота",
-        "artist": "Galena",
-        "album": "100 живота - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/54/63/31/546331ed-dc47-d4ac-bfcb-d15d2c585e52/3800725623150.jpg/80x80bb.webp",
-        "length": "4:13"
-    },
-    {
-        "ranking": "26",
-        "title": "Феноменален",
-        "artist": "Galena",
-        "album": "Феноменален - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/fa/77/86/fa7786be-9790-e27e-c5fe-5a25f8a228e1/193483207629.jpg/80x80bb.webp",
-        "length": "3:31"
-    },
-    {
-        "ranking": "27",
-        "title": "Не се изтриваш",
-        "artist": "Преслава",
-        "album": "Да гори в любов",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/24/30/3f/24303ff1-a79e-0135-035f-50ee7ca5e507/3800725606474.jpg/80x80bb.webp",
-        "length": "4:06"
-    },
-    {
-        "ranking": "28",
-        "title": "Tishinata im",
-        "artist": "MBT",
-        "album": "Unreleased",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f2/97/54/f297547a-2b57-ea4b-dd94-f4b3749a4596/artwork.jpg/80x80bb.webp",
-        "length": "2:26"
-    },
-    {
-        "ranking": "29",
-        "title": "365 (feat. Monkey)",
-        "artist": "Tedi Aleksandrova",
-        "album": "365 (feat. Monkey) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a9/cf/ad/a9cfad4c-88b1-f125-2489-d5a656bcc314/3800725639465.jpg/80x80bb.webp",
-        "length": "4:09"
-    },
-    {
-        "ranking": "30",
-        "title": "Дум Так",
-        "artist": "Medi",
-        "album": "Дум Так - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b2/a2/c4/b2a2c4e1-18e5-46ac-1d2c-54cb5ddf928e/B9F1B556-598A-11EF-84B5-6B13F8D9DD29.jpg/80x80bb.webp",
-        "length": "3:14"
-    },
-    {
-        "ranking": "31",
-        "title": "Видимо изневерил",
-        "artist": "Tsvetelina Yaneva",
-        "album": "Видимо изневерил - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/a8/0f/82/a80f8207-b8bc-3cf6-dc0e-70edf70f3691/192562472767.jpg/80x80bb.webp",
-        "length": "3:22"
-    },
-    {
-        "ranking": "32",
+        "ranking": "19",
         "title": "Вечно свързани",
         "artist": "Emanuela",
         "album": "Вечно свързани - Single",
@@ -256,31 +152,71 @@
         "length": "3:45"
     },
     {
-        "ranking": "33",
-        "title": "WILDFLOWER",
-        "artist": "Billie Eilish",
-        "album": "HIT ME HARD AND SOFT",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "length": "4:21"
+        "ranking": "20",
+        "title": "Mi Amor",
+        "artist": "Dessita",
+        "album": "Mi Amor - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8b/14/c6/8b14c65b-c2ea-3c15-e3c3-a87077e957f6/4C19AD9C-35FC-11EF-8942-A697E6D9DD29.jpg/80x80bb.webp",
+        "length": "3:18"
     },
     {
-        "ranking": "34",
-        "title": "По бельо",
-        "artist": "Bilyanish",
-        "album": "По бельо - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/58/72/19/58721921-d030-d727-84bf-f3c4fe249e60/3800725642960.jpg/80x80bb.webp",
-        "length": "2:25"
+        "ranking": "21",
+        "title": "Направи така",
+        "artist": "Emanuela",
+        "album": "Направи така - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/08/3b/19/083b1986-f6f3-e258-a343-b83d7c4eac46/3800725600052.jpg/80x80bb.webp",
+        "length": "3:40"
     },
     {
-        "ranking": "35",
-        "title": "Сърце",
+        "ranking": "22",
+        "title": "Lose Control",
+        "artist": "Teddy Swims",
+        "album": "I've Tried Everything But Therapy (Part 1)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
+        "length": "3:30"
+    },
+    {
+        "ranking": "23",
+        "title": "Феноменален",
         "artist": "Galena",
-        "album": "Сърце - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/23/f6/21/23f62142-e64d-b988-0d79-8cd7a403a768/3800725601073.jpg/80x80bb.webp",
-        "length": "3:27"
+        "album": "Феноменален - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/fa/77/86/fa7786be-9790-e27e-c5fe-5a25f8a228e1/193483207629.jpg/80x80bb.webp",
+        "length": "3:31"
     },
     {
-        "ranking": "36",
+        "ranking": "24",
+        "title": "Tishinata im",
+        "artist": "MBT",
+        "album": "Unreleased",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f2/97/54/f297547a-2b57-ea4b-dd94-f4b3749a4596/artwork.jpg/80x80bb.webp",
+        "length": "2:26"
+    },
+    {
+        "ranking": "25",
+        "title": "Espresso",
+        "artist": "Sabrina Carpenter",
+        "album": "Espresso - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
+        "length": "2:55"
+    },
+    {
+        "ranking": "26",
+        "title": "Бом, Бом",
+        "artist": "DJORDAN",
+        "album": "Бом, Бом - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f3/52/f3/f352f351-ca40-2e99-d2a2-5604dc728577/0CC23DDC-49EB-11EF-9631-60C9F0D9DD29.jpg/80x80bb.webp",
+        "length": "2:58"
+    },
+    {
+        "ranking": "27",
+        "title": "100 живота",
+        "artist": "Galena",
+        "album": "100 живота - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/54/63/31/546331ed-dc47-d4ac-bfcb-d15d2c585e52/3800725623150.jpg/80x80bb.webp",
+        "length": "4:13"
+    },
+    {
+        "ranking": "28",
         "title": "И на всички като тебе",
         "artist": "Desi Slava",
         "album": "И на всички като тебе - Single",
@@ -288,7 +224,55 @@
         "length": "3:30"
     },
     {
-        "ranking": "37",
+        "ranking": "29",
+        "title": "Не се изтриваш",
+        "artist": "Преслава",
+        "album": "Да гори в любов",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/24/30/3f/24303ff1-a79e-0135-035f-50ee7ca5e507/3800725606474.jpg/80x80bb.webp",
+        "length": "4:06"
+    },
+    {
+        "ranking": "30",
+        "title": "WILDFLOWER",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "4:21"
+    },
+    {
+        "ranking": "31",
+        "title": "Сърце",
+        "artist": "Galena",
+        "album": "Сърце - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/23/f6/21/23f62142-e64d-b988-0d79-8cd7a403a768/3800725601073.jpg/80x80bb.webp",
+        "length": "3:27"
+    },
+    {
+        "ranking": "32",
+        "title": "Дум Так",
+        "artist": "Medi",
+        "album": "Дум Так - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b2/a2/c4/b2a2c4e1-18e5-46ac-1d2c-54cb5ddf928e/B9F1B556-598A-11EF-84B5-6B13F8D9DD29.jpg/80x80bb.webp",
+        "length": "3:14"
+    },
+    {
+        "ranking": "33",
+        "title": "По бельо",
+        "artist": "Bilyanish",
+        "album": "По бельо - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/58/72/19/58721921-d030-d727-84bf-f3c4fe249e60/3800725642960.jpg/80x80bb.webp",
+        "length": "2:25"
+    },
+    {
+        "ranking": "34",
+        "title": "Пиянице",
+        "artist": "SIMONA",
+        "album": "Пиянице - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/b5/86/d6b586f4-154c-d9be-94b7-e07b1fcec7de/C9D6FF78-912D-11EF-928C-A0CC07B1B81C.jpg/80x80bb.webp",
+        "length": "3:33"
+    },
+    {
+        "ranking": "35",
         "title": "FE!N (feat. Playboi Carti)",
         "artist": "Travis Scott",
         "album": "UTOPIA",
@@ -296,28 +280,44 @@
         "length": "3:11"
     },
     {
-        "ranking": "38",
-        "title": "Г-Н ПОРЪЧКА",
-        "artist": "Mom4eto",
-        "album": "БЛОК 5 - EP",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/e0/6b/4be06b57-a6a8-03e5-08c1-adaee04c92de/cover.jpg/80x80bb.webp",
-        "length": "3:06"
+        "ranking": "36",
+        "title": "That’s So True",
+        "artist": "Gracie Abrams",
+        "album": "The Secret of Us (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
+        "length": "2:46"
     },
     {
-        "ranking": "39",
-        "title": "HIGHEST IN THE ROOM",
-        "artist": "Travis Scott",
-        "album": "HIGHEST IN THE ROOM - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/30/5f/c4/305fc4b4-155d-8e67-7c7a-8eb35032fbcb/886448042792.jpg/80x80bb.webp",
-        "length": "2:55"
-    },
-    {
-        "ranking": "40",
+        "ranking": "37",
         "title": "Да гори в любов",
         "artist": "Преслава",
         "album": "Да гори в любов",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/24/30/3f/24303ff1-a79e-0135-035f-50ee7ca5e507/3800725606474.jpg/80x80bb.webp",
         "length": "3:31"
+    },
+    {
+        "ranking": "38",
+        "title": "Видимо изневерил",
+        "artist": "Tsvetelina Yaneva",
+        "album": "Видимо изневерил - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/a8/0f/82/a80f8207-b8bc-3cf6-dc0e-70edf70f3691/192562472767.jpg/80x80bb.webp",
+        "length": "3:22"
+    },
+    {
+        "ranking": "39",
+        "title": "Песен за нея",
+        "artist": "Papi Hans",
+        "album": "Песен за нея - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/d7/18/36d71882-2808-69b7-441f-44f29c70c0f8/3617389700789.jpg/80x80bb.webp",
+        "length": "3:27"
+    },
+    {
+        "ranking": "40",
+        "title": "Euphoria",
+        "artist": "Galena",
+        "album": "Euphoria - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ec/37/a7/ec37a758-7954-dd1a-908a-84996baa2d8f/57201DA4-DFEE-11EC-A951-A6BFE2995EF1.jpg/80x80bb.webp",
+        "length": "3:43"
     },
     {
         "ranking": "41",
@@ -329,70 +329,14 @@
     },
     {
         "ranking": "42",
-        "title": "That’s So True",
-        "artist": "Gracie Abrams",
-        "album": "The Secret of Us (Deluxe)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
-        "length": "2:46"
-    },
-    {
-        "ranking": "43",
-        "title": "Пиянице",
-        "artist": "SIMONA",
-        "album": "Пиянице - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/b5/86/d6b586f4-154c-d9be-94b7-e07b1fcec7de/C9D6FF78-912D-11EF-928C-A0CC07B1B81C.jpg/80x80bb.webp",
-        "length": "3:33"
-    },
-    {
-        "ranking": "44",
-        "title": "Имам друг",
-        "artist": "Anelia",
-        "album": "Имам друг - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/38/80/a038808e-dec0-5ce3-a550-83bd76f01233/5034644117607.jpg/80x80bb.webp",
-        "length": "3:04"
-    },
-    {
-        "ranking": "45",
-        "title": "Disease",
-        "artist": "Lady Gaga",
-        "album": "Disease - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/2b/dc/c72bdc7a-7014-e5df-a106-583074c0affa/24UM1IM12462.rgb.jpg/80x80bb.webp",
-        "length": "3:49"
-    },
-    {
-        "ranking": "46",
-        "title": "Не те забравям",
-        "artist": "Преслава",
-        "album": "Да гори в любов",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/24/30/3f/24303ff1-a79e-0135-035f-50ee7ca5e507/3800725606474.jpg/80x80bb.webp",
+        "title": "Г-Н ПОРЪЧКА",
+        "artist": "Mom4eto",
+        "album": "БЛОК 5 - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/e0/6b/4be06b57-a6a8-03e5-08c1-adaee04c92de/cover.jpg/80x80bb.webp",
         "length": "3:06"
     },
     {
-        "ranking": "47",
-        "title": "А+Г=Внл",
-        "artist": "Galena",
-        "album": "А+Г=Внл - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/db/56/a7/db56a769-1b95-76f4-0a6d-c4f705b0a3ae/C9CAFC82-5689-11EC-B0F1-E81955BA595C.jpg/80x80bb.webp",
-        "length": "3:50"
-    },
-    {
-        "ranking": "48",
-        "title": "Dirty Cash (Money Talks) [Sold Out 7 Inch Mix]",
-        "artist": "The Adventures of Stevie V",
-        "album": "Dirty Cash (Money Talks)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e9/31/9c/e9319ccd-2482-110b-a118-f7bd7a20dec1/6417128100422.jpg/80x80bb.webp",
-        "length": "4:03"
-    },
-    {
-        "ranking": "49",
-        "title": "Дивана",
-        "artist": "Medi",
-        "album": "Дивана - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/04/7d/35/047d355f-85e6-8b55-799c-6122eaee3c05/EA9DFF4E-D170-11EA-BF4C-59B1871EA851.jpg/80x80bb.webp",
-        "length": "3:14"
-    },
-    {
-        "ranking": "50",
+        "ranking": "43",
         "title": "Mrusni & Tumni",
         "artist": "MBT",
         "album": "Unreleased",
@@ -400,31 +344,15 @@
         "length": "3:13"
     },
     {
-        "ranking": "51",
-        "title": "Type Shit",
-        "artist": "Future",
-        "album": "WE DON'T TRUST YOU",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/9f/7b/4e9f7b71-28ad-a8dc-9b34-da532feb82f6/196871937382.jpg/80x80bb.webp",
-        "length": "3:48"
+        "ranking": "44",
+        "title": "365 (feat. Monkey)",
+        "artist": "Tedi Aleksandrova",
+        "album": "365 (feat. Monkey) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a9/cf/ad/a9cfad4c-88b1-f125-2489-d5a656bcc314/3800725639465.jpg/80x80bb.webp",
+        "length": "4:09"
     },
     {
-        "ranking": "52",
-        "title": "Константине",
-        "artist": "Konstantin",
-        "album": "Константине - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4c/e2/3d/4ce23d09-4d3a-6a2f-c6e4-b67cd2dfd431/5034644204932.jpg/80x80bb.webp",
-        "length": "3:26"
-    },
-    {
-        "ranking": "53",
-        "title": "Мамиш (feat. Azis)",
-        "artist": "Galin",
-        "album": "Мамиш (feat. Azis) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/28/d3/71/28d37180-251a-8d38-8e6e-2f88e46f80a9/3800725603787.jpg/80x80bb.webp",
-        "length": "3:43"
-    },
-    {
-        "ranking": "54",
+        "ranking": "45",
         "title": "Dobre ti beshe (feat. Toni Storaro)",
         "artist": "Alisia",
         "album": "Dobre ti beshe (feat. Toni Storaro) - Single",
@@ -432,31 +360,15 @@
         "length": "3:30"
     },
     {
-        "ranking": "55",
-        "title": "Прощавам ти",
-        "artist": "Emilia",
-        "album": "Turbulence",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/ff/67/b1ff67e6-8c0f-723f-5bd4-724cc8b1bb24/198846192550.jpg/80x80bb.webp",
-        "length": "3:30"
+        "ranking": "46",
+        "title": "Type Shit",
+        "artist": "Future",
+        "album": "WE DON'T TRUST YOU",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/9f/7b/4e9f7b71-28ad-a8dc-9b34-da532feb82f6/196871937382.jpg/80x80bb.webp",
+        "length": "3:48"
     },
     {
-        "ranking": "56",
-        "title": "Seven (Explicit Ver.)",
-        "artist": "Jung Kook",
-        "album": "GOLDEN",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f2/54/08/f254081d-c7e2-6cd6-f7c5-dedb56fd95bd/196922710582_Cover.jpg/80x80bb.webp",
-        "length": "3:03"
-    },
-    {
-        "ranking": "57",
-        "title": "Ангелът",
-        "artist": "Tsvetelina Yaneva",
-        "album": "Ангелът - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/32/82/54/32825466-367b-735a-e662-55fcd665b601/3800725616466.jpg/80x80bb.webp",
-        "length": "4:27"
-    },
-    {
-        "ranking": "58",
+        "ranking": "47",
         "title": "Смени паролата си",
         "artist": "Desi Slava",
         "album": "Смени паролата си - Single",
@@ -464,7 +376,39 @@
         "length": "3:25"
     },
     {
-        "ranking": "59",
+        "ranking": "48",
+        "title": "HIGHEST IN THE ROOM",
+        "artist": "Travis Scott",
+        "album": "HIGHEST IN THE ROOM - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/30/5f/c4/305fc4b4-155d-8e67-7c7a-8eb35032fbcb/886448042792.jpg/80x80bb.webp",
+        "length": "2:55"
+    },
+    {
+        "ranking": "49",
+        "title": "Константине",
+        "artist": "Konstantin",
+        "album": "Константине - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4c/e2/3d/4ce23d09-4d3a-6a2f-c6e4-b67cd2dfd431/5034644204932.jpg/80x80bb.webp",
+        "length": "3:26"
+    },
+    {
+        "ranking": "50",
+        "title": "А+Г=Внл",
+        "artist": "Galena",
+        "album": "А+Г=Внл - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/db/56/a7/db56a769-1b95-76f4-0a6d-c4f705b0a3ae/C9CAFC82-5689-11EC-B0F1-E81955BA595C.jpg/80x80bb.webp",
+        "length": "3:50"
+    },
+    {
+        "ranking": "51",
+        "title": "Не те забравям",
+        "artist": "Преслава",
+        "album": "Да гори в любов",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/24/30/3f/24303ff1-a79e-0135-035f-50ee7ca5e507/3800725606474.jpg/80x80bb.webp",
+        "length": "3:06"
+    },
+    {
+        "ranking": "52",
         "title": "Losha",
         "artist": "Andrea",
         "album": "Losha",
@@ -472,127 +416,39 @@
         "length": "3:38"
     },
     {
-        "ranking": "60",
-        "title": "Добре ли си",
-        "artist": "Galena",
-        "album": "Добре ли си - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/b8/5a/60/b85a6032-e88f-0651-77bb-5952698bb655/3800725603237.jpg/80x80bb.webp",
-        "length": "3:57"
+        "ranking": "53",
+        "title": "Disease",
+        "artist": "Lady Gaga",
+        "album": "Disease - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/2b/dc/c72bdc7a-7014-e5df-a106-583074c0affa/24UM1IM12462.rgb.jpg/80x80bb.webp",
+        "length": "3:49"
     },
     {
-        "ranking": "61",
-        "title": "Нямаш мене",
+        "ranking": "54",
+        "title": "Имам друг",
         "artist": "Anelia",
-        "album": "Нямаш мене - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3f/07/30/3f0730af-fcaf-04e9-83d5-abad6a322ba1/cover.jpg/80x80bb.webp",
-        "length": "3:54"
+        "album": "Имам друг - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/38/80/a038808e-dec0-5ce3-a550-83bd76f01233/5034644117607.jpg/80x80bb.webp",
+        "length": "3:04"
     },
     {
-        "ranking": "62",
-        "title": "Песен за нея",
-        "artist": "Papi Hans",
-        "album": "Песен за нея - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/d7/18/36d71882-2808-69b7-441f-44f29c70c0f8/3617389700789.jpg/80x80bb.webp",
-        "length": "3:27"
-    },
-    {
-        "ranking": "63",
-        "title": "Изтрезняваш ли",
-        "artist": "Преслава",
-        "album": "Да гори в любов",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/24/30/3f/24303ff1-a79e-0135-035f-50ee7ca5e507/3800725606474.jpg/80x80bb.webp",
-        "length": "3:01"
-    },
-    {
-        "ranking": "64",
-        "title": "Не те боли",
-        "artist": "DJORDAN",
-        "album": "Не те боли - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/f8/05/28/f805282a-e76d-ab2e-03f1-e152700de3a3/192562249772.jpg/80x80bb.webp",
-        "length": "3:46"
-    },
-    {
-        "ranking": "65",
-        "title": "Моята принцеса",
-        "artist": "Konstantin",
-        "album": "Моята принцеса - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/56/2b/e6562b6a-1e87-d8ca-ee42-a0e31a8561ca/085365055940.jpg/80x80bb.webp",
-        "length": "2:50"
-    },
-    {
-        "ranking": "66",
-        "title": "Болка моя",
-        "artist": "Tsvetelina Yaneva",
-        "album": "Болка моя - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/96/93/9a/96939ac7-9472-b435-1baa-37e6c1c5aef2/3800725603701.jpg/80x80bb.webp",
-        "length": "3:59"
-    },
-    {
-        "ranking": "67",
-        "title": "Моето слабо място",
-        "artist": "Преслава",
-        "album": "Моето слабо място - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0c/85/77/0c85778d-c76c-a116-e085-a0e084d14d62/192562685556.jpg/80x80bb.webp",
-        "length": "3:23"
-    },
-    {
-        "ranking": "68",
-        "title": "Луда жена",
-        "artist": "DJORDAN",
-        "album": "Луда жена - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/a8/c1/e0a8c1e3-7d7e-5b13-e769-d4380605080c/3800725627622.jpg/80x80bb.webp",
-        "length": "3:18"
-    },
-    {
-        "ranking": "69",
-        "title": "Хубавица",
-        "artist": "DONIKA",
-        "album": "Хубавица - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/de/b8/b5/deb8b5a1-01ab-8453-4ac7-2ff1954f3c5f/04B2D65A-3FF1-11EF-AFD2-8CA4ECD9DD29.jpg/80x80bb.webp",
-        "length": "3:03"
-    },
-    {
-        "ranking": "70",
-        "title": "От София до Банско (feat. Аднан Бийтс & Гейм Оувър)",
-        "artist": "Tedi Aleksandrova",
-        "album": "От София до Банско (feat. Аднан Бийтс & Гейм Оувър) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/91/61/05/9161052f-214b-a70b-a950-97467e5bb94c/192562323892.jpg/80x80bb.webp",
-        "length": "3:52"
-    },
-    {
-        "ranking": "71",
-        "title": "Бавария (feat. Konstantin)",
-        "artist": "VANE$$A",
-        "album": "Бавария (feat. Konstantin) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/be/1d/48/be1d483a-920c-f1d7-ead1-4417e52dac45/cover.jpg/80x80bb.webp",
-        "length": "3:17"
-    },
-    {
-        "ranking": "72",
-        "title": "В играта",
-        "artist": "Galin",
-        "album": "В играта - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/4e/c9/764ec90b-87a7-9279-fea8-c3ae3440bbad/8C9CFA9A-9754-11EF-B74A-13B20AB1B81C.jpg/80x80bb.webp",
-        "length": "3:16"
-    },
-    {
-        "ranking": "73",
-        "title": "След 1000 жени",
-        "artist": "Desi Slava",
-        "album": "След 1000 жени - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e3/29/cf/e329cfb2-75d8-6e19-dab8-0aebacf3fd2a/3800725617661.jpg/80x80bb.webp",
-        "length": "3:45"
-    },
-    {
-        "ranking": "74",
-        "title": "goosebumps",
-        "artist": "Travis Scott",
-        "album": "Birds In The Trap Sing McKnight",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/50/f7/a3/50f7a39d-3bd5-28e9-0264-532f08b5b810/886446074726.jpg/80x80bb.webp",
+        "ranking": "55",
+        "title": "Dirty Cash (Money Talks) [Sold Out 7 Inch Mix]",
+        "artist": "The Adventures of Stevie V",
+        "album": "Dirty Cash (Money Talks)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e9/31/9c/e9319ccd-2482-110b-a118-f7bd7a20dec1/6417128100422.jpg/80x80bb.webp",
         "length": "4:03"
     },
     {
-        "ranking": "75",
+        "ranking": "56",
+        "title": "Мамиш (feat. Azis)",
+        "artist": "Galin",
+        "album": "Мамиш (feat. Azis) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/28/d3/71/28d37180-251a-8d38-8e6e-2f88e46f80a9/3800725603787.jpg/80x80bb.webp",
+        "length": "3:43"
+    },
+    {
+        "ranking": "57",
         "title": "Навътре в мен",
         "artist": "Галена",
         "album": "Пайнер Хит Сезони Есен 2015",
@@ -600,7 +456,47 @@
         "length": "3:37"
     },
     {
-        "ranking": "76",
+        "ranking": "58",
+        "title": "Изтрезняваш ли",
+        "artist": "Преслава",
+        "album": "Да гори в любов",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/24/30/3f/24303ff1-a79e-0135-035f-50ee7ca5e507/3800725606474.jpg/80x80bb.webp",
+        "length": "3:01"
+    },
+    {
+        "ranking": "59",
+        "title": "Не те боли",
+        "artist": "DJORDAN",
+        "album": "Не те боли - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/f8/05/28/f805282a-e76d-ab2e-03f1-e152700de3a3/192562249772.jpg/80x80bb.webp",
+        "length": "3:46"
+    },
+    {
+        "ranking": "60",
+        "title": "Моята принцеса",
+        "artist": "Konstantin",
+        "album": "Моята принцеса - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/56/2b/e6562b6a-1e87-d8ca-ee42-a0e31a8561ca/085365055940.jpg/80x80bb.webp",
+        "length": "2:50"
+    },
+    {
+        "ranking": "61",
+        "title": "Устните ти мръсни",
+        "artist": "Emanuela",
+        "album": "Устните ти мръсни - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/80/c2/10/80c2101e-7916-a22a-732b-458d884836f3/3800725634095.jpg/80x80bb.webp",
+        "length": "3:07"
+    },
+    {
+        "ranking": "62",
+        "title": "Болка моя",
+        "artist": "Tsvetelina Yaneva",
+        "album": "Болка моя - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/96/93/9a/96939ac7-9472-b435-1baa-37e6c1c5aef2/3800725603701.jpg/80x80bb.webp",
+        "length": "3:59"
+    },
+    {
+        "ranking": "63",
         "title": "Закъсня",
         "artist": "Emilia",
         "album": "Закъсня - Single",
@@ -608,23 +504,23 @@
         "length": "4:22"
     },
     {
-        "ranking": "77",
-        "title": "Вятъра (feat. The Mystery Of The Bulgarian Voices)",
-        "artist": "Molec",
-        "album": "Вятъра (feat. The Mystery Of The Bulgarian Voices) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4f/33/29/4f332981-4970-c34f-9252-66e034b12cf4/cover.jpg/80x80bb.webp",
-        "length": "3:27"
+        "ranking": "64",
+        "title": "Добре ли си",
+        "artist": "Galena",
+        "album": "Добре ли си - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/b8/5a/60/b85a6032-e88f-0651-77bb-5952698bb655/3800725603237.jpg/80x80bb.webp",
+        "length": "3:57"
     },
     {
-        "ranking": "78",
-        "title": "К'ъв Съм Як",
-        "artist": "DJORDAN",
-        "album": "К'ъв Съм Як - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/06/10/2c/06102cfb-a385-38d9-666d-2769d2610872/40A966E2-2643-11EE-AAB1-0CF3DC287BC0.jpg/80x80bb.webp",
-        "length": "3:15"
+        "ranking": "65",
+        "title": "След 1000 жени",
+        "artist": "Desi Slava",
+        "album": "След 1000 жени - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e3/29/cf/e329cfb2-75d8-6e19-dab8-0aebacf3fd2a/3800725617661.jpg/80x80bb.webp",
+        "length": "3:45"
     },
     {
-        "ranking": "79",
+        "ranking": "66",
         "title": "Move",
         "artist": "Adam Port",
         "album": "Move - Single",
@@ -632,39 +528,63 @@
         "length": "2:57"
     },
     {
-        "ranking": "80",
-        "title": "California (feat. DJ Tsetsi Ludata glava)",
-        "artist": "Emilia",
-        "album": "California (feat. DJ Tsetsi Ludata glava) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e6/c1/50/e6c1501b-7f0c-670f-cde2-7d13a0d79811/192562348031.jpg/80x80bb.webp",
-        "length": "4:33"
+        "ranking": "67",
+        "title": "goosebumps",
+        "artist": "Travis Scott",
+        "album": "Birds In The Trap Sing McKnight",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/50/f7/a3/50f7a39d-3bd5-28e9-0264-532f08b5b810/886446074726.jpg/80x80bb.webp",
+        "length": "4:03"
     },
     {
-        "ranking": "81",
-        "title": "Корабът-майка",
+        "ranking": "68",
+        "title": "Ангелът",
+        "artist": "Tsvetelina Yaneva",
+        "album": "Ангелът - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/32/82/54/32825466-367b-735a-e662-55fcd665b601/3800725616466.jpg/80x80bb.webp",
+        "length": "4:27"
+    },
+    {
+        "ranking": "69",
+        "title": "Нямаш мене",
+        "artist": "Anelia",
+        "album": "Нямаш мене - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3f/07/30/3f0730af-fcaf-04e9-83d5-abad6a322ba1/cover.jpg/80x80bb.webp",
+        "length": "3:54"
+    },
+    {
+        "ranking": "70",
+        "title": "К'ъв Съм Як",
+        "artist": "DJORDAN",
+        "album": "К'ъв Съм Як - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/06/10/2c/06102cfb-a385-38d9-666d-2769d2610872/40A966E2-2643-11EE-AAB1-0CF3DC287BC0.jpg/80x80bb.webp",
+        "length": "3:15"
+    },
+    {
+        "ranking": "71",
+        "title": "От София до Банско (feat. Аднан Бийтс & Гейм Оувър)",
         "artist": "Tedi Aleksandrova",
-        "album": "Корабът-майка - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ae/6f/66/ae6f6647-6fa7-c97f-4753-18bc69d4b5e3/192562232729.jpg/80x80bb.webp",
-        "length": "4:24"
+        "album": "От София до Банско (feat. Аднан Бийтс & Гейм Оувър) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/91/61/05/9161052f-214b-a70b-a950-97467e5bb94c/192562323892.jpg/80x80bb.webp",
+        "length": "3:52"
     },
     {
-        "ranking": "82",
-        "title": "Мъже милиарди",
-        "artist": "Desi Slava",
-        "album": "Мъже милиарди - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/53/6e/e3/536ee30f-a2fb-367a-47f8-dd72891cb459/190296161827.jpg/80x80bb.webp",
-        "length": "3:37"
+        "ranking": "72",
+        "title": "Прощавам ти",
+        "artist": "Emilia",
+        "album": "Turbulence",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/ff/67/b1ff67e6-8c0f-723f-5bd4-724cc8b1bb24/198846192550.jpg/80x80bb.webp",
+        "length": "3:30"
     },
     {
-        "ranking": "83",
-        "title": "Low Life (feat. The Weeknd)",
-        "artist": "Future",
-        "album": "EVOL",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9e/cf/a9/9ecfa901-9d33-0a15-1eae-69f6aa784aa2/886445861846.jpg/80x80bb.webp",
-        "length": "5:13"
+        "ranking": "73",
+        "title": "Seven (Explicit Ver.)",
+        "artist": "Jung Kook",
+        "album": "GOLDEN",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f2/54/08/f254081d-c7e2-6cd6-f7c5-dedb56fd95bd/196922710582_Cover.jpg/80x80bb.webp",
+        "length": "3:03"
     },
     {
-        "ranking": "84",
+        "ranking": "74",
         "title": "Не си ти",
         "artist": "КОНСТАНТИН",
         "album": "Не си ти - Single",
@@ -672,63 +592,15 @@
         "length": "4:13"
     },
     {
-        "ranking": "85",
-        "title": "Подводница",
-        "artist": "Emanuela",
-        "album": "Подводница - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/66/31/ff/6631ff55-af87-30b9-f29a-18a92d3fa1ea/3800725630134.jpg/80x80bb.webp",
-        "length": "3:21"
+        "ranking": "75",
+        "title": "Вятъра (feat. The Mystery Of The Bulgarian Voices)",
+        "artist": "Molec",
+        "album": "Вятъра (feat. The Mystery Of The Bulgarian Voices) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4f/33/29/4f332981-4970-c34f-9252-66e034b12cf4/cover.jpg/80x80bb.webp",
+        "length": "3:27"
     },
     {
-        "ranking": "86",
-        "title": "По, По, По",
-        "artist": "Galena",
-        "album": "По, По, По - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e4/97/e2/e497e217-b92d-e0f8-e46c-252c84149788/E2E6820C-6287-11EE-BF8D-F820C4243A95.jpg/80x80bb.webp",
-        "length": "4:01"
-    },
-    {
-        "ranking": "87",
-        "title": "Dancing In The Flames",
-        "artist": "The Weeknd",
-        "album": "Dancing In The Flames - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/7e/9f/347e9f54-2d74-820f-a910-68d01f044fcf/24UMGIM95646.rgb.jpg/80x80bb.webp",
-        "length": "3:40"
-    },
-    {
-        "ranking": "88",
-        "title": "Най-боли ме (feat. Sasho Roman & DJ Ned)",
-        "artist": "Tedi Aleksandrova",
-        "album": "Най-боли ме (feat. Sasho Roman & DJ Ned) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/fd/ab/6d/fdab6d75-ff1d-e549-9e66-36558efa049d/3800725605170.jpg/80x80bb.webp",
-        "length": "3:28"
-    },
-    {
-        "ranking": "89",
-        "title": "Мармалад",
-        "artist": "DJORDAN",
-        "album": "Мармалад - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/67/fd/60/67fd607a-e007-e038-4d39-15c3e721bdba/192562620250.jpg/80x80bb.webp",
-        "length": "3:40"
-    },
-    {
-        "ranking": "90",
-        "title": "Надежда",
-        "artist": "Medi",
-        "album": "Надежда - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c2/7c/80/c27c80b0-06b7-61ff-cf3a-2c8fe1cdcf34/74BE5844-A4C8-11EE-B31D-EF361F742CF0.jpg/80x80bb.webp",
-        "length": "4:13"
-    },
-    {
-        "ranking": "91",
-        "title": "Kosandra",
-        "artist": "Miyagi & Andy Panda",
-        "album": "Kosandra - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/1c/5e/53/1c5e53e5-24ed-2b7c-17ba-f946b7d0b324/cover.jpg/80x80bb.webp",
-        "length": "3:41"
-    },
-    {
-        "ranking": "92",
+        "ranking": "76",
         "title": "Пиян",
         "artist": "Преслава",
         "album": "Пиян - Single",
@@ -736,12 +608,140 @@
         "length": "3:47"
     },
     {
+        "ranking": "77",
+        "title": "Подводница",
+        "artist": "Emanuela",
+        "album": "Подводница - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/66/31/ff/6631ff55-af87-30b9-f29a-18a92d3fa1ea/3800725630134.jpg/80x80bb.webp",
+        "length": "3:21"
+    },
+    {
+        "ranking": "78",
+        "title": "Дивана",
+        "artist": "Medi",
+        "album": "Дивана - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/04/7d/35/047d355f-85e6-8b55-799c-6122eaee3c05/EA9DFF4E-D170-11EA-BF4C-59B1871EA851.jpg/80x80bb.webp",
+        "length": "3:14"
+    },
+    {
+        "ranking": "79",
+        "title": "Моето слабо място",
+        "artist": "Преслава",
+        "album": "Моето слабо място - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0c/85/77/0c85778d-c76c-a116-e085-a0e084d14d62/192562685556.jpg/80x80bb.webp",
+        "length": "3:23"
+    },
+    {
+        "ranking": "80",
+        "title": "Dancing In The Flames",
+        "artist": "The Weeknd",
+        "album": "Dancing In The Flames - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/7e/9f/347e9f54-2d74-820f-a910-68d01f044fcf/24UMGIM95646.rgb.jpg/80x80bb.webp",
+        "length": "3:40"
+    },
+    {
+        "ranking": "81",
+        "title": "В играта",
+        "artist": "Galin",
+        "album": "В играта - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/4e/c9/764ec90b-87a7-9279-fea8-c3ae3440bbad/8C9CFA9A-9754-11EF-B74A-13B20AB1B81C.jpg/80x80bb.webp",
+        "length": "3:16"
+    },
+    {
+        "ranking": "82",
+        "title": "Корабът-майка",
+        "artist": "Tedi Aleksandrova",
+        "album": "Корабът-майка - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ae/6f/66/ae6f6647-6fa7-c97f-4753-18bc69d4b5e3/192562232729.jpg/80x80bb.webp",
+        "length": "4:24"
+    },
+    {
+        "ranking": "83",
+        "title": "Бавария (feat. Konstantin)",
+        "artist": "VANE$$A",
+        "album": "Бавария (feat. Konstantin) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/be/1d/48/be1d483a-920c-f1d7-ead1-4417e52dac45/cover.jpg/80x80bb.webp",
+        "length": "3:17"
+    },
+    {
+        "ranking": "84",
+        "title": "Луда жена",
+        "artist": "DJORDAN",
+        "album": "Луда жена - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/a8/c1/e0a8c1e3-7d7e-5b13-e769-d4380605080c/3800725627622.jpg/80x80bb.webp",
+        "length": "3:18"
+    },
+    {
+        "ranking": "85",
+        "title": "Хубавица",
+        "artist": "DONIKA",
+        "album": "Хубавица - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/de/b8/b5/deb8b5a1-01ab-8453-4ac7-2ff1954f3c5f/04B2D65A-3FF1-11EF-AFD2-8CA4ECD9DD29.jpg/80x80bb.webp",
+        "length": "3:03"
+    },
+    {
+        "ranking": "86",
+        "title": "CHIHIRO",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "5:03"
+    },
+    {
+        "ranking": "87",
+        "title": "Надежда",
+        "artist": "Medi",
+        "album": "Надежда - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c2/7c/80/c27c80b0-06b7-61ff-cf3a-2c8fe1cdcf34/74BE5844-A4C8-11EE-B31D-EF361F742CF0.jpg/80x80bb.webp",
+        "length": "4:13"
+    },
+    {
+        "ranking": "88",
+        "title": "Alibi",
+        "artist": "Sevdaliza",
+        "album": "Alibi - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/78/35/c9783504-7a20-6197-3f32-ad36f6200bc1/87.jpg/80x80bb.webp",
+        "length": "2:41"
+    },
+    {
+        "ranking": "89",
+        "title": "Heartless",
+        "artist": "The Weeknd",
+        "album": "After Hours",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6f/bc/e6/6fbce6c4-c38c-72d8-4fd0-66cfff32f679/20UMGIM12176.rgb.jpg/80x80bb.webp",
+        "length": "3:18"
+    },
+    {
+        "ranking": "90",
+        "title": "Най-боли ме (feat. Sasho Roman & DJ Ned)",
+        "artist": "Tedi Aleksandrova",
+        "album": "Най-боли ме (feat. Sasho Roman & DJ Ned) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/fd/ab/6d/fdab6d75-ff1d-e549-9e66-36558efa049d/3800725605170.jpg/80x80bb.webp",
+        "length": "3:28"
+    },
+    {
+        "ranking": "91",
+        "title": "Low Life (feat. The Weeknd)",
+        "artist": "Future",
+        "album": "EVOL",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9e/cf/a9/9ecfa901-9d33-0a15-1eae-69f6aa784aa2/886445861846.jpg/80x80bb.webp",
+        "length": "5:13"
+    },
+    {
+        "ranking": "92",
+        "title": "Insomnia (feat. Kotenceto)",
+        "artist": "Trap19 Connection",
+        "album": "TOP CONNECTION (feat. Kotenceto)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/78/ad/fb/78adfb2a-0aa6-2c7b-95a3-0dde4d53b270/cover.jpg/80x80bb.webp",
+        "length": "3:08"
+    },
+    {
         "ranking": "93",
-        "title": "Гъзарка",
-        "artist": "Anelia",
-        "album": "Гъзарка - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/55/2e/cd/552ecda6-89d5-afa0-2320-a8c6156a0506/3800725609949.jpg/80x80bb.webp",
-        "length": "5:05"
+        "title": "Нищо",
+        "artist": "Преслава",
+        "album": "Нищо - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d7/43/45/d74345a6-b8d5-fab4-d5f5-f2064da0908e/3800725642670.jpg/80x80bb.webp",
+        "length": "3:13"
     },
     {
         "ranking": "94",
@@ -753,50 +753,50 @@
     },
     {
         "ranking": "95",
-        "title": "Blinding Lights",
-        "artist": "The Weeknd",
-        "album": "Blinding Lights - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a6/6e/bf/a66ebf79-5008-8948-b352-a790fc87446b/19UM1IM04638.rgb.jpg/80x80bb.webp",
-        "length": "3:21"
+        "title": "Скъпото се плаща",
+        "artist": "Emanuela",
+        "album": "Скъпото се плаща - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/8b/e3/c9/8be3c9a3-7630-0256-9e9a-21fadf0000ac/3800725601622.jpg/80x80bb.webp",
+        "length": "3:19"
     },
     {
         "ranking": "96",
-        "title": "Turbulence",
-        "artist": "Emilia",
-        "album": "Turbulence - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/74/5d/5e745dae-6f76-02fa-c0e2-cefc05966e54/3800152279388.jpg/80x80bb.webp",
-        "length": "3:58"
+        "title": "Имаш ме",
+        "artist": "Desi Slava",
+        "album": "Имаш ме - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8e/3e/1e/8e3e1ed0-ea19-bac5-5873-d84e3614e158/3800725622733.jpg/80x80bb.webp",
+        "length": "3:44"
     },
     {
         "ranking": "97",
-        "title": "Устните ти мръсни",
-        "artist": "Emanuela",
-        "album": "Устните ти мръсни - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/80/c2/10/80c2101e-7916-a22a-732b-458d884836f3/3800725634095.jpg/80x80bb.webp",
-        "length": "3:07"
+        "title": "Запалката",
+        "artist": "Galena",
+        "album": "GALENAXX",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/f6/1b/71f61bff-275d-0944-fb92-c64c11123846/A86792C2-2C8C-11EF-ABAD-43D6E1D9DD29.jpg/80x80bb.webp",
+        "length": "3:18"
     },
     {
         "ranking": "98",
-        "title": "Nqma Kak (feat. BM)",
-        "artist": "MBT",
-        "album": "Masquerade",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fc/46/a8/fc46a87c-7c6c-c945-4cd7-9a8bcb480e29/artwork.jpg/80x80bb.webp",
-        "length": "3:35"
+        "title": "California (feat. DJ Tsetsi Ludata glava)",
+        "artist": "Emilia",
+        "album": "California (feat. DJ Tsetsi Ludata glava) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e6/c1/50/e6c1501b-7f0c-670f-cde2-7d13a0d79811/192562348031.jpg/80x80bb.webp",
+        "length": "4:33"
     },
     {
         "ranking": "99",
-        "title": "Alibi",
-        "artist": "Sevdaliza",
-        "album": "Alibi - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/78/35/c9783504-7a20-6197-3f32-ad36f6200bc1/87.jpg/80x80bb.webp",
-        "length": "2:41"
+        "title": "По, По, По",
+        "artist": "Galena",
+        "album": "По, По, По - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e4/97/e2/e497e217-b92d-e0f8-e46c-252c84149788/E2E6820C-6287-11EE-BF8D-F820C4243A95.jpg/80x80bb.webp",
+        "length": "4:01"
     },
     {
         "ranking": "100",
-        "title": "Точно ти",
-        "artist": "КОНСТАНТИН",
-        "album": "Точно ти - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/f8/57/13/f857134b-3507-66bd-ba25-7ee9b90cbea3/192562360132.jpg/80x80bb.webp",
-        "length": "3:41"
+        "title": "Мармалад",
+        "artist": "DJORDAN",
+        "album": "Мармалад - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/67/fd/60/67fd607a-e007-e038-4d39-15c3e721bdba/192562620250.jpg/80x80bb.webp",
+        "length": "3:40"
     }
 ]

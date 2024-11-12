@@ -105,19 +105,19 @@
     },
     {
         "ranking": "14",
-        "title": "HOP ON DA SHOW",
-        "artist": "tlinh",
-        "album": "FLVR - EP",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/73/8e/67/738e67a8-bd1b-32b8-62c3-1a7c58fcc496/198704157950_Cover.jpg/80x80bb.webp",
-        "length": "2:55"
-    },
-    {
-        "ranking": "15",
         "title": "KIM PHÚT, KIM GIỜ",
         "artist": "HURRYKNG",
         "album": "ANH TRAI \"SAY HI\", Tập 11 - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/de/57/80/de5780af-86a5-2ec9-a951-a01783c310c0/5034644008370.jpg/80x80bb.webp",
         "length": "4:55"
+    },
+    {
+        "ranking": "15",
+        "title": "HOP ON DA SHOW",
+        "artist": "tlinh",
+        "album": "FLVR - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/73/8e/67/738e67a8-bd1b-32b8-62c3-1a7c58fcc496/198704157950_Cover.jpg/80x80bb.webp",
+        "length": "2:55"
     },
     {
         "ranking": "16",
@@ -145,19 +145,19 @@
     },
     {
         "ranking": "19",
-        "title": "TÌNH ĐẦU QUÁ CHÉN",
-        "artist": "Quang Hùng MasterD",
-        "album": "ANH TRAI \"SAY HI\", Tập 14 - EP",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/65/b6/da/65b6da8c-93c6-02c3-10cd-a3e9679211ed/5034644094748.jpg/80x80bb.webp",
-        "length": "5:16"
-    },
-    {
-        "ranking": "20",
         "title": "Mưa thâm lặng giời",
         "artist": "BigDaddy",
         "album": "Mưa thâm lặng giời - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/98/e3/82/98e3824b-c317-1d94-9a04-b63e4662f941/24UM1IM21140.rgb.jpg/80x80bb.webp",
         "length": "3:48"
+    },
+    {
+        "ranking": "20",
+        "title": "TÌNH ĐẦU QUÁ CHÉN",
+        "artist": "Quang Hùng MasterD",
+        "album": "ANH TRAI \"SAY HI\", Tập 14 - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/65/b6/da/65b6da8c-93c6-02c3-10cd-a3e9679211ed/5034644094748.jpg/80x80bb.webp",
+        "length": "5:16"
     },
     {
         "ranking": "21",
@@ -169,19 +169,19 @@
     },
     {
         "ranking": "22",
-        "title": "Những Lời Hứa Bỏ Quên",
-        "artist": "Vũ.",
-        "album": "Những Lời Hứa Bỏ Quên - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/14/a1/1e/14a11edd-7f55-b810-95c2-404d5c6f80a1/5054197908231.jpg/80x80bb.webp",
-        "length": "3:56"
-    },
-    {
-        "ranking": "23",
         "title": "Mantra",
         "artist": "JENNIE",
         "album": "Mantra - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/9a/4c/5d9a4c5f-1c34-1265-0fa5-860dc8f0e802/196872495263.jpg/80x80bb.webp",
         "length": "2:16"
+    },
+    {
+        "ranking": "23",
+        "title": "Những Lời Hứa Bỏ Quên",
+        "artist": "Vũ.",
+        "album": "Những Lời Hứa Bỏ Quên - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/14/a1/1e/14a11edd-7f55-b810-95c2-404d5c6f80a1/5054197908231.jpg/80x80bb.webp",
+        "length": "3:56"
     },
     {
         "ranking": "24",
@@ -193,11 +193,11 @@
     },
     {
         "ranking": "25",
-        "title": "Espresso",
-        "artist": "Sabrina Carpenter",
-        "album": "Espresso - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
-        "length": "2:55"
+        "title": "TRÌNH",
+        "artist": "HIEUTHUHAI",
+        "album": "TRÌNH - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/41/a9/6141a97a-2c65-2057-b2cf-b8b6e105fd5d/198704235931_Cover.jpg/80x80bb.webp",
+        "length": "4:35"
     },
     {
         "ranking": "26",
@@ -209,30 +209,14 @@
     },
     {
         "ranking": "27",
-        "title": "TRÌNH",
-        "artist": "HIEUTHUHAI",
-        "album": "TRÌNH - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/41/a9/6141a97a-2c65-2057-b2cf-b8b6e105fd5d/198704235931_Cover.jpg/80x80bb.webp",
-        "length": "4:35"
+        "title": "Espresso",
+        "artist": "Sabrina Carpenter",
+        "album": "Espresso - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
+        "length": "2:55"
     },
     {
         "ranking": "28",
-        "title": "CATCH ME IF YOU CAN",
-        "artist": "Quang Hùng MasterD",
-        "album": "ANH TRAI \"SAY HI\", Tập 4 - EP",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c2/bb/8a/c2bb8a66-98df-c337-27a3-226909ec8950/085365216358.jpg/80x80bb.webp",
-        "length": "4:16"
-    },
-    {
-        "ranking": "29",
-        "title": "Hà Nội",
-        "artist": "Obito",
-        "album": "Đánh Đổi",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/87/b6/6a/87b66a1d-92bc-e630-bdb6-08bd18b340f9/3617228506732.jpg/80x80bb.webp",
-        "length": "2:45"
-    },
-    {
-        "ranking": "30",
         "title": "CHÂN THÀNH",
         "artist": "RHYDER",
         "album": "ANH TRAI \"SAY HI\", Tập 10 - EP",
@@ -240,15 +224,23 @@
         "length": "4:18"
     },
     {
-        "ranking": "31",
-        "title": "Không Yêu Em Thì Yêu Ai?",
-        "artist": "Vũ.",
-        "album": "Bảo Tàng Của Nuối Tiếc",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/2d/f4/212df4ab-0f11-2233-5c0e-721de3cc8f1b/5021732505477.jpg/80x80bb.webp",
-        "length": "3:52"
+        "ranking": "29",
+        "title": "CATCH ME IF YOU CAN",
+        "artist": "Quang Hùng MasterD",
+        "album": "ANH TRAI \"SAY HI\", Tập 4 - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c2/bb/8a/c2bb8a66-98df-c337-27a3-226909ec8950/085365216358.jpg/80x80bb.webp",
+        "length": "4:16"
     },
     {
-        "ranking": "32",
+        "ranking": "30",
+        "title": "Hà Nội",
+        "artist": "Obito",
+        "album": "Đánh Đổi",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/87/b6/6a/87b66a1d-92bc-e630-bdb6-08bd18b340f9/3617228506732.jpg/80x80bb.webp",
+        "length": "2:45"
+    },
+    {
+        "ranking": "31",
         "title": "Thủy Triều",
         "artist": "Quang Hùng MasterD",
         "album": "Thủy Triều - Single",
@@ -256,12 +248,20 @@
         "length": "2:59"
     },
     {
+        "ranking": "32",
+        "title": "Không Yêu Em Thì Yêu Ai?",
+        "artist": "Vũ.",
+        "album": "Bảo Tàng Của Nuối Tiếc",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/2d/f4/212df4ab-0f11-2233-5c0e-721de3cc8f1b/5021732505477.jpg/80x80bb.webp",
+        "length": "3:52"
+    },
+    {
         "ranking": "33",
-        "title": "we can't be friends (wait for your love)",
-        "artist": "Ariana Grande",
-        "album": "eternal sunshine",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/34/fe/a1/34fea184-6d20-3f50-b4ce-5e1501c1c5ab/24UMGIM00198.rgb.jpg/80x80bb.webp",
-        "length": "3:48"
+        "title": "REGRET",
+        "artist": "Quân A.P",
+        "album": "ANH TRAI \"SAY HI\", Tập 7 - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/1f/32/301f32eb-0dee-6be5-cedf-e22987629806/198830994351.jpg/80x80bb.webp",
+        "length": "4:12"
     },
     {
         "ranking": "34",
@@ -273,19 +273,19 @@
     },
     {
         "ranking": "35",
-        "title": "REGRET",
-        "artist": "Quân A.P",
-        "album": "ANH TRAI \"SAY HI\", Tập 7 - EP",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/1f/32/301f32eb-0dee-6be5-cedf-e22987629806/198830994351.jpg/80x80bb.webp",
-        "length": "4:12"
+        "title": "we can't be friends (wait for your love)",
+        "artist": "Ariana Grande",
+        "album": "eternal sunshine",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/34/fe/a1/34fea184-6d20-3f50-b4ce-5e1501c1c5ab/24UMGIM00198.rgb.jpg/80x80bb.webp",
+        "length": "3:48"
     },
     {
         "ranking": "36",
-        "title": "Love is",
-        "artist": "Dangrangto",
-        "album": "Love is - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/06/1b/f5/061bf59c-532c-3855-86b0-3d0d8e7e9456/a65c9f7b-a1e9-424c-9e51-3901d3c8452d.jpg/80x80bb.webp",
-        "length": "4:26"
+        "title": "nếu lúc đó",
+        "artist": "tlinh",
+        "album": "nếu lúc đó - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ab/b8/21/abb821d9-cdcd-4d47-4adb-2c2233742bb1/23UMGIM21263.rgb.jpg/80x80bb.webp",
+        "length": "4:24"
     },
     {
         "ranking": "37",
@@ -297,19 +297,19 @@
     },
     {
         "ranking": "38",
-        "title": "nếu lúc đó",
-        "artist": "tlinh",
-        "album": "nếu lúc đó - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ab/b8/21/abb821d9-cdcd-4d47-4adb-2c2233742bb1/23UMGIM21263.rgb.jpg/80x80bb.webp",
-        "length": "4:24"
+        "title": "Say Sóng",
+        "artist": "Tăng Duy Tân",
+        "album": "Khu Vườn Tình",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/6e/3d/766e3d09-fb06-20ee-5b05-7f9d68dc72b0/00b6026d-a36c-404b-8906-445bac2c2076.jpg/80x80bb.webp",
+        "length": "3:26"
     },
     {
         "ranking": "39",
-        "title": "Từng Quen",
-        "artist": "Wren Evans",
-        "album": "Từng Quen - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cb/42/10/cb421004-d27a-6c08-a542-fa2e7ac3bb58/23UM1IM21988.rgb.jpg/80x80bb.webp",
-        "length": "2:54"
+        "title": "Love is",
+        "artist": "Dangrangto",
+        "album": "Love is - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/06/1b/f5/061bf59c-532c-3855-86b0-3d0d8e7e9456/a65c9f7b-a1e9-424c-9e51-3901d3c8452d.jpg/80x80bb.webp",
+        "length": "4:26"
     },
     {
         "ranking": "40",
@@ -321,19 +321,19 @@
     },
     {
         "ranking": "41",
-        "title": "đưa em về nhàa",
-        "artist": "GREY D",
-        "album": "đưa em về nhàa - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1b/22/a8/1b22a8d2-5721-2efc-70c2-9de6421bf358/602455736314_Cover.jpg/80x80bb.webp",
-        "length": "4:00"
-    },
-    {
-        "ranking": "42",
         "title": "Hẹn Gặp Em Dưới Ánh Trăng",
         "artist": "MANBO",
         "album": "1-800-LOVE - EP",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e3/74/5c/e3745c78-6c71-f91e-2067-1efce9de4385/cover.jpg/80x80bb.webp",
         "length": "3:39"
+    },
+    {
+        "ranking": "42",
+        "title": "Từng Quen",
+        "artist": "Wren Evans",
+        "album": "Từng Quen - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cb/42/10/cb421004-d27a-6c08-a542-fa2e7ac3bb58/23UM1IM21988.rgb.jpg/80x80bb.webp",
+        "length": "2:54"
     },
     {
         "ranking": "43",
@@ -353,30 +353,22 @@
     },
     {
         "ranking": "45",
-        "title": "Lặng",
-        "artist": "Rhymastic",
-        "album": "Anh Trai Vượt Ngàn Chông Gai 2024 - Vòng Concert",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b6/c9/c9/b6c9c926-a521-fd99-39ef-cd535d11292e/24UMGIM73081.rgb.jpg/80x80bb.webp",
-        "length": "2:19"
+        "title": "đưa em về nhàa",
+        "artist": "GREY D",
+        "album": "đưa em về nhàa - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1b/22/a8/1b22a8d2-5721-2efc-70c2-9de6421bf358/602455736314_Cover.jpg/80x80bb.webp",
+        "length": "4:00"
     },
     {
         "ranking": "46",
-        "title": "DRIP",
-        "artist": "BABYMONSTER",
-        "album": "DRIP",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/e1/ef/b9e1ef3a-e3eb-8152-e91b-20aca0fc9ffd/BM_DRIP_Digital-Cover_4000.jpg/80x80bb.webp",
-        "length": "3:00"
+        "title": "Supernova Love",
+        "artist": "IVE",
+        "album": "Supernova Love - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e9/f4/e6/e9f4e659-5321-9c7e-cd60-02067199d4d9/24UM1IM21583.rgb.jpg/80x80bb.webp",
+        "length": "3:19"
     },
     {
         "ranking": "47",
-        "title": "Say Sóng",
-        "artist": "Tăng Duy Tân",
-        "album": "Khu Vườn Tình",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/6e/3d/766e3d09-fb06-20ee-5b05-7f9d68dc72b0/00b6026d-a36c-404b-8906-445bac2c2076.jpg/80x80bb.webp",
-        "length": "3:26"
-    },
-    {
-        "ranking": "48",
         "title": "Mình Anh Thôi",
         "artist": "Negav",
         "album": "Mình Anh Thôi - Single",
@@ -384,7 +376,23 @@
         "length": "3:32"
     },
     {
+        "ranking": "48",
+        "title": "Lạ Lùng",
+        "artist": "Vũ.",
+        "album": "Lạ Lùng - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/69/60/4d/69604d44-d64b-a140-2baa-8afff0c4d4d5/190295287191.jpg/80x80bb.webp",
+        "length": "4:21"
+    },
+    {
         "ranking": "49",
+        "title": "Good Luck, Babe!",
+        "artist": "Chappell Roan",
+        "album": "Good Luck, Babe! - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/80x80bb.webp",
+        "length": "3:38"
+    },
+    {
+        "ranking": "50",
         "title": "ngủ một mình",
         "artist": "HIEUTHUHAI",
         "album": "ngủ một mình - Single",
@@ -392,20 +400,12 @@
         "length": "3:01"
     },
     {
-        "ranking": "50",
-        "title": "Đi Giữa Trời Rực Rỡ (Original Soundtrack from “Đi Giữa Trời Rực Rỡ”)",
-        "artist": "SK Pictures",
-        "album": "Đi Giữa Trời Rực Rỡ (Original Soundtrack from “Đi Giữa Trời Rực Rỡ”) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d2/5a/37/d25a3770-5d5c-79b4-4093-5424a3b2480d/859792262567_cover.jpg/80x80bb.webp",
-        "length": "3:40"
-    },
-    {
         "ranking": "51",
-        "title": "Lạ Lùng",
-        "artist": "Vũ.",
-        "album": "Lạ Lùng - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/69/60/4d/69604d44-d64b-a140-2baa-8afff0c4d4d5/190295287191.jpg/80x80bb.webp",
-        "length": "4:21"
+        "title": "DRIP",
+        "artist": "BABYMONSTER",
+        "album": "DRIP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/e1/ef/b9e1ef3a-e3eb-8152-e91b-20aca0fc9ffd/BM_DRIP_Digital-Cover_4000.jpg/80x80bb.webp",
+        "length": "3:00"
     },
     {
         "ranking": "52",
@@ -417,51 +417,51 @@
     },
     {
         "ranking": "53",
-        "title": "Supernova Love",
-        "artist": "IVE",
-        "album": "Supernova Love - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e9/f4/e6/e9f4e659-5321-9c7e-cd60-02067199d4d9/24UM1IM21583.rgb.jpg/80x80bb.webp",
-        "length": "3:19"
+        "title": "Đi Giữa Trời Rực Rỡ (Original Soundtrack from “Đi Giữa Trời Rực Rỡ”)",
+        "artist": "SK Pictures",
+        "album": "Đi Giữa Trời Rực Rỡ (Original Soundtrack from “Đi Giữa Trời Rực Rỡ”) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d2/5a/37/d25a3770-5d5c-79b4-4093-5424a3b2480d/859792262567_cover.jpg/80x80bb.webp",
+        "length": "3:40"
     },
     {
         "ranking": "54",
+        "title": "1000 Ánh Mắt",
+        "artist": "Shiki",
+        "album": "Lặng",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/26/94/6c2694fb-a268-ff89-1bfd-c167e24ae4ce/085365303317.jpg/80x80bb.webp",
+        "length": "2:32"
+    },
+    {
+        "ranking": "55",
+        "title": "Taste",
+        "artist": "Sabrina Carpenter",
+        "album": "Short n' Sweet",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+        "length": "2:37"
+    },
+    {
+        "ranking": "56",
+        "title": "Lặng",
+        "artist": "Rhymastic",
+        "album": "Anh Trai Vượt Ngàn Chông Gai 2024 - Vòng Concert",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b6/c9/c9/b6c9c926-a521-fd99-39ef-cd535d11292e/24UMGIM73081.rgb.jpg/80x80bb.webp",
+        "length": "2:19"
+    },
+    {
+        "ranking": "57",
+        "title": "Đánh Đổi",
+        "artist": "Obito",
+        "album": "Đánh Đổi",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/87/b6/6a/87b66a1d-92bc-e630-bdb6-08bd18b340f9/3617228506732.jpg/80x80bb.webp",
+        "length": "3:46"
+    },
+    {
+        "ranking": "58",
         "title": "TRÓI EM LẠI",
         "artist": "Quang Hùng MasterD",
         "album": "ANH TRAI \"SAY HI\", Tập 13",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/c5/48/f9c54843-7027-ab73-e563-99375fbb264b/5034644095868.jpg/80x80bb.webp",
         "length": "4:24"
-    },
-    {
-        "ranking": "55",
-        "title": "Bước Qua Mùa Cô Đơn",
-        "artist": "Vũ.",
-        "album": "Bước Qua Mùa Cô Đơn - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/25/16/91/25169184-4e46-5020-fcdc-01bdd513db1a/190295079093.jpg/80x80bb.webp",
-        "length": "4:38"
-    },
-    {
-        "ranking": "56",
-        "title": "Good Luck, Babe!",
-        "artist": "Chappell Roan",
-        "album": "Good Luck, Babe! - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/80x80bb.webp",
-        "length": "3:38"
-    },
-    {
-        "ranking": "57",
-        "title": "Ngày Đẹp Trời Để Nói Chia Tay",
-        "artist": "Lou Hoàng",
-        "album": "Ngày Đẹp Trời Để Nói Chia Tay - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/df/e9/21/dfe92153-85a3-8d01-899d-c96a4ae041e4/5021732378927.jpg/80x80bb.webp",
-        "length": "3:40"
-    },
-    {
-        "ranking": "58",
-        "title": "dự báo thời tiết hôm nay mưa",
-        "artist": "GREY D",
-        "album": "dự báo thời tiết hôm nay mưa (Maxi Single) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3b/fa/7f/3bfa7f7b-3040-49a1-37ef-632430eaad5f/196922835735_Cover.jpg/80x80bb.webp",
-        "length": "4:41"
     },
     {
         "ranking": "59",
@@ -473,6 +473,14 @@
     },
     {
         "ranking": "60",
+        "title": "Bước Qua Mùa Cô Đơn",
+        "artist": "Vũ.",
+        "album": "Bước Qua Mùa Cô Đơn - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/25/16/91/25169184-4e46-5020-fcdc-01bdd513db1a/190295079093.jpg/80x80bb.webp",
+        "length": "4:38"
+    },
+    {
+        "ranking": "61",
         "title": "Thanh Xuân",
         "artist": "Da LAB",
         "album": "Thanh Xuân - Single",
@@ -480,44 +488,36 @@
         "length": "3:40"
     },
     {
-        "ranking": "61",
-        "title": "1000 Ánh Mắt",
-        "artist": "Shiki",
-        "album": "Lặng",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/26/94/6c2694fb-a268-ff89-1bfd-c167e24ae4ce/085365303317.jpg/80x80bb.webp",
-        "length": "2:32"
-    },
-    {
         "ranking": "62",
-        "title": "Đánh Đổi",
-        "artist": "Obito",
-        "album": "Đánh Đổi",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/87/b6/6a/87b66a1d-92bc-e630-bdb6-08bd18b340f9/3617228506732.jpg/80x80bb.webp",
-        "length": "3:46"
+        "title": "Ngày Đẹp Trời Để Nói Chia Tay",
+        "artist": "Lou Hoàng",
+        "album": "Ngày Đẹp Trời Để Nói Chia Tay - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/df/e9/21/dfe92153-85a3-8d01-899d-c96a4ae041e4/5021732378927.jpg/80x80bb.webp",
+        "length": "3:40"
     },
     {
         "ranking": "63",
-        "title": "Taste",
-        "artist": "Sabrina Carpenter",
-        "album": "Short n' Sweet",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
-        "length": "2:37"
+        "title": "dự báo thời tiết hôm nay mưa",
+        "artist": "GREY D",
+        "album": "dự báo thời tiết hôm nay mưa (Maxi Single) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3b/fa/7f/3bfa7f7b-3040-49a1-37ef-632430eaad5f/196922835735_Cover.jpg/80x80bb.webp",
+        "length": "4:41"
     },
     {
         "ranking": "64",
-        "title": "Từng Là",
-        "artist": "Vũ Cát Tường",
-        "album": "Từng Là - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e5/04/b8/e504b8de-8b2b-d9bf-ff1a-38318ac7abc3/24UMGIM20213.rgb.jpg/80x80bb.webp",
-        "length": "4:12"
+        "title": "một đời (feat. buitruonglinh)",
+        "artist": "14 Casper",
+        "album": "một đời (feat. buitruonglinh) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/25/3d/b2/253db2d4-5f59-62a5-10f0-e71c9a754944/cover.jpg/80x80bb.webp",
+        "length": "5:28"
     },
     {
         "ranking": "65",
-        "title": "thật quá đáng.. để yêu",
-        "artist": "NICKY",
-        "album": "thật quá đáng.. để yêu - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/7a/6b/d97a6be5-8926-9591-0ce9-819bf71a7076/5034644144276.jpg/80x80bb.webp",
-        "length": "3:06"
+        "title": "Diet Pepsi",
+        "artist": "Addison Rae",
+        "album": "Diet Pepsi - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/ef/7a/01ef7a06-1b48-0460-efbf-983d6a0a37fa/196872309959.jpg/80x80bb.webp",
+        "length": "2:49"
     },
     {
         "ranking": "66",
@@ -529,30 +529,14 @@
     },
     {
         "ranking": "67",
-        "title": "Chìm Sâu (feat. Trung Trần)",
-        "artist": "RPT MCK",
-        "album": "Chìm Sâu (feat. Trung Trần) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/78/4a/12/784a12a4-4344-6031-529a-f77e16f588d6/196626496423.jpg/80x80bb.webp",
-        "length": "2:36"
+        "title": "DANCING IN THE DARK",
+        "artist": "SOOBIN",
+        "album": "BẬT NÓ LÊN",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4f/57/6a/4f576a9d-14bb-fdc0-59ea-802cd814af9a/085365350045.jpg/80x80bb.webp",
+        "length": "3:47"
     },
     {
         "ranking": "68",
-        "title": "một đời (feat. buitruonglinh)",
-        "artist": "14 Casper",
-        "album": "một đời (feat. buitruonglinh) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/25/3d/b2/253db2d4-5f59-62a5-10f0-e71c9a754944/cover.jpg/80x80bb.webp",
-        "length": "5:28"
-    },
-    {
-        "ranking": "69",
-        "title": "Diet Pepsi",
-        "artist": "Addison Rae",
-        "album": "Diet Pepsi - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/ef/7a/01ef7a06-1b48-0460-efbf-983d6a0a37fa/196872309959.jpg/80x80bb.webp",
-        "length": "2:49"
-    },
-    {
-        "ranking": "70",
         "title": "Dẫu Có Lỗi Lầm",
         "artist": "Bằng Kiều",
         "album": "Anh Trai Vượt Ngàn Chông Gai 2024 - Công Diễn 2 - EP",
@@ -560,12 +544,28 @@
         "length": "5:14"
     },
     {
+        "ranking": "69",
+        "title": "thật quá đáng.. để yêu",
+        "artist": "NICKY",
+        "album": "thật quá đáng.. để yêu - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/7a/6b/d97a6be5-8926-9591-0ce9-819bf71a7076/5034644144276.jpg/80x80bb.webp",
+        "length": "3:06"
+    },
+    {
+        "ranking": "70",
+        "title": "Chìm Sâu (feat. Trung Trần)",
+        "artist": "RPT MCK",
+        "album": "Chìm Sâu (feat. Trung Trần) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/78/4a/12/784a12a4-4344-6031-529a-f77e16f588d6/196626496423.jpg/80x80bb.webp",
+        "length": "2:36"
+    },
+    {
         "ranking": "71",
-        "title": "shhhhhhh..",
-        "artist": "WEAN",
-        "album": "shhhhhhh.. - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/38/8a/50/388a50a7-7534-c3f9-36a0-306a1ff62bc3/197190030846.jpg/80x80bb.webp",
-        "length": "3:50"
+        "title": "Từng Là",
+        "artist": "Vũ Cát Tường",
+        "album": "Từng Là - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e5/04/b8/e504b8de-8b2b-d9bf-ff1a-38318ac7abc3/24UMGIM20213.rgb.jpg/80x80bb.webp",
+        "length": "4:12"
     },
     {
         "ranking": "72",
@@ -577,30 +577,6 @@
     },
     {
         "ranking": "73",
-        "title": "QUAY ĐI QUAY LẠI",
-        "artist": "HIEUTHUHAI",
-        "album": "ANH TRAI \"SAY HI\", Tập 12",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fc/b7/9c/fcb79cd6-58bb-cfeb-5467-936988d4322e/5034644033242.jpg/80x80bb.webp",
-        "length": "3:30"
-    },
-    {
-        "ranking": "74",
-        "title": "Waiting For You",
-        "artist": "MONO",
-        "album": "22",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0f/e2/4e/0fe24e9b-0c7e-3bbf-fc67-67615cc0baae/602448404374_Cover.jpg/80x80bb.webp",
-        "length": "4:26"
-    },
-    {
-        "ranking": "75",
-        "title": "Anh Đã Ổn Hơn",
-        "artist": "RPT MCK",
-        "album": "99%",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5d/0f/0f/5d0f0ffe-4e76-cbbf-b551-93f6f8ce3068/197188116262.jpg/80x80bb.webp",
-        "length": "3:14"
-    },
-    {
-        "ranking": "76",
         "title": "giá như",
         "artist": "SOOBIN",
         "album": "giá như - Single",
@@ -608,15 +584,15 @@
         "length": "3:43"
     },
     {
-        "ranking": "77",
-        "title": "Mùa Mưa Ấy",
-        "artist": "Vũ.",
-        "album": "Bảo Tàng Của Nuối Tiếc",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/2d/f4/212df4ab-0f11-2233-5c0e-721de3cc8f1b/5021732505477.jpg/80x80bb.webp",
-        "length": "3:48"
+        "ranking": "74",
+        "title": "QUAY ĐI QUAY LẠI",
+        "artist": "HIEUTHUHAI",
+        "album": "ANH TRAI \"SAY HI\", Tập 12",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fc/b7/9c/fcb79cd6-58bb-cfeb-5467-936988d4322e/5034644033242.jpg/80x80bb.webp",
+        "length": "3:30"
     },
     {
-        "ranking": "78",
+        "ranking": "75",
         "title": "Rồi Em Sẽ Gặp Một Chàng Trai Khác",
         "artist": "Hippohappy",
         "album": "Ca Sĩ Mặt Nạ Mùa 2 (Tập 14) [The Masked Singer Vietnam] - EP",
@@ -624,20 +600,44 @@
         "length": "5:03"
     },
     {
+        "ranking": "76",
+        "title": "shhhhhhh..",
+        "artist": "WEAN",
+        "album": "shhhhhhh.. - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/38/8a/50/388a50a7-7534-c3f9-36a0-306a1ff62bc3/197190030846.jpg/80x80bb.webp",
+        "length": "3:50"
+    },
+    {
+        "ranking": "77",
+        "title": "Anh Đã Ổn Hơn",
+        "artist": "RPT MCK",
+        "album": "99%",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5d/0f/0f/5d0f0ffe-4e76-cbbf-b551-93f6f8ce3068/197188116262.jpg/80x80bb.webp",
+        "length": "3:14"
+    },
+    {
+        "ranking": "78",
+        "title": "Waiting For You",
+        "artist": "MONO",
+        "album": "22",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0f/e2/4e/0fe24e9b-0c7e-3bbf-fc67-67615cc0baae/602448404374_Cover.jpg/80x80bb.webp",
+        "length": "4:26"
+    },
+    {
         "ranking": "79",
-        "title": "Nàng Thơ",
-        "artist": "Hoàng Dũng",
-        "album": "Nàng Thơ",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c9/64/54/c964545a-6f25-53e1-5ea9-8aef0749704c/190296180927.jpg/80x80bb.webp",
-        "length": "4:14"
+        "title": "Please Please Please",
+        "artist": "Sabrina Carpenter",
+        "album": "Short n' Sweet",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+        "length": "3:06"
     },
     {
         "ranking": "80",
-        "title": "DANCING IN THE DARK",
-        "artist": "SOOBIN",
-        "album": "BẬT NÓ LÊN",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4f/57/6a/4f576a9d-14bb-fdc0-59ea-802cd814af9a/085365350045.jpg/80x80bb.webp",
-        "length": "3:47"
+        "title": "Cruel Summer",
+        "artist": "Taylor Swift",
+        "album": "Lover",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/80x80bb.webp",
+        "length": "2:58"
     },
     {
         "ranking": "81",
@@ -657,14 +657,6 @@
     },
     {
         "ranking": "83",
-        "title": "Chịu Cách Mình Nói Thua",
-        "artist": "RHYDER",
-        "album": "Chịu Cách Mình Nói Thua - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1d/95/b3/1d95b376-ae6e-de03-a0c4-57ba64cdb112/cover.jpg/80x80bb.webp",
-        "length": "3:01"
-    },
-    {
-        "ranking": "84",
         "title": "LA BÀN",
         "artist": "Hoàng Dũng",
         "album": "LA BÀN - Single",
@@ -672,79 +664,31 @@
         "length": "3:06"
     },
     {
+        "ranking": "84",
+        "title": "Nàng Thơ",
+        "artist": "Hoàng Dũng",
+        "album": "Nàng Thơ",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c9/64/54/c964545a-6f25-53e1-5ea9-8aef0749704c/190296180927.jpg/80x80bb.webp",
+        "length": "4:14"
+    },
+    {
         "ranking": "85",
-        "title": "Please Please Please",
-        "artist": "Sabrina Carpenter",
-        "album": "Short n' Sweet",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
-        "length": "3:06"
+        "title": "Mùa Mưa Ấy",
+        "artist": "Vũ.",
+        "album": "Bảo Tàng Của Nuối Tiếc",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/2d/f4/212df4ab-0f11-2233-5c0e-721de3cc8f1b/5021732505477.jpg/80x80bb.webp",
+        "length": "3:48"
     },
     {
         "ranking": "86",
-        "title": "Cruel Summer",
-        "artist": "Taylor Swift",
-        "album": "Lover",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/80x80bb.webp",
-        "length": "2:58"
+        "title": "Chịu Cách Mình Nói Thua",
+        "artist": "RHYDER",
+        "album": "Chịu Cách Mình Nói Thua - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1d/95/b3/1d95b376-ae6e-de03-a0c4-57ba64cdb112/cover.jpg/80x80bb.webp",
+        "length": "3:01"
     },
     {
         "ranking": "87",
-        "title": "Say Yes (Vietnamese Version)",
-        "artist": "OgeNus",
-        "album": "Say Yes (Vietnamese Version) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/0c/12/b30c125e-0764-dbb5-2440-eba8deb18d2a/2c08e940-ebc1-4228-b854-be84c187bb8b.jpg/80x80bb.webp",
-        "length": "3:43"
-    },
-    {
-        "ranking": "88",
-        "title": "Phóng Đổ Tim Em",
-        "artist": "Wren Evans",
-        "album": "LOI CHOI: The Neo Pop Punk",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8f/6b/8d/8f6b8d5d-dcb4-3205-6e11-2af72f46437b/23UM1IM65964.rgb.jpg/80x80bb.webp",
-        "length": "2:14"
-    },
-    {
-        "ranking": "89",
-        "title": "người điên",
-        "artist": "tlinh",
-        "album": "ái",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e4/8c/9a/e48c9a74-8670-7b3a-f3c0-57cf036578f2/23UMGIM90637.rgb.jpg/80x80bb.webp",
-        "length": "2:27"
-    },
-    {
-        "ranking": "90",
-        "title": "Cuộc gọi lúc nửa đêm",
-        "artist": "AMEE",
-        "album": "MỘNGMEE - EP",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c3/23/30/c323302b-34c7-0aa3-c5cd-4e6dcf566188/085365023512.jpg/80x80bb.webp",
-        "length": "3:02"
-    },
-    {
-        "ranking": "91",
-        "title": "Miền Mộng Mị",
-        "artist": "AMEE",
-        "album": "MỘNGMEE - EP",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c3/23/30/c323302b-34c7-0aa3-c5cd-4e6dcf566188/085365023512.jpg/80x80bb.webp",
-        "length": "2:46"
-    },
-    {
-        "ranking": "92",
-        "title": "Tình Tứ (feat. Rhymastic, SOOBIN, GDucky, MASTAL & TripleD)",
-        "artist": "Quốc Thiên",
-        "album": "Space Jam, Vol. 2 - DO4LOVE",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/de/ad/08/dead0856-83f4-61f7-8176-7ba7ddb3c376/5034644223049.jpg/80x80bb.webp",
-        "length": "3:02"
-    },
-    {
-        "ranking": "93",
-        "title": "Ngày Đầu Tiên",
-        "artist": "Đức Phúc",
-        "album": "Ngày Đầu Tiên - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/51/60/16/51601607-1a01-d11f-6692-50f3fe4c5565/886449882595.jpg/80x80bb.webp",
-        "length": "3:28"
-    },
-    {
-        "ranking": "94",
         "title": "Too Sweet",
         "artist": "Hozier",
         "album": "Unreal Unearth: Unaired",
@@ -752,39 +696,23 @@
         "length": "4:11"
     },
     {
-        "ranking": "95",
-        "title": "Yêu 5",
-        "artist": "Rhymastic",
-        "album": "Yêu 5 - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bc/28/55/bc28556d-7b90-4626-e672-7d80f7f99ed7/190295176259.jpg/80x80bb.webp",
-        "length": "4:00"
+        "ranking": "88",
+        "title": "Miền Mộng Mị",
+        "artist": "AMEE",
+        "album": "MỘNGMEE - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c3/23/30/c323302b-34c7-0aa3-c5cd-4e6dcf566188/085365023512.jpg/80x80bb.webp",
+        "length": "2:46"
     },
     {
-        "ranking": "96",
-        "title": "Bạn Đời (feat. GDucky)",
-        "artist": "Karik",
-        "album": "Bạn Đời (feat. GDucky) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3a/48/93/3a489327-9939-cd14-13e6-d32b991bed74/5054197800085.jpg/80x80bb.webp",
-        "length": "5:00"
+        "ranking": "89",
+        "title": "Say Yes (Vietnamese Version)",
+        "artist": "OgeNus",
+        "album": "Say Yes (Vietnamese Version) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/0c/12/b30c125e-0764-dbb5-2440-eba8deb18d2a/2c08e940-ebc1-4228-b854-be84c187bb8b.jpg/80x80bb.webp",
+        "length": "3:43"
     },
     {
-        "ranking": "97",
-        "title": "Fortnight (feat. Post Malone)",
-        "artist": "Taylor Swift",
-        "album": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/86/59/a486593a-53c9-1c2a-5122-8f25339f7359/24UMGIM44778.rgb.jpg/80x80bb.webp",
-        "length": "3:48"
-    },
-    {
-        "ranking": "98",
-        "title": "Chỉ Một Đêm Nữa Thôi (feat. tlinh)",
-        "artist": "RPT MCK",
-        "album": "99%",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5d/0f/0f/5d0f0ffe-4e76-cbbf-b551-93f6f8ce3068/197188116262.jpg/80x80bb.webp",
-        "length": "2:21"
-    },
-    {
-        "ranking": "99",
+        "ranking": "90",
         "title": "I'M THINKING ABOUT YOU",
         "artist": "RHYDER",
         "album": "ANH TRAI \"SAY HI\", Tập 8 - Single",
@@ -792,11 +720,83 @@
         "length": "4:38"
     },
     {
-        "ranking": "100",
+        "ranking": "91",
+        "title": "Fortnight (feat. Post Malone)",
+        "artist": "Taylor Swift",
+        "album": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/86/59/a486593a-53c9-1c2a-5122-8f25339f7359/24UMGIM44778.rgb.jpg/80x80bb.webp",
+        "length": "3:48"
+    },
+    {
+        "ranking": "92",
+        "title": "Yêu 5",
+        "artist": "Rhymastic",
+        "album": "Yêu 5 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bc/28/55/bc28556d-7b90-4626-e672-7d80f7f99ed7/190295176259.jpg/80x80bb.webp",
+        "length": "4:00"
+    },
+    {
+        "ranking": "93",
+        "title": "Tình Tứ (feat. Rhymastic, SOOBIN, GDucky, MASTAL & TripleD)",
+        "artist": "Quốc Thiên",
+        "album": "Space Jam, Vol. 2 - DO4LOVE",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/de/ad/08/dead0856-83f4-61f7-8176-7ba7ddb3c376/5034644223049.jpg/80x80bb.webp",
+        "length": "3:02"
+    },
+    {
+        "ranking": "94",
+        "title": "Cuộc gọi lúc nửa đêm",
+        "artist": "AMEE",
+        "album": "MỘNGMEE - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c3/23/30/c323302b-34c7-0aa3-c5cd-4e6dcf566188/085365023512.jpg/80x80bb.webp",
+        "length": "3:02"
+    },
+    {
+        "ranking": "95",
+        "title": "Chỉ Một Đêm Nữa Thôi (feat. tlinh)",
+        "artist": "RPT MCK",
+        "album": "99%",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5d/0f/0f/5d0f0ffe-4e76-cbbf-b551-93f6f8ce3068/197188116262.jpg/80x80bb.webp",
+        "length": "2:21"
+    },
+    {
+        "ranking": "96",
+        "title": "người điên",
+        "artist": "tlinh",
+        "album": "ái",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e4/8c/9a/e48c9a74-8670-7b3a-f3c0-57cf036578f2/23UMGIM90637.rgb.jpg/80x80bb.webp",
+        "length": "2:27"
+    },
+    {
+        "ranking": "97",
+        "title": "Phóng Đổ Tim Em",
+        "artist": "Wren Evans",
+        "album": "LOI CHOI: The Neo Pop Punk",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8f/6b/8d/8f6b8d5d-dcb4-3205-6e11-2af72f46437b/23UM1IM65964.rgb.jpg/80x80bb.webp",
+        "length": "2:14"
+    },
+    {
+        "ranking": "98",
+        "title": "Ngày Đầu Tiên",
+        "artist": "Đức Phúc",
+        "album": "Ngày Đầu Tiên - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/51/60/16/51601607-1a01-d11f-6692-50f3fe4c5565/886449882595.jpg/80x80bb.webp",
+        "length": "3:28"
+    },
+    {
+        "ranking": "99",
         "title": "nữ siêu anh hùng",
         "artist": "tlinh",
         "album": "ái",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e4/8c/9a/e48c9a74-8670-7b3a-f3c0-57cf036578f2/23UMGIM90637.rgb.jpg/80x80bb.webp",
         "length": "3:31"
+    },
+    {
+        "ranking": "100",
+        "title": "WILDFLOWER",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "4:21"
     }
 ]

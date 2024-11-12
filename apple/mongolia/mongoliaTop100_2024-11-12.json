@@ -57,14 +57,6 @@
     },
     {
         "ranking": "8",
-        "title": "Moonlit Floor",
-        "artist": "LISA",
-        "album": "Moonlit Floor (Kiss Me) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/83/fb/7c83fbdf-27c1-39d5-dfb6-b8d6e2cd8dad/196872478501.jpg/80x80bb.webp",
-        "length": "2:35"
-    },
-    {
-        "ranking": "9",
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "album": "HIT ME HARD AND SOFT",
@@ -72,12 +64,20 @@
         "length": "4:21"
     },
     {
+        "ranking": "9",
+        "title": "Moonlit Floor",
+        "artist": "LISA",
+        "album": "Moonlit Floor (Kiss Me) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/83/fb/7c83fbdf-27c1-39d5-dfb6-b8d6e2cd8dad/196872478501.jpg/80x80bb.webp",
+        "length": "2:35"
+    },
+    {
         "ranking": "10",
-        "title": "3030",
-        "artist": "B Tamir",
-        "album": "3030 - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/d8/72/5ed872c0-77d4-596e-a9d7-5eb169b4a097/artwork.jpg/80x80bb.webp",
-        "length": "3:38"
+        "title": "bodliin gunees",
+        "artist": "mxrningstar",
+        "album": "hun",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/81/b8/9c/81b89c4c-6aec-8268-9de9-cdae0ba968f0/8721093654476.png/80x80bb.webp",
+        "length": "3:52"
     },
     {
         "ranking": "11",
@@ -89,11 +89,11 @@
     },
     {
         "ranking": "12",
-        "title": "bodliin gunees",
-        "artist": "mxrningstar",
-        "album": "hun",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/81/b8/9c/81b89c4c-6aec-8268-9de9-cdae0ba968f0/8721093654476.png/80x80bb.webp",
-        "length": "3:52"
+        "title": "3030",
+        "artist": "B Tamir",
+        "album": "3030 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/d8/72/5ed872c0-77d4-596e-a9d7-5eb169b4a097/artwork.jpg/80x80bb.webp",
+        "length": "3:38"
     },
     {
         "ranking": "13",
@@ -113,19 +113,19 @@
     },
     {
         "ranking": "15",
-        "title": "Too Sweet",
-        "artist": "Hozier",
-        "album": "Unreal Unearth: Unaired",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/12/e3/a412e390-51aa-6625-9adc-d502bf1c349f/196872373004.jpg/80x80bb.webp",
-        "length": "4:11"
-    },
-    {
-        "ranking": "16",
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "album": "Not Like Us - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
         "length": "4:34"
+    },
+    {
+        "ranking": "16",
+        "title": "Too Sweet",
+        "artist": "Hozier",
+        "album": "Unreal Unearth: Unaired",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/12/e3/a412e390-51aa-6625-9adc-d502bf1c349f/196872373004.jpg/80x80bb.webp",
+        "length": "4:11"
     },
     {
         "ranking": "17",
@@ -153,14 +153,6 @@
     },
     {
         "ranking": "20",
-        "title": "CHIHIRO",
-        "artist": "Billie Eilish",
-        "album": "HIT ME HARD AND SOFT",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "length": "5:03"
-    },
-    {
-        "ranking": "21",
         "title": "Dancing In The Flames",
         "artist": "The Weeknd",
         "album": "Dancing In The Flames - Single",
@@ -168,23 +160,15 @@
         "length": "3:40"
     },
     {
+        "ranking": "21",
+        "title": "Diet Pepsi",
+        "artist": "Addison Rae",
+        "album": "Diet Pepsi - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/ef/7a/01ef7a06-1b48-0460-efbf-983d6a0a37fa/196872309959.jpg/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
         "ranking": "22",
-        "title": "We Still Don't Trust You",
-        "artist": "Future",
-        "album": "WE STILL DON'T TRUST YOU",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/48/55/f3/4855f346-fd74-fe8c-d75d-890b52213884/196871990844.jpg/80x80bb.webp",
-        "length": "4:12"
-    },
-    {
-        "ranking": "23",
-        "title": "Aadar",
-        "artist": "Rokit Bay",
-        "album": "ODYSSEY",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/75/ab/ea75ab43-0a59-3de8-ec49-4df2380d1cef/8721093886983.png/80x80bb.webp",
-        "length": "3:34"
-    },
-    {
-        "ranking": "24",
         "title": "Money Trees (feat. Jay Rock)",
         "artist": "Kendrick Lamar",
         "album": "good kid, m.A.A.d city (Deluxe)",
@@ -192,12 +176,28 @@
         "length": "6:26"
     },
     {
+        "ranking": "23",
+        "title": "CHIHIRO",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "5:03"
+    },
+    {
+        "ranking": "24",
+        "title": "We Still Don't Trust You",
+        "artist": "Future",
+        "album": "WE STILL DON'T TRUST YOU",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/48/55/f3/4855f346-fd74-fe8c-d75d-890b52213884/196871990844.jpg/80x80bb.webp",
+        "length": "4:12"
+    },
+    {
         "ranking": "25",
-        "title": "Pokémon",
-        "artist": "Ginjin",
-        "album": "Pokémon - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/02/e7/3e02e780-5338-e557-4aca-2ab237b2b310/8721093399926.png/80x80bb.webp",
-        "length": "3:11"
+        "title": "Aadar",
+        "artist": "Rokit Bay",
+        "album": "ODYSSEY",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/75/ab/ea75ab43-0a59-3de8-ec49-4df2380d1cef/8721093886983.png/80x80bb.webp",
+        "length": "3:34"
     },
     {
         "ranking": "26",
@@ -209,11 +209,11 @@
     },
     {
         "ranking": "27",
-        "title": "FE!N (feat. Playboi Carti)",
-        "artist": "Travis Scott",
-        "album": "UTOPIA",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/7d/b0/097db06f-8403-3cf7-7510-139e570ca66b/196871341882.jpg/80x80bb.webp",
-        "length": "3:11"
+        "title": "Trapology",
+        "artist": "B Tamir",
+        "album": "Trapology - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a5/59/d6/a559d614-495a-c971-fd91-7d388e70751c/artwork.jpg/80x80bb.webp",
+        "length": "2:46"
     },
     {
         "ranking": "28",
@@ -225,35 +225,35 @@
     },
     {
         "ranking": "29",
-        "title": "Diet Pepsi",
-        "artist": "Addison Rae",
-        "album": "Diet Pepsi - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/ef/7a/01ef7a06-1b48-0460-efbf-983d6a0a37fa/196872309959.jpg/80x80bb.webp",
-        "length": "2:49"
+        "title": "FE!N (feat. Playboi Carti)",
+        "artist": "Travis Scott",
+        "album": "UTOPIA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/7d/b0/097db06f-8403-3cf7-7510-139e570ca66b/196871341882.jpg/80x80bb.webp",
+        "length": "3:11"
     },
     {
         "ranking": "30",
-        "title": "Taste",
-        "artist": "Sabrina Carpenter",
-        "album": "Short n' Sweet",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
-        "length": "2:37"
+        "title": "Gegee (feat. Vande)",
+        "artist": "Sash.",
+        "album": "Gegee (feat. Vande) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/06/e1/aa/06e1aa46-cfed-5422-2edd-53825ef6c662/8720996998731.png/80x80bb.webp",
+        "length": "3:50"
     },
     {
         "ranking": "31",
+        "title": "Pokémon",
+        "artist": "Ginjin",
+        "album": "Pokémon - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/02/e7/3e02e780-5338-e557-4aca-2ab237b2b310/8721093399926.png/80x80bb.webp",
+        "length": "3:11"
+    },
+    {
+        "ranking": "32",
         "title": "Older",
         "artist": "Sasha Alex Sloan",
         "album": "Loser - EP",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/78/f6/5f/78f65f19-4509-8d10-657d-aad0e5038a6b/886447275481.jpg/80x80bb.webp",
         "length": "3:04"
-    },
-    {
-        "ranking": "32",
-        "title": "Trapology",
-        "artist": "B Tamir",
-        "album": "Trapology - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a5/59/d6/a559d614-495a-c971-fd91-7d388e70751c/artwork.jpg/80x80bb.webp",
-        "length": "2:46"
     },
     {
         "ranking": "33",
@@ -265,6 +265,14 @@
     },
     {
         "ranking": "34",
+        "title": "Taste",
+        "artist": "Sabrina Carpenter",
+        "album": "Short n' Sweet",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+        "length": "2:37"
+    },
+    {
+        "ranking": "35",
         "title": "uurneesee chi",
         "artist": "mxrningstar",
         "album": "hun",
@@ -272,7 +280,7 @@
         "length": "6:10"
     },
     {
-        "ranking": "35",
+        "ranking": "36",
         "title": "badamlyanhua",
         "artist": "mxrningstar",
         "album": "hun",
@@ -280,20 +288,12 @@
         "length": "4:42"
     },
     {
-        "ranking": "36",
-        "title": "Gegee (feat. Vande)",
-        "artist": "Sash.",
-        "album": "Gegee (feat. Vande) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/06/e1/aa/06e1aa46-cfed-5422-2edd-53825ef6c662/8720996998731.png/80x80bb.webp",
-        "length": "3:50"
-    },
-    {
         "ranking": "37",
-        "title": "End (feat. NMN)",
-        "artist": "Davaidasha",
-        "album": "End (feat. NMN) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/56/d8/b8/56d8b850-676b-d3de-b118-42dbd7354336/8720996380376.png/80x80bb.webp",
-        "length": "3:55"
+        "title": "Apocalypse",
+        "artist": "Cigarettes After Sex",
+        "album": "Cigarettes After Sex",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/17/39/2c/17392c47-b74d-4bb7-4817-63ffcf2a07f0/cover.jpg/80x80bb.webp",
+        "length": "4:50"
     },
     {
         "ranking": "38",
@@ -305,14 +305,6 @@
     },
     {
         "ranking": "39",
-        "title": "Suuliin Uyanga",
-        "artist": "The Lemons",
-        "album": "III",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/27/fb/e3/27fbe3b7-972e-13e8-6cb7-845a0e24aa77/cover.jpg/80x80bb.webp",
-        "length": "4:01"
-    },
-    {
-        "ranking": "40",
         "title": "Uurtuu",
         "artist": "Tatar",
         "album": "Uurtuu - Single",
@@ -320,31 +312,15 @@
         "length": "4:15"
     },
     {
+        "ranking": "40",
+        "title": "End (feat. NMN)",
+        "artist": "Davaidasha",
+        "album": "End (feat. NMN) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/56/d8/b8/56d8b850-676b-d3de-b118-42dbd7354336/8720996380376.png/80x80bb.webp",
+        "length": "3:55"
+    },
+    {
         "ranking": "41",
-        "title": "Good Luck, Babe!",
-        "artist": "Chappell Roan",
-        "album": "Good Luck, Babe! - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/80x80bb.webp",
-        "length": "3:38"
-    },
-    {
-        "ranking": "42",
-        "title": "Get Money Pt.2",
-        "artist": "FLA",
-        "album": "Get Money Pt.2 - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/66/71/63/667163f5-6218-e2d2-d1b1-011371d0327b/8721253136200.png/80x80bb.webp",
-        "length": "4:12"
-    },
-    {
-        "ranking": "43",
-        "title": "Save Your Tears",
-        "artist": "The Weeknd",
-        "album": "After Hours",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6f/bc/e6/6fbce6c4-c38c-72d8-4fd0-66cfff32f679/20UMGIM12176.rgb.jpg/80x80bb.webp",
-        "length": "3:35"
-    },
-    {
-        "ranking": "44",
         "title": "New Woman (feat. ROSALÍA)",
         "artist": "LISA",
         "album": "New Woman (feat. ROSALÍA) - Single",
@@ -352,39 +328,7 @@
         "length": "2:59"
     },
     {
-        "ranking": "45",
-        "title": "Boroond",
-        "artist": "The Royal Heartaches",
-        "album": "Boroond - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/33/21/a5/3321a5df-4a15-b460-5989-d8d214fbeabe/artwork.jpg/80x80bb.webp",
-        "length": "3:34"
-    },
-    {
-        "ranking": "46",
-        "title": "Baigaliin (feat. Fruitybaachka)",
-        "artist": "Davaidasha",
-        "album": "Baigaliin - Single (feat. Fruitybaachka) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/08/d8/34/08d834dd-2cfc-8dcf-09ad-26f88311965a/8721056715831.png/80x80bb.webp",
-        "length": "3:32"
-    },
-    {
-        "ranking": "47",
-        "title": "Apocalypse",
-        "artist": "Cigarettes After Sex",
-        "album": "Cigarettes After Sex",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/17/39/2c/17392c47-b74d-4bb7-4817-63ffcf2a07f0/cover.jpg/80x80bb.webp",
-        "length": "4:50"
-    },
-    {
-        "ranking": "48",
-        "title": "Goolingoo (feat. Altanjargal)",
-        "artist": "NENE",
-        "album": "Goolingoo (feat. Altanjargal) [Mongol] - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fd/9a/61/fd9a6115-9f2f-482f-bf08-cdcf78946e8a/8720923011366.png/80x80bb.webp",
-        "length": "3:25"
-    },
-    {
-        "ranking": "49",
+        "ranking": "42",
         "title": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
         "artist": "Tyler, The Creator",
         "album": "CHROMAKOPIA",
@@ -392,23 +336,15 @@
         "length": "4:15"
     },
     {
-        "ranking": "50",
-        "title": "Hold On, We're Going Home (feat. Majid Jordan)",
-        "artist": "Drake",
-        "album": "Nothing Was the Same (Deluxe)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/51/61/f3/5161f3c4-2292-f035-eb68-6f95bbc9edd6/00602537542338.rgb.jpg/80x80bb.webp",
-        "length": "3:51"
+        "ranking": "43",
+        "title": "Good Luck, Babe!",
+        "artist": "Chappell Roan",
+        "album": "Good Luck, Babe! - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/80x80bb.webp",
+        "length": "3:38"
     },
     {
-        "ranking": "51",
-        "title": "Agora Hills",
-        "artist": "Doja Cat",
-        "album": "Scarlet",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/97/c7/f2/97c7f256-6db0-a45b-a786-f58dc928c970/196871404495.jpg/80x80bb.webp",
-        "length": "4:25"
-    },
-    {
-        "ranking": "52",
+        "ranking": "44",
         "title": "Yu Ch Bitgii Uldee",
         "artist": "The Royal Heartaches",
         "album": "Kharui",
@@ -416,7 +352,7 @@
         "length": "3:48"
     },
     {
-        "ranking": "53",
+        "ranking": "45",
         "title": "Say Yes To Heaven",
         "artist": "Lana Del Rey",
         "album": "Say Yes To Heaven - Single",
@@ -424,12 +360,76 @@
         "length": "3:29"
     },
     {
+        "ranking": "46",
+        "title": "Side Effects (feat. The C)",
+        "artist": "Morningstar",
+        "album": "Side Effects (feat. The C) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/fc/00/02fc0048-6b22-ebdb-9c4b-26a1f8b062f0/8720693954009.png/80x80bb.webp",
+        "length": "3:10"
+    },
+    {
+        "ranking": "47",
+        "title": "Get Money Pt.2",
+        "artist": "FLA",
+        "album": "Get Money Pt.2 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/66/71/63/667163f5-6218-e2d2-d1b1-011371d0327b/8721253136200.png/80x80bb.webp",
+        "length": "4:12"
+    },
+    {
+        "ranking": "48",
+        "title": "Pink + White",
+        "artist": "Frank Ocean",
+        "album": "Blonde",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bb/45/68/bb4568f3-68cd-619d-fbcb-4e179916545d/BlondCover-Final.jpg/80x80bb.webp",
+        "length": "3:04"
+    },
+    {
+        "ranking": "49",
+        "title": "Suuliin Uyanga",
+        "artist": "The Lemons",
+        "album": "III",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/27/fb/e3/27fbe3b7-972e-13e8-6cb7-845a0e24aa77/cover.jpg/80x80bb.webp",
+        "length": "4:01"
+    },
+    {
+        "ranking": "50",
+        "title": "Goolingoo (feat. Altanjargal)",
+        "artist": "NENE",
+        "album": "Goolingoo (feat. Altanjargal) [Mongol] - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fd/9a/61/fd9a6115-9f2f-482f-bf08-cdcf78946e8a/8720923011366.png/80x80bb.webp",
+        "length": "3:25"
+    },
+    {
+        "ranking": "51",
+        "title": "Please Please Please",
+        "artist": "Sabrina Carpenter",
+        "album": "Short n' Sweet",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+        "length": "3:06"
+    },
+    {
+        "ranking": "52",
+        "title": "Die For You",
+        "artist": "The Weeknd",
+        "album": "Starboy",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e2/61/f8/e261f8c1-73db-9a7a-c89e-1068f19970e0/16UMGIM67863.rgb.jpg/80x80bb.webp",
+        "length": "4:20"
+    },
+    {
+        "ranking": "53",
+        "title": "Agora Hills",
+        "artist": "Doja Cat",
+        "album": "Scarlet",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/97/c7/f2/97c7f256-6db0-a45b-a786-f58dc928c970/196871404495.jpg/80x80bb.webp",
+        "length": "4:25"
+    },
+    {
         "ranking": "54",
-        "title": "Type Shit",
-        "artist": "Future",
-        "album": "WE DON'T TRUST YOU",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/9f/7b/4e9f7b71-28ad-a8dc-9b34-da532feb82f6/196871937382.jpg/80x80bb.webp",
-        "length": "3:48"
+        "title": "MILLION DOLLAR BABY",
+        "artist": "Tommy Richman",
+        "album": "MILLION DOLLAR BABY - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5c/e7/39/5ce73933-8f42-1095-e84b-0caec311f54b/24CRGIM43010.rgb.jpg/80x80bb.webp",
+        "length": "2:35"
     },
     {
         "ranking": "55",
@@ -441,118 +441,6 @@
     },
     {
         "ranking": "56",
-        "title": "Pink + White",
-        "artist": "Frank Ocean",
-        "album": "Blonde",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bb/45/68/bb4568f3-68cd-619d-fbcb-4e179916545d/BlondCover-Final.jpg/80x80bb.webp",
-        "length": "3:04"
-    },
-    {
-        "ranking": "57",
-        "title": "Cекс (feat. Fruitybaachka & Bektor Petrovic)",
-        "artist": "Sekstsagaanbogd",
-        "album": "СЕКС",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/11/22/f21122f3-b1b8-3e0d-46ab-000b8b865940/8721093232346.png/80x80bb.webp",
-        "length": "2:47"
-    },
-    {
-        "ranking": "58",
-        "title": "Die For You",
-        "artist": "The Weeknd",
-        "album": "Starboy",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e2/61/f8/e261f8c1-73db-9a7a-c89e-1068f19970e0/16UMGIM67863.rgb.jpg/80x80bb.webp",
-        "length": "4:20"
-    },
-    {
-        "ranking": "59",
-        "title": "Side Effects (feat. The C)",
-        "artist": "Morningstar",
-        "album": "Side Effects (feat. The C) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/fc/00/02fc0048-6b22-ebdb-9c4b-26a1f8b062f0/8720693954009.png/80x80bb.webp",
-        "length": "3:10"
-    },
-    {
-        "ranking": "60",
-        "title": "Please Please Please",
-        "artist": "Sabrina Carpenter",
-        "album": "Short n' Sweet",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
-        "length": "3:06"
-    },
-    {
-        "ranking": "61",
-        "title": "Leomini",
-        "artist": "BECCA",
-        "album": "Leomini - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/eb/07/2f/eb072f3d-3f13-2e92-3dd0-d953fb87978b/859753683219.png/80x80bb.webp",
-        "length": "3:13"
-    },
-    {
-        "ranking": "62",
-        "title": "Galzuu Novsh (feat. Trishna)",
-        "artist": "Rokit Bay",
-        "album": "ODYSSEY",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/75/ab/ea75ab43-0a59-3de8-ec49-4df2380d1cef/8721093886983.png/80x80bb.webp",
-        "length": "3:59"
-    },
-    {
-        "ranking": "63",
-        "title": "Night Sky",
-        "artist": "Morningstar",
-        "album": "Night Sky - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9a/1a/2b/9a1a2b51-e691-2bc6-3bcf-43b1e7b401c6/8720693954023.png/80x80bb.webp",
-        "length": "3:28"
-    },
-    {
-        "ranking": "64",
-        "title": "Blinding Lights",
-        "artist": "The Weeknd",
-        "album": "Blinding Lights - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a6/6e/bf/a66ebf79-5008-8948-b352-a790fc87446b/19UM1IM04638.rgb.jpg/80x80bb.webp",
-        "length": "3:21"
-    },
-    {
-        "ranking": "65",
-        "title": "Like That",
-        "artist": "Future",
-        "album": "WE DON'T TRUST YOU",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/9f/7b/4e9f7b71-28ad-a8dc-9b34-da532feb82f6/196871937382.jpg/80x80bb.webp",
-        "length": "4:27"
-    },
-    {
-        "ranking": "66",
-        "title": "Hair (feat. Opozit)",
-        "artist": "Tsetse",
-        "album": "2012",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/69/6a/97/696a97b3-cca0-8b36-b1a8-a8db990315de/8720766507613.png/80x80bb.webp",
-        "length": "4:04"
-    },
-    {
-        "ranking": "67",
-        "title": "Reminder",
-        "artist": "The Weeknd",
-        "album": "Starboy",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e2/61/f8/e261f8c1-73db-9a7a-c89e-1068f19970e0/16UMGIM67863.rgb.jpg/80x80bb.webp",
-        "length": "3:38"
-    },
-    {
-        "ranking": "68",
-        "title": "Paint The Town Red",
-        "artist": "Doja Cat",
-        "album": "Paint The Town Red - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f6/b9/54/f6b95454-c286-e9b0-9960-82fd8eae8264/196871274104.jpg/80x80bb.webp",
-        "length": "3:51"
-    },
-    {
-        "ranking": "69",
-        "title": "Lose Control",
-        "artist": "Teddy Swims",
-        "album": "I've Tried Everything But Therapy (Part 1)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "length": "3:30"
-    },
-    {
-        "ranking": "70",
         "title": "Bed Chem",
         "artist": "Sabrina Carpenter",
         "album": "Short n' Sweet",
@@ -560,7 +448,71 @@
         "length": "2:51"
     },
     {
-        "ranking": "71",
+        "ranking": "57",
+        "title": "Type Shit",
+        "artist": "Future",
+        "album": "WE DON'T TRUST YOU",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/9f/7b/4e9f7b71-28ad-a8dc-9b34-da532feb82f6/196871937382.jpg/80x80bb.webp",
+        "length": "3:48"
+    },
+    {
+        "ranking": "58",
+        "title": "Hold On, We're Going Home (feat. Majid Jordan)",
+        "artist": "Drake",
+        "album": "Nothing Was the Same (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/51/61/f3/5161f3c4-2292-f035-eb68-6f95bbc9edd6/00602537542338.rgb.jpg/80x80bb.webp",
+        "length": "3:51"
+    },
+    {
+        "ranking": "59",
+        "title": "Night Sky",
+        "artist": "Morningstar",
+        "album": "Night Sky - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9a/1a/2b/9a1a2b51-e691-2bc6-3bcf-43b1e7b401c6/8720693954023.png/80x80bb.webp",
+        "length": "3:28"
+    },
+    {
+        "ranking": "60",
+        "title": "Boroond",
+        "artist": "The Royal Heartaches",
+        "album": "Boroond - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/33/21/a5/3321a5df-4a15-b460-5989-d8d214fbeabe/artwork.jpg/80x80bb.webp",
+        "length": "3:34"
+    },
+    {
+        "ranking": "61",
+        "title": "Like That",
+        "artist": "Future",
+        "album": "WE DON'T TRUST YOU",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/9f/7b/4e9f7b71-28ad-a8dc-9b34-da532feb82f6/196871937382.jpg/80x80bb.webp",
+        "length": "4:27"
+    },
+    {
+        "ranking": "62",
+        "title": "Hair (feat. Opozit)",
+        "artist": "Tsetse",
+        "album": "2012",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/69/6a/97/696a97b3-cca0-8b36-b1a8-a8db990315de/8720766507613.png/80x80bb.webp",
+        "length": "4:04"
+    },
+    {
+        "ranking": "63",
+        "title": "Galzuu Novsh (feat. Trishna)",
+        "artist": "Rokit Bay",
+        "album": "ODYSSEY",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/75/ab/ea75ab43-0a59-3de8-ec49-4df2380d1cef/8721093886983.png/80x80bb.webp",
+        "length": "3:59"
+    },
+    {
+        "ranking": "64",
+        "title": "That’s So True",
+        "artist": "Gracie Abrams",
+        "album": "The Secret of Us (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
+        "length": "2:46"
+    },
+    {
+        "ranking": "65",
         "title": "After Hours",
         "artist": "The Weeknd",
         "album": "After Hours",
@@ -568,31 +520,39 @@
         "length": "6:01"
     },
     {
-        "ranking": "72",
-        "title": "Nar Shig Jarga",
-        "artist": "Davaidasha",
-        "album": "Tugjee - EP",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fb/1e/81/fb1e81ee-47bd-82c4-f8c5-445b87542cbb/8720765422603.png/80x80bb.webp",
-        "length": "2:49"
+        "ranking": "66",
+        "title": "Cекс (feat. Fruitybaachka & Bektor Petrovic)",
+        "artist": "Sekstsagaanbogd",
+        "album": "СЕКС",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/11/22/f21122f3-b1b8-3e0d-46ab-000b8b865940/8721093232346.png/80x80bb.webp",
+        "length": "2:47"
     },
     {
-        "ranking": "73",
-        "title": "MILLION DOLLAR BABY",
-        "artist": "Tommy Richman",
-        "album": "MILLION DOLLAR BABY - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5c/e7/39/5ce73933-8f42-1095-e84b-0caec311f54b/24CRGIM43010.rgb.jpg/80x80bb.webp",
-        "length": "2:35"
+        "ranking": "67",
+        "title": "Leomini",
+        "artist": "BECCA",
+        "album": "Leomini - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/eb/07/2f/eb072f3d-3f13-2e92-3dd0-d953fb87978b/859753683219.png/80x80bb.webp",
+        "length": "3:13"
     },
     {
-        "ranking": "74",
-        "title": "Yroso",
-        "artist": "Davaidasha",
-        "album": "Yroso - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8b/36/29/8b362976-bc6b-31e4-45d6-622c02fa0804/S_A8720356805518.jpg/80x80bb.webp",
-        "length": "4:21"
+        "ranking": "68",
+        "title": "Baigaljingoo Gergii (feat. Bugan)",
+        "artist": "Azirtaij",
+        "album": "Baigaljingoo Gergii (feat. Bugan) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1e/24/29/1e242944-33de-16d9-9b33-760afd7bfecd/artwork.jpg/80x80bb.webp",
+        "length": "3:58"
     },
     {
-        "ranking": "75",
+        "ranking": "69",
+        "title": "Mart (feat. Bay)",
+        "artist": "Vande",
+        "album": "Mart (feat. Bay) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/80/32/1b/80321b30-318c-ddd0-b00a-3344370cafe2/8720766360836.png/80x80bb.webp",
+        "length": "3:21"
+    },
+    {
+        "ranking": "70",
         "title": "Fair Trade (feat. Travis Scott)",
         "artist": "Drake",
         "album": "Certified Lover Boy",
@@ -600,12 +560,52 @@
         "length": "4:51"
     },
     {
-        "ranking": "76",
+        "ranking": "71",
+        "title": "Baigaliin (feat. Fruitybaachka)",
+        "artist": "Davaidasha",
+        "album": "Baigaliin - Single (feat. Fruitybaachka) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/08/d8/34/08d834dd-2cfc-8dcf-09ad-26f88311965a/8721056715831.png/80x80bb.webp",
+        "length": "3:32"
+    },
+    {
+        "ranking": "72",
+        "title": "Mad Suey",
+        "artist": "B Tamir",
+        "album": "Mad Suey - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/66/5b/76/665b764e-64c3-b7b3-44aa-66c4b3e89bfb/artwork.jpg/80x80bb.webp",
+        "length": "3:07"
+    },
+    {
+        "ranking": "73",
         "title": "Flashing Lights (feat. Dwele)",
         "artist": "Kanye West",
         "album": "Graduation",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2f/db/2c/2fdb2c9d-171c-c6dc-57ee-4bae2b4bb11a/07UMGIM12671.rgb.jpg/80x80bb.webp",
         "length": "3:57"
+    },
+    {
+        "ranking": "74",
+        "title": "Save Your Tears",
+        "artist": "The Weeknd",
+        "album": "After Hours",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6f/bc/e6/6fbce6c4-c38c-72d8-4fd0-66cfff32f679/20UMGIM12176.rgb.jpg/80x80bb.webp",
+        "length": "3:35"
+    },
+    {
+        "ranking": "75",
+        "title": "Nar Shig Jarga",
+        "artist": "Davaidasha",
+        "album": "Tugjee - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fb/1e/81/fb1e81ee-47bd-82c4-f8c5-445b87542cbb/8720765422603.png/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
+        "ranking": "76",
+        "title": "HIGHEST IN THE ROOM",
+        "artist": "Travis Scott",
+        "album": "HIGHEST IN THE ROOM - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/30/5f/c4/305fc4b4-155d-8e67-7c7a-8eb35032fbcb/886448042792.jpg/80x80bb.webp",
+        "length": "2:55"
     },
     {
         "ranking": "77",
@@ -617,19 +617,19 @@
     },
     {
         "ranking": "78",
-        "title": "Temtruul",
-        "artist": "Davaidasha",
-        "album": "Temtruul - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b6/cb/89/b6cb893f-6c2d-9f5d-416a-0a215cd9f1e7/S_A8720356628049.jpg/80x80bb.webp",
-        "length": "3:06"
+        "title": "POWER",
+        "artist": "G-DRAGON",
+        "album": "POWER - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/fa/03/36fa0306-b040-b01b-36d3-181256366615/197342805353_cover.jpg/80x80bb.webp",
+        "length": "2:23"
     },
     {
         "ranking": "79",
-        "title": "Mart (feat. Bay)",
-        "artist": "Vande",
-        "album": "Mart (feat. Bay) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/80/32/1b/80321b30-318c-ddd0-b00a-3344370cafe2/8720766360836.png/80x80bb.webp",
-        "length": "3:21"
+        "title": "Swimming Pools (Drank)",
+        "artist": "Kendrick Lamar",
+        "album": "good kid, m.A.A.d city (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ac/9e/6a/ac9e6ad5-27a5-baef-0e33-795b2f42c3cf/12UMGIM52990.rgb.jpg/80x80bb.webp",
+        "length": "4:07"
     },
     {
         "ranking": "80",
@@ -641,86 +641,6 @@
     },
     {
         "ranking": "81",
-        "title": "MY EYES",
-        "artist": "Travis Scott",
-        "album": "UTOPIA",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/7d/b0/097db06f-8403-3cf7-7510-139e570ca66b/196871341882.jpg/80x80bb.webp",
-        "length": "4:11"
-    },
-    {
-        "ranking": "82",
-        "title": "Delbee",
-        "artist": "The Royal Heartaches",
-        "album": "Delbee - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b6/3c/f5/b63cf56f-a9e5-ef8e-bbfb-bf53ff696403/artwork.jpg/80x80bb.webp",
-        "length": "4:04"
-    },
-    {
-        "ranking": "83",
-        "title": "Baigaljingoo Gergii (feat. Bugan)",
-        "artist": "Azirtaij",
-        "album": "Baigaljingoo Gergii (feat. Bugan) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1e/24/29/1e242944-33de-16d9-9b33-760afd7bfecd/artwork.jpg/80x80bb.webp",
-        "length": "3:58"
-    },
-    {
-        "ranking": "84",
-        "title": "POWER",
-        "artist": "G-DRAGON",
-        "album": "POWER - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/fa/03/36fa0306-b040-b01b-36d3-181256366615/197342805353_cover.jpg/80x80bb.webp",
-        "length": "2:23"
-    },
-    {
-        "ranking": "85",
-        "title": "HIGHEST IN THE ROOM",
-        "artist": "Travis Scott",
-        "album": "HIGHEST IN THE ROOM - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/30/5f/c4/305fc4b4-155d-8e67-7c7a-8eb35032fbcb/886448042792.jpg/80x80bb.webp",
-        "length": "2:55"
-    },
-    {
-        "ranking": "86",
-        "title": "Heartless",
-        "artist": "The Weeknd",
-        "album": "After Hours",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6f/bc/e6/6fbce6c4-c38c-72d8-4fd0-66cfff32f679/20UMGIM12176.rgb.jpg/80x80bb.webp",
-        "length": "3:18"
-    },
-    {
-        "ranking": "87",
-        "title": "Mad Suey",
-        "artist": "B Tamir",
-        "album": "Mad Suey - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/66/5b/76/665b764e-64c3-b7b3-44aa-66c4b3e89bfb/artwork.jpg/80x80bb.webp",
-        "length": "3:07"
-    },
-    {
-        "ranking": "88",
-        "title": "Let Me Down",
-        "artist": "MVCHI",
-        "album": "Let Me Down - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/66/c9/75/66c975ce-4926-1843-e662-2f42bbd3ac4e/8720923820951.png/80x80bb.webp",
-        "length": "3:22"
-    },
-    {
-        "ranking": "89",
-        "title": "Wow",
-        "artist": "Opozit",
-        "album": "Wow - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b8/a0/87/b8a0872b-2b27-2646-dbb1-b9510660fa98/artwork.jpg/80x80bb.webp",
-        "length": "2:57"
-    },
-    {
-        "ranking": "90",
-        "title": "Young Forever",
-        "artist": "MVCHI",
-        "album": "Young Forever - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/dd/9d/67dd9d77-41dc-1b93-b5d9-c04368a6d7d6/8721093581192.png/80x80bb.webp",
-        "length": "3:02"
-    },
-    {
-        "ranking": "91",
         "title": "The Color Violet",
         "artist": "Tory Lanez",
         "album": "Alone At Prom",
@@ -728,39 +648,63 @@
         "length": "3:46"
     },
     {
-        "ranking": "92",
-        "title": "DRIP",
-        "artist": "BABYMONSTER",
-        "album": "DRIP",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/e1/ef/b9e1ef3a-e3eb-8152-e91b-20aca0fc9ffd/BM_DRIP_Digital-Cover_4000.jpg/80x80bb.webp",
-        "length": "3:00"
+        "ranking": "82",
+        "title": "Heartless",
+        "artist": "The Weeknd",
+        "album": "After Hours",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6f/bc/e6/6fbce6c4-c38c-72d8-4fd0-66cfff32f679/20UMGIM12176.rgb.jpg/80x80bb.webp",
+        "length": "3:18"
     },
     {
-        "ranking": "93",
-        "title": "Yanjinlham",
-        "artist": "Rokit Bay",
-        "album": "ODYSSEY",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/75/ab/ea75ab43-0a59-3de8-ec49-4df2380d1cef/8721093886983.png/80x80bb.webp",
-        "length": "3:10"
+        "ranking": "83",
+        "title": "Lose Control",
+        "artist": "Teddy Swims",
+        "album": "I've Tried Everything But Therapy (Part 1)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
+        "length": "3:30"
     },
     {
-        "ranking": "94",
-        "title": "NIGHTS LIKE THIS",
-        "artist": "The Kid LAROI",
-        "album": "THE FIRST TIME",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/46/26/10/46261095-a39c-9231-7d1c-9718aa092b3a/196871605403.jpg/80x80bb.webp",
-        "length": "1:26"
+        "ranking": "84",
+        "title": "Blinding Lights",
+        "artist": "The Weeknd",
+        "album": "Blinding Lights - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a6/6e/bf/a66ebf79-5008-8948-b352-a790fc87446b/19UM1IM04638.rgb.jpg/80x80bb.webp",
+        "length": "3:21"
     },
     {
-        "ranking": "95",
-        "title": "That’s So True",
-        "artist": "Gracie Abrams",
-        "album": "The Secret of Us (Deluxe)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
-        "length": "2:46"
+        "ranking": "85",
+        "title": "MY EYES",
+        "artist": "Travis Scott",
+        "album": "UTOPIA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/7d/b0/097db06f-8403-3cf7-7510-139e570ca66b/196871341882.jpg/80x80bb.webp",
+        "length": "4:11"
     },
     {
-        "ranking": "96",
+        "ranking": "86",
+        "title": "Yroso",
+        "artist": "Davaidasha",
+        "album": "Yroso - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8b/36/29/8b362976-bc6b-31e4-45d6-622c02fa0804/S_A8720356805518.jpg/80x80bb.webp",
+        "length": "4:21"
+    },
+    {
+        "ranking": "87",
+        "title": "Let Me Down",
+        "artist": "MVCHI",
+        "album": "Let Me Down - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/66/c9/75/66c975ce-4926-1843-e662-2f42bbd3ac4e/8720923820951.png/80x80bb.webp",
+        "length": "3:22"
+    },
+    {
+        "ranking": "88",
+        "title": "Reminder",
+        "artist": "The Weeknd",
+        "album": "Starboy",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e2/61/f8/e261f8c1-73db-9a7a-c89e-1068f19970e0/16UMGIM67863.rgb.jpg/80x80bb.webp",
+        "length": "3:38"
+    },
+    {
+        "ranking": "89",
         "title": "Kiss Me More (feat. SZA)",
         "artist": "Doja Cat",
         "album": "Kiss Me More (feat. SZA) - Single",
@@ -768,7 +712,23 @@
         "length": "3:28"
     },
     {
-        "ranking": "97",
+        "ranking": "90",
+        "title": "NIGHTS LIKE THIS",
+        "artist": "The Kid LAROI",
+        "album": "THE FIRST TIME",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/46/26/10/46261095-a39c-9231-7d1c-9718aa092b3a/196871605403.jpg/80x80bb.webp",
+        "length": "1:26"
+    },
+    {
+        "ranking": "91",
+        "title": "Temtruul",
+        "artist": "Davaidasha",
+        "album": "Temtruul - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b6/cb/89/b6cb893f-6c2d-9f5d-416a-0a215cd9f1e7/S_A8720356628049.jpg/80x80bb.webp",
+        "length": "3:06"
+    },
+    {
+        "ranking": "92",
         "title": "Too Many Nights (feat. Don Toliver)",
         "artist": "Metro Boomin",
         "album": "HEROES & VILLAINS",
@@ -776,27 +736,67 @@
         "length": "3:19"
     },
     {
+        "ranking": "93",
+        "title": "Wow",
+        "artist": "Opozit",
+        "album": "Wow - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b8/a0/87/b8a0872b-2b27-2646-dbb1-b9510660fa98/artwork.jpg/80x80bb.webp",
+        "length": "2:57"
+    },
+    {
+        "ranking": "94",
+        "title": "Delbee",
+        "artist": "The Royal Heartaches",
+        "album": "Delbee - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b6/3c/f5/b63cf56f-a9e5-ef8e-bbfb-bf53ff696403/artwork.jpg/80x80bb.webp",
+        "length": "4:04"
+    },
+    {
+        "ranking": "95",
+        "title": "Paint The Town Red",
+        "artist": "Doja Cat",
+        "album": "Paint The Town Red - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f6/b9/54/f6b95454-c286-e9b0-9960-82fd8eae8264/196871274104.jpg/80x80bb.webp",
+        "length": "3:51"
+    },
+    {
+        "ranking": "96",
+        "title": "Young Forever",
+        "artist": "MVCHI",
+        "album": "Young Forever - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/dd/9d/67dd9d77-41dc-1b93-b5d9-c04368a6d7d6/8721093581192.png/80x80bb.webp",
+        "length": "3:02"
+    },
+    {
+        "ranking": "97",
+        "title": "Yanjinlham",
+        "artist": "Rokit Bay",
+        "album": "ODYSSEY",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/75/ab/ea75ab43-0a59-3de8-ec49-4df2380d1cef/8721093886983.png/80x80bb.webp",
+        "length": "3:10"
+    },
+    {
         "ranking": "98",
-        "title": "Swimming Pools (Drank)",
-        "artist": "Kendrick Lamar",
-        "album": "good kid, m.A.A.d city (Deluxe)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ac/9e/6a/ac9e6ad5-27a5-baef-0e33-795b2f42c3cf/12UMGIM52990.rgb.jpg/80x80bb.webp",
-        "length": "4:07"
+        "title": "everything i wanted",
+        "artist": "Billie Eilish",
+        "album": "everything i wanted - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c5/6c/b1/c56cb16a-52c3-33b5-5189-6c65028001fb/19UM1IM00404.rgb.jpg/80x80bb.webp",
+        "length": "4:05"
     },
     {
         "ranking": "99",
-        "title": "Call Out My Name",
-        "artist": "The Weeknd",
-        "album": "My Dear Melancholy,",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2a/aa/b4/2aaab42a-a4cb-a600-4a25-d78961495960/18UMGIM17204.rgb.jpg/80x80bb.webp",
-        "length": "3:48"
+        "title": "Bluess (feat. Jagyze)",
+        "artist": "Gangaa",
+        "album": "Bluess (feat. Jagyze) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/33/7c/6c337c8e-d583-a965-386c-a644d71d2786/artwork.jpg/80x80bb.webp",
+        "length": "3:47"
     },
     {
         "ranking": "100",
-        "title": "You & Me",
-        "artist": "JENNIE",
-        "album": "JENNIE Special Single [You & Me] - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2e/2a/4c/2e2a4c59-62ac-25a3-9d91-5e680b4ba806/23UM1IM15529.rgb.jpg/80x80bb.webp",
-        "length": "2:59"
+        "title": "K.",
+        "artist": "Cigarettes After Sex",
+        "album": "Cigarettes After Sex",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/17/39/2c/17392c47-b74d-4bb7-4817-63ffcf2a07f0/cover.jpg/80x80bb.webp",
+        "length": "5:19"
     }
 ]

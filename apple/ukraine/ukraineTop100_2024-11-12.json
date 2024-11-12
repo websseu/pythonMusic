@@ -33,6 +33,14 @@
     },
     {
         "ranking": "5",
+        "title": "Мистецтво",
+        "artist": "ROXOLANA",
+        "album": "Мистецтво - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a6/53/2c/a6532cf3-477a-7017-1458-9d3cdb402ef0/198846667188.jpg/80x80bb.webp",
+        "length": "2:22"
+    },
+    {
+        "ranking": "6",
         "title": "Bad Dreams",
         "artist": "Teddy Swims",
         "album": "Bad Dreams - Single",
@@ -40,20 +48,12 @@
         "length": "3:04"
     },
     {
-        "ranking": "6",
+        "ranking": "7",
         "title": "Особистий рай",
         "artist": "Геля Зозуля",
         "album": "Особистий рай - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1e/29/c2/1e29c226-5359-c695-c8c8-aa9beb9cab2f/cover.jpg/80x80bb.webp",
         "length": "3:05"
-    },
-    {
-        "ranking": "7",
-        "title": "Мистецтво",
-        "artist": "ROXOLANA",
-        "album": "Мистецтво - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a6/53/2c/a6532cf3-477a-7017-1458-9d3cdb402ef0/198846667188.jpg/80x80bb.webp",
-        "length": "2:22"
     },
     {
         "ranking": "8",
@@ -73,19 +73,19 @@
     },
     {
         "ranking": "10",
-        "title": "158 ч.2",
-        "artist": "Криминальный бит",
-        "album": "158 ч.2 - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/63/f4/d0/63f4d028-af85-9588-166e-d31fa35bdef6/cover.jpg/80x80bb.webp",
-        "length": "2:45"
-    },
-    {
-        "ranking": "11",
         "title": "The Door",
         "artist": "Teddy Swims",
         "album": "I've Tried Everything But Therapy (Part 1)",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
         "length": "3:32"
+    },
+    {
+        "ranking": "11",
+        "title": "158 ч.2",
+        "artist": "Криминальный бит",
+        "album": "158 ч.2 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/63/f4/d0/63f4d028-af85-9588-166e-d31fa35bdef6/cover.jpg/80x80bb.webp",
+        "length": "2:45"
     },
     {
         "ranking": "12",
@@ -121,6 +121,14 @@
     },
     {
         "ranking": "16",
+        "title": "Спальний",
+        "artist": "KRBK",
+        "album": "Спальний - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/df/1d/5a/df1d5a0c-41e3-60f2-3762-da87b109255d/cover.jpg/80x80bb.webp",
+        "length": "2:34"
+    },
+    {
+        "ranking": "17",
         "title": "Lose Control",
         "artist": "Teddy Swims",
         "album": "I've Tried Everything But Therapy (Part 1)",
@@ -128,7 +136,7 @@
         "length": "3:30"
     },
     {
-        "ranking": "17",
+        "ranking": "18",
         "title": "Teresa & Maria",
         "artist": "alyona alyona",
         "album": "Teresa & Maria - Single",
@@ -136,7 +144,7 @@
         "length": "2:59"
     },
     {
-        "ranking": "18",
+        "ranking": "19",
         "title": "Ендорфін",
         "artist": "YAKTAK",
         "album": "Ендорфін - Single",
@@ -144,7 +152,7 @@
         "length": "2:32"
     },
     {
-        "ranking": "19",
+        "ranking": "20",
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "album": "HIT ME HARD AND SOFT",
@@ -152,7 +160,7 @@
         "length": "3:30"
     },
     {
-        "ranking": "20",
+        "ranking": "21",
         "title": "Асфальт",
         "artist": "Jakone",
         "album": "Асфальт - Single",
@@ -160,7 +168,7 @@
         "length": "2:50"
     },
     {
-        "ranking": "21",
+        "ranking": "22",
         "title": "Si Ai",
         "artist": "Tayna",
         "album": "Si Ai - Single",
@@ -168,20 +176,12 @@
         "length": "2:46"
     },
     {
-        "ranking": "22",
+        "ranking": "23",
         "title": "Руда вода",
         "artist": "Volodymyr Dantes",
         "album": "Руда вода - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/06/a8/1706a853-6db3-4bab-4d4c-9b585dc2e3b7/198846555355.jpg/80x80bb.webp",
         "length": "2:17"
-    },
-    {
-        "ranking": "23",
-        "title": "Топит",
-        "artist": "ANNA ASTI",
-        "album": "Топит - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/6a/aa/2f6aaa18-faea-8a41-119e-2d15f6b4daa1/cover.png/80x80bb.webp",
-        "length": "3:55"
     },
     {
         "ranking": "24",
@@ -193,6 +193,14 @@
     },
     {
         "ranking": "25",
+        "title": "Топит",
+        "artist": "ANNA ASTI",
+        "album": "Топит - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/6a/aa/2f6aaa18-faea-8a41-119e-2d15f6b4daa1/cover.png/80x80bb.webp",
+        "length": "3:55"
+    },
+    {
+        "ranking": "26",
         "title": "Нагадай",
         "artist": "Domiy",
         "album": "Нагадай - Single",
@@ -200,23 +208,7 @@
         "length": "2:32"
     },
     {
-        "ranking": "26",
-        "title": "А я все плакала",
-        "artist": "DOROFEEVA",
-        "album": "А я все плакала - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f9/87/f0/f987f089-2da3-bd63-969d-8748587e4022/198391720246.jpg/80x80bb.webp",
-        "length": "2:30"
-    },
-    {
         "ranking": "27",
-        "title": "Листопад",
-        "artist": "kavabanga Depo kolibri",
-        "album": "Листопад - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/a3/5b/80a35bb4-46db-4b41-a1ca-085b2f9c79a8/198846662787.jpg/80x80bb.webp",
-        "length": "2:33"
-    },
-    {
-        "ranking": "28",
         "title": "Как же (feat. Kiliana)",
         "artist": "MACAN",
         "album": "I AM",
@@ -224,7 +216,23 @@
         "length": "2:33"
     },
     {
+        "ranking": "28",
+        "title": "А я все плакала",
+        "artist": "DOROFEEVA",
+        "album": "А я все плакала - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f9/87/f0/f987f089-2da3-bd63-969d-8748587e4022/198391720246.jpg/80x80bb.webp",
+        "length": "2:30"
+    },
+    {
         "ranking": "29",
+        "title": "Листопад",
+        "artist": "kavabanga Depo kolibri",
+        "album": "Листопад - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/a3/5b/80a35bb4-46db-4b41-a1ca-085b2f9c79a8/198846662787.jpg/80x80bb.webp",
+        "length": "2:33"
+    },
+    {
+        "ranking": "30",
         "title": "Забий",
         "artist": "Wellboy",
         "album": "Забий - Single",
@@ -232,23 +240,7 @@
         "length": "3:14"
     },
     {
-        "ranking": "30",
-        "title": "Спальний",
-        "artist": "KRBK",
-        "album": "Спальний - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/df/1d/5a/df1d5a0c-41e3-60f2-3762-da87b109255d/cover.jpg/80x80bb.webp",
-        "length": "2:34"
-    },
-    {
         "ranking": "31",
-        "title": "Alibi",
-        "artist": "Sevdaliza",
-        "album": "Alibi - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/78/35/c9783504-7a20-6197-3f32-ad36f6200bc1/87.jpg/80x80bb.webp",
-        "length": "2:41"
-    },
-    {
-        "ranking": "32",
         "title": "Не пройде",
         "artist": "Domiy",
         "album": "Не пройде - Single",
@@ -256,7 +248,7 @@
         "length": "2:39"
     },
     {
-        "ranking": "33",
+        "ranking": "32",
         "title": "APT.",
         "artist": "ROSÉ",
         "album": "APT. - Single",
@@ -264,20 +256,28 @@
         "length": "2:49"
     },
     {
-        "ranking": "34",
-        "title": "Той день (OE30 edition) [feat. YAKTAK, KOLA, SHUMEI & Jerry Heil]",
-        "artist": "Okean Elzy",
-        "album": "Той день (OE30 edition) [feat. YAKTAK, KOLA, SHUMEI & Jerry Heil] - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/4f/cd/624fcd75-a7e3-3dcd-86e7-eedb3d0b0a8b/cover.jpg/80x80bb.webp",
-        "length": "3:55"
+        "ranking": "33",
+        "title": "Alibi",
+        "artist": "Sevdaliza",
+        "album": "Alibi - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/78/35/c9783504-7a20-6197-3f32-ad36f6200bc1/87.jpg/80x80bb.webp",
+        "length": "2:41"
     },
     {
-        "ranking": "35",
+        "ranking": "34",
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "album": "HIT ME HARD AND SOFT",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
         "length": "4:21"
+    },
+    {
+        "ranking": "35",
+        "title": "Той день (OE30 edition) [feat. YAKTAK, KOLA, SHUMEI & Jerry Heil]",
+        "artist": "Okean Elzy",
+        "album": "Той день (OE30 edition) [feat. YAKTAK, KOLA, SHUMEI & Jerry Heil] - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/4f/cd/624fcd75-a7e3-3dcd-86e7-eedb3d0b0a8b/cover.jpg/80x80bb.webp",
+        "length": "3:55"
     },
     {
         "ranking": "36",
@@ -305,30 +305,6 @@
     },
     {
         "ranking": "39",
-        "title": "Тайною",
-        "artist": "Chico",
-        "album": "Тайною - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/c1/bd/3ec1bdeb-9aa2-62c1-3ef9-59a771bcbfef/198846702469.jpg/80x80bb.webp",
-        "length": "3:01"
-    },
-    {
-        "ranking": "40",
-        "title": "На пафосі",
-        "artist": "100лиця",
-        "album": "На пафосі - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/18/eb/5818eb27-a3df-d84c-adf2-b76c3c552be2/198846337678.jpg/80x80bb.webp",
-        "length": "2:03"
-    },
-    {
-        "ranking": "41",
-        "title": "Погляд (feat. SOBOL')",
-        "artist": "YAKTAK",
-        "album": "Погляд (feat. SOBOL') - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f9/28/98/f92898f5-4f6f-8e52-9fe4-ffcd287ed073/cover.jpg/80x80bb.webp",
-        "length": "2:56"
-    },
-    {
-        "ranking": "42",
         "title": "Diva",
         "artist": "Beyoncé",
         "album": "I AM...SASHA FIERCE",
@@ -336,12 +312,36 @@
         "length": "3:20"
     },
     {
-        "ranking": "43",
+        "ranking": "40",
+        "title": "Тайною",
+        "artist": "Chico",
+        "album": "Тайною - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/c1/bd/3ec1bdeb-9aa2-62c1-3ef9-59a771bcbfef/198846702469.jpg/80x80bb.webp",
+        "length": "3:01"
+    },
+    {
+        "ranking": "41",
+        "title": "ParisLove",
+        "artist": "FORTUNA 812",
+        "album": "ParisLove - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/45/c8/fe45c82f-c075-d2e8-d2c9-dbece6ec8440/cover.jpg/80x80bb.webp",
+        "length": "1:49"
+    },
+    {
+        "ranking": "42",
         "title": "Худи",
         "artist": "GeeGun",
         "album": "Худи - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/d5/f6/4ed5f625-3b9b-4a89-578a-500006fda8ef/0.jpg/80x80bb.webp",
         "length": "2:46"
+    },
+    {
+        "ranking": "43",
+        "title": "Погляд (feat. SOBOL')",
+        "artist": "YAKTAK",
+        "album": "Погляд (feat. SOBOL') - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f9/28/98/f92898f5-4f6f-8e52-9fe4-ffcd287ed073/cover.jpg/80x80bb.webp",
+        "length": "2:56"
     },
     {
         "ranking": "44",
@@ -353,27 +353,27 @@
     },
     {
         "ranking": "45",
-        "title": "Знайди мене",
-        "artist": "Klavdia Petrivna",
-        "album": "Бережи мене - EP",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/93/f9/03/93f90341-e567-be62-9b7f-12234c5d5837/cover.jpg/80x80bb.webp",
-        "length": "2:30"
+        "title": "На пафосі",
+        "artist": "100лиця",
+        "album": "На пафосі - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/18/eb/5818eb27-a3df-d84c-adf2-b76c3c552be2/198846337678.jpg/80x80bb.webp",
+        "length": "2:03"
     },
     {
         "ranking": "46",
-        "title": "CHIHIRO",
-        "artist": "Billie Eilish",
-        "album": "HIT ME HARD AND SOFT",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "length": "5:03"
+        "title": "FE!N (feat. Playboi Carti)",
+        "artist": "Travis Scott",
+        "album": "UTOPIA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/7d/b0/097db06f-8403-3cf7-7510-139e570ca66b/196871341882.jpg/80x80bb.webp",
+        "length": "3:11"
     },
     {
         "ranking": "47",
-        "title": "На нічному небі",
-        "artist": "YAKTAK",
-        "album": "На нічному небі - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/ef/23/47ef23f3-5aa0-8dd2-56f9-0a388cc98803/24UM1IM05615.rgb.jpg/80x80bb.webp",
-        "length": "3:51"
+        "title": "Espresso",
+        "artist": "Sabrina Carpenter",
+        "album": "Espresso - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
+        "length": "2:55"
     },
     {
         "ranking": "48",
@@ -385,14 +385,6 @@
     },
     {
         "ranking": "49",
-        "title": "Кохаю, але не зовсім",
-        "artist": "DOROFEEVA",
-        "album": "Кохаю, але не зовсім - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bb/be/11/bbbe1195-58d1-f01c-e0b3-13a8c6c96979/197188975142.jpg/80x80bb.webp",
-        "length": "3:19"
-    },
-    {
-        "ranking": "50",
         "title": "Мир",
         "artist": "Гио ПиКа",
         "album": "Мир - Single",
@@ -400,47 +392,7 @@
         "length": "2:39"
     },
     {
-        "ranking": "51",
-        "title": "Espresso",
-        "artist": "Sabrina Carpenter",
-        "album": "Espresso - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
-        "length": "2:55"
-    },
-    {
-        "ranking": "52",
-        "title": "You Will Never Know It",
-        "artist": "Carpetman",
-        "album": "You Will Never Know It - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bc/27/d5/bc27d528-bcbe-55ee-0c08-e8c6c941c43f/cover_4062851025973.jpg/80x80bb.webp",
-        "length": "2:49"
-    },
-    {
-        "ranking": "53",
-        "title": "FE!N (feat. Playboi Carti)",
-        "artist": "Travis Scott",
-        "album": "UTOPIA",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/7d/b0/097db06f-8403-3cf7-7510-139e570ca66b/196871341882.jpg/80x80bb.webp",
-        "length": "3:11"
-    },
-    {
-        "ranking": "54",
-        "title": "Уночі",
-        "artist": "YAKTAK",
-        "album": "Уночі - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0f/56/08/0f560804-ecf5-e825-fc10-a1912ffaae7a/23UMGIM92130.rgb.jpg/80x80bb.webp",
-        "length": "3:59"
-    },
-    {
-        "ranking": "55",
-        "title": "Люби мене",
-        "artist": "SKYLERR",
-        "album": "Люби мене - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/09/bb/1309bbee-14c1-c127-8ab5-9781a52fd029/198588415894.jpg/80x80bb.webp",
-        "length": "3:22"
-    },
-    {
-        "ranking": "56",
+        "ranking": "50",
         "title": "Вітер",
         "artist": "Parfeniuk",
         "album": "Вітер - Single",
@@ -448,7 +400,47 @@
         "length": "2:47"
     },
     {
-        "ranking": "57",
+        "ranking": "51",
+        "title": "На нічному небі",
+        "artist": "YAKTAK",
+        "album": "На нічному небі - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/ef/23/47ef23f3-5aa0-8dd2-56f9-0a388cc98803/24UM1IM05615.rgb.jpg/80x80bb.webp",
+        "length": "3:51"
+    },
+    {
+        "ranking": "52",
+        "title": "Знайди мене",
+        "artist": "Klavdia Petrivna",
+        "album": "Бережи мене - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/93/f9/03/93f90341-e567-be62-9b7f-12234c5d5837/cover.jpg/80x80bb.webp",
+        "length": "2:30"
+    },
+    {
+        "ranking": "53",
+        "title": "CHIHIRO",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "5:03"
+    },
+    {
+        "ranking": "54",
+        "title": "Кохаю, але не зовсім",
+        "artist": "DOROFEEVA",
+        "album": "Кохаю, але не зовсім - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bb/be/11/bbbe1195-58d1-f01c-e0b3-13a8c6c96979/197188975142.jpg/80x80bb.webp",
+        "length": "3:19"
+    },
+    {
+        "ranking": "55",
+        "title": "You Will Never Know It",
+        "artist": "Carpetman",
+        "album": "You Will Never Know It - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bc/27/d5/bc27d528-bcbe-55ee-0c08-e8c6c941c43f/cover_4062851025973.jpg/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
+        "ranking": "56",
         "title": "Положение",
         "artist": "Skryptonite",
         "album": "Уроборос: Улица 36",
@@ -456,36 +448,44 @@
         "length": "4:42"
     },
     {
+        "ranking": "57",
+        "title": "OKAY BABY",
+        "artist": "TROJAN",
+        "album": "OKAY BABY - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/04/a6/d7/04a6d7ef-5a31-508a-dd26-9c821e4d716e/198846848389.jpg/80x80bb.webp",
+        "length": "2:02"
+    },
+    {
         "ranking": "58",
+        "title": "Люби мене",
+        "artist": "SKYLERR",
+        "album": "Люби мене - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/09/bb/1309bbee-14c1-c127-8ab5-9781a52fd029/198588415894.jpg/80x80bb.webp",
+        "length": "3:22"
+    },
+    {
+        "ranking": "59",
+        "title": "Уночі",
+        "artist": "YAKTAK",
+        "album": "Уночі - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0f/56/08/0f560804-ecf5-e825-fc10-a1912ffaae7a/23UMGIM92130.rgb.jpg/80x80bb.webp",
+        "length": "3:59"
+    },
+    {
+        "ranking": "60",
+        "title": "Город дорог",
+        "artist": "MONA",
+        "album": "Дневник памяти",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/3e/98/5c3e98bc-c1f4-bf6d-2beb-374a7f996f9e/cover.jpg/80x80bb.webp",
+        "length": "2:32"
+    },
+    {
+        "ranking": "61",
         "title": "Disease",
         "artist": "Lady Gaga",
         "album": "Disease - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/2b/dc/c72bdc7a-7014-e5df-a106-583074c0affa/24UM1IM12462.rgb.jpg/80x80bb.webp",
         "length": "3:49"
-    },
-    {
-        "ranking": "59",
-        "title": "Хай пишуть",
-        "artist": "DOROFEEVA",
-        "album": "Хай пишуть - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bb/c1/1e/bbc11e58-c910-7c2c-010c-78024ccf844b/197190505214.jpg/80x80bb.webp",
-        "length": "2:42"
-    },
-    {
-        "ranking": "60",
-        "title": "i like the way you kiss me",
-        "artist": "Artemas",
-        "album": "i like the way you kiss me - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/1e/ac/b61eaceb-b493-0909-abfe-0930b7e53d9f/810129998306.jpg/80x80bb.webp",
-        "length": "2:22"
-    },
-    {
-        "ranking": "61",
-        "title": "Нижча зростом",
-        "artist": "YAKTAK",
-        "album": "Під гітару",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/37/16/36/371636ba-4ea5-ca2c-00ad-df17c70fe7b5/24UMGIM11339.rgb.jpg/80x80bb.webp",
-        "length": "2:59"
     },
     {
         "ranking": "62",
@@ -497,62 +497,6 @@
     },
     {
         "ranking": "63",
-        "title": "Небо",
-        "artist": "YAKTAK",
-        "album": "Небо - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/5e/00/5b5e007c-1e64-7b7a-cf9e-f2360f109b2d/24UMGIM47786.rgb.jpg/80x80bb.webp",
-        "length": "2:57"
-    },
-    {
-        "ranking": "64",
-        "title": "Without Me",
-        "artist": "Eminem",
-        "album": "The Eminem Show",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b4/13/e9/b413e91d-40aa-a1a8-b8e3-2bacc3b3e222/00606949329020.rgb.jpg/80x80bb.webp",
-        "length": "4:50"
-    },
-    {
-        "ranking": "65",
-        "title": "ParisLove",
-        "artist": "FORTUNA 812",
-        "album": "ParisLove - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/45/c8/fe45c82f-c075-d2e8-d2c9-dbece6ec8440/cover.jpg/80x80bb.webp",
-        "length": "1:49"
-    },
-    {
-        "ranking": "66",
-        "title": "Температура",
-        "artist": "KOLA",
-        "album": "Температура - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7e/ee/26/7eee26a2-b669-0cf5-817b-232e7b7e1013/cover.jpg/80x80bb.webp",
-        "length": "2:56"
-    },
-    {
-        "ranking": "67",
-        "title": "Рана",
-        "artist": "CHEEV",
-        "album": "Рана - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/a2/38/b7a23869-1636-8504-771f-6f9955204fd3/cover.jpg/80x80bb.webp",
-        "length": "2:01"
-    },
-    {
-        "ranking": "68",
-        "title": "Superman (feat. Dina Rae)",
-        "artist": "Eminem",
-        "album": "The Eminem Show",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b4/13/e9/b413e91d-40aa-a1a8-b8e3-2bacc3b3e222/00606949329020.rgb.jpg/80x80bb.webp",
-        "length": "5:50"
-    },
-    {
-        "ranking": "69",
-        "title": "Не знаю",
-        "artist": "Анна Трінчер",
-        "album": "Не знаю - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/e1/7f/7ae17f73-4cc4-47a8-9c2c-bd173b7b553f/cover.jpg/80x80bb.webp",
-        "length": "2:25"
-    },
-    {
-        "ranking": "70",
         "title": "В серці і на спині",
         "artist": "Nikow",
         "album": "В серці і на спині - Single",
@@ -560,15 +504,47 @@
         "length": "2:16"
     },
     {
-        "ranking": "71",
-        "title": "Буревіями",
-        "artist": "SHUMEI",
-        "album": "Буревіями - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/35/ae/4c/35ae4c6a-5008-d55a-eb64-84c62a0c79e7/c72c2c0e-d3d6-4162-b2b6-af6a07064134.jpg/80x80bb.webp",
-        "length": "3:47"
+        "ranking": "64",
+        "title": "i like the way you kiss me",
+        "artist": "Artemas",
+        "album": "i like the way you kiss me - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/1e/ac/b61eaceb-b493-0909-abfe-0930b7e53d9f/810129998306.jpg/80x80bb.webp",
+        "length": "2:22"
     },
     {
-        "ranking": "72",
+        "ranking": "65",
+        "title": "Хай пишуть",
+        "artist": "DOROFEEVA",
+        "album": "Хай пишуть - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bb/c1/1e/bbc11e58-c910-7c2c-010c-78024ccf844b/197190505214.jpg/80x80bb.webp",
+        "length": "2:42"
+    },
+    {
+        "ranking": "66",
+        "title": "Without Me",
+        "artist": "Eminem",
+        "album": "The Eminem Show",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b4/13/e9/b413e91d-40aa-a1a8-b8e3-2bacc3b3e222/00606949329020.rgb.jpg/80x80bb.webp",
+        "length": "4:50"
+    },
+    {
+        "ranking": "67",
+        "title": "Небо",
+        "artist": "YAKTAK",
+        "album": "Небо - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/5e/00/5b5e007c-1e64-7b7a-cf9e-f2360f109b2d/24UMGIM47786.rgb.jpg/80x80bb.webp",
+        "length": "2:57"
+    },
+    {
+        "ranking": "68",
+        "title": "Нижча зростом",
+        "artist": "YAKTAK",
+        "album": "Під гітару",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/37/16/36/371636ba-4ea5-ca2c-00ad-df17c70fe7b5/24UMGIM11339.rgb.jpg/80x80bb.webp",
+        "length": "2:59"
+    },
+    {
+        "ranking": "69",
         "title": "Dirty Cash (Money Talks) [Sold Out 7 Inch Mix]",
         "artist": "The Adventures of Stevie V",
         "album": "Dirty Cash (Money Talks)",
@@ -576,7 +552,47 @@
         "length": "4:03"
     },
     {
+        "ranking": "70",
+        "title": "Superman (feat. Dina Rae)",
+        "artist": "Eminem",
+        "album": "The Eminem Show",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b4/13/e9/b413e91d-40aa-a1a8-b8e3-2bacc3b3e222/00606949329020.rgb.jpg/80x80bb.webp",
+        "length": "5:50"
+    },
+    {
+        "ranking": "71",
+        "title": "Температура",
+        "artist": "KOLA",
+        "album": "Температура - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7e/ee/26/7eee26a2-b669-0cf5-817b-232e7b7e1013/cover.jpg/80x80bb.webp",
+        "length": "2:56"
+    },
+    {
+        "ranking": "72",
+        "title": "Не знаю",
+        "artist": "Анна Трінчер",
+        "album": "Не знаю - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/e1/7f/7ae17f73-4cc4-47a8-9c2c-bd173b7b553f/cover.jpg/80x80bb.webp",
+        "length": "2:25"
+    },
+    {
         "ranking": "73",
+        "title": "Рана",
+        "artist": "CHEEV",
+        "album": "Рана - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/a2/38/b7a23869-1636-8504-771f-6f9955204fd3/cover.jpg/80x80bb.webp",
+        "length": "2:01"
+    },
+    {
+        "ranking": "74",
+        "title": "Вигадав",
+        "artist": "Voskoboinyk",
+        "album": "Вигадав - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/e1/14/fde11450-06a0-ea49-cde0-b3e35fda6342/cover.jpg/80x80bb.webp",
+        "length": "3:41"
+    },
+    {
+        "ranking": "75",
         "title": "Gata Only",
         "artist": "FloyyMenor",
         "album": "Gata Only - Single",
@@ -584,7 +600,15 @@
         "length": "3:42"
     },
     {
-        "ranking": "74",
+        "ranking": "76",
+        "title": "Буревіями",
+        "artist": "SHUMEI",
+        "album": "Буревіями - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/35/ae/4c/35ae4c6a-5008-d55a-eb64-84c62a0c79e7/c72c2c0e-d3d6-4162-b2b6-af6a07064134.jpg/80x80bb.webp",
+        "length": "3:47"
+    },
+    {
+        "ranking": "77",
         "title": "Царица",
         "artist": "ANNA ASTI",
         "album": "Царица - Single",
@@ -592,44 +616,20 @@
         "length": "3:35"
     },
     {
-        "ranking": "75",
-        "title": "Salut papa",
-        "artist": "KOLA",
-        "album": "Salut papa - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d1/cb/8d/d1cb8d0c-388b-1538-416b-c0a8a1432fbe/24UMGIM46230.rgb.jpg/80x80bb.webp",
-        "length": "2:34"
-    },
-    {
-        "ranking": "76",
-        "title": "Театр",
-        "artist": "Klavdia Petrivna",
-        "album": "Театр - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/50/10/50/501050d1-546c-bf99-b4ec-c907ff39d1a8/cover.jpg/80x80bb.webp",
-        "length": "2:28"
-    },
-    {
-        "ranking": "77",
-        "title": "Колискова 2022",
-        "artist": "DOROFEEVA",
-        "album": "HEARTBEAT",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/5e/84/495e84d4-e7bf-eee8-2dd0-63e434557cbf/198588718629.jpg/80x80bb.webp",
-        "length": "2:41"
-    },
-    {
         "ranking": "78",
+        "title": "Feel What You Want",
+        "artist": "Phonique",
+        "album": "Kissing Strangers",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/0b/6c/4d/mzi.hkwruuoy.jpg/80x80bb.webp",
+        "length": "6:25"
+    },
+    {
+        "ranking": "79",
         "title": "Адская колыбельная",
         "artist": "Пошлая Молли",
         "album": "Адская колыбельная - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/26/10/4026108a-32b7-2d7e-eb69-71df552d9966/cover.jpg/80x80bb.webp",
         "length": "2:58"
-    },
-    {
-        "ranking": "79",
-        "title": "I Got Love (feat. Рем Дигга)",
-        "artist": "Miyagi & Эндшпиль",
-        "album": "I Got Love (feat. Рем Дигга) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/98/f3/dd/98f3dd8f-b5b4-d6a1-849c-795130748b81/cover.jpg/80x80bb.webp",
-        "length": "4:36"
     },
     {
         "ranking": "80",
@@ -641,6 +641,30 @@
     },
     {
         "ranking": "81",
+        "title": "I Got Love (feat. Рем Дигга)",
+        "artist": "Miyagi & Эндшпиль",
+        "album": "I Got Love (feat. Рем Дигга) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/98/f3/dd/98f3dd8f-b5b4-d6a1-849c-795130748b81/cover.jpg/80x80bb.webp",
+        "length": "4:36"
+    },
+    {
+        "ranking": "82",
+        "title": "Salut papa",
+        "artist": "KOLA",
+        "album": "Salut papa - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d1/cb/8d/d1cb8d0c-388b-1538-416b-c0a8a1432fbe/24UMGIM46230.rgb.jpg/80x80bb.webp",
+        "length": "2:34"
+    },
+    {
+        "ranking": "83",
+        "title": "Театр",
+        "artist": "Klavdia Petrivna",
+        "album": "Театр - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/50/10/50/501050d1-546c-bf99-b4ec-c907ff39d1a8/cover.jpg/80x80bb.webp",
+        "length": "2:28"
+    },
+    {
+        "ranking": "84",
         "title": "На даху",
         "artist": "Parfeniuk",
         "album": "На даху - Single",
@@ -648,15 +672,15 @@
         "length": "2:34"
     },
     {
-        "ranking": "82",
-        "title": "Я тобі брехала",
-        "artist": "Klavdia Petrivna",
-        "album": "Я тобі брехала - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a5/e5/b2/a5e5b2db-3a67-e21f-ce83-ac8a398f5749/cover.jpg/80x80bb.webp",
-        "length": "2:17"
+        "ranking": "85",
+        "title": "Колискова 2022",
+        "artist": "DOROFEEVA",
+        "album": "HEARTBEAT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/5e/84/495e84d4-e7bf-eee8-2dd0-63e434557cbf/198588718629.jpg/80x80bb.webp",
+        "length": "2:41"
     },
     {
-        "ranking": "83",
+        "ranking": "86",
         "title": "Якби не ти",
         "artist": "Максим Бородін",
         "album": "Якби не ти - Single",
@@ -664,15 +688,7 @@
         "length": "2:48"
     },
     {
-        "ranking": "84",
-        "title": "Вигадав",
-        "artist": "Voskoboinyk",
-        "album": "Вигадав - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/e1/14/fde11450-06a0-ea49-cde0-b3e35fda6342/cover.jpg/80x80bb.webp",
-        "length": "3:41"
-    },
-    {
-        "ranking": "85",
+        "ranking": "87",
         "title": "Танцюєш і плачеш",
         "artist": "100лиця",
         "album": "Танцюєш і плачеш - Single",
@@ -680,39 +696,15 @@
         "length": "2:48"
     },
     {
-        "ranking": "86",
-        "title": "Їде дах",
-        "artist": "Klavdia Petrivna",
-        "album": "Їде дах",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/4f/9f/2d4f9f04-e69c-adee-cb05-6ac586682ac5/cover.jpg/80x80bb.webp",
-        "length": "3:00"
-    },
-    {
-        "ranking": "87",
-        "title": "Город дорог",
-        "artist": "MONA",
-        "album": "Дневник памяти",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/3e/98/5c3e98bc-c1f4-bf6d-2beb-374a7f996f9e/cover.jpg/80x80bb.webp",
-        "length": "2:32"
-    },
-    {
         "ranking": "88",
-        "title": "Порічка",
-        "artist": "YAKTAK",
-        "album": "Порічка - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/25/24/52/252452ad-8595-1b58-a221-bdc71b6f4293/23UMGIM35280.rgb.jpg/80x80bb.webp",
-        "length": "2:39"
-    },
-    {
-        "ranking": "89",
-        "title": "Бар за баром",
-        "artist": "Анна Трінчер",
-        "album": "Бар за баром - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/6c/1e/c76c1e0e-9e66-6d43-09bb-da40db01ba96/198391694127.jpg/80x80bb.webp",
+        "title": "Я тобі брехала",
+        "artist": "Klavdia Petrivna",
+        "album": "Я тобі брехала - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a5/e5/b2/a5e5b2db-3a67-e21f-ce83-ac8a398f5749/cover.jpg/80x80bb.webp",
         "length": "2:17"
     },
     {
-        "ranking": "90",
+        "ranking": "89",
         "title": "40 градусов",
         "artist": "LOBODA",
         "album": "40 градусов - Single",
@@ -720,7 +712,31 @@
         "length": "4:26"
     },
     {
+        "ranking": "90",
+        "title": "Їде дах",
+        "artist": "Klavdia Petrivna",
+        "album": "Їде дах",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/4f/9f/2d4f9f04-e69c-adee-cb05-6ac586682ac5/cover.jpg/80x80bb.webp",
+        "length": "3:00"
+    },
+    {
         "ranking": "91",
+        "title": "Свободна",
+        "artist": "The Brookln",
+        "album": "Свободна - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/36/ef/a936ef8a-9d1a-d977-764a-4ddd8a5ba8d4/cover.jpg/80x80bb.webp",
+        "length": "3:25"
+    },
+    {
+        "ranking": "92",
+        "title": "Порічка",
+        "artist": "YAKTAK",
+        "album": "Порічка - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/25/24/52/252452ad-8595-1b58-a221-bdc71b6f4293/23UMGIM35280.rgb.jpg/80x80bb.webp",
+        "length": "2:39"
+    },
+    {
+        "ranking": "93",
         "title": "Біля серця",
         "artist": "KOLA",
         "album": "Біля серця - Single",
@@ -728,23 +744,15 @@
         "length": "2:16"
     },
     {
-        "ranking": "92",
-        "title": "Малинове вино",
-        "artist": "Alena Omargalieva",
-        "album": "Малинове вино - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2e/51/db/2e51dbc7-238f-321d-e218-c0ff21498616/198846436142.jpg/80x80bb.webp",
-        "length": "2:44"
-    },
-    {
-        "ranking": "93",
-        "title": "Где ты теперь и с кем",
-        "artist": "Basta",
-        "album": "Где ты теперь и с кем - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/92/da/58/92da58f9-7e98-9166-4b4d-957c37ae3bd1/0.jpg/80x80bb.webp",
-        "length": "5:06"
-    },
-    {
         "ranking": "94",
+        "title": "Голоса",
+        "artist": "Zvonkiy",
+        "album": "Мир моих иллюзий",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0b/da/f6/0bdaf6be-736d-fcbc-4060-29d258e694f1/cover.jpg/80x80bb.webp",
+        "length": "3:26"
+    },
+    {
+        "ranking": "95",
         "title": "Я не вернусь",
         "artist": "VIA Gra",
         "album": "Попытка №5",
@@ -752,36 +760,28 @@
         "length": "3:44"
     },
     {
-        "ranking": "95",
-        "title": "Любов, як осінь",
-        "artist": "kavabanga Depo kolibri",
-        "album": "Любов, як осінь - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/70/cf/cb/70cfcb96-5110-47f7-7e77-58e50d28f054/197190256185.jpg/80x80bb.webp",
-        "length": "2:12"
-    },
-    {
         "ranking": "96",
-        "title": "Feel What You Want",
-        "artist": "Phonique",
-        "album": "Kissing Strangers",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/0b/6c/4d/mzi.hkwruuoy.jpg/80x80bb.webp",
-        "length": "6:25"
+        "title": "Бар за баром",
+        "artist": "Анна Трінчер",
+        "album": "Бар за баром - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/6c/1e/c76c1e0e-9e66-6d43-09bb-da40db01ba96/198391694127.jpg/80x80bb.webp",
+        "length": "2:17"
     },
     {
         "ranking": "97",
-        "title": "Це любов",
-        "artist": "Kalush Orchestra",
-        "album": "Це любов - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9c/83/03/9c83031d-1b4d-a8c9-1e37-4e880f5aec6b/23UM1IM65478.rgb.jpg/80x80bb.webp",
-        "length": "2:36"
+        "title": "Малинове вино",
+        "artist": "Alena Omargalieva",
+        "album": "Малинове вино - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2e/51/db/2e51dbc7-238f-321d-e218-c0ff21498616/198846436142.jpg/80x80bb.webp",
+        "length": "2:44"
     },
     {
         "ranking": "98",
-        "title": "Свободна",
-        "artist": "The Brookln",
-        "album": "Свободна - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/36/ef/a936ef8a-9d1a-d977-764a-4ddd8a5ba8d4/cover.jpg/80x80bb.webp",
-        "length": "3:25"
+        "title": "Где ты теперь и с кем",
+        "artist": "Basta",
+        "album": "Где ты теперь и с кем - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/92/da/58/92da58f9-7e98-9166-4b4d-957c37ae3bd1/0.jpg/80x80bb.webp",
+        "length": "5:06"
     },
     {
         "ranking": "99",
@@ -793,10 +793,10 @@
     },
     {
         "ranking": "100",
-        "title": "Скажи мені",
-        "artist": "Максим Бородін",
-        "album": "Скажи мені - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8c/21/04/8c210403-9223-e5f7-c206-9e6b53290251/cover.jpg/80x80bb.webp",
-        "length": "2:49"
+        "title": "Любов, як осінь",
+        "artist": "kavabanga Depo kolibri",
+        "album": "Любов, як осінь - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/70/cf/cb/70cfcb96-5110-47f7-7e77-58e50d28f054/197190256185.jpg/80x80bb.webp",
+        "length": "2:12"
     }
 ]
