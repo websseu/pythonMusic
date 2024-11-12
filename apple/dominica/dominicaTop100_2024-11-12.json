@@ -1,0 +1,802 @@
+[
+    {
+        "ranking": "1",
+        "title": "25",
+        "artist": "Rod Wave",
+        "album": "Last Lap",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/37/da/5a37da14-dea1-6123-6553-4a24010657e8/196872534610.jpg/80x80bb.webp",
+        "length": "3:00"
+    },
+    {
+        "ranking": "2",
+        "title": "ROUGH PATCH",
+        "artist": "Armanii",
+        "album": "NO SIGNAL",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/19/eb/4119eb53-e80e-69ba-a8c1-bb8ac4f465a5/198861051238.png/80x80bb.webp",
+        "length": "3:09"
+    },
+    {
+        "ranking": "3",
+        "title": "Passing (feat. Shelly)",
+        "artist": "Signal Band",
+        "album": "The Electric Room (feat. Shelly)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5c/a1/0a/5ca10a5d-806b-bb17-c480-dbc275a9904d/artwork.jpg/80x80bb.webp",
+        "length": "3:15"
+    },
+    {
+        "ranking": "4",
+        "title": "Saved by a Psalm",
+        "artist": "Govana",
+        "album": "Legacy",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/27/97/62/279762d9-d9e6-46d3-b91e-286d593d75e1/198342964743_cover.jpg/80x80bb.webp",
+        "length": "3:36"
+    },
+    {
+        "ranking": "5",
+        "title": "My Cake (feat. Shelly)",
+        "artist": "Signal Band",
+        "album": "The Electric Room (feat. Shelly)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5c/a1/0a/5ca10a5d-806b-bb17-c480-dbc275a9904d/artwork.jpg/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
+        "ranking": "6",
+        "title": "Little Miss Best Body",
+        "artist": "Kman 6ixx",
+        "album": "Little Ms.BestBody - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/c0/99/8cc09932-e38c-b523-e07d-e0c66cd32eb4/0.jpg/80x80bb.webp",
+        "length": "2:58"
+    },
+    {
+        "ranking": "7",
+        "title": "Choppa",
+        "artist": "Byron Messia",
+        "album": "Choppa - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6d/9a/1d/6d9a1d84-5f7d-d7e9-4cbf-80c892821e6f/24UMGIM01167.rgb.jpg/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
+        "ranking": "8",
+        "title": "Yes Baby (feat. Shelly)",
+        "artist": "Signal Band",
+        "album": "The Electric Room (feat. Shelly)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5c/a1/0a/5ca10a5d-806b-bb17-c480-dbc275a9904d/artwork.jpg/80x80bb.webp",
+        "length": "3:27"
+    },
+    {
+        "ranking": "9",
+        "title": "Life",
+        "artist": "AirBoy",
+        "album": "Capable - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/55/e9/bf/55e9bf8f-805e-aec6-3633-f359129188eb/8721093958826.png/80x80bb.webp",
+        "length": "3:18"
+    },
+    {
+        "ranking": "10",
+        "title": "Take Me As I Am",
+        "artist": "Trilla-G",
+        "album": "Take Me As I Am - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c0/fc/eb/c0fceb6e-0087-3eaf-201b-12a6cc68375b/artwork.jpg/80x80bb.webp",
+        "length": "3:48"
+    },
+    {
+        "ranking": "11",
+        "title": "4 Kampé",
+        "artist": "Joé Dwèt Filé",
+        "album": "4 Kampé - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/32/0a/05320ae3-1eef-3cd6-8f19-9ad9f078fa25/cover.jpg/80x80bb.webp",
+        "length": "3:34"
+    },
+    {
+        "ranking": "12",
+        "title": "Kay Ka Fèt (feat. Quan)",
+        "artist": "litleboy lsbeats767",
+        "album": "Kay Ka Fèt (feat. Quan) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ef/8b/95/ef8b9556-2ab6-812e-ecc2-0258636b836f/artwork.jpg/80x80bb.webp",
+        "length": "4:13"
+    },
+    {
+        "ranking": "13",
+        "title": "Cups Up",
+        "artist": "Malie Donn",
+        "album": "Cups Up - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/23/49/26/2349266a-4fd1-4c96-8ddd-8a21cfe23227/197189042348.jpg/80x80bb.webp",
+        "length": "3:11"
+    },
+    {
+        "ranking": "14",
+        "title": "GOD BLESS (feat. YSN) [Ah la vie qu'on mène]",
+        "artist": "Krys",
+        "album": "GOD BLESS (feat. YSN) [Ah la vie qu'on mène] - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/64/66/6a646621-5bf1-e317-cda1-68d2a3f66dbb/cover.jpg/80x80bb.webp",
+        "length": "2:44"
+    },
+    {
+        "ranking": "15",
+        "title": "Leave Me Alone (feat. Dinho, Lejuh, Theomaa & Binksdrick)",
+        "artist": "1t1",
+        "album": "Leave Me Alone (feat. Lejuh, Dinho, Theomaa & Binksdrick) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0e/f7/0d/0ef70d37-dc22-2409-dd47-a31effc14516/198846247236.jpg/80x80bb.webp",
+        "length": "3:06"
+    },
+    {
+        "ranking": "16",
+        "title": "Shubout",
+        "artist": "SQUASH",
+        "album": "Shubout - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/87/4d/34874d3d-0881-d5f9-818b-75ae7b31a420/198588751008.jpg/80x80bb.webp",
+        "length": "2:38"
+    },
+    {
+        "ranking": "17",
+        "title": "Don Julio (Raw)",
+        "artist": "Malie Donn",
+        "album": "Don Julio - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/c1/05/bac105a4-ca28-88b8-632e-b463d3529efb/198846385983.jpg/80x80bb.webp",
+        "length": "3:09"
+    },
+    {
+        "ranking": "18",
+        "title": "Believe",
+        "artist": "Prince Swanny",
+        "album": "Believe - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/df/92/a0df9286-9199-5198-1ad7-0cfbd6bd38c2/0.jpg/80x80bb.webp",
+        "length": "3:12"
+    },
+    {
+        "ranking": "19",
+        "title": "People",
+        "artist": "Teejay",
+        "album": "People - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f8/44/69/f844695e-ed75-c4e7-6c27-e3e8627a6d12/0.jpg/80x80bb.webp",
+        "length": "3:20"
+    },
+    {
+        "ranking": "20",
+        "title": "Big Breeze",
+        "artist": "SQUASH",
+        "album": "Big Breeze - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/f9/fa/6af9fa33-cf44-388d-0e4d-8d2b2c48eafb/198391892738.jpg/80x80bb.webp",
+        "length": "3:03"
+    },
+    {
+        "ranking": "21",
+        "title": "Show Them (feat. Byron Messia & Tafari)",
+        "artist": "Kman 6ixx",
+        "album": "Phoenix The Ep - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/40/11/30401120-e645-671e-9735-d09f30aaea9e/198672189588_KmanPhoenixFront.jpg/80x80bb.webp",
+        "length": "4:00"
+    },
+    {
+        "ranking": "22",
+        "title": "Higher Life",
+        "artist": "Kranium",
+        "album": "Higher Life - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/a1/6f/43a16f83-fde2-5594-5b63-0d60e5fb1672/840200585804_cover.jpg/80x80bb.webp",
+        "length": "3:18"
+    },
+    {
+        "ranking": "23",
+        "title": "WILDFLOWER",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "4:21"
+    },
+    {
+        "ranking": "24",
+        "title": "Artform",
+        "artist": "Coutain",
+        "album": "1996",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/57/16/2c/57162c3b-a304-e387-ccb9-b928bb15f7d1/198342712801_cover.jpg/80x80bb.webp",
+        "length": "2:32"
+    },
+    {
+        "ranking": "25",
+        "title": "Wild n' Rich",
+        "artist": "450",
+        "album": "Wild n' Rich - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/72/7f/90727f13-9f47-b059-cf3d-0fc066391ab0/0.jpg/80x80bb.webp",
+        "length": "2:47"
+    },
+    {
+        "ranking": "26",
+        "title": "Angel Numbers / Ten Toes",
+        "artist": "Chris Brown",
+        "album": "11:11",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/39/25/4f/39254fd0-e839-c63f-abbe-7423d2c137bf/196871463010.jpg/80x80bb.webp",
+        "length": "5:06"
+    },
+    {
+        "ranking": "27",
+        "title": "I'll Be There For You (feat. Shelly)",
+        "artist": "Signal Band",
+        "album": "I'll Be There For You (feat. Shelly) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b2/24/44/b2244485-ea88-2a0e-07e5-89ed1eb52c9b/artwork.jpg/80x80bb.webp",
+        "length": "3:13"
+    },
+    {
+        "ranking": "28",
+        "title": "Suicide Note",
+        "artist": "Masicka",
+        "album": "438",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c5/83/a4/c583a46e-286a-6590-6b21-ea2c29f10744/0.jpg/80x80bb.webp",
+        "length": "3:15"
+    },
+    {
+        "ranking": "29",
+        "title": "Survivor",
+        "artist": "Popcaan",
+        "album": "Solid Focus Riddim - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/40/83/d3/4083d31c-88bc-a651-70cb-1d125ecdf524/194690497452_cover.jpg/80x80bb.webp",
+        "length": "3:14"
+    },
+    {
+        "ranking": "30",
+        "title": "Residuals",
+        "artist": "Chris Brown",
+        "album": "11:11 (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/5c/c1/2d5cc1a6-86ce-ee16-5985-807f2fffa3cb/196871957267.jpg/80x80bb.webp",
+        "length": "3:35"
+    },
+    {
+        "ranking": "31",
+        "title": "Tyrant",
+        "artist": "Masicka",
+        "album": "Tyrant - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/df/d8/9a/dfd89a6c-a372-eb5e-5d99-209d0708d0a3/23UMGIM54147.rgb.jpg/80x80bb.webp",
+        "length": "3:37"
+    },
+    {
+        "ranking": "32",
+        "title": "Greatness Inside Out",
+        "artist": "Popcaan",
+        "album": "Greatness Inside Out - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/b8/dc/41b8dcf5-0c40-2673-81c2-41a9e9809ce4/0.jpg/80x80bb.webp",
+        "length": "4:07"
+    },
+    {
+        "ranking": "33",
+        "title": "Always Be My Baby (feat. Carlyn XP)",
+        "artist": "Signal Band",
+        "album": "Carnival Corner",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/17/1c/14/171c14d3-ed95-a2e0-0762-af97286e027b/artwork.jpg/80x80bb.webp",
+        "length": "3:15"
+    },
+    {
+        "ranking": "34",
+        "title": "Math Not Mathing (feat. Shelly & Trilla-G)",
+        "artist": "Signal Band",
+        "album": "The Electric Room (feat. Shelly)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5c/a1/0a/5ca10a5d-806b-bb17-c480-dbc275a9904d/artwork.jpg/80x80bb.webp",
+        "length": "3:02"
+    },
+    {
+        "ranking": "35",
+        "title": "Playground (feat. Shelly)",
+        "artist": "Signal Band",
+        "album": "The Electric Room (feat. Shelly)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5c/a1/0a/5ca10a5d-806b-bb17-c480-dbc275a9904d/artwork.jpg/80x80bb.webp",
+        "length": "3:32"
+    },
+    {
+        "ranking": "36",
+        "title": "Demon Crease",
+        "artist": "Kraff Gad",
+        "album": "Demon Crease - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/88/c7/5888c710-4027-07a1-d9f6-4879cb05af93/0.jpg/80x80bb.webp",
+        "length": "2:45"
+    },
+    {
+        "ranking": "37",
+        "title": "Whats Popping",
+        "artist": "Malie Donn",
+        "album": "Whats Popping - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/20/f7/4820f720-4c9b-8843-a233-32c3a611c9b3/198588840894.jpg/80x80bb.webp",
+        "length": "2:48"
+    },
+    {
+        "ranking": "38",
+        "title": "Put That On That",
+        "artist": "Khallion",
+        "album": "Put That On That - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/40/ef/3a/40ef3a82-bb40-9f83-82eb-130afb341b4d/artwork.jpg/80x80bb.webp",
+        "length": "3:48"
+    },
+    {
+        "ranking": "39",
+        "title": "Baddest In The Room",
+        "artist": "Fridayy",
+        "album": "Baddest In The Room - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/46/d4/0246d497-10cb-e048-2eb7-27207844905e/24UMGIM61141.rgb.jpg/80x80bb.webp",
+        "length": "2:38"
+    },
+    {
+        "ranking": "40",
+        "title": "IRan",
+        "artist": "Rod Wave",
+        "album": "Last Lap",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/37/da/5a37da14-dea1-6123-6553-4a24010657e8/196872534610.jpg/80x80bb.webp",
+        "length": "2:58"
+    },
+    {
+        "ranking": "41",
+        "title": "V6",
+        "artist": "Ireland Boss",
+        "album": "V6 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/27/34/4d/27344d90-e8ac-58af-3a38-caa82ce18763/0.jpg/80x80bb.webp",
+        "length": "2:42"
+    },
+    {
+        "ranking": "42",
+        "title": "No Guidance (feat. Drake)",
+        "artist": "Chris Brown",
+        "album": "Indigo (Extended)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/96/1b/c9/961bc949-7e03-2670-f612-72c34ece6a22/886447924464.jpg/80x80bb.webp",
+        "length": "4:20"
+    },
+    {
+        "ranking": "43",
+        "title": "Obsessed",
+        "artist": "Kman 6ixx",
+        "album": "Big League",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/60/4d/d3604dc5-0150-aaba-35eb-b320ee619c15/872132904644_bigleaguecover.jpg/80x80bb.webp",
+        "length": "2:46"
+    },
+    {
+        "ranking": "44",
+        "title": "Under the Influence",
+        "artist": "Chris Brown",
+        "album": "Indigo (Extended)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/96/1b/c9/961bc949-7e03-2670-f612-72c34ece6a22/886447924464.jpg/80x80bb.webp",
+        "length": "3:04"
+    },
+    {
+        "ranking": "45",
+        "title": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR)",
+        "artist": "Popcaan",
+        "album": "FIXTAPE",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/4b/96/59/4b965946-d2ed-e0c0-0a47-18b7b2af606d/27019.jpg/80x80bb.webp",
+        "length": "4:19"
+    },
+    {
+        "ranking": "46",
+        "title": "Snooze",
+        "artist": "SZA",
+        "album": "SOS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
+        "length": "3:21"
+    },
+    {
+        "ranking": "47",
+        "title": "Hit & Run",
+        "artist": "Shenseea",
+        "album": "Never Gets Late Here",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4d/42/ed/4d42edf6-6a14-5e74-9a02-a01fe9bff99c/23UM1IM07501.rgb.jpg/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
+        "ranking": "48",
+        "title": "Expensive",
+        "artist": "Valiant",
+        "album": "Expensive - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/67/ef/ba/67efba92-a95d-8a3e-f26e-7751657948f4/197188257088.jpg/80x80bb.webp",
+        "length": "3:55"
+    },
+    {
+        "ranking": "49",
+        "title": "Someone Else (feat. Quan & Trilla-G)",
+        "artist": "litleboy lsbeats767",
+        "album": "Someone Else (feat. Quan & Trilla-G) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5f/5a/4b/5f5a4bee-b9a6-e8ce-06bd-09059af03f97/artwork.jpg/80x80bb.webp",
+        "length": "3:25"
+    },
+    {
+        "ranking": "50",
+        "title": "No Lethal",
+        "artist": "Kman 6ixx",
+        "album": "Big League",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/60/4d/d3604dc5-0150-aaba-35eb-b320ee619c15/872132904644_bigleaguecover.jpg/80x80bb.webp",
+        "length": "2:58"
+    },
+    {
+        "ranking": "51",
+        "title": "No Trust No Love",
+        "artist": "Rebel Sixx",
+        "album": "No Trust No Love - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/aa/9e/af/aa9eaf2b-f6ec-7222-255d-911069f57d5a/194690234873_cover.jpg/80x80bb.webp",
+        "length": "2:46"
+    },
+    {
+        "ranking": "52",
+        "title": "Bad Everyday (feat. Prince Swanny)",
+        "artist": "Skillibeng",
+        "album": "The Prodigy",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/44/18/59/44185945-6345-bf90-12a6-446ea3164ef1/840200501767.jpg/80x80bb.webp",
+        "length": "3:33"
+    },
+    {
+        "ranking": "53",
+        "title": "C.A.L (Cut All Losses)",
+        "artist": "Valiant",
+        "album": "C.A.L (Cut All Losses) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c9/e1/30/c9e1307b-18b1-cc1a-da07-d74264d22dce/0.jpg/80x80bb.webp",
+        "length": "3:25"
+    },
+    {
+        "ranking": "54",
+        "title": "Karma",
+        "artist": "Summer Walker",
+        "album": "Last Day of Summer",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7c/1e/1a/7c1e1a21-013c-f31d-dc2c-c8118439641d/18UMGIM66021.rgb.jpg/80x80bb.webp",
+        "length": "3:08"
+    },
+    {
+        "ranking": "55",
+        "title": "Black Rain",
+        "artist": "Kman 6ixx",
+        "album": "Black Rain - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ae/7a/36/ae7a364d-5409-1a01-017a-d6f8d51c5d31/197802973042_KManIxxStill.jpg/80x80bb.webp",
+        "length": "2:18"
+    },
+    {
+        "ranking": "56",
+        "title": "Gogo",
+        "artist": "RajahWild",
+        "album": "Gogo - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2a/33/75/2a3375b4-ee9d-3675-d775-bff24ac6fe97/197190628319.jpg/80x80bb.webp",
+        "length": "2:36"
+    },
+    {
+        "ranking": "57",
+        "title": "Nobody Gets Me",
+        "artist": "SZA",
+        "album": "SOS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
+        "length": "3:00"
+    },
+    {
+        "ranking": "58",
+        "title": "Keep Up",
+        "artist": "Plumpy Boss",
+        "album": "Keep Up - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9a/77/a2/9a77a217-6217-b649-ad8e-981a082a11be/5571.jpg/80x80bb.webp",
+        "length": "3:01"
+    },
+    {
+        "ranking": "59",
+        "title": "Sensational (feat. Davido & Lojay)",
+        "artist": "Chris Brown",
+        "album": "Sensational (feat. Davido & Lojay) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/08/16/08/08160816-d5e8-9be0-56ec-9d8d3dda8ad2/196871554916.jpg/80x80bb.webp",
+        "length": "3:51"
+    },
+    {
+        "ranking": "60",
+        "title": "Dungeon",
+        "artist": "Malie Donn",
+        "album": "Dungeon - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e0/98/07/e09807c9-4e01-c8b0-c950-bf603332eb00/197189683930.jpg/80x80bb.webp",
+        "length": "2:57"
+    },
+    {
+        "ranking": "61",
+        "title": "Levelz (feat. Byron Messia)",
+        "artist": "West Bank Records",
+        "album": "Caribbean Heist, Vol. 1",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e7/42/61/e7426185-0a3c-c935-1532-ce59334f5420/artwork.jpg/80x80bb.webp",
+        "length": "3:10"
+    },
+    {
+        "ranking": "62",
+        "title": "100 Mile",
+        "artist": "RajahWild",
+        "album": "100 Mile - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/02/37/02/0237020c-d2a5-5cd6-b14b-1d0a3e5ec2c0/0.jpg/80x80bb.webp",
+        "length": "2:55"
+    },
+    {
+        "ranking": "63",
+        "title": "Tack Back",
+        "artist": "Kes",
+        "album": "Tack Back - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/42/69/91/42699164-471e-3f97-11bb-44bdc47b2092/197999406248_cover.jpg/80x80bb.webp",
+        "length": "3:18"
+    },
+    {
+        "ranking": "64",
+        "title": "one of wun",
+        "artist": "Gunna",
+        "album": "One of Wun",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/42/4e/45/424e4521-37b7-6f49-293a-98a1285ed7c5/075679660336.jpg/80x80bb.webp",
+        "length": "2:24"
+    },
+    {
+        "ranking": "65",
+        "title": "My Favorite",
+        "artist": "Plumpy Boss",
+        "album": "My Favorite - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5e/92/f1/5e92f123-3e46-f97f-dcac-fdcdb31aac50/5213.jpg/80x80bb.webp",
+        "length": "2:40"
+    },
+    {
+        "ranking": "66",
+        "title": "BIRDS OF A FEATHER",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "3:30"
+    },
+    {
+        "ranking": "67",
+        "title": "Episode",
+        "artist": "Plumpy Boss",
+        "album": "Episode - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/30/a8/54/30a85427-ef6b-ae93-6c34-21b6a093e496/5311.jpg/80x80bb.webp",
+        "length": "3:45"
+    },
+    {
+        "ranking": "68",
+        "title": "N o  C h i l l",
+        "artist": "PARTYNEXTDOOR",
+        "album": "PARTYNEXTDOOR 4 (P4)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0d/de/c5/0ddec5e3-42f6-c550-6227-55dcd7d6b89a/39029.jpg/80x80bb.webp",
+        "length": "4:25"
+    },
+    {
+        "ranking": "69",
+        "title": "Mic Check 12345678 (feat. Shelly)",
+        "artist": "Signal Band",
+        "album": "The Electric Room (feat. Shelly)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5c/a1/0a/5ca10a5d-806b-bb17-c480-dbc275a9904d/artwork.jpg/80x80bb.webp",
+        "length": "1:46"
+    },
+    {
+        "ranking": "70",
+        "title": "Bad Already",
+        "artist": "Plumpy Boss",
+        "album": "Bad Already - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/78/ae/6f78aedc-b961-c5e5-2dfd-a1d2692eee5e/5768.jpg/80x80bb.webp",
+        "length": "2:32"
+    },
+    {
+        "ranking": "71",
+        "title": "IKATION",
+        "artist": "Kraff Gad",
+        "album": "IKATION - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/20/f4/6020f4c1-f374-3745-6720-c3e9e2ac51c9/artwork.jpg/80x80bb.webp",
+        "length": "3:03"
+    },
+    {
+        "ranking": "72",
+        "title": "Attractive (feat. Byron Messia)",
+        "artist": "Jiggy D",
+        "album": "Attractive (feat. Byron Messia) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/31/6d/a2316d96-c06c-19d4-969d-437ba67b98b9/195375534721_cover.jpg/80x80bb.webp",
+        "length": "3:11"
+    },
+    {
+        "ranking": "73",
+        "title": "Last Lap",
+        "artist": "Rod Wave",
+        "album": "Last Lap",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/37/da/5a37da14-dea1-6123-6553-4a24010657e8/196872534610.jpg/80x80bb.webp",
+        "length": "4:08"
+    },
+    {
+        "ranking": "74",
+        "title": "You",
+        "artist": "litleboy lsbeats767",
+        "album": "You - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e3/54/e7/e354e7a8-22ee-eb7a-ba24-c48acc97dc10/artwork.jpg/80x80bb.webp",
+        "length": "3:53"
+    },
+    {
+        "ranking": "75",
+        "title": "Someone Like You",
+        "artist": "litleboy lsbeats767",
+        "album": "Someone Like You - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/cd/57/c2/cd57c27d-6741-7f2a-d726-7ed813e8f661/artwork.jpg/80x80bb.webp",
+        "length": "4:18"
+    },
+    {
+        "ranking": "76",
+        "title": "WHATCHU KNO ABOUT ME",
+        "artist": "GloRilla",
+        "album": "GLORIOUS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/af/7e/28af7e54-74d1-dad1-c103-71f5951e83aa/24UM1IM01471.rgb.jpg/80x80bb.webp",
+        "length": "2:29"
+    },
+    {
+        "ranking": "77",
+        "title": "The Best",
+        "artist": "Rod Wave",
+        "album": "Last Lap",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/37/da/5a37da14-dea1-6123-6553-4a24010657e8/196872534610.jpg/80x80bb.webp",
+        "length": "2:35"
+    },
+    {
+        "ranking": "78",
+        "title": "Liar (feat. Litleboy Lsbeats767)",
+        "artist": "Shemmy J",
+        "album": "Liar (feat. Litleboy Lsbeats767) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/ee/43/2dee437c-f6d5-37b1-186f-4e37aff25c1e/artwork.jpg/80x80bb.webp",
+        "length": "3:28"
+    },
+    {
+        "ranking": "79",
+        "title": "1Rifle (Remix)",
+        "artist": "Najeeriii",
+        "album": "1Rifle (Remix) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c3/1d/94/c31d9463-87db-d4a0-e468-41af0d22a67c/0.jpg/80x80bb.webp",
+        "length": "3:08"
+    },
+    {
+        "ranking": "80",
+        "title": "I LUV HER",
+        "artist": "GloRilla",
+        "album": "GLORIOUS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/af/7e/28af7e54-74d1-dad1-c103-71f5951e83aa/24UM1IM01471.rgb.jpg/80x80bb.webp",
+        "length": "2:56"
+    },
+    {
+        "ranking": "81",
+        "title": "Whites",
+        "artist": "Masicka",
+        "album": "Whites - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/01/27/260127e0-4a19-a2ce-f778-6263789a148d/0.jpg/80x80bb.webp",
+        "length": "4:28"
+    },
+    {
+        "ranking": "82",
+        "title": "Talibans",
+        "artist": "Byron Messia",
+        "album": "No Love",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4f/65/15/4f65159c-285b-5a8d-fbd6-22c6e793a4ff/23UMGIM46699.rgb.jpg/80x80bb.webp",
+        "length": "3:08"
+    },
+    {
+        "ranking": "83",
+        "title": "Ye",
+        "artist": "Burna Boy",
+        "album": "Outside",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9f/95/30/9f9530db-abe1-7bfd-2680-5762c45f8157/075679878533.jpg/80x80bb.webp",
+        "length": "3:51"
+    },
+    {
+        "ranking": "84",
+        "title": "Catch 22",
+        "artist": "Prince Swanny",
+        "album": "Catch 22 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3a/64/62/3a64628f-2ded-29a7-a2c3-9588b5ec18ce/720665653167_cover.jpg/80x80bb.webp",
+        "length": "4:10"
+    },
+    {
+        "ranking": "85",
+        "title": "It's Plenty",
+        "artist": "Burna Boy",
+        "album": "Love, Damini",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/34/42/db/3442dbd6-644f-a111-8344-0151ffb93313/075679745156.jpg/80x80bb.webp",
+        "length": "3:36"
+    },
+    {
+        "ranking": "86",
+        "title": "Numbers Don't Lie",
+        "artist": "Popcaan",
+        "album": "Vanquish",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/78/b2/0a/78b20a3e-806e-2477-7c79-a67d6f2af9da/27238.jpg/80x80bb.webp",
+        "length": "2:41"
+    },
+    {
+        "ranking": "87",
+        "title": "Barbies",
+        "artist": "Valiant",
+        "album": "Barbies - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/79/b0/02/79b00241-6136-5e67-e154-ff5d93f1fdd2/0.jpg/80x80bb.webp",
+        "length": "2:42"
+    },
+    {
+        "ranking": "88",
+        "title": "Everything Nice",
+        "artist": "Popcaan",
+        "album": "Where We Come From",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f0/57/ef/f057ef59-f418-8e7f-c0a3-f81d5536f647/812388021047.png/80x80bb.webp",
+        "length": "4:17"
+    },
+    {
+        "ranking": "89",
+        "title": "Vent",
+        "artist": "Byron Messia",
+        "album": "No Love",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4f/65/15/4f65159c-285b-5a8d-fbd6-22c6e793a4ff/23UMGIM46699.rgb.jpg/80x80bb.webp",
+        "length": "3:26"
+    },
+    {
+        "ranking": "90",
+        "title": "Tell Me",
+        "artist": "Prince Swanny",
+        "album": "Serenity",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/77/13/e4/7713e476-7174-7b4d-06bb-abf942371494/195919221292_cover.jpg/80x80bb.webp",
+        "length": "3:07"
+    },
+    {
+        "ranking": "91",
+        "title": "Narcissistic",
+        "artist": "Valiant",
+        "album": "Narcissistic - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/e2/71/09/e271096b-0876-0eb6-acf4-f502e62cc1b2/195375262150_cover.jpg/80x80bb.webp",
+        "length": "3:02"
+    },
+    {
+        "ranking": "92",
+        "title": "All My Life (feat. J. Cole)",
+        "artist": "Lil Durk",
+        "album": "Almost Healed",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a4/e4/4e/a4e44eeb-6753-0201-e1f7-df4c1d21da0e/196871132374.jpg/80x80bb.webp",
+        "length": "3:43"
+    },
+    {
+        "ranking": "93",
+        "title": "Nice For What",
+        "artist": "Drake",
+        "album": "Scorpion",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1f/37/43/1f374304-2e04-2be3-53ea-41dd6f0b6fb8/00602567892410.rgb.jpg/80x80bb.webp",
+        "length": "3:30"
+    },
+    {
+        "ranking": "94",
+        "title": "Against the World",
+        "artist": "Prince Swanny",
+        "album": "Against the World - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/59/04/ed/5904edb2-6511-71a7-970e-e94cd94022d9/709401349588_cover.jpg/80x80bb.webp",
+        "length": "3:07"
+    },
+    {
+        "ranking": "95",
+        "title": "Girls Want Girls (feat. Lil Baby)",
+        "artist": "Drake",
+        "album": "Certified Lover Boy",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/11/36/38/1136384a-eebc-697a-c005-d890e41c0854/21UM1IM07518.rgb.jpg/80x80bb.webp",
+        "length": "3:41"
+    },
+    {
+        "ranking": "96",
+        "title": "Playboy",
+        "artist": "Fireboy DML",
+        "album": "Playboy - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/0d/29/c5/0d29c5f6-5d6b-e492-0797-09c6450f141b/194690796517_cover.jpg/80x80bb.webp",
+        "length": "3:27"
+    },
+    {
+        "ranking": "97",
+        "title": "Journey",
+        "artist": "450",
+        "album": "Journey - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/72/2d/8d/722d8d34-070e-6389-11cb-d2119f4649b7/195375146917.png/80x80bb.webp",
+        "length": "3:08"
+    },
+    {
+        "ranking": "98",
+        "title": "90z",
+        "artist": "Byron Messia",
+        "album": "90z - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/db/45/08/db450814-acd1-6f0a-49be-02412f6cec86/23UMGIM56480.rgb.jpg/80x80bb.webp",
+        "length": "2:52"
+    },
+    {
+        "ranking": "99",
+        "title": "Peace of Mind",
+        "artist": "SQUASH",
+        "album": "Peace of Mind - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/57/3e/e2/573ee236-9526-a51b-43d0-180e4c9c0ab5/196925574969.jpg/80x80bb.webp",
+        "length": "2:35"
+    },
+    {
+        "ranking": "100",
+        "title": "Tru Nuh Boi (feat. EKS)",
+        "artist": "DJ Taffy",
+        "album": "Tru Nuh Boi (feat. EKS) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d9/e3/e2/d9e3e2ae-f96a-06bb-d3ad-8f810c8358d2/artwork.jpg/80x80bb.webp",
+        "length": "3:03"
+    }
+]
