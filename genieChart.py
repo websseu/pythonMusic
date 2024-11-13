@@ -46,7 +46,7 @@ for url in urls:
             "ranking": ranking,
             "title": title,
             "artist": artist,
-            "imageURL": image,
+            "image": image,
             "album": album
         })
 

@@ -40,12 +40,12 @@ albums = [a.text.strip() for a in album]
 
 # 데이터 프레임 생성
 chart_data = []
-for ranking, title, artist, image_url, album in zip(rankings, titles, artists, images, albums):
+for ranking, title, artist, image, album in zip(rankings, titles, artists, images, albums):
     chart_data.append({
         "ranking": ranking,
         "title": title,
         "artist": artist,
-        "imageURL": image_url,
+        "image": image,
         "album": album
     })
 
