@@ -1,0 +1,802 @@
+[
+    {
+        "ranking": "1",
+        "title": "Tabbu",
+        "artist": "Dax Vibez",
+        "album": "Tabbu - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4c/ae/f3/4caef3f2-d345-250f-c24a-b13740e8803b/859795882717_cover.jpg/80x80bb.webp",
+        "length": "3:07"
+    },
+    {
+        "ranking": "2",
+        "title": "God Ye Buddy",
+        "artist": "Azawi",
+        "album": "God Ye Buddy - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/10/dc/1d10dc33-6cb0-8d47-25a4-8b46316ad230/8721253015345.png/80x80bb.webp",
+        "length": "4:23"
+    },
+    {
+        "ranking": "3",
+        "title": "KANTE (feat. Fave)",
+        "artist": "Davido",
+        "album": "Timeless",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
+        "length": "3:14"
+    },
+    {
+        "ranking": "4",
+        "title": "Full Service",
+        "artist": "Elijah Kitaka",
+        "album": "Swangz Avenue Presents: Swangz All Star, Vol. 1",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/e2/1b/d6e21b28-860b-83c7-ee3c-81625ebcab7b/8721253149156.png/80x80bb.webp",
+        "length": "3:24"
+    },
+    {
+        "ranking": "5",
+        "title": "Bae Bae",
+        "artist": "Ruger",
+        "album": "RnB",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/45/ab/00/45ab0092-4f5b-af75-68a2-7892edbb775d/197342544658_cover.jpg/80x80bb.webp",
+        "length": "2:34"
+    },
+    {
+        "ranking": "6",
+        "title": "Awolowo",
+        "artist": "Fido",
+        "album": "Awolowo - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/47/35/62473588-693f-71ba-87cb-29f90cfb637d/386564.jpg/80x80bb.webp",
+        "length": "2:15"
+    },
+    {
+        "ranking": "7",
+        "title": "Dawa",
+        "artist": "Elijah Kitaka",
+        "album": "Dawa - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7e/17/72/7e1772a1-f2c4-d000-d1c4-6dd2f46223c2/8721093345909.png/80x80bb.webp",
+        "length": "3:12"
+    },
+    {
+        "ranking": "8",
+        "title": "Biri Marung (feat. Sje Konka, Focalistic, DJ Maphorisa, Scotts Maphuma & CowBoii)",
+        "artist": "Mr Pilato",
+        "album": "Biri Marung (feat. Sje Konka, Focalistic, DJ Maphorisa, Scotts Maphuma & CowBoii) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/22/e6/01/22e60183-8ce0-d820-4cd0-3353a8bb1edc/196872635690.jpg/80x80bb.webp",
+        "length": "7:34"
+    },
+    {
+        "ranking": "9",
+        "title": "Extra Pressure",
+        "artist": "Bensoul",
+        "album": "The Party & The After Party",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/eb/ff/d3ebff0d-3f49-518b-7f20-d7958a10bcfc/766214665489.png/80x80bb.webp",
+        "length": "2:50"
+    },
+    {
+        "ranking": "10",
+        "title": "Digii IV",
+        "artist": "Mr.Tee",
+        "album": "Digii IV - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/c2/e4/fdc2e498-e7de-0f08-91d9-f2bc20912f77/8721093480082.png/80x80bb.webp",
+        "length": "2:25"
+    },
+    {
+        "ranking": "11",
+        "title": "Goddess",
+        "artist": "Bayanni",
+        "album": "Goddess - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/de/36/3ede3661-6296-6586-b053-b605fd228d37/24UMGIM86321.rgb.jpg/80x80bb.webp",
+        "length": "2:30"
+    },
+    {
+        "ranking": "12",
+        "title": "Piece of My Heart (feat. Brent Faiyaz)",
+        "artist": "Wizkid",
+        "album": "Piece of My Heart (feat. Brent Faiyaz) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/6a/1d/316a1d33-c077-d011-54ac-d2fda862896f/196872495171.jpg/80x80bb.webp",
+        "length": "4:19"
+    },
+    {
+        "ranking": "13",
+        "title": "Dawa (Remix)",
+        "artist": "Elijah Kitaka",
+        "album": "Swangz Avenue Presents: Swangz All Star, Vol. 1",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/e2/1b/d6e21b28-860b-83c7-ee3c-81625ebcab7b/8721253149156.png/80x80bb.webp",
+        "length": "3:12"
+    },
+    {
+        "ranking": "14",
+        "title": "Omemma (Live)",
+        "artist": "Chandler Moore",
+        "album": "Chandler Moore: Live in Los Angeles",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/1e/8b/841e8b1c-ed72-03b7-483e-3c108ca7cff7/198588454435.jpg/80x80bb.webp",
+        "length": "11:25"
+    },
+    {
+        "ranking": "15",
+        "title": "BIRDS OF A FEATHER",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "3:30"
+    },
+    {
+        "ranking": "16",
+        "title": "Residuals",
+        "artist": "Chris Brown",
+        "album": "11:11 (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/5c/c1/2d5cc1a6-86ce-ee16-5985-807f2fffa3cb/196871957267.jpg/80x80bb.webp",
+        "length": "3:35"
+    },
+    {
+        "ranking": "17",
+        "title": "Angel Numbers / Ten Toes",
+        "artist": "Chris Brown",
+        "album": "11:11",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/39/25/4f/39254fd0-e839-c63f-abbe-7423d2c137bf/196871463010.jpg/80x80bb.webp",
+        "length": "5:06"
+    },
+    {
+        "ranking": "18",
+        "title": "Commas",
+        "artist": "Ayra Starr",
+        "album": "The Year I Turned 21",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/b2/de/44b2de15-4e05-77d8-14f3-ec5387ea24ec/24UMGIM51453.rgb.jpg/80x80bb.webp",
+        "length": "2:37"
+    },
+    {
+        "ranking": "19",
+        "title": "Falayidid",
+        "artist": "Zafaran",
+        "album": "Swangz Avenue Presents: Swangz All Star, Vol. 1",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/e2/1b/d6e21b28-860b-83c7-ee3c-81625ebcab7b/8721253149156.png/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
+        "ranking": "20",
+        "title": "Amin Dada",
+        "artist": "Azawi",
+        "album": "Swangz Avenue Presents: Swangz All Star, Vol. 1",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/e2/1b/d6e21b28-860b-83c7-ee3c-81625ebcab7b/8721253149156.png/80x80bb.webp",
+        "length": "2:42"
+    },
+    {
+        "ranking": "21",
+        "title": "Wanika Bendera",
+        "artist": "Vinka",
+        "album": "Swangz Avenue Presents: Swangz All Star, Vol. 1",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/e2/1b/d6e21b28-860b-83c7-ee3c-81625ebcab7b/8721253149156.png/80x80bb.webp",
+        "length": "3:23"
+    },
+    {
+        "ranking": "22",
+        "title": "Love Me JeJe",
+        "artist": "Tems",
+        "album": "Love Me JeJe - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e5/a2/55/e5a255b3-f83e-f67a-e20f-23962b18dc3a/196871994545.jpg/80x80bb.webp",
+        "length": "2:58"
+    },
+    {
+        "ranking": "23",
+        "title": "Ogechi (feat. Davido) [Remix]",
+        "artist": "BoyPee",
+        "album": "Ogechi (feat. Davido) [Remix] - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/ce/d9/5eced9f8-8b41-02e1-16b1-b0946739b881/766214751045.png/80x80bb.webp",
+        "length": "3:12"
+    },
+    {
+        "ranking": "24",
+        "title": "Red Flag",
+        "artist": "Azawi",
+        "album": "Swangz Avenue Presents: Swangz All Star, Vol. 1",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/e2/1b/d6e21b28-860b-83c7-ee3c-81625ebcab7b/8721253149156.png/80x80bb.webp",
+        "length": "3:17"
+    },
+    {
+        "ranking": "25",
+        "title": "MMS",
+        "artist": "Asake",
+        "album": "Lungu Boy",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/34/59/383459da-ba6a-4bee-67df-7de269764383/197342707992_cover.jpg/80x80bb.webp",
+        "length": "3:39"
+    },
+    {
+        "ranking": "26",
+        "title": "Uzozisola (feat. Diamonds of Gwijo & Azul Serene)",
+        "artist": "Justin Vibes",
+        "album": "Uzozisola (feat. Diamonds of Gwijo & Azul Serene) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d1/db/bc/d1dbbc08-6c74-ec4d-1bda-e4d6c7e43b3b/artwork.jpg/80x80bb.webp",
+        "length": "4:30"
+    },
+    {
+        "ranking": "27",
+        "title": "PUSH 2 START",
+        "artist": "Tyla",
+        "album": "TYLA +",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2a/cc/48/2acc48c7-e092-6b83-ce65-ff80ac6eb51c/196872520118.jpg/80x80bb.webp",
+        "length": "2:36"
+    },
+    {
+        "ranking": "28",
+        "title": "I Know",
+        "artist": "Winnie Nwagi",
+        "album": "Swangz Avenue Presents: Swangz All Star, Vol. 1",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/e2/1b/d6e21b28-860b-83c7-ee3c-81625ebcab7b/8721253149156.png/80x80bb.webp",
+        "length": "3:28"
+    },
+    {
+        "ranking": "29",
+        "title": "Delusional",
+        "artist": "Chris Brown",
+        "album": "11:11 (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/5c/c1/2d5cc1a6-86ce-ee16-5985-807f2fffa3cb/196871957267.jpg/80x80bb.webp",
+        "length": "3:37"
+    },
+    {
+        "ranking": "30",
+        "title": "Nayomi (feat. Joshua Baraka)",
+        "artist": "Mun * G",
+        "album": "Nayomi (feat. Joshua Baraka) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ce/fc/a9/cefca92a-560b-ce75-ad8b-2e19c2bff905/artwork.jpg/80x80bb.webp",
+        "length": "2:37"
+    },
+    {
+        "ranking": "31",
+        "title": "Last Heartbreak Song",
+        "artist": "Ayra Starr",
+        "album": "The Year I Turned 21",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fa/d4/c4/fad4c4ce-2b3f-0304-8965-3c618987824e/24UMGIM51453.rgb.jpg/80x80bb.webp",
+        "length": "2:29"
+    },
+    {
+        "ranking": "32",
+        "title": "Favourite Girl (with Rema)",
+        "artist": "Darkoo",
+        "album": "Favourite Girl (with Rema) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/3b/d2/ed3bd229-c28b-d2c9-eba9-fceb2f61c6a1/5063549409500_cover.jpg/80x80bb.webp",
+        "length": "3:04"
+    },
+    {
+        "ranking": "33",
+        "title": "Lukusuuta",
+        "artist": "Stream Of Life Choir",
+        "album": "Lukusuuta - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/c1/30/5cc1301d-8705-fa26-7dc3-f8eec1d7ba17/7300341383071.jpg/80x80bb.webp",
+        "length": "4:16"
+    },
+    {
+        "ranking": "34",
+        "title": "Complicated",
+        "artist": "FAVE",
+        "album": "Dutty Love",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f4/99/00/f499000b-ab1e-fc63-f73c-a63de24a9c42/075679661050.jpg/80x80bb.webp",
+        "length": "2:36"
+    },
+    {
+        "ranking": "35",
+        "title": "Promises (feat. Joe L Barnes)",
+        "artist": "Maverick City Music",
+        "album": "Maverick City Music, Vol. 3: Pt. 1",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0c/2b/c1/0c2bc1e0-a671-4b6c-c184-3dfef7b51b91/859738402026.jpg/80x80bb.webp",
+        "length": "10:46"
+    },
+    {
+        "ranking": "36",
+        "title": "American Love",
+        "artist": "Qing Madi",
+        "album": "Qing Madi",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2c/d2/7b/2cd27b39-4ba6-ef9b-d5f6-0ae5a3db89eb/196871574891.jpg/80x80bb.webp",
+        "length": "3:09"
+    },
+    {
+        "ranking": "37",
+        "title": "For Sure",
+        "artist": "Arrow Bwoy",
+        "album": "Swangz Avenue Presents: Swangz All Star, Vol. 1",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/e2/1b/d6e21b28-860b-83c7-ee3c-81625ebcab7b/8721253149156.png/80x80bb.webp",
+        "length": "3:14"
+    },
+    {
+        "ranking": "38",
+        "title": "Kikumi Kinaana (I'm Not Going Away)",
+        "artist": "Azawi",
+        "album": "Swangz Avenue Presents: Swangz All Star, Vol. 1",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/e2/1b/d6e21b28-860b-83c7-ee3c-81625ebcab7b/8721253149156.png/80x80bb.webp",
+        "length": "3:18"
+    },
+    {
+        "ranking": "39",
+        "title": "Last Last",
+        "artist": "Burna Boy",
+        "album": "Love, Damini",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/34/42/db/3442dbd6-644f-a111-8344-0151ffb93313/075679745156.jpg/80x80bb.webp",
+        "length": "2:52"
+    },
+    {
+        "ranking": "40",
+        "title": "Ngozi",
+        "artist": "Crayon",
+        "album": "Trench to Triumph",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/da/0a/6e/da0a6e7d-769d-209b-c8f8-c9af3789b0ee/5059449136325.png/80x80bb.webp",
+        "length": "3:41"
+    },
+    {
+        "ranking": "41",
+        "title": "Jireh (feat. Chandler Moore & Naomi Raine)",
+        "artist": "Elevation Worship",
+        "album": "Old Church Basement",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ac/fb/2e/acfb2e1b-5a2a-6ad2-401f-aeb16df85673/886449130207.jpg/80x80bb.webp",
+        "length": "9:58"
+    },
+    {
+        "ranking": "42",
+        "title": "everyday",
+        "artist": "Fireboy DML",
+        "album": "everyday - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/8e/31/db8e319e-27bd-0646-5423-d9e8c0e5f5c7/197342563185_cover.jpg/80x80bb.webp",
+        "length": "2:46"
+    },
+    {
+        "ranking": "43",
+        "title": "Risk",
+        "artist": "Victony",
+        "album": "Stubborn",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ce/da/f8/cedaf8af-a2bc-0a35-7dda-afe3d777f217/8721093361176.png/80x80bb.webp",
+        "length": "3:22"
+    },
+    {
+        "ranking": "44",
+        "title": "Timeless",
+        "artist": "The Weeknd",
+        "album": "Timeless - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
+        "length": "4:16"
+    },
+    {
+        "ranking": "45",
+        "title": "Remember",
+        "artist": "Asake",
+        "album": "Work Of Art",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cc/23/83/cc2383d9-eecc-f974-5f5b-d445c583acdb/197342233958_cover.jpg/80x80bb.webp",
+        "length": "3:02"
+    },
+    {
+        "ranking": "46",
+        "title": "Batuleke",
+        "artist": "Vinka",
+        "album": "Swangz Avenue Presents: Swangz All Star, Vol. 1",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/e2/1b/d6e21b28-860b-83c7-ee3c-81625ebcab7b/8721253149156.png/80x80bb.webp",
+        "length": "2:52"
+    },
+    {
+        "ranking": "47",
+        "title": "Wedding",
+        "artist": "Azawi",
+        "album": "Swangz Avenue Presents: Swangz All Star, Vol. 1",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/e2/1b/d6e21b28-860b-83c7-ee3c-81625ebcab7b/8721253149156.png/80x80bb.webp",
+        "length": "2:30"
+    },
+    {
+        "ranking": "48",
+        "title": "Set It (feat. AJAY (Buruklynboyz))",
+        "artist": "Dyana Cods",
+        "album": "Set It (feat. AJAY (Buruklynboyz)) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6b/09/8c/6b098c42-26f6-951b-b21c-8e1c75e3e947/artwork.jpg/80x80bb.webp",
+        "length": "2:45"
+    },
+    {
+        "ranking": "49",
+        "title": "Lonely At The Top",
+        "artist": "Asake",
+        "album": "Work Of Art",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cc/23/83/cc2383d9-eecc-f974-5f5b-d445c583acdb/197342233958_cover.jpg/80x80bb.webp",
+        "length": "2:37"
+    },
+    {
+        "ranking": "50",
+        "title": "Under the Influence",
+        "artist": "Chris Brown",
+        "album": "Indigo (Extended)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/96/1b/c9/961bc949-7e03-2670-f612-72c34ece6a22/886447924464.jpg/80x80bb.webp",
+        "length": "3:04"
+    },
+    {
+        "ranking": "51",
+        "title": "Ole",
+        "artist": "Qing Madi",
+        "album": "Ole - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/12/77/6f/12776f42-0d2d-9df5-2069-3cb59f0b00f6/196871335195.jpg/80x80bb.webp",
+        "length": "2:50"
+    },
+    {
+        "ranking": "52",
+        "title": "Charm",
+        "artist": "Rema",
+        "album": "Rave & Roses Ultra",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c8/97/ea/c897ea8e-fbc6-d4b8-48fe-d9e31b46f1ed/23SYMIM04172.rgb.jpg/80x80bb.webp",
+        "length": "3:24"
+    },
+    {
+        "ranking": "53",
+        "title": "Holy Ghost",
+        "artist": "Omah Lay",
+        "album": "Holy Ghost - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/93/e8/88/93e88861-c093-8e4f-019a-c43f7afc5c03/054391356826.jpg/80x80bb.webp",
+        "length": "3:06"
+    },
+    {
+        "ranking": "54",
+        "title": "Finally",
+        "artist": "Elijah Kitaka",
+        "album": "Swangz Avenue Presents: Swangz All Star, Vol. 1",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/e2/1b/d6e21b28-860b-83c7-ee3c-81625ebcab7b/8721253149156.png/80x80bb.webp",
+        "length": "2:40"
+    },
+    {
+        "ranking": "55",
+        "title": "Bandana",
+        "artist": "Fireboy DML",
+        "album": "Playboy",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f3/e9/34/f3e93478-8d0e-b366-55c1-bfc05d2f4e0b/194690888939_cover.jpg/80x80bb.webp",
+        "length": "2:58"
+    },
+    {
+        "ranking": "56",
+        "title": "Rush",
+        "artist": "Ayra Starr",
+        "album": "19 & Dangerous (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b5/4a/3d/b54a3d1a-f493-7a9b-1807-a73f01709053/5059449090122.png/80x80bb.webp",
+        "length": "3:05"
+    },
+    {
+        "ranking": "57",
+        "title": "Not Like Us",
+        "artist": "Kendrick Lamar",
+        "album": "Not Like Us - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
+        "length": "4:34"
+    },
+    {
+        "ranking": "58",
+        "title": "WILDFLOWER",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "4:21"
+    },
+    {
+        "ranking": "59",
+        "title": "It's Plenty",
+        "artist": "Burna Boy",
+        "album": "Love, Damini",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/34/42/db/3442dbd6-644f-a111-8344-0151ffb93313/075679745156.jpg/80x80bb.webp",
+        "length": "3:36"
+    },
+    {
+        "ranking": "60",
+        "title": "Oceans (Where Feet May Fail)",
+        "artist": "Hillsong UNITED",
+        "album": "Zion (Deluxe Edition)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/67/3c/37/673c37c8-11eb-ebcf-b281-8e8647c2b1e6/13UABIM58891.rgb.jpg/80x80bb.webp",
+        "length": "8:55"
+    },
+    {
+        "ranking": "61",
+        "title": "Adenuga (feat. Qing Madi)",
+        "artist": "Joeboy",
+        "album": "Adenuga x Concerning - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/2d/7a/132d7afe-9e69-34d1-c021-e835d275886c/5021732265784.jpg/80x80bb.webp",
+        "length": "2:40"
+    },
+    {
+        "ranking": "62",
+        "title": "Tested, Approved & Trusted",
+        "artist": "Burna Boy",
+        "album": "I Told Them...",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/01/ee/63/01ee6370-1805-15e4-de8c-293a889a439c/075679676351.jpg/80x80bb.webp",
+        "length": "3:40"
+    },
+    {
+        "ranking": "63",
+        "title": "UNAVAILABLE (feat. Musa Keys)",
+        "artist": "Davido",
+        "album": "Timeless",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
+        "ranking": "64",
+        "title": "Twinkle",
+        "artist": "Dexta Daps",
+        "album": "Vent",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/db/07/86/db078645-0cdc-946c-9fcb-e7696f9efde4/748926850476_cover.jpg/80x80bb.webp",
+        "length": "3:16"
+    },
+    {
+        "ranking": "65",
+        "title": "Rehab",
+        "artist": "Rihanna",
+        "album": "Good Girl Gone Bad: Reloaded",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2b/c0/81/2bc081c8-25f0-ba43-d451-587a54613778/16UMGIM59202.rgb.jpg/80x80bb.webp",
+        "length": "4:54"
+    },
+    {
+        "ranking": "66",
+        "title": "Asylum",
+        "artist": "Olivetheboy",
+        "album": "Avana (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9c/15/a8/9c15a80b-df7c-b1c7-6811-85661bb26374/196871836722.jpg/80x80bb.webp",
+        "length": "3:02"
+    },
+    {
+        "ranking": "67",
+        "title": "Die With A Smile",
+        "artist": "Lady Gaga",
+        "album": "Die With A Smile - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
+        "length": "4:11"
+    },
+    {
+        "ranking": "68",
+        "title": "Mary Jane",
+        "artist": "Azawi",
+        "album": "Swangz Avenue Presents: Swangz All Star, Vol. 1",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/e2/1b/d6e21b28-860b-83c7-ee3c-81625ebcab7b/8721253149156.png/80x80bb.webp",
+        "length": "3:52"
+    },
+    {
+        "ranking": "69",
+        "title": "Firm Foundation (He Won't)",
+        "artist": "Maverick City Music",
+        "album": "Firm Foundation (He Won't) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/36/0f/76/360f76c4-69bf-b987-1a22-281ecf4ee9cc/196626154507.jpg/80x80bb.webp",
+        "length": "8:44"
+    },
+    {
+        "ranking": "70",
+        "title": "Snooze",
+        "artist": "SZA",
+        "album": "SOS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
+        "length": "3:21"
+    },
+    {
+        "ranking": "71",
+        "title": "Praise (feat. Brandon Lake, Chris Brown & Chandler Moore)",
+        "artist": "Elevation Worship",
+        "album": "CAN YOU IMAGINE?",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a8/87/4e/a8874e28-75b5-9ba1-b3a5-ccf5adf35e4f/196871015363.jpg/80x80bb.webp",
+        "length": "5:04"
+    },
+    {
+        "ranking": "72",
+        "title": "Right Now",
+        "artist": "Darkoo",
+        "album": "Right Now - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/19/28/5e192896-0c79-bbd3-940d-54919b04903c/5063616025213_cover.jpg/80x80bb.webp",
+        "length": "2:50"
+    },
+    {
+        "ranking": "73",
+        "title": "FEEL",
+        "artist": "Davido",
+        "album": "Timeless",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
+        "length": "2:34"
+    },
+    {
+        "ranking": "74",
+        "title": "City Boys",
+        "artist": "Burna Boy",
+        "album": "Hoje o dia tá bonito",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/46/29/bb462951-94f3-8260-4199-2f363aac0932/5059460349346.jpg/80x80bb.webp",
+        "length": "2:33"
+    },
+    {
+        "ranking": "75",
+        "title": "Sphesihle (feat. Mthunzi)",
+        "artist": "Thabsie",
+        "album": "Sphesihle (feat. Mthunzi) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f2/76/b7/f276b7fb-9b5e-1e20-1f8b-156ad33a3289/886448099581.jpg/80x80bb.webp",
+        "length": "4:32"
+    },
+    {
+        "ranking": "76",
+        "title": "Active",
+        "artist": "Asake",
+        "album": "Lungu Boy",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/34/59/383459da-ba6a-4bee-67df-7de269764383/197342707992_cover.jpg/80x80bb.webp",
+        "length": "2:52"
+    },
+    {
+        "ranking": "77",
+        "title": "Okay",
+        "artist": "Adekunle Gold",
+        "album": "Afro Pop, Vol. 1",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/24/c9/d4/24c9d417-4ad7-9872-7170-e03033b28509/20UMGIM17570.rgb.jpg/80x80bb.webp",
+        "length": "3:06"
+    },
+    {
+        "ranking": "78",
+        "title": "Ku Nnya",
+        "artist": "Mudra D Viral",
+        "album": "Ku Nnya - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/3b/d5/f03bd50e-5797-f7f8-49e5-08d2f7e91ba4/859792427300_cover.jpg/80x80bb.webp",
+        "length": "3:09"
+    },
+    {
+        "ranking": "79",
+        "title": "Again",
+        "artist": "Wande Coal",
+        "album": "Again - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5b/92/c4/5b92c418-fe12-2147-dda7-a72d87b1fdf5/194690105425_cover.jpg/80x80bb.webp",
+        "length": "2:34"
+    },
+    {
+        "ranking": "80",
+        "title": "Terminator",
+        "artist": "Asake",
+        "album": "Mr. Money With The Vibe",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5e/4f/66/5e4f6644-a234-d037-609d-7ed53fd6c7f9/194690909856_cover.jpg/80x80bb.webp",
+        "length": "2:35"
+    },
+    {
+        "ranking": "81",
+        "title": "Work (feat. Drake)",
+        "artist": "Rihanna",
+        "album": "ANTI (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/11/e9/60/11e9600c-7f3a-424b-1643-97c69f7e8067/16UMGIM03373.rgb.jpg/80x80bb.webp",
+        "length": "3:39"
+    },
+    {
+        "ranking": "82",
+        "title": "Bad Influence",
+        "artist": "Omah Lay",
+        "album": "Get Layd - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ef/49/86/ef49860e-ba89-32ab-797e-25f85e11271c/093624888147.jpg/80x80bb.webp",
+        "length": "2:18"
+    },
+    {
+        "ranking": "83",
+        "title": "Come Closer (feat. Drake)",
+        "artist": "Wizkid",
+        "album": "Sounds From the Other Side",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a2/26/5c/a2265cf3-4a4b-872a-f516-511073542cec/886446425689.jpg/80x80bb.webp",
+        "length": "3:31"
+    },
+    {
+        "ranking": "84",
+        "title": "Onjagade Mulwaatu",
+        "artist": "Jamie Ategeka",
+        "album": "Onjagade Mulwaatu - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/98/c0/47/98c04723-2bf7-b1f6-53ba-9e911161e954/198500320817.jpg/80x80bb.webp",
+        "length": "3:07"
+    },
+    {
+        "ranking": "85",
+        "title": "No Underwear",
+        "artist": "Dexta Daps",
+        "album": "No Underwear - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/41/c7/a8/41c7a8ac-a213-13e4-3e58-dd61c7da71d0/193483510941.jpg/80x80bb.webp",
+        "length": "3:22"
+    },
+    {
+        "ranking": "86",
+        "title": "Okubye Nyo",
+        "artist": "Winnie Nwagi",
+        "album": "Okubye Nyo - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/38/2a/33/382a3333-4c9c-6e56-f6d7-2c78347ae9dd/8721056123186.png/80x80bb.webp",
+        "length": "2:27"
+    },
+    {
+        "ranking": "87",
+        "title": "Touch Me",
+        "artist": "Krizbeatz",
+        "album": "Touch Me - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/99/90/689990a8-5983-cc4d-3f0e-ec05c9f07ea3/0.jpg/80x80bb.webp",
+        "length": "2:25"
+    },
+    {
+        "ranking": "88",
+        "title": "Nakati",
+        "artist": "Ya Levis",
+        "album": "Nakati - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/49/fe/30/49fe30a9-c212-e41f-4fa4-9f332373aa29/886448959687.jpg/80x80bb.webp",
+        "length": "4:01"
+    },
+    {
+        "ranking": "89",
+        "title": "Awuke",
+        "artist": "Davido",
+        "album": "Awuke - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/bc/1f/0cbc1f82-dd46-46d4-e8d8-1ba5f3b97712/196872531879.jpg/80x80bb.webp",
+        "length": "2:52"
+    },
+    {
+        "ranking": "90",
+        "title": "Wewe",
+        "artist": "Azawi",
+        "album": "Swangz Avenue Presents: Swangz All Star, Vol. 1",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/e2/1b/d6e21b28-860b-83c7-ee3c-81625ebcab7b/8721253149156.png/80x80bb.webp",
+        "length": "3:53"
+    },
+    {
+        "ranking": "91",
+        "title": "Nzaza",
+        "artist": "Asake",
+        "album": "Mr. Money With The Vibe",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5e/4f/66/5e4f6644-a234-d037-609d-7ed53fd6c7f9/194690909856_cover.jpg/80x80bb.webp",
+        "length": "3:03"
+    },
+    {
+        "ranking": "92",
+        "title": "Everything",
+        "artist": "Victony",
+        "album": "Everything - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5e/e7/75/5ee775b1-d7cc-29f5-21c8-2dcdd47a1eac/8721056513772.png/80x80bb.webp",
+        "length": "2:46"
+    },
+    {
+        "ranking": "93",
+        "title": "More Than Able (feat. Chandler Moore & Tiffany Hudson)",
+        "artist": "Elevation Worship",
+        "album": "CAN YOU IMAGINE?",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a8/87/4e/a8874e28-75b5-9ba1-b3a5-ccf5adf35e4f/196871015363.jpg/80x80bb.webp",
+        "length": "9:58"
+    },
+    {
+        "ranking": "94",
+        "title": "Fi Kan We Kan",
+        "artist": "Bnxn",
+        "album": "Fi Kan We Kan - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/88/74/07/887407b0-febd-177f-0355-5a849aa06c8a/197342764742_cover.jpg/80x80bb.webp",
+        "length": "2:39"
+    },
+    {
+        "ranking": "95",
+        "title": "God Ye Buddy (Amapiano Dance Remix)",
+        "artist": "Azawi",
+        "album": "Swangz Avenue Presents: Swangz All Star, Vol. 1",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/e2/1b/d6e21b28-860b-83c7-ee3c-81625ebcab7b/8721253149156.png/80x80bb.webp",
+        "length": "6:07"
+    },
+    {
+        "ranking": "96",
+        "title": "Sensational (feat. Davido & Lojay)",
+        "artist": "Chris Brown",
+        "album": "Sensational (feat. Davido & Lojay) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/08/16/08/08160816-d5e8-9be0-56ec-9d8d3dda8ad2/196871554916.jpg/80x80bb.webp",
+        "length": "3:51"
+    },
+    {
+        "ranking": "97",
+        "title": "Hosanna",
+        "artist": "Hillsong Worship",
+        "album": "Take Heart (Again) [Deluxe]",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d4/19/aa/d419aa10-c679-f22a-2217-1d84cb53f2db/20UMGIM90854.rgb.jpg/80x80bb.webp",
+        "length": "4:37"
+    },
+    {
+        "ranking": "98",
+        "title": "Fair Trade (feat. Travis Scott)",
+        "artist": "Drake",
+        "album": "Certified Lover Boy",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/11/36/38/1136384a-eebc-697a-c005-d890e41c0854/21UM1IM07518.rgb.jpg/80x80bb.webp",
+        "length": "4:51"
+    },
+    {
+        "ranking": "99",
+        "title": "Manzi Nte (feat. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Al Xapo)",
+        "artist": "Tyler ICU",
+        "album": "Manzi Nte (feat. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Al Xapo) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e8/a2/51/e8a251ad-f6a1-12a9-ffb4-defc0a1518ca/196872136647.jpg/80x80bb.webp",
+        "length": "7:23"
+    },
+    {
+        "ranking": "100",
+        "title": "NO COMPETITION (feat. Asake)",
+        "artist": "Davido",
+        "album": "Timeless",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
+        "length": "2:36"
+    }
+]
