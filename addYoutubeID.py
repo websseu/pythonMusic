@@ -6,6 +6,10 @@ import glob
 file1_path = "korea/totalKoreaMusic.json"
 folder_paths = ["korea/apple", "korea/bugs", "korea/flo", "korea/genie", "korea/melon", "korea/vibe"]
 
+# 표준화 함수: 공백 제거 및 소문자 변환
+def standardize(text):
+    return text.replace(" ", "").lower() if text else ""
+
 try:
     # 첫 번째 파일 로드
     data1 = []
@@ -19,7 +23,7 @@ try:
 
     # 첫 번째 파일의 title, artist, youtubeID 매핑 생성
     youtube_id_map = {
-        (item.get("title"), item.get("artist")): item.get("youtubeID")
+        (standardize(item.get("title")), standardize(item.get("artist"))): item.get("youtubeID")
         for item in data1
         if "youtubeID" in item and item["youtubeID"]
     }
@@ -43,7 +47,7 @@ try:
             # 두 번째 파일에서 동일한 title과 artist를 가진 항목에 youtubeID 추가
             updated_data = []
             for item in data2:
-                title_artist = (item.get("title"), item.get("artist"))
+                title_artist = (standardize(item.get("title")), standardize(item.get("artist")))
                 if title_artist in youtube_id_map:
                     item["youtubeID"] = youtube_id_map[title_artist]
                 updated_data.append(item)
