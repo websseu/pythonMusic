@@ -49,19 +49,19 @@
     },
     {
         "ranking": "7",
-        "title": "DEGENERE (feat. benny blanco)",
-        "artist": "Myke Towers",
-        "album": "LA PANTERA NEGRA (DELUXE)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/bd/f0/76bdf003-0dd5-1ef9-3a77-92d1b15600d7/5021732518545.jpg/80x80bb.webp",
-        "length": "2:10"
-    },
-    {
-        "ranking": "8",
         "title": "Perdonarte ¿Para Qué?",
         "artist": "Los Ángeles Azules",
         "album": "Perdonarte ¿Para Qué? - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/2c/b4/262cb426-29f2-c9ce-b3be-37273fdd8727/196922985393_Cover.jpg/80x80bb.webp",
         "length": "3:13"
+    },
+    {
+        "ranking": "8",
+        "title": "DEGENERE (feat. benny blanco)",
+        "artist": "Myke Towers",
+        "album": "LA PANTERA NEGRA (DELUXE)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/bd/f0/76bdf003-0dd5-1ef9-3a77-92d1b15600d7/5021732518545.jpg/80x80bb.webp",
+        "length": "2:10"
     },
     {
         "ranking": "9",
@@ -89,22 +89,6 @@
     },
     {
         "ranking": "12",
-        "title": "Vida De Rock",
-        "artist": "Duki",
-        "album": "AMERI",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/35/73/563573c5-f3a7-0189-1fea-4cd25c6cb2d0/198846671703.jpg/80x80bb.webp",
-        "length": "3:01"
-    },
-    {
-        "ranking": "13",
-        "title": "DUELE",
-        "artist": "YSY A",
-        "album": "TRAMPA AL TIEMPO",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9b/c9/ac/9bc9ac22-4689-248c-989e-67c38e517ade/0.jpg/80x80bb.webp",
-        "length": "2:25"
-    },
-    {
-        "ranking": "14",
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "album": "HIT ME HARD AND SOFT",
@@ -112,7 +96,15 @@
         "length": "3:30"
     },
     {
-        "ranking": "15",
+        "ranking": "13",
+        "title": "Vida De Rock",
+        "artist": "Duki",
+        "album": "AMERI",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/35/73/563573c5-f3a7-0189-1fea-4cd25c6cb2d0/198846671703.jpg/80x80bb.webp",
+        "length": "3:01"
+    },
+    {
+        "ranking": "14",
         "title": "La_Original.mp3",
         "artist": "Emilia",
         "album": ".mp3",
@@ -120,15 +112,7 @@
         "length": "2:20"
     },
     {
-        "ranking": "16",
-        "title": "Cine",
-        "artist": "Duki",
-        "album": "AMERI",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/35/73/563573c5-f3a7-0189-1fea-4cd25c6cb2d0/198846671703.jpg/80x80bb.webp",
-        "length": "2:22"
-    },
-    {
-        "ranking": "17",
+        "ranking": "15",
         "title": "Dynamite",
         "artist": "BTS",
         "album": "BE",
@@ -136,7 +120,7 @@
         "length": "3:19"
     },
     {
-        "ranking": "18",
+        "ranking": "16",
         "title": "Espresso",
         "artist": "Sabrina Carpenter",
         "album": "Espresso - Single",
@@ -144,15 +128,7 @@
         "length": "2:55"
     },
     {
-        "ranking": "19",
-        "title": "Buscarte Lejos",
-        "artist": "Duki",
-        "album": "AMERI",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/35/73/563573c5-f3a7-0189-1fea-4cd25c6cb2d0/198846671703.jpg/80x80bb.webp",
-        "length": "3:14"
-    },
-    {
-        "ranking": "20",
+        "ranking": "17",
         "title": "Soltera",
         "artist": "Shakira",
         "album": "Soltera - Single",
@@ -160,15 +136,15 @@
         "length": "3:34"
     },
     {
-        "ranking": "21",
-        "title": "DE REPENTE",
-        "artist": "YSY A",
-        "album": "TRAMPA AL TIEMPO",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9b/c9/ac/9bc9ac22-4689-248c-989e-67c38e517ade/0.jpg/80x80bb.webp",
-        "length": "2:59"
+        "ranking": "18",
+        "title": "Cine",
+        "artist": "Duki",
+        "album": "AMERI",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/35/73/563573c5-f3a7-0189-1fea-4cd25c6cb2d0/198846671703.jpg/80x80bb.webp",
+        "length": "2:22"
     },
     {
-        "ranking": "22",
+        "ranking": "19",
         "title": "Hoy",
         "artist": "Valentino Merlo",
         "album": "Hoy - Single",
@@ -176,23 +152,7 @@
         "length": "3:18"
     },
     {
-        "ranking": "23",
-        "title": "+57 (feat. Ovy On the Drums, J Balvin, Maluma, Ryan Castro & Blessd)",
-        "artist": "KAROL G",
-        "album": "+57 (feat. Ovy On the Drums, J Balvin, Maluma, Ryan Castro & Blessd) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/82/73/b7827305-3461-1b38-b5d2-ab4e391806ca/24UM1IM22490.rgb.jpg/80x80bb.webp",
-        "length": "4:58"
-    },
-    {
-        "ranking": "24",
-        "title": "Neva Play (feat. RM of BTS)",
-        "artist": "Megan Thee Stallion",
-        "album": "Neva Play (feat. RM of BTS) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/3c/f9/533cf90d-bb8d-a073-30a6-3339fdd165c6/075679630773.jpg/80x80bb.webp",
-        "length": "2:37"
-    },
-    {
-        "ranking": "25",
+        "ranking": "20",
         "title": "Super Tuna",
         "artist": "JIN",
         "album": "Super Tuna - Single",
@@ -200,15 +160,23 @@
         "length": "1:54"
     },
     {
-        "ranking": "26",
-        "title": "Haegeum",
-        "artist": "Agust D",
-        "album": "D-DAY",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6d/46/83/6d4683b6-ab6f-db69-aa58-4a5a69c93fd6/196922439957_Cover.jpg/80x80bb.webp",
-        "length": "2:48"
+        "ranking": "21",
+        "title": "+57 (feat. Ovy On the Drums, J Balvin, Maluma, Ryan Castro & Blessd)",
+        "artist": "KAROL G",
+        "album": "+57 (feat. Ovy On the Drums, J Balvin, Maluma, Ryan Castro & Blessd) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/82/73/b7827305-3461-1b38-b5d2-ab4e391806ca/24UM1IM22490.rgb.jpg/80x80bb.webp",
+        "length": "4:58"
     },
     {
-        "ranking": "27",
+        "ranking": "22",
+        "title": "DUELE",
+        "artist": "YSY A",
+        "album": "TRAMPA AL TIEMPO",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9b/c9/ac/9bc9ac22-4689-248c-989e-67c38e517ade/0.jpg/80x80bb.webp",
+        "length": "2:25"
+    },
+    {
+        "ranking": "23",
         "title": "NEURON",
         "artist": "j-hope",
         "album": "HOPE ON THE STREET VOL.1 - EP",
@@ -216,7 +184,7 @@
         "length": "4:33"
     },
     {
-        "ranking": "28",
+        "ranking": "24",
         "title": "LOST!",
         "artist": "RM",
         "album": "Right Place, Wrong Person",
@@ -224,23 +192,15 @@
         "length": "3:53"
     },
     {
-        "ranking": "29",
-        "title": "Brindis",
-        "artist": "Duki",
-        "album": "AMERI",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/35/73/563573c5-f3a7-0189-1fea-4cd25c6cb2d0/198846671703.jpg/80x80bb.webp",
-        "length": "3:00"
+        "ranking": "25",
+        "title": "Haegeum",
+        "artist": "Agust D",
+        "album": "D-DAY",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6d/46/83/6d4683b6-ab6f-db69-aa58-4a5a69c93fd6/196922439957_Cover.jpg/80x80bb.webp",
+        "length": "2:48"
     },
     {
-        "ranking": "30",
-        "title": "Después De La 1",
-        "artist": "Cris Mj",
-        "album": "MJ - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/2a/e7/742ae73f-8357-bdf3-bada-769796f2ef8a/198846286426.jpg/80x80bb.webp",
-        "length": "2:57"
-    },
-    {
-        "ranking": "31",
+        "ranking": "26",
         "title": "La_Playlist.mpeg",
         "artist": "Emilia",
         "album": "La_Playlist.mpeg - Single",
@@ -248,31 +208,23 @@
         "length": "2:29"
     },
     {
-        "ranking": "32",
-        "title": "Ameri",
+        "ranking": "27",
+        "title": "Neva Play (feat. RM of BTS)",
+        "artist": "Megan Thee Stallion",
+        "album": "Neva Play (feat. RM of BTS) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/3c/f9/533cf90d-bb8d-a073-30a6-3339fdd165c6/075679630773.jpg/80x80bb.webp",
+        "length": "2:37"
+    },
+    {
+        "ranking": "28",
+        "title": "Buscarte Lejos",
         "artist": "Duki",
         "album": "AMERI",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/35/73/563573c5-f3a7-0189-1fea-4cd25c6cb2d0/198846671703.jpg/80x80bb.webp",
-        "length": "3:19"
+        "length": "3:14"
     },
     {
-        "ranking": "33",
-        "title": "No Drama",
-        "artist": "Duki",
-        "album": "AMERI",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/35/73/563573c5-f3a7-0189-1fea-4cd25c6cb2d0/198846671703.jpg/80x80bb.webp",
-        "length": "2:54"
-    },
-    {
-        "ranking": "34",
-        "title": "Never Let Go",
-        "artist": "Jung Kook",
-        "album": "Never Let Go - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e5/f3/c9/e5f3c985-f8d6-a279-bf20-ce14ec423af5/196922987656_Cover.jpg/80x80bb.webp",
-        "length": "2:46"
-    },
-    {
-        "ranking": "35",
+        "ranking": "29",
         "title": "LUNA",
         "artist": "Feid",
         "album": "FERXXOCALIPSIS",
@@ -280,15 +232,23 @@
         "length": "3:16"
     },
     {
-        "ranking": "36",
-        "title": "Please Please Please",
-        "artist": "Sabrina Carpenter",
-        "album": "Short n' Sweet",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
-        "length": "3:06"
+        "ranking": "30",
+        "title": "Never Let Go",
+        "artist": "Jung Kook",
+        "album": "Never Let Go - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e5/f3/c9/e5f3c985-f8d6-a279-bf20-ce14ec423af5/196922987656_Cover.jpg/80x80bb.webp",
+        "length": "2:46"
     },
     {
-        "ranking": "37",
+        "ranking": "31",
+        "title": "Después De La 1",
+        "artist": "Cris Mj",
+        "album": "MJ - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/2a/e7/742ae73f-8357-bdf3-bada-769796f2ef8a/198846286426.jpg/80x80bb.webp",
+        "length": "2:57"
+    },
+    {
+        "ranking": "32",
         "title": "Taste",
         "artist": "Sabrina Carpenter",
         "album": "Short n' Sweet",
@@ -296,31 +256,23 @@
         "length": "2:37"
     },
     {
-        "ranking": "38",
-        "title": "Constelación",
+        "ranking": "33",
+        "title": "Brindis",
         "artist": "Duki",
         "album": "AMERI",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/35/73/563573c5-f3a7-0189-1fea-4cd25c6cb2d0/198846671703.jpg/80x80bb.webp",
-        "length": "3:20"
+        "length": "3:00"
     },
     {
-        "ranking": "39",
-        "title": "Barro",
-        "artist": "Duki",
-        "album": "AMERI",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/35/73/563573c5-f3a7-0189-1fea-4cd25c6cb2d0/198846671703.jpg/80x80bb.webp",
-        "length": "3:21"
+        "ranking": "34",
+        "title": "Please Please Please",
+        "artist": "Sabrina Carpenter",
+        "album": "Short n' Sweet",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+        "length": "3:06"
     },
     {
-        "ranking": "40",
-        "title": "Amor de Vago",
-        "artist": "La T y la M",
-        "album": "Amor de Vago - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/14/b9/30/14b93096-2675-1697-d581-55f3f7ba4d8a/cover.jpg/80x80bb.webp",
-        "length": "3:08"
-    },
-    {
-        "ranking": "41",
+        "ranking": "35",
         "title": "For Us",
         "artist": "V",
         "album": "Layover - EP",
@@ -328,15 +280,23 @@
         "length": "2:51"
     },
     {
-        "ranking": "42",
-        "title": "Gata Only",
-        "artist": "FloyyMenor",
-        "album": "Gata Only - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ca/4e/0f/ca4e0f11-2cbc-7aec-b2e4-53f5fac7cb0e/198309012715-copy-6dfc57c0.png/80x80bb.webp",
-        "length": "3:42"
+        "ranking": "36",
+        "title": "Ameri",
+        "artist": "Duki",
+        "album": "AMERI",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/35/73/563573c5-f3a7-0189-1fea-4cd25c6cb2d0/198846671703.jpg/80x80bb.webp",
+        "length": "3:19"
     },
     {
-        "ranking": "43",
+        "ranking": "37",
+        "title": "Amor de Vago",
+        "artist": "La T y la M",
+        "album": "Amor de Vago - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/14/b9/30/14b93096-2675-1697-d581-55f3f7ba4d8a/cover.jpg/80x80bb.webp",
+        "length": "3:08"
+    },
+    {
+        "ranking": "38",
         "title": "APT.",
         "artist": "ROSÉ",
         "album": "APT. - Single",
@@ -344,15 +304,31 @@
         "length": "2:49"
     },
     {
-        "ranking": "44",
-        "title": "Ojitos Lindos",
-        "artist": "Bad Bunny",
-        "album": "Un Verano Sin Ti",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
-        "length": "4:18"
+        "ranking": "39",
+        "title": "DE REPENTE",
+        "artist": "YSY A",
+        "album": "TRAMPA AL TIEMPO",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9b/c9/ac/9bc9ac22-4689-248c-989e-67c38e517ade/0.jpg/80x80bb.webp",
+        "length": "2:59"
     },
     {
-        "ranking": "45",
+        "ranking": "40",
+        "title": "Gata Only",
+        "artist": "FloyyMenor",
+        "album": "Gata Only - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ca/4e/0f/ca4e0f11-2cbc-7aec-b2e4-53f5fac7cb0e/198309012715-copy-6dfc57c0.png/80x80bb.webp",
+        "length": "3:42"
+    },
+    {
+        "ranking": "41",
+        "title": "No Drama",
+        "artist": "Duki",
+        "album": "AMERI",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/35/73/563573c5-f3a7-0189-1fea-4cd25c6cb2d0/198846671703.jpg/80x80bb.webp",
+        "length": "2:54"
+    },
+    {
+        "ranking": "42",
         "title": "Hardaway",
         "artist": "Duki",
         "album": "AMERI",
@@ -360,12 +336,36 @@
         "length": "3:36"
     },
     {
-        "ranking": "46",
-        "title": "Un Día Más",
+        "ranking": "43",
+        "title": "Ojitos Lindos",
+        "artist": "Bad Bunny",
+        "album": "Un Verano Sin Ti",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
+        "length": "4:18"
+    },
+    {
+        "ranking": "44",
+        "title": "Constelación",
         "artist": "Duki",
         "album": "AMERI",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/35/73/563573c5-f3a7-0189-1fea-4cd25c6cb2d0/198846671703.jpg/80x80bb.webp",
-        "length": "2:45"
+        "length": "3:20"
+    },
+    {
+        "ranking": "45",
+        "title": "Se Preparó",
+        "artist": "Ozuna",
+        "album": "Odisea",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/df/7c/1b/df7c1b32-0fca-94f0-866b-ba89e420ca04/697691884103.jpg/80x80bb.webp",
+        "length": "3:08"
+    },
+    {
+        "ranking": "46",
+        "title": "Cuando Te Ví  CROSSOVER #5",
+        "artist": "Big One",
+        "album": "Cuando Te Ví  CROSSOVER #5 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ca/93/b4/ca93b4d1-add9-69d0-0283-a0c86b6b2181/198588338117.jpg/80x80bb.webp",
+        "length": "3:38"
     },
     {
         "ranking": "47",
@@ -377,54 +377,6 @@
     },
     {
         "ranking": "48",
-        "title": "CON EL TIEMPO",
-        "artist": "YSY A",
-        "album": "TRAMPA AL TIEMPO",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9b/c9/ac/9bc9ac22-4689-248c-989e-67c38e517ade/0.jpg/80x80bb.webp",
-        "length": "3:04"
-    },
-    {
-        "ranking": "49",
-        "title": "Wake Up & Bake Up",
-        "artist": "Duki",
-        "album": "AMERI",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/35/73/563573c5-f3a7-0189-1fea-4cd25c6cb2d0/198846671703.jpg/80x80bb.webp",
-        "length": "3:26"
-    },
-    {
-        "ranking": "50",
-        "title": "That’s So True",
-        "artist": "Gracie Abrams",
-        "album": "The Secret of Us (Deluxe)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
-        "length": "2:46"
-    },
-    {
-        "ranking": "51",
-        "title": "Pa' Que Te Acuerdes  CROSSOVER #8",
-        "artist": "Big One",
-        "album": "Pa' Que Te Acuerdes  CROSSOVER #8 - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/69/aa/3069aacd-c2bd-c97a-70d3-5b3378e89ff5/198846341750.jpg/80x80bb.webp",
-        "length": "2:52"
-    },
-    {
-        "ranking": "52",
-        "title": "YO SABÍA",
-        "artist": "YSY A",
-        "album": "TRAMPA AL TIEMPO",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9b/c9/ac/9bc9ac22-4689-248c-989e-67c38e517ade/0.jpg/80x80bb.webp",
-        "length": "2:12"
-    },
-    {
-        "ranking": "53",
-        "title": "Cuando Te Ví  CROSSOVER #5",
-        "artist": "Big One",
-        "album": "Cuando Te Ví  CROSSOVER #5 - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ca/93/b4/ca93b4d1-add9-69d0-0283-a0c86b6b2181/198588338117.jpg/80x80bb.webp",
-        "length": "3:38"
-    },
-    {
-        "ranking": "54",
         "title": "AGORA",
         "artist": "Maria Becerra",
         "album": "AGORA - Single",
@@ -432,7 +384,7 @@
         "length": "2:33"
     },
     {
-        "ranking": "55",
+        "ranking": "49",
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "album": "HIT ME HARD AND SOFT",
@@ -440,23 +392,15 @@
         "length": "4:21"
     },
     {
-        "ranking": "56",
-        "title": "Se Preparó",
-        "artist": "Ozuna",
-        "album": "Odisea",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/df/7c/1b/df7c1b32-0fca-94f0-866b-ba89e420ca04/697691884103.jpg/80x80bb.webp",
-        "length": "3:08"
+        "ranking": "50",
+        "title": "Barro",
+        "artist": "Duki",
+        "album": "AMERI",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/35/73/563573c5-f3a7-0189-1fea-4cd25c6cb2d0/198846671703.jpg/80x80bb.webp",
+        "length": "3:21"
     },
     {
-        "ranking": "57",
-        "title": "DILUVIO",
-        "artist": "Rauw Alejandro",
-        "album": "PLAYA SATURNO",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d2/1a/63/d21a6376-80b9-ce89-e4f3-af3f0b70acf9/196871287098.jpg/80x80bb.webp",
-        "length": "3:17"
-    },
-    {
-        "ranking": "58",
+        "ranking": "51",
         "title": "Like Crazy",
         "artist": "Jimin",
         "album": "FACE - EP",
@@ -464,23 +408,15 @@
         "length": "3:32"
     },
     {
-        "ranking": "59",
-        "title": "Bed Chem",
-        "artist": "Sabrina Carpenter",
-        "album": "Short n' Sweet",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
-        "length": "2:51"
+        "ranking": "52",
+        "title": "DILUVIO",
+        "artist": "Rauw Alejandro",
+        "album": "PLAYA SATURNO",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d2/1a/63/d21a6376-80b9-ce89-e4f3-af3f0b70acf9/196871287098.jpg/80x80bb.webp",
+        "length": "3:17"
     },
     {
-        "ranking": "60",
-        "title": "GTA.mp3",
-        "artist": "Emilia",
-        "album": "GTA.mp3 - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c4/53/d3/c453d32f-4284-7685-2357-c51612657e4e/196871207393.jpg/80x80bb.webp",
-        "length": "2:31"
-    },
-    {
-        "ranking": "61",
+        "ranking": "53",
         "title": "Best Of Me",
         "artist": "BTS",
         "album": "LOVE YOURSELF 承 'Her'",
@@ -488,23 +424,79 @@
         "length": "3:47"
     },
     {
-        "ranking": "62",
-        "title": "ALMAS ROTAS",
-        "artist": "YSY A",
-        "album": "TRAMPA AL TIEMPO",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9b/c9/ac/9bc9ac22-4689-248c-989e-67c38e517ade/0.jpg/80x80bb.webp",
+        "ranking": "54",
+        "title": "Ya No Vuelvas (Versión Cuarteto)",
+        "artist": "Luck Ra",
+        "album": "Ya No Vuelvas (Versión Cuarteto) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/af/18/ee/af18eee1-3b5d-4ea1-9780-9a59bde0b38d/196589708892.jpg/80x80bb.webp",
+        "length": "3:24"
+    },
+    {
+        "ranking": "55",
+        "title": "That’s So True",
+        "artist": "Gracie Abrams",
+        "album": "The Secret of Us (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
+        "length": "2:46"
+    },
+    {
+        "ranking": "56",
+        "title": "GTA.mp3",
+        "artist": "Emilia",
+        "album": "GTA.mp3 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c4/53/d3/c453d32f-4284-7685-2357-c51612657e4e/196871207393.jpg/80x80bb.webp",
         "length": "2:31"
     },
     {
-        "ranking": "63",
-        "title": "La Morocha",
-        "artist": "Luck Ra",
-        "album": "La Morocha - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/86/9b/cd/869bcda4-b00b-d03d-cfd5-3da458924acc/196871259309.jpg/80x80bb.webp",
-        "length": "2:14"
+        "ranking": "57",
+        "title": "Wake Up & Bake Up",
+        "artist": "Duki",
+        "album": "AMERI",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/35/73/563573c5-f3a7-0189-1fea-4cd25c6cb2d0/198846671703.jpg/80x80bb.webp",
+        "length": "3:26"
     },
     {
-        "ranking": "64",
+        "ranking": "58",
+        "title": "Un Finde  CROSSOVER #2",
+        "artist": "Big One",
+        "album": "Un Finde  CROSSOVER #2 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d9/a3/cc/d9a3cccd-75e5-df27-f6db-f77a4fac9520/197188448271.jpg/80x80bb.webp",
+        "length": "2:42"
+    },
+    {
+        "ranking": "59",
+        "title": "Pa' Que Te Acuerdes  CROSSOVER #8",
+        "artist": "Big One",
+        "album": "Pa' Que Te Acuerdes  CROSSOVER #8 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/69/aa/3069aacd-c2bd-c97a-70d3-5b3378e89ff5/198846341750.jpg/80x80bb.webp",
+        "length": "2:52"
+    },
+    {
+        "ranking": "60",
+        "title": "Un Día Más",
+        "artist": "Duki",
+        "album": "AMERI",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/35/73/563573c5-f3a7-0189-1fea-4cd25c6cb2d0/198846671703.jpg/80x80bb.webp",
+        "length": "2:45"
+    },
+    {
+        "ranking": "61",
+        "title": "La Bachata",
+        "artist": "Manuel Turizo",
+        "album": "La Bachata - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/df/70/11/df701101-9f0f-3c43-ff6d-2186235d7e9c/196589129123.jpg/80x80bb.webp",
+        "length": "2:42"
+    },
+    {
+        "ranking": "62",
+        "title": "Quevedo: Bzrp Music Sessions, Vol. 52",
+        "artist": "Bizarrap",
+        "album": "Quevedo: Bzrp Music Sessions, Vol. 52 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/74/37/3d/74373d24-e999-ea75-e101-b9b21b3887c3/196925240499.jpg/80x80bb.webp",
+        "length": "3:18"
+    },
+    {
+        "ranking": "63",
         "title": "En La Intimidad  CROSSOVER #1",
         "artist": "Big One",
         "album": "En La Intimidad  CROSSOVER #1",
@@ -512,12 +504,20 @@
         "length": "2:45"
     },
     {
+        "ranking": "64",
+        "title": "AMARGURA",
+        "artist": "KAROL G",
+        "album": "MAÑANA SERÁ BONITO",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9b/01/44/9b0144e6-21ae-b53f-2b25-ef6c594b18a3/22UM1IM38716.rgb.jpg/80x80bb.webp",
+        "length": "2:50"
+    },
+    {
         "ranking": "65",
-        "title": "Ya No Vuelvas (Versión Cuarteto)",
-        "artist": "Luck Ra",
-        "album": "Ya No Vuelvas (Versión Cuarteto) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/af/18/ee/af18eee1-3b5d-4ea1-9780-9a59bde0b38d/196589708892.jpg/80x80bb.webp",
-        "length": "3:24"
+        "title": "Bed Chem",
+        "artist": "Sabrina Carpenter",
+        "album": "Short n' Sweet",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+        "length": "2:51"
     },
     {
         "ranking": "66",
@@ -529,38 +529,14 @@
     },
     {
         "ranking": "67",
-        "title": "EXCUSAS",
-        "artist": "YSY A",
-        "album": "TRAMPA AL TIEMPO",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9b/c9/ac/9bc9ac22-4689-248c-989e-67c38e517ade/0.jpg/80x80bb.webp",
-        "length": "2:44"
+        "title": "La Morocha",
+        "artist": "Luck Ra",
+        "album": "La Morocha - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/86/9b/cd/869bcda4-b00b-d03d-cfd5-3da458924acc/196871259309.jpg/80x80bb.webp",
+        "length": "2:14"
     },
     {
         "ranking": "68",
-        "title": "La Bachata",
-        "artist": "Manuel Turizo",
-        "album": "La Bachata - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/df/70/11/df701101-9f0f-3c43-ff6d-2186235d7e9c/196589129123.jpg/80x80bb.webp",
-        "length": "2:42"
-    },
-    {
-        "ranking": "69",
-        "title": "WE PRAY (TINI Version)",
-        "artist": "Coldplay",
-        "album": "WE PRAY (TINI Version) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/22/a0/0b22a0e6-95ce-513e-df3e-27c274dc5cbe/5021732481627.jpg/80x80bb.webp",
-        "length": "3:53"
-    },
-    {
-        "ranking": "70",
-        "title": "ADIVINO",
-        "artist": "Myke Towers",
-        "album": "ADIVINO - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6c/79/1e/6c791e10-d063-a4ad-45d7-047581c289cb/5021732285218.jpg/80x80bb.webp",
-        "length": "4:38"
-    },
-    {
-        "ranking": "71",
         "title": "IConic.mp3",
         "artist": "Emilia",
         "album": ".mp3",
@@ -568,15 +544,7 @@
         "length": "3:01"
     },
     {
-        "ranking": "72",
-        "title": "AMARGURA",
-        "artist": "KAROL G",
-        "album": "MAÑANA SERÁ BONITO",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9b/01/44/9b0144e6-21ae-b53f-2b25-ef6c594b18a3/22UM1IM38716.rgb.jpg/80x80bb.webp",
-        "length": "2:50"
-    },
-    {
-        "ranking": "73",
+        "ranking": "69",
         "title": "Sensualidad (feat. Mambo Kingz & DJ Luian)",
         "artist": "Bad Bunny",
         "album": "Sensualidad (feat. Mambo Kingz & DJ Luian) - Single",
@@ -584,23 +552,7 @@
         "length": "4:57"
     },
     {
-        "ranking": "74",
-        "title": "Wonderwall (Remastered)",
-        "artist": "Oasis",
-        "album": "(What's The Story) Morning Glory? [Deluxe Remastered Edition]",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/34/2e/cb/342ecb17-ef19-816a-4ce5-e60b9ceec161/5051961073164.jpg/80x80bb.webp",
-        "length": "4:18"
-    },
-    {
-        "ranking": "75",
-        "title": "QLONA",
-        "artist": "KAROL G",
-        "album": "MAÑANA SERÁ BONITO (BICHOTA SEASON)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/56/45/46/5645464b-7fad-b6ea-6c15-9dbf754a8d83/23UMGIM68667.rgb.jpg/80x80bb.webp",
-        "length": "2:52"
-    },
-    {
-        "ranking": "76",
+        "ranking": "70",
         "title": "Adicto",
         "artist": "Tainy",
         "album": "Adicto - Single",
@@ -608,95 +560,15 @@
         "length": "4:30"
     },
     {
-        "ranking": "77",
-        "title": "La Melodía de Dios",
-        "artist": "Tan Biónica",
-        "album": "Destinologia",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a0/28/81/a02881a9-4e64-9280-24b4-d8ed4bed39e4/1214.jpg/80x80bb.webp",
-        "length": "4:45"
-    },
-    {
-        "ranking": "78",
-        "title": "Quevedo: Bzrp Music Sessions, Vol. 52",
-        "artist": "Bizarrap",
-        "album": "Quevedo: Bzrp Music Sessions, Vol. 52 - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/74/37/3d/74373d24-e999-ea75-e101-b9b21b3887c3/196925240499.jpg/80x80bb.webp",
-        "length": "3:18"
-    },
-    {
-        "ranking": "79",
-        "title": "Un Finde  CROSSOVER #2",
-        "artist": "Big One",
-        "album": "Un Finde  CROSSOVER #2 - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d9/a3/cc/d9a3cccd-75e5-df27-f6db-f77a4fac9520/197188448271.jpg/80x80bb.webp",
-        "length": "2:42"
-    },
-    {
-        "ranking": "80",
-        "title": "CARITA TRISTE",
-        "artist": "Ana Mena",
-        "album": "CARITA TRISTE - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f0/f0/dc/f0f0dc73-4354-4e87-6fe3-e5ae1e4fbb54/196872385038.jpg/80x80bb.webp",
-        "length": "2:55"
-    },
-    {
-        "ranking": "81",
-        "title": "DÁKITI",
-        "artist": "Bad Bunny",
-        "album": "EL ÚLTIMO TOUR DEL MUNDO",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/64/70/1c/64701cff-71ed-912f-ce62-71d409f5e6ad/195497640560.jpg/80x80bb.webp",
-        "length": "3:25"
-    },
-    {
-        "ranking": "82",
-        "title": "UWAIE",
-        "artist": "Kapo",
-        "album": "UWAIE - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4d/e8/03/4de80347-86da-bed6-47c4-1478b3aa46fa/196872367263.jpg/80x80bb.webp",
-        "length": "2:52"
-    },
-    {
-        "ranking": "83",
-        "title": "MIA (feat. Drake)",
-        "artist": "Bad Bunny",
-        "album": "MIA (feat. Drake) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/09/aa/f8/09aaf8da-8eaf-bf60-0c23-48a88d546cbd/26991.jpg/80x80bb.webp",
-        "length": "3:30"
-    },
-    {
-        "ranking": "84",
-        "title": "Todo De Ti",
-        "artist": "Rauw Alejandro",
-        "album": "Todo De Ti - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/24/d6/4d/24d64d11-dcba-a475-7a0f-87fbef4c6ba6/886449222681.jpg/80x80bb.webp",
-        "length": "3:19"
-    },
-    {
-        "ranking": "85",
-        "title": "SINVERGÜENZA (feat. Angela Torres)",
-        "artist": "Emanero",
-        "album": "SINVERGÜENZA (feat. Angela Torres) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/48/5e/cf485ec4-5a3b-6b8a-8794-eac2baf16068/197190450378.jpg/80x80bb.webp",
-        "length": "3:37"
-    },
-    {
-        "ranking": "86",
-        "title": "TANTO DESORDEN",
+        "ranking": "71",
+        "title": "CON EL TIEMPO",
         "artist": "YSY A",
         "album": "TRAMPA AL TIEMPO",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9b/c9/ac/9bc9ac22-4689-248c-989e-67c38e517ade/0.jpg/80x80bb.webp",
         "length": "3:04"
     },
     {
-        "ranking": "87",
-        "title": "Me Porto Bonito",
-        "artist": "Bad Bunny",
-        "album": "Un Verano Sin Ti",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
-        "length": "2:58"
-    },
-    {
-        "ranking": "88",
+        "ranking": "72",
         "title": "El Amor De Mi Vida",
         "artist": "Los Ángeles Azules",
         "album": "Se Agradece",
@@ -704,23 +576,31 @@
         "length": "3:04"
     },
     {
-        "ranking": "89",
-        "title": "QUE ME FALTE TODO",
-        "artist": "Luck Ra",
-        "album": "QUE ME FALTE TODO - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0f/fb/3f/0ffb3f26-c15a-3456-c9ce-9151c3f57868/196871559669.jpg/80x80bb.webp",
-        "length": "2:45"
+        "ranking": "73",
+        "title": "QLONA",
+        "artist": "KAROL G",
+        "album": "MAÑANA SERÁ BONITO (BICHOTA SEASON)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/56/45/46/5645464b-7fad-b6ea-6c15-9dbf754a8d83/23UMGIM68667.rgb.jpg/80x80bb.webp",
+        "length": "2:52"
     },
     {
-        "ranking": "90",
-        "title": "A Sky Full of Stars",
-        "artist": "Coldplay",
-        "album": "Ghost Stories",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/60/90/ad/6090adc3-8863-861d-afcc-23c55c6fe5da/dj.vmtulfyu.jpg/80x80bb.webp",
-        "length": "4:28"
+        "ranking": "74",
+        "title": "Todo De Ti",
+        "artist": "Rauw Alejandro",
+        "album": "Todo De Ti - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/24/d6/4d/24d64d11-dcba-a475-7a0f-87fbef4c6ba6/886449222681.jpg/80x80bb.webp",
+        "length": "3:19"
     },
     {
-        "ranking": "91",
+        "ranking": "75",
+        "title": "UWAIE",
+        "artist": "Kapo",
+        "album": "UWAIE - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4d/e8/03/4de80347-86da-bed6-47c4-1478b3aa46fa/196872367263.jpg/80x80bb.webp",
+        "length": "2:52"
+    },
+    {
+        "ranking": "76",
         "title": "LA CANCIÓN",
         "artist": "J Balvin",
         "album": "OASIS",
@@ -728,7 +608,7 @@
         "length": "4:02"
     },
     {
-        "ranking": "92",
+        "ranking": "77",
         "title": "Hey Mor (feat. Feid)",
         "artist": "Ozuna",
         "album": "OzuTochi",
@@ -736,12 +616,132 @@
         "length": "3:16"
     },
     {
-        "ranking": "93",
+        "ranking": "78",
+        "title": "CARITA TRISTE",
+        "artist": "Ana Mena",
+        "album": "CARITA TRISTE - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f0/f0/dc/f0f0dc73-4354-4e87-6fe3-e5ae1e4fbb54/196872385038.jpg/80x80bb.webp",
+        "length": "2:55"
+    },
+    {
+        "ranking": "79",
+        "title": "DÁKITI",
+        "artist": "Bad Bunny",
+        "album": "EL ÚLTIMO TOUR DEL MUNDO",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/64/70/1c/64701cff-71ed-912f-ce62-71d409f5e6ad/195497640560.jpg/80x80bb.webp",
+        "length": "3:25"
+    },
+    {
+        "ranking": "80",
+        "title": "SINVERGÜENZA (feat. Angela Torres)",
+        "artist": "Emanero",
+        "album": "SINVERGÜENZA (feat. Angela Torres) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/48/5e/cf485ec4-5a3b-6b8a-8794-eac2baf16068/197190450378.jpg/80x80bb.webp",
+        "length": "3:37"
+    },
+    {
+        "ranking": "81",
+        "title": "WE PRAY (TINI Version)",
+        "artist": "Coldplay",
+        "album": "WE PRAY (TINI Version) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/22/a0/0b22a0e6-95ce-513e-df3e-27c274dc5cbe/5021732481627.jpg/80x80bb.webp",
+        "length": "3:53"
+    },
+    {
+        "ranking": "82",
+        "title": "La Melodía de Dios",
+        "artist": "Tan Biónica",
+        "album": "Destinologia",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a0/28/81/a02881a9-4e64-9280-24b4-d8ed4bed39e4/1214.jpg/80x80bb.webp",
+        "length": "4:45"
+    },
+    {
+        "ranking": "83",
+        "title": "ADIVINO",
+        "artist": "Myke Towers",
+        "album": "ADIVINO - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6c/79/1e/6c791e10-d063-a4ad-45d7-047581c289cb/5021732285218.jpg/80x80bb.webp",
+        "length": "4:38"
+    },
+    {
+        "ranking": "84",
+        "title": "MIA (feat. Drake)",
+        "artist": "Bad Bunny",
+        "album": "MIA (feat. Drake) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/09/aa/f8/09aaf8da-8eaf-bf60-0c23-48a88d546cbd/26991.jpg/80x80bb.webp",
+        "length": "3:30"
+    },
+    {
+        "ranking": "85",
+        "title": "Wonderwall (Remastered)",
+        "artist": "Oasis",
+        "album": "(What's The Story) Morning Glory? [Deluxe Remastered Edition]",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/34/2e/cb/342ecb17-ef19-816a-4ce5-e60b9ceec161/5051961073164.jpg/80x80bb.webp",
+        "length": "4:18"
+    },
+    {
+        "ranking": "86",
         "title": "TQG",
         "artist": "KAROL G",
         "album": "MAÑANA SERÁ BONITO",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9b/01/44/9b0144e6-21ae-b53f-2b25-ef6c594b18a3/22UM1IM38716.rgb.jpg/80x80bb.webp",
         "length": "3:17"
+    },
+    {
+        "ranking": "87",
+        "title": "YO SABÍA",
+        "artist": "YSY A",
+        "album": "TRAMPA AL TIEMPO",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9b/c9/ac/9bc9ac22-4689-248c-989e-67c38e517ade/0.jpg/80x80bb.webp",
+        "length": "2:12"
+    },
+    {
+        "ranking": "88",
+        "title": "QUE ME FALTE TODO",
+        "artist": "Luck Ra",
+        "album": "QUE ME FALTE TODO - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0f/fb/3f/0ffb3f26-c15a-3456-c9ce-9151c3f57868/196871559669.jpg/80x80bb.webp",
+        "length": "2:45"
+    },
+    {
+        "ranking": "89",
+        "title": "Me Porto Bonito",
+        "artist": "Bad Bunny",
+        "album": "Un Verano Sin Ti",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
+        "length": "2:58"
+    },
+    {
+        "ranking": "90",
+        "title": "LA FALDA",
+        "artist": "Myke Towers",
+        "album": "LVEU: VIVE LA TUYA...NO LA MIA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fd/f9/40/fdf9402c-95ae-8152-17b0-984649c6172a/5054197903205.jpg/80x80bb.webp",
+        "length": "2:54"
+    },
+    {
+        "ranking": "91",
+        "title": "Mil Preguntas",
+        "artist": "Q' Lokura",
+        "album": "Mil Preguntas - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/60/4b/b4604b59-e448-1a20-42ce-7d3063fdbd8b/198391847356.jpg/80x80bb.webp",
+        "length": "2:46"
+    },
+    {
+        "ranking": "92",
+        "title": "Good Luck, Babe!",
+        "artist": "Chappell Roan",
+        "album": "Good Luck, Babe! - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/80x80bb.webp",
+        "length": "3:38"
+    },
+    {
+        "ranking": "93",
+        "title": "ALMAS ROTAS",
+        "artist": "YSY A",
+        "album": "TRAMPA AL TIEMPO",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9b/c9/ac/9bc9ac22-4689-248c-989e-67c38e517ade/0.jpg/80x80bb.webp",
+        "length": "2:31"
     },
     {
         "ranking": "94",
@@ -753,14 +753,30 @@
     },
     {
         "ranking": "95",
-        "title": "Good Luck, Babe!",
-        "artist": "Chappell Roan",
-        "album": "Good Luck, Babe! - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/80x80bb.webp",
-        "length": "3:38"
+        "title": "Timeless",
+        "artist": "The Weeknd",
+        "album": "Timeless - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
+        "length": "4:16"
     },
     {
         "ranking": "96",
+        "title": "WYA REMIX RED (feat. Jay Wheeler & iZaak)",
+        "artist": "J Abdiel",
+        "album": "WYA REMIX RED (feat. Jay Wheeler & iZaak) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/fa/c5/69fac5ce-e38b-b8f3-d08a-07dd0f1c65d1/198391990793.jpg/80x80bb.webp",
+        "length": "5:21"
+    },
+    {
+        "ranking": "97",
+        "title": "SORRY 4 THAT MUCH",
+        "artist": "Feid",
+        "album": "SORRY 4 THAT MUCH - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9c/20/ab/9c20ab01-62e6-239c-fcce-79dc1d711ac1/24UMGIM61720.rgb.jpg/80x80bb.webp",
+        "length": "3:27"
+    },
+    {
+        "ranking": "98",
         "title": "Juno",
         "artist": "Sabrina Carpenter",
         "album": "Short n' Sweet",
@@ -768,35 +784,19 @@
         "length": "3:43"
     },
     {
-        "ranking": "97",
-        "title": "Mil Preguntas",
-        "artist": "Q' Lokura",
-        "album": "Mil Preguntas - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/60/4b/b4604b59-e448-1a20-42ce-7d3063fdbd8b/198391847356.jpg/80x80bb.webp",
-        "length": "2:46"
-    },
-    {
-        "ranking": "98",
-        "title": "No_se_ve.mp3",
-        "artist": "Emilia",
-        "album": "No_se_ve.mp3 - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fd/84/61/fd84611f-c94e-d656-9f56-3da04d9a1861/197188759186.jpg/80x80bb.webp",
-        "length": "3:23"
-    },
-    {
         "ranking": "99",
-        "title": "PELIGROSA",
-        "artist": "FloyyMenor",
-        "album": "PELIGROSA - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/0c/bc/db0cbcaa-2dd9-7ff1-566d-6db3fcfc4e96/198542319206-copy-b5df1492.png/80x80bb.webp",
-        "length": "2:14"
+        "title": "EXCUSAS",
+        "artist": "YSY A",
+        "album": "EXCUSAS - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/06/c6/a0/06c6a0c2-8c60-7ddb-57fc-e0ad7bcf3c54/0.jpg/80x80bb.webp",
+        "length": "2:44"
     },
     {
         "ranking": "100",
-        "title": "ROLANDINHO",
-        "artist": "YSY A",
-        "album": "TRAMPA AL TIEMPO",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9b/c9/ac/9bc9ac22-4689-248c-989e-67c38e517ade/0.jpg/80x80bb.webp",
-        "length": "1:48"
+        "title": "Luces Tenues",
+        "artist": "Anuel AA",
+        "album": "Luces Tenues - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0e/79/0c/0e790cc8-c67d-6e06-cc92-4137c9a8afe4/197190645262.jpg/80x80bb.webp",
+        "length": "3:10"
     }
 ]

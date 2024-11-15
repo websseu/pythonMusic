@@ -1,14 +1,6 @@
 [
     {
         "ranking": "1",
-        "title": "Little Things",
-        "artist": "Ella Mai",
-        "album": "3 (EP) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/70/aa/5b/70aa5b50-bad0-6e2c-2a7e-f11fccd39b70/24UM1IM12436.rgb.jpg/80x80bb.webp",
-        "length": "2:52"
-    },
-    {
-        "ranking": "2",
         "title": "Got Your Back (feat. Keri Hilson)",
         "artist": "T.I.",
         "album": "No Mercy (Deluxe Version)",
@@ -16,20 +8,28 @@
         "length": "4:24"
     },
     {
+        "ranking": "2",
+        "title": "Psycho (feat. Ty Dolla $ign)",
+        "artist": "Post Malone",
+        "album": "beerbongs & bentleys",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7e/3c/4e/7e3c4ef6-daa7-cc10-57d0-45f5a562eaf5/18UMGIM22101.rgb.jpg/80x80bb.webp",
+        "length": "3:41"
+    },
+    {
         "ranking": "3",
-        "title": "My Girl",
-        "artist": "Mindless Behavior",
-        "album": "#1 Girl",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bb/5f/f4/bb5ff44c-9200-b045-54cc-6075f04bf0b4/11UMGIM26893.rgb.jpg/80x80bb.webp",
-        "length": "4:00"
+        "title": "Little Things",
+        "artist": "Ella Mai",
+        "album": "3 (EP) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/70/aa/5b/70aa5b50-bad0-6e2c-2a7e-f11fccd39b70/24UM1IM12436.rgb.jpg/80x80bb.webp",
+        "length": "2:52"
     },
     {
         "ranking": "4",
-        "title": "B.B.O (Lost Tapes 2022)",
-        "artist": "Tory Lanez",
-        "album": "B.B.O (Lost Tapes 2022) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/a0/bb/58a0bb54-b086-a23b-4a6f-9f6c6f9a626a/810129987232.jpg/80x80bb.webp",
-        "length": "2:48"
+        "title": "Why",
+        "artist": "Bazzi",
+        "album": "COSMIC",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7c/98/07/7c98072e-e826-d77c-e829-daa87f5706b9/075679874580.jpg/80x80bb.webp",
+        "length": "2:28"
     },
     {
         "ranking": "5",
@@ -41,86 +41,38 @@
     },
     {
         "ranking": "6",
-        "title": "People",
-        "artist": "Libianca",
-        "album": "People - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c6/8c/ca/c68ccacb-cdd5-b765-53e1-eeca394770ac/196589735607.jpg/80x80bb.webp",
-        "length": "3:04"
+        "title": "Sweet Darlin'",
+        "artist": "Fiji",
+        "album": "Born & Raised",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/8e/6a/b5/8e6ab52a-b30a-c437-0fc5-0df47a297932/34.jpg/80x80bb.webp",
+        "length": "4:32"
     },
     {
         "ranking": "7",
-        "title": "Fck Boys",
-        "artist": "Blxst",
-        "album": "Just for Clarity - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/8e/e3/9f8ee39d-72b9-28cb-4b28-cc2e7d2eddda/844942087107.jpg/80x80bb.webp",
-        "length": "2:43"
+        "title": "Ye",
+        "artist": "Burna Boy",
+        "album": "Outside",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9f/95/30/9f9530db-abe1-7bfd-2680-5762c45f8157/075679878533.jpg/80x80bb.webp",
+        "length": "3:51"
     },
     {
         "ranking": "8",
-        "title": "Personal",
-        "artist": "Kehlani",
-        "album": "SweetSexySavage (Deluxe)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a2/44/95/a244952f-191e-59ed-e79f-3308ba14f452/075679901255.jpg/80x80bb.webp",
-        "length": "3:47"
+        "title": "She Still Loves Me (feat. Collie Buddz)",
+        "artist": "SOJA",
+        "album": "She Still Loves Me (feat. Collie Buddz) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/31/af/77/31af77ee-041a-6200-2105-f473eedd4497/SOJA_She_Still_Love_4B04B01.jpg/80x80bb.webp",
+        "length": "4:04"
     },
     {
         "ranking": "9",
-        "title": "Selfish",
-        "artist": "Blxst",
-        "album": "Sixtape - EP",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b7/74/46/b7744603-adb8-2d6e-1e1d-0e5156b57fb2/artwork.jpg/80x80bb.webp",
-        "length": "2:16"
+        "title": "On a Prayer (feat. SHY Martin)",
+        "artist": "Boy In Space",
+        "album": "On a Prayer (feat. SHY Martin) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ed/5b/f6/ed5bf6dc-80b7-c2e2-45d2-550d238cba63/5056167119029.jpg/80x80bb.webp",
+        "length": "2:33"
     },
     {
         "ranking": "10",
-        "title": "Energy",
-        "artist": "Youngn Lipz",
-        "album": "NEVERLAND - Original Soundtrack",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ff/e0/0a/ffe00ae5-93ad-21e0-76f0-b581a7ae3ad8/5063268135605_cover.jpg/80x80bb.webp",
-        "length": "2:36"
-    },
-    {
-        "ranking": "11",
-        "title": "Same Girl (Duet with Usher)",
-        "artist": "R. Kelly",
-        "album": "Double Up",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features/f6/d3/15/dj.zfltxxux.jpg/80x80bb.webp",
-        "length": "4:12"
-    },
-    {
-        "ranking": "12",
-        "title": "Say (Remix)",
-        "artist": "DJ Noiz",
-        "album": "SAY (Remix) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/60/7c/41/607c41ab-1850-5131-2910-d3eef5579c39/7429.jpg/80x80bb.webp",
-        "length": "2:38"
-    },
-    {
-        "ranking": "13",
-        "title": "Salty Eyes",
-        "artist": "8RO8",
-        "album": "Loose Shakas - EP",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/64/98/4b/64984b48-c18f-ed9b-1356-c883bde3d359/797885321213_cover.jpg/80x80bb.webp",
-        "length": "2:31"
-    },
-    {
-        "ranking": "14",
-        "title": "White Ferrari",
-        "artist": "Frank Ocean",
-        "album": "Blonde",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bb/45/68/bb4568f3-68cd-619d-fbcb-4e179916545d/BlondCover-Final.jpg/80x80bb.webp",
-        "length": "4:08"
-    },
-    {
-        "ranking": "15",
-        "title": "La Boca",
-        "artist": "Mau y Ricky",
-        "album": "Para Aventuras y Curiosidades",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4a/16/55/4a16555d-74d5-7347-a7be-49fb5f733164/886447647615.jpg/80x80bb.webp",
-        "length": "3:26"
-    },
-    {
-        "ranking": "16",
         "title": "Monique",
         "artist": "Fiji",
         "album": "Indigo",
@@ -128,23 +80,39 @@
         "length": "2:42"
     },
     {
-        "ranking": "17",
-        "title": "Feelz (feat. 10An3)",
-        "artist": "Rabz",
-        "album": "Feelz (feat. 10An3) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0c/fb/eb/0cfbeb01-b6e1-20cd-fb5f-06b4426a535b/artwork.jpg/80x80bb.webp",
-        "length": "4:11"
+        "ranking": "11",
+        "title": "When I Was Your Man",
+        "artist": "Bruno Mars",
+        "album": "Unorthodox Jukebox",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/a4/7c/e0a47c6f-005a-9f9f-ce29-8e858e2bcfcb/075679957283.jpg/80x80bb.webp",
+        "length": "3:33"
     },
     {
-        "ranking": "18",
-        "title": "Rich Flex",
-        "artist": "Drake",
-        "album": "Her Loss",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c7/00/3f/c7003f83-3a43-1201-4aec-41be71ba64c5/22UM1IM29131.rgb.jpg/80x80bb.webp",
-        "length": "3:59"
+        "ranking": "12",
+        "title": "Conversations with Myself",
+        "artist": "Bazzi",
+        "album": "Soul Searching",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b3/7b/df/b37bdf83-bf6c-511e-5186-932270a0a9cd/075679838483.jpg/80x80bb.webp",
+        "length": "1:59"
     },
     {
-        "ranking": "19",
+        "ranking": "13",
+        "title": "Young & Alive",
+        "artist": "Bazzi",
+        "album": "Infinite Dream",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/54/e8/74/54e87416-8ac1-619e-0d60-5b54102e9e1b/075679724946.jpg/80x80bb.webp",
+        "length": "2:40"
+    },
+    {
+        "ranking": "14",
+        "title": "Good Company (feat. Swae Lee & Quavo)",
+        "artist": "Tone Stith",
+        "album": "Good Company",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a1/9e/01/a19e0151-3891-0ae8-fdc8-d8cecd55180d/886447481707.jpg/80x80bb.webp",
+        "length": "4:09"
+    },
+    {
+        "ranking": "15",
         "title": "Solo",
         "artist": "Iyaz",
         "album": "Solo - Single",
@@ -152,31 +120,7 @@
         "length": "3:14"
     },
     {
-        "ranking": "20",
-        "title": "EA (feat. 21 Savage)",
-        "artist": "Young Nudy",
-        "album": "SlimeBall 2",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/cb/74/1b/cb741b85-6961-7860-2af2-b0b54f51ee11/4356.jpg/80x80bb.webp",
-        "length": "3:47"
-    },
-    {
-        "ranking": "21",
-        "title": "Lil Baby (feat. Ty Dolla $ign)",
-        "artist": "Mustard",
-        "album": "Cold Summer",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c6/d3/b7/c6d3b7a6-555a-44ba-675b-aa2ecd5efc59/16UMGIM70803.rgb.jpg/80x80bb.webp",
-        "length": "4:19"
-    },
-    {
-        "ranking": "22",
-        "title": "BOTA FUEGO (feat. Dímelo Flow, Justin Quiles & Lenny Tavárez) [Remix]",
-        "artist": "Mau y Ricky",
-        "album": "BOTA FUEGO (feat. Dímelo Flow, Justin Quiles & Lenny Tavárez) [Remix] - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/51/93/4b/51934b91-401d-6d9f-c458-b5203dd5b318/886448215400.jpg/80x80bb.webp",
-        "length": "4:12"
-    },
-    {
-        "ranking": "23",
+        "ranking": "16",
         "title": "Anna Mae",
         "artist": "Summer Walker",
         "album": "Over It",
@@ -184,7 +128,47 @@
         "length": "2:17"
     },
     {
-        "ranking": "24",
+        "ranking": "17",
+        "title": "Friday Night",
+        "artist": "Lasmid",
+        "album": "Friday Night - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0d/31/36/0d313669-7a67-3c58-033a-c37bf5402ed9/4251906632307_cover.jpg/80x80bb.webp",
+        "length": "2:51"
+    },
+    {
+        "ranking": "18",
+        "title": "Heaven",
+        "artist": "Bazzi",
+        "album": "Infinite Dream",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/54/e8/74/54e87416-8ac1-619e-0d60-5b54102e9e1b/075679724946.jpg/80x80bb.webp",
+        "length": "2:33"
+    },
+    {
+        "ranking": "19",
+        "title": "I Love You, I'm Sorry",
+        "artist": "Gracie Abrams",
+        "album": "The Secret of Us",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/9a/a7/529aa76f-5d60-cd81-9eb0-0eb521de861d/24UMGIM43968.rgb.jpg/80x80bb.webp",
+        "length": "2:37"
+    },
+    {
+        "ranking": "20",
+        "title": "Affaire Mokuwa",
+        "artist": "Kékélé",
+        "album": "Congo Life",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/59/16/c3/5916c391-b944-e3b6-4197-55e717ee26ad/22UMGIM38655.rgb.jpg/80x80bb.webp",
+        "length": "5:06"
+    },
+    {
+        "ranking": "21",
+        "title": "I Don't Belong In This Club",
+        "artist": "Why Don't We",
+        "album": "I Don't Belong In This Club - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8a/a5/43/8aa5431a-918c-0cac-f423-622e9d0e776a/075679851376.jpg/80x80bb.webp",
+        "length": "3:42"
+    },
+    {
+        "ranking": "22",
         "title": "Make Up (feat. Chloe Angelides)",
         "artist": "R. City",
         "album": "What Dreams Are Made Of",
@@ -192,7 +176,7 @@
         "length": "3:26"
     },
     {
-        "ranking": "25",
+        "ranking": "23",
         "title": "Go Flex",
         "artist": "Post Malone",
         "album": "Stoney (Deluxe)",
@@ -200,7 +184,7 @@
         "length": "2:59"
     },
     {
-        "ranking": "26",
+        "ranking": "24",
         "title": "Feels Great (feat. Fetty Wap & CVBZ)",
         "artist": "Cheat Codes",
         "album": "Feels Great (feat. Fetty Wap & CVBZ) - Single",
@@ -208,7 +192,7 @@
         "length": "3:13"
     },
     {
-        "ranking": "27",
+        "ranking": "25",
         "title": "Better",
         "artist": "Khalid",
         "album": "Suncity - EP",
@@ -216,15 +200,7 @@
         "length": "3:49"
     },
     {
-        "ranking": "28",
-        "title": "Psycho (feat. Ty Dolla $ign)",
-        "artist": "Post Malone",
-        "album": "beerbongs & bentleys",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7e/3c/4e/7e3c4ef6-daa7-cc10-57d0-45f5a562eaf5/18UMGIM22101.rgb.jpg/80x80bb.webp",
-        "length": "3:41"
-    },
-    {
-        "ranking": "29",
+        "ranking": "26",
         "title": "Carry Me Home (feat. Maverick Sabre)",
         "artist": "Jorja Smith",
         "album": "Project 11 - EP",
@@ -232,7 +208,7 @@
         "length": "4:42"
     },
     {
-        "ranking": "30",
+        "ranking": "27",
         "title": "Shell Shocked (feat. Kill the Noise & Madsonik)",
         "artist": "Han Geng",
         "album": "Shell Shocked (feat. Kill the Noise & Madsonik) - Single",
@@ -240,7 +216,7 @@
         "length": null
     },
     {
-        "ranking": "31",
+        "ranking": "28",
         "title": "You Say",
         "artist": "Lauren Daigle",
         "album": "Look Up Child",
@@ -248,7 +224,7 @@
         "length": "4:34"
     },
     {
-        "ranking": "32",
+        "ranking": "29",
         "title": "Rain From Heaven",
         "artist": "Eric Paslay",
         "album": "The Best of Me (Original Motion Picture Soundtrack)",
@@ -256,15 +232,7 @@
         "length": null
     },
     {
-        "ranking": "33",
-        "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
-        "artist": "Post Malone",
-        "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4b/30/2c/4b302cb6-7a14-5464-4e97-0577e9d0be49/18UMGIM82277.rgb.jpg/80x80bb.webp",
-        "length": "2:38"
-    },
-    {
-        "ranking": "34",
+        "ranking": "30",
         "title": "Meant to Be",
         "artist": "Bebe Rexha",
         "album": "All Your Fault, Pt. 2 - EP",
@@ -272,7 +240,7 @@
         "length": "2:43"
     },
     {
-        "ranking": "35",
+        "ranking": "31",
         "title": "All for You",
         "artist": "Stick Figure",
         "album": "World on Fire",
@@ -280,7 +248,15 @@
         "length": "4:26"
     },
     {
-        "ranking": "36",
+        "ranking": "32",
+        "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
+        "artist": "Post Malone",
+        "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4b/30/2c/4b302cb6-7a14-5464-4e97-0577e9d0be49/18UMGIM82277.rgb.jpg/80x80bb.webp",
+        "length": "2:38"
+    },
+    {
+        "ranking": "33",
         "title": "Кукушка (Официальный саундтрек \"Битва за Севастополь\")",
         "artist": "Polina Gagarina",
         "album": "Кукушка (Официальный саундтрек \"Битва за Севастополь\") - Single",
@@ -288,7 +264,7 @@
         "length": "3:52"
     },
     {
-        "ranking": "37",
+        "ranking": "34",
         "title": "Home",
         "artist": "The Chipmunks",
         "album": "Alvin and the Chipmunks: The Road Chip (Original Motion Picture Soundtrack)",
@@ -296,7 +272,7 @@
         "length": "3:04"
     },
     {
-        "ranking": "38",
+        "ranking": "35",
         "title": "House of Pain",
         "artist": "Faster Pussycat",
         "album": "Wake Me When It's Over",
@@ -304,7 +280,7 @@
         "length": "5:44"
     },
     {
-        "ranking": "39",
+        "ranking": "36",
         "title": "Good Old Days (feat. Kesha)",
         "artist": "Macklemore",
         "album": "GEMINI",
@@ -312,7 +288,7 @@
         "length": "4:00"
     },
     {
-        "ranking": "40",
+        "ranking": "37",
         "title": "Work from Home (feat. Ty Dolla $ign)",
         "artist": "Fifth Harmony",
         "album": "7/27 (Deluxe)",
@@ -320,7 +296,7 @@
         "length": "3:34"
     },
     {
-        "ranking": "41",
+        "ranking": "38",
         "title": "Every Night Every Morning",
         "artist": "Maoli",
         "album": "Maoli Music Overload",
@@ -328,7 +304,7 @@
         "length": "3:17"
     },
     {
-        "ranking": "42",
+        "ranking": "39",
         "title": "Never Gonna Be Alone",
         "artist": "Nickelback",
         "album": "Dark Horse",
@@ -336,7 +312,7 @@
         "length": "3:47"
     },
     {
-        "ranking": "43",
+        "ranking": "40",
         "title": "Dusk Till Dawn (feat. Sia)",
         "artist": "ZAYN",
         "album": "Dusk Till Dawn (Radio Edit) [feat. Sia] - Single",
@@ -344,12 +320,36 @@
         "length": "3:59"
     },
     {
-        "ranking": "44",
+        "ranking": "41",
         "title": "Champion (feat. Kat Dahlia)",
         "artist": "Common Kings",
         "album": "Champion (feat. Kat Dahlia) - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/93/b8/4e/93b84e14-b9ec-3cb2-f7c3-dfafa4d3e2c4/192641032110_Cover.jpg/80x80bb.webp",
         "length": "3:43"
+    },
+    {
+        "ranking": "42",
+        "title": "Pick Up the Pieces",
+        "artist": "Nat Jay",
+        "album": "Lights Across the Sky",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/99/3f/04/mzi.tlxqasdn.jpg/80x80bb.webp",
+        "length": "3:38"
+    },
+    {
+        "ranking": "43",
+        "title": "Good Life",
+        "artist": "G-Eazy",
+        "album": "The Fate of the Furious: The Album",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ba/77/22/ba772286-cdd8-8925-aa93-784db1836d7b/075679900111.jpg/80x80bb.webp",
+        "length": "3:45"
+    },
+    {
+        "ranking": "44",
+        "title": "Don't You Need Somebody (feat. Enrique Iglesias, R. City, Serayah & Shaggy)",
+        "artist": "RedOne",
+        "album": "Don't You Need Somebody (feat. Enrique Iglesias, R. City, Serayah & Shaggy) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6a/fc/fd/6afcfd67-28da-f1e2-115f-faed8b954692/054391964755.jpg/80x80bb.webp",
+        "length": "3:27"
     },
     {
         "ranking": "45",
@@ -361,78 +361,6 @@
     },
     {
         "ranking": "46",
-        "title": "Pick Up the Pieces",
-        "artist": "Nat Jay",
-        "album": "Lights Across the Sky",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/99/3f/04/mzi.tlxqasdn.jpg/80x80bb.webp",
-        "length": "3:38"
-    },
-    {
-        "ranking": "47",
-        "title": "Good Life",
-        "artist": "G-Eazy",
-        "album": "The Fate of the Furious: The Album",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ba/77/22/ba772286-cdd8-8925-aa93-784db1836d7b/075679900111.jpg/80x80bb.webp",
-        "length": "3:45"
-    },
-    {
-        "ranking": "48",
-        "title": "Don't You Need Somebody (feat. Enrique Iglesias, R. City, Serayah & Shaggy)",
-        "artist": "RedOne",
-        "album": "Don't You Need Somebody (feat. Enrique Iglesias, R. City, Serayah & Shaggy) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6a/fc/fd/6afcfd67-28da-f1e2-115f-faed8b954692/054391964755.jpg/80x80bb.webp",
-        "length": "3:27"
-    },
-    {
-        "ranking": "49",
-        "title": "Nijame Priyaa",
-        "artist": "Chinmayi Sripada",
-        "album": "Prema Leela (Original Motion Picture Soundtrack)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/e1/c8/31/e1c8316c-39df-2b2f-a555-2565dcf360f4/8902894357531_cover.jpg/80x80bb.webp",
-        "length": "0:54"
-    },
-    {
-        "ranking": "50",
-        "title": "Reggaetón Lento (Remix)",
-        "artist": "Little Mix",
-        "album": "Glory Days: The Platinum Edition",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/62/a1/1e/62a11e38-a0e9-1c3d-ede1-ce7dd815158f/886446834702.jpg/80x80bb.webp",
-        "length": "3:08"
-    },
-    {
-        "ranking": "51",
-        "title": "GOLD RUSH",
-        "artist": "Jonny West",
-        "album": "The Thing About This Is...",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ee/f8/0d/eef80d69-106c-a39a-c6e6-31bb0289b735/aPLQuKUTyiSsYXRjrw1A_IMG_1266.jpg/80x80bb.webp",
-        "length": "2:47"
-    },
-    {
-        "ranking": "52",
-        "title": "Dancing in the Sky",
-        "artist": "Dani and Lizzy",
-        "album": "Dancing in the Sky - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/68/66/f1686626-4c23-edc4-849a-8845b5484234/cover.jpg/80x80bb.webp",
-        "length": "3:46"
-    },
-    {
-        "ranking": "53",
-        "title": "Goodbye (feat. Nicki Minaj & Willy William)",
-        "artist": "Jason Derulo",
-        "album": "Goodbye (feat. Nicki Minaj & Willy William) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/d1/03/1e/d1031eed-f893-16b1-c5f1-7c5c7d93e497/054391948335.jpg/80x80bb.webp",
-        "length": "3:15"
-    },
-    {
-        "ranking": "54",
-        "title": "Thunder",
-        "artist": "Imagine Dragons",
-        "album": "Evolve",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/11/7a/b8/117ab805-6811-8929-18b9-0fad7baf0c25/17UMGIM98210.rgb.jpg/80x80bb.webp",
-        "length": "3:07"
-    },
-    {
-        "ranking": "55",
         "title": "Beautiful (feat. Camila Cabello)",
         "artist": "Bazzi",
         "album": "Beautiful (feat. Camila Cabello) - Single",
@@ -440,7 +368,55 @@
         "length": "3:00"
     },
     {
-        "ranking": "56",
+        "ranking": "47",
+        "title": "Nijame Priyaa",
+        "artist": "Chinmayi Sripada",
+        "album": "Prema Leela (Original Motion Picture Soundtrack)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/e1/c8/31/e1c8316c-39df-2b2f-a555-2565dcf360f4/8902894357531_cover.jpg/80x80bb.webp",
+        "length": "0:54"
+    },
+    {
+        "ranking": "48",
+        "title": "Reggaetón Lento (Remix)",
+        "artist": "Little Mix",
+        "album": "Glory Days: The Platinum Edition",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/62/a1/1e/62a11e38-a0e9-1c3d-ede1-ce7dd815158f/886446834702.jpg/80x80bb.webp",
+        "length": "3:08"
+    },
+    {
+        "ranking": "49",
+        "title": "GOLD RUSH",
+        "artist": "Jonny West",
+        "album": "The Thing About This Is...",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ee/f8/0d/eef80d69-106c-a39a-c6e6-31bb0289b735/aPLQuKUTyiSsYXRjrw1A_IMG_1266.jpg/80x80bb.webp",
+        "length": "2:47"
+    },
+    {
+        "ranking": "50",
+        "title": "Dancing in the Sky",
+        "artist": "Dani and Lizzy",
+        "album": "Dancing in the Sky - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/68/66/f1686626-4c23-edc4-849a-8845b5484234/cover.jpg/80x80bb.webp",
+        "length": "3:46"
+    },
+    {
+        "ranking": "51",
+        "title": "Goodbye (feat. Nicki Minaj & Willy William)",
+        "artist": "Jason Derulo",
+        "album": "Goodbye (feat. Nicki Minaj & Willy William) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/d1/03/1e/d1031eed-f893-16b1-c5f1-7c5c7d93e497/054391948335.jpg/80x80bb.webp",
+        "length": "3:15"
+    },
+    {
+        "ranking": "52",
+        "title": "Thunder",
+        "artist": "Imagine Dragons",
+        "album": "Evolve",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/11/7a/b8/117ab805-6811-8929-18b9-0fad7baf0c25/17UMGIM98210.rgb.jpg/80x80bb.webp",
+        "length": "3:07"
+    },
+    {
+        "ranking": "53",
         "title": "Crash and Burn",
         "artist": "Marc E. Bassy",
         "album": "PMD",
@@ -448,7 +424,7 @@
         "length": "3:32"
     },
     {
-        "ranking": "57",
+        "ranking": "54",
         "title": "Dylan",
         "artist": "Deyaz",
         "album": "Dylan - Single",
@@ -456,7 +432,7 @@
         "length": "3:10"
     },
     {
-        "ranking": "58",
+        "ranking": "55",
         "title": "Only You",
         "artist": "Kennyon Brown",
         "album": "Only You - Single",
@@ -464,7 +440,7 @@
         "length": "3:03"
     },
     {
-        "ranking": "59",
+        "ranking": "56",
         "title": "Heading Up High (feat. Kensington)",
         "artist": "Armin van Buuren",
         "album": "Embrace",
@@ -472,87 +448,7 @@
         "length": "3:52"
     },
     {
-        "ranking": "60",
-        "title": "Never Be the Same",
-        "artist": "Camila Cabello",
-        "album": "Camila",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/85/28/70/85287029-19b9-cbe3-d1ab-300781875bf4/886446870298.jpg/80x80bb.webp",
-        "length": "3:46"
-    },
-    {
-        "ranking": "61",
-        "title": "Young Dumb & Broke",
-        "artist": "Khalid",
-        "album": "American Teen",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f8/45/5a/f8455a71-8307-aa9a-9c95-3d22efe0804f/886446326146.jpg/80x80bb.webp",
-        "length": "3:22"
-    },
-    {
-        "ranking": "62",
-        "title": "Selfish",
-        "artist": "Justin Timberlake",
-        "album": "Everything I Thought It Was",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e4/dc/dd/e4dcdd8c-1adb-fee4-d5cf-a1faba79b1b0/196871753425.jpg/80x80bb.webp",
-        "length": "3:49"
-    },
-    {
-        "ranking": "63",
-        "title": "Unwritten",
-        "artist": "Maoli",
-        "album": "The Breakthrough",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/09/40/90/09409030-39a6-67e4-a6df-8f96e88bb5a9/0.jpg/80x80bb.webp",
-        "length": "3:51"
-    },
-    {
-        "ranking": "64",
-        "title": "Fast Car",
-        "artist": "Luke Combs",
-        "album": "Gettin' Old",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/7d/24/14/7d241439-671a-d957-9613-2f738f43a064/196589485991.jpg/80x80bb.webp",
-        "length": "4:25"
-    },
-    {
-        "ranking": "65",
-        "title": "Geronimo",
-        "artist": "Sheppard",
-        "album": "Bombs Away",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/91/ea/ac/91eaac1f-b347-cdf2-a642-7cdd2a9568d4/14UMGIM23488.rgb.jpg/80x80bb.webp",
-        "length": "3:38"
-    },
-    {
-        "ranking": "66",
-        "title": "Silence (feat. Khalid)",
-        "artist": "Marshmello",
-        "album": "Silence (feat. Khalid) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2e/d5/43/2ed54360-4339-e96c-46a9-0b273e906762/886446681832.jpg/80x80bb.webp",
-        "length": "3:00"
-    },
-    {
-        "ranking": "67",
-        "title": "White Iverson",
-        "artist": "Post Malone",
-        "album": "Stoney (Deluxe)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c1/ea/45/c1ea4509-59b6-c323-c6f5-d8d676f79577/16UMGIM76040.rgb.jpg/80x80bb.webp",
-        "length": "4:16"
-    },
-    {
-        "ranking": "68",
-        "title": "Hold On to Memories",
-        "artist": "Disturbed",
-        "album": "Evolution (Deluxe Edition)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/19/7b/4b/197b4be0-97ef-1039-f337-f664a0874a72/093624904809.jpg/80x80bb.webp",
-        "length": "5:03"
-    },
-    {
-        "ranking": "69",
-        "title": "Simple",
-        "artist": "Florida Georgia Line",
-        "album": "Can't Say I Ain't Country",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1d/8f/b2/1d8fb26a-8064-0f0b-36e1-14d4871b692f/18OPBMR00221.rgb.jpg/80x80bb.webp",
-        "length": "3:05"
-    },
-    {
-        "ranking": "70",
+        "ranking": "57",
         "title": "Candy Paint",
         "artist": "Post Malone",
         "album": "beerbongs & bentleys",
@@ -560,7 +456,79 @@
         "length": "3:47"
     },
     {
-        "ranking": "71",
+        "ranking": "58",
+        "title": "Young Dumb & Broke",
+        "artist": "Khalid",
+        "album": "American Teen",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f8/45/5a/f8455a71-8307-aa9a-9c95-3d22efe0804f/886446326146.jpg/80x80bb.webp",
+        "length": "3:22"
+    },
+    {
+        "ranking": "59",
+        "title": "Never Be the Same",
+        "artist": "Camila Cabello",
+        "album": "Camila",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/85/28/70/85287029-19b9-cbe3-d1ab-300781875bf4/886446870298.jpg/80x80bb.webp",
+        "length": "3:46"
+    },
+    {
+        "ranking": "60",
+        "title": "Fast Car",
+        "artist": "Luke Combs",
+        "album": "Gettin' Old",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/7d/24/14/7d241439-671a-d957-9613-2f738f43a064/196589485991.jpg/80x80bb.webp",
+        "length": "4:25"
+    },
+    {
+        "ranking": "61",
+        "title": "Baby Blue",
+        "artist": "Rence",
+        "album": "Pink",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bb/8b/84/bb8b84b9-e356-2ead-ebf2-17d14c8fc829/artwork.jpg/80x80bb.webp",
+        "length": "3:28"
+    },
+    {
+        "ranking": "62",
+        "title": "Geronimo",
+        "artist": "Sheppard",
+        "album": "Bombs Away",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/91/ea/ac/91eaac1f-b347-cdf2-a642-7cdd2a9568d4/14UMGIM23488.rgb.jpg/80x80bb.webp",
+        "length": "3:38"
+    },
+    {
+        "ranking": "63",
+        "title": "Silence (feat. Khalid)",
+        "artist": "Marshmello",
+        "album": "Silence (feat. Khalid) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2e/d5/43/2ed54360-4339-e96c-46a9-0b273e906762/886446681832.jpg/80x80bb.webp",
+        "length": "3:00"
+    },
+    {
+        "ranking": "64",
+        "title": "Selfish",
+        "artist": "Justin Timberlake",
+        "album": "Everything I Thought It Was",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e4/dc/dd/e4dcdd8c-1adb-fee4-d5cf-a1faba79b1b0/196871753425.jpg/80x80bb.webp",
+        "length": "3:49"
+    },
+    {
+        "ranking": "65",
+        "title": "Hold On to Memories",
+        "artist": "Disturbed",
+        "album": "Evolution (Deluxe Edition)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/19/7b/4b/197b4be0-97ef-1039-f337-f664a0874a72/093624904809.jpg/80x80bb.webp",
+        "length": "5:03"
+    },
+    {
+        "ranking": "66",
+        "title": "Simple",
+        "artist": "Florida Georgia Line",
+        "album": "Can't Say I Ain't Country",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1d/8f/b2/1d8fb26a-8064-0f0b-36e1-14d4871b692f/18OPBMR00221.rgb.jpg/80x80bb.webp",
+        "length": "3:05"
+    },
+    {
+        "ranking": "67",
         "title": "Sweet but Psycho",
         "artist": "Ava Max",
         "album": "10's Nostalgia Best from the Tens",
@@ -568,15 +536,7 @@
         "length": "3:07"
     },
     {
-        "ranking": "72",
-        "title": "You & Me (feat. G-Eazy)",
-        "artist": "Marc E. Bassy",
-        "album": "Groovy People - EP",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3d/34/89/3d3489e1-97ee-7532-d421-45893102e346/00602557110999.rgb.jpg/80x80bb.webp",
-        "length": "3:38"
-    },
-    {
-        "ranking": "73",
+        "ranking": "68",
         "title": "Memories",
         "artist": "Maroon 5",
         "album": "Memories - Single",
@@ -584,23 +544,39 @@
         "length": "3:09"
     },
     {
-        "ranking": "74",
-        "title": "Calm Down",
-        "artist": "Rema",
-        "album": "Calm Down - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ee/f1/dc/eef1dc82-f516-fd0f-581c-3f952a0e2243/22UMGIM92113.rgb.jpg/80x80bb.webp",
-        "length": "3:59"
+        "ranking": "69",
+        "title": "Unwritten",
+        "artist": "Maoli",
+        "album": "The Breakthrough",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/09/40/90/09409030-39a6-67e4-a6df-8f96e88bb5a9/0.jpg/80x80bb.webp",
+        "length": "3:51"
     },
     {
-        "ranking": "75",
-        "title": "Roses",
-        "artist": "GASHI",
-        "album": "Roses - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e8/ee/6e/e8ee6eff-356b-ea57-ab5e-dff5b08a1ac3/886447767436.jpg/80x80bb.webp",
-        "length": "2:49"
+        "ranking": "70",
+        "title": "You & Me (feat. G-Eazy)",
+        "artist": "Marc E. Bassy",
+        "album": "Groovy People - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3d/34/89/3d3489e1-97ee-7532-d421-45893102e346/00602557110999.rgb.jpg/80x80bb.webp",
+        "length": "3:38"
     },
     {
-        "ranking": "76",
+        "ranking": "71",
+        "title": "White Iverson",
+        "artist": "Post Malone",
+        "album": "Stoney (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c1/ea/45/c1ea4509-59b6-c323-c6f5-d8d676f79577/16UMGIM76040.rgb.jpg/80x80bb.webp",
+        "length": "4:16"
+    },
+    {
+        "ranking": "72",
+        "title": "No Role Modelz",
+        "artist": "J. Cole",
+        "album": "2014 Forest Hills Drive",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/92/b9/62/92b9624d-e9fb-0e4f-f14b-6f1f96c0a3e0/21UM1IM54414.rgb.jpg/80x80bb.webp",
+        "length": "4:52"
+    },
+    {
+        "ranking": "73",
         "title": "Work (feat. Drake)",
         "artist": "Rihanna",
         "album": "ANTI (Deluxe)",
@@ -608,7 +584,7 @@
         "length": "3:39"
     },
     {
-        "ranking": "77",
+        "ranking": "74",
         "title": "Let You Down",
         "artist": "NF",
         "album": "Perception",
@@ -616,12 +592,36 @@
         "length": "3:32"
     },
     {
+        "ranking": "75",
+        "title": "Calm Down",
+        "artist": "Rema",
+        "album": "Calm Down - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ee/f1/dc/eef1dc82-f516-fd0f-581c-3f952a0e2243/22UMGIM92113.rgb.jpg/80x80bb.webp",
+        "length": "3:59"
+    },
+    {
+        "ranking": "76",
+        "title": "Sorry Not Sorry",
+        "artist": "Demi Lovato",
+        "album": "Tell Me You Love Me",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/5a/47/e0/5a47e034-5b53-49dc-642f-7a6d8bc88c99/17UM1IM22208.rgb.jpg/80x80bb.webp",
+        "length": "3:23"
+    },
+    {
+        "ranking": "77",
+        "title": "Roses",
+        "artist": "GASHI",
+        "album": "Roses - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e8/ee/6e/e8ee6eff-356b-ea57-ab5e-dff5b08a1ac3/886447767436.jpg/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
         "ranking": "78",
-        "title": "Baby Blue",
-        "artist": "Rence",
-        "album": "Pink",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bb/8b/84/bb8b84b9-e356-2ead-ebf2-17d14c8fc829/artwork.jpg/80x80bb.webp",
-        "length": "3:28"
+        "title": "Don't",
+        "artist": "Bryson Tiller",
+        "album": "T R A P S O U L",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/26/4a/f9/264af9b7-813d-4b08-2822-de8b26c0e188/886445447811.jpg/80x80bb.webp",
+        "length": "3:18"
     },
     {
         "ranking": "79",
@@ -633,22 +633,6 @@
     },
     {
         "ranking": "80",
-        "title": "Sorry Not Sorry",
-        "artist": "Demi Lovato",
-        "album": "Tell Me You Love Me",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/5a/47/e0/5a47e034-5b53-49dc-642f-7a6d8bc88c99/17UM1IM22208.rgb.jpg/80x80bb.webp",
-        "length": "3:23"
-    },
-    {
-        "ranking": "81",
-        "title": "Not Like Us",
-        "artist": "Kendrick Lamar",
-        "album": "Not Like Us - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "length": "4:34"
-    },
-    {
-        "ranking": "82",
         "title": "2 Seconds",
         "artist": "Kennyon Brown",
         "album": "Kenny Hendrix",
@@ -656,15 +640,7 @@
         "length": "2:40"
     },
     {
-        "ranking": "83",
-        "title": "Don't",
-        "artist": "Bryson Tiller",
-        "album": "T R A P S O U L",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/26/4a/f9/264af9b7-813d-4b08-2822-de8b26c0e188/886445447811.jpg/80x80bb.webp",
-        "length": "3:18"
-    },
-    {
-        "ranking": "84",
+        "ranking": "81",
         "title": "HEARTBREAK ANNIVERSARY",
         "artist": "GIVĒON",
         "album": "HEARTBREAK ANNIVERSARY - Single",
@@ -672,7 +648,7 @@
         "length": "3:16"
     },
     {
-        "ranking": "85",
+        "ranking": "82",
         "title": "Shallow",
         "artist": "Lady Gaga",
         "album": "A Star Is Born Soundtrack",
@@ -680,15 +656,23 @@
         "length": "3:35"
     },
     {
-        "ranking": "86",
-        "title": "That's What I Like",
-        "artist": "Bruno Mars",
-        "album": "24K Magic",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e3/47/a0/e347a0cc-87ce-5d05-d560-176c7d48f66e/075679904119.jpg/80x80bb.webp",
-        "length": "3:26"
+        "ranking": "83",
+        "title": "B.B.O (Lost Tapes 2022)",
+        "artist": "Tory Lanez",
+        "album": "B.B.O (Lost Tapes 2022) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/a0/bb/58a0bb54-b086-a23b-4a6f-9f6c6f9a626a/810129987232.jpg/80x80bb.webp",
+        "length": "2:48"
     },
     {
-        "ranking": "87",
+        "ranking": "84",
+        "title": "Not Like Us",
+        "artist": "Kendrick Lamar",
+        "album": "Not Like Us - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
+        "length": "4:34"
+    },
+    {
+        "ranking": "85",
         "title": "Murali Svaram Neeve",
         "artist": "Sathya Prakash",
         "album": "Prema Leela (Original Motion Picture Soundtrack)",
@@ -696,7 +680,7 @@
         "length": "1:29"
     },
     {
-        "ranking": "88",
+        "ranking": "86",
         "title": "The Light",
         "artist": "Disturbed",
         "album": "Immortalized (Deluxe Edition)",
@@ -704,7 +688,7 @@
         "length": "4:16"
     },
     {
-        "ranking": "89",
+        "ranking": "87",
         "title": "Be With You",
         "artist": "Akon",
         "album": "Freedom",
@@ -712,28 +696,44 @@
         "length": "3:51"
     },
     {
+        "ranking": "88",
+        "title": "Last Heartbreak Song",
+        "artist": "Ayra Starr",
+        "album": "The Year I Turned 21",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fa/d4/c4/fad4c4ce-2b3f-0304-8965-3c618987824e/24UMGIM51453.rgb.jpg/80x80bb.webp",
+        "length": "2:29"
+    },
+    {
+        "ranking": "89",
+        "title": "Mourning",
+        "artist": "Post Malone",
+        "album": "AUSTIN",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/60/6a/bc/606abcfb-9b0e-f7fe-e1b8-0d37091f29d1/23UMGIM50188.rgb.jpg/80x80bb.webp",
+        "length": "2:27"
+    },
+    {
         "ranking": "90",
-        "title": "No Role Modelz",
-        "artist": "J. Cole",
-        "album": "2014 Forest Hills Drive",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/92/b9/62/92b9624d-e9fb-0e4f-f14b-6f1f96c0a3e0/21UM1IM54414.rgb.jpg/80x80bb.webp",
-        "length": "4:52"
+        "title": "fukumean",
+        "artist": "Gunna",
+        "album": "a Gift & a Curse",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/82/29/76/822976d1-f1db-6626-e2f7-55343995ecd9/075679678485.jpg/80x80bb.webp",
+        "length": "2:05"
     },
     {
         "ranking": "91",
-        "title": "I Had Some Help (feat. Morgan Wallen)",
-        "artist": "Post Malone",
-        "album": "I Had Some Help (feat. Morgan Wallen) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/b7/09/e1b7098f-d6e1-2b18-fd6f-8390110908eb/24UMGIM50612.rgb.jpg/80x80bb.webp",
-        "length": "2:58"
-    },
-    {
-        "ranking": "92",
         "title": "At My Worst (feat. Kehlani)",
         "artist": "Pink Sweat$",
         "album": "At My Worst (feat. Kehlani) - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/14/43/11/14431117-a504-f6f5-2f8d-0805e77ba809/075679792013.jpg/80x80bb.webp",
         "length": "2:49"
+    },
+    {
+        "ranking": "92",
+        "title": "That's What I Like",
+        "artist": "Bruno Mars",
+        "album": "24K Magic",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e3/47/a0/e347a0cc-87ce-5d05-d560-176c7d48f66e/075679904119.jpg/80x80bb.webp",
+        "length": "3:26"
     },
     {
         "ranking": "93",
@@ -745,6 +745,14 @@
     },
     {
         "ranking": "94",
+        "title": "I Had Some Help (feat. Morgan Wallen)",
+        "artist": "Post Malone",
+        "album": "I Had Some Help (feat. Morgan Wallen) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/b7/09/e1b7098f-d6e1-2b18-fd6f-8390110908eb/24UMGIM50612.rgb.jpg/80x80bb.webp",
+        "length": "2:58"
+    },
+    {
+        "ranking": "95",
         "title": "Thunderclouds (feat. Sia, Diplo & Labrinth)",
         "artist": "LSD",
         "album": "LABRINTH, SIA & DIPLO PRESENT... LSD",
@@ -752,7 +760,15 @@
         "length": "3:07"
     },
     {
-        "ranking": "95",
+        "ranking": "96",
+        "title": "Away",
+        "artist": "Ayra Starr",
+        "album": "Ayra Starr - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/43/71/15/4371155b-d345-d342-0f5a-f17c683d19d0/748926876179_cover.jpg/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
+        "ranking": "97",
         "title": "Insecure (feat. Pink Sweat$)",
         "artist": "Bren Joy",
         "album": "Twenties (Deluxe)",
@@ -760,7 +776,7 @@
         "length": "3:01"
     },
     {
-        "ranking": "96",
+        "ranking": "98",
         "title": "Hola (feat. Maluma)",
         "artist": "Flo Rida",
         "album": "Hola (feat. Maluma) - Single",
@@ -768,7 +784,7 @@
         "length": "3:12"
     },
     {
-        "ranking": "97",
+        "ranking": "99",
         "title": "Shape of You",
         "artist": "Ed Sheeran",
         "album": "÷ (Deluxe)",
@@ -776,27 +792,11 @@
         "length": "3:53"
     },
     {
-        "ranking": "98",
+        "ranking": "100",
         "title": "Tualaga a Solomona",
         "artist": "Fiji",
         "album": "Indigenous Life",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/34/9b/23/349b23fc-bd2c-1ce4-3f0f-4999c672924c/319.jpg/80x80bb.webp",
         "length": "5:37"
-    },
-    {
-        "ranking": "99",
-        "title": "Messin' Around (feat. Enrique Iglesias)",
-        "artist": "Pitbull",
-        "album": "Messin' Around (feat. Enrique Iglesias) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d9/7c/29/d97c2951-5ba1-b626-9fca-c08751bd678a/886445816334.jpg/80x80bb.webp",
-        "length": "3:43"
-    },
-    {
-        "ranking": "100",
-        "title": "Residuals",
-        "artist": "Chris Brown",
-        "album": "11:11 (Deluxe)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/5c/c1/2d5cc1a6-86ce-ee16-5985-807f2fffa3cb/196871957267.jpg/80x80bb.webp",
-        "length": "3:35"
     }
 ]

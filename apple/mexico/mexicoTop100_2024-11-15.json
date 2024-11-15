@@ -105,14 +105,6 @@
     },
     {
         "ranking": "14",
-        "title": "EN MI MUNDO",
-        "artist": "Jasiel Nuñez",
-        "album": "LA ODISEA",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/e3/b5/b7e3b514-ea8b-43ca-79d0-f81fc7ea8f31/198846669885.jpg/80x80bb.webp",
-        "length": "5:07"
-    },
-    {
-        "ranking": "15",
         "title": "Mejores Jordans",
         "artist": "Victor Mendivil",
         "album": "Mejores Jordans - Single",
@@ -120,12 +112,20 @@
         "length": "3:54"
     },
     {
-        "ranking": "16",
+        "ranking": "15",
         "title": "Volver Al Futuro",
         "artist": "Óscar Maydon",
         "album": "Volver Al Futuro - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/76/23/8d762346-51e2-ebc7-fead-2a78c334f1dc/196872148862.jpg/80x80bb.webp",
         "length": "3:24"
+    },
+    {
+        "ranking": "16",
+        "title": "EN MI MUNDO",
+        "artist": "Jasiel Nuñez",
+        "album": "LA ODISEA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/e3/b5/b7e3b514-ea8b-43ca-79d0-f81fc7ea8f31/198846669885.jpg/80x80bb.webp",
+        "length": "5:07"
     },
     {
         "ranking": "17",
@@ -153,19 +153,19 @@
     },
     {
         "ranking": "20",
+        "title": "Un Scar",
+        "artist": "Victor Mendivil",
+        "album": "Un Scar - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/0e/60/790e60e2-fcfa-2610-caff-53092946912b/1963622648663_cover.jpg/80x80bb.webp",
+        "length": "4:59"
+    },
+    {
+        "ranking": "21",
         "title": "Qué Onda",
         "artist": "Calle 24",
         "album": "Qué Onda - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2c/32/72/2c327216-8562-911a-f6e8-5c268f55afd6/717340552815_cover.jpg/80x80bb.webp",
         "length": "3:11"
-    },
-    {
-        "ranking": "21",
-        "title": "Giza",
-        "artist": "Natanael Cano",
-        "album": "Giza - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/2c/7c/c12c7cc4-e418-2184-2366-79be69cf8af5/5021732424730.jpg/80x80bb.webp",
-        "length": "2:57"
     },
     {
         "ranking": "22",
@@ -177,6 +177,14 @@
     },
     {
         "ranking": "23",
+        "title": "Giza",
+        "artist": "Natanael Cano",
+        "album": "Giza - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/2c/7c/c12c7cc4-e418-2184-2366-79be69cf8af5/5021732424730.jpg/80x80bb.webp",
+        "length": "2:57"
+    },
+    {
+        "ranking": "24",
         "title": "Si No Quieres No",
         "artist": "Luis R Conriquez",
         "album": "Si No Quieres No - Single",
@@ -184,7 +192,7 @@
         "length": "2:27"
     },
     {
-        "ranking": "24",
+        "ranking": "25",
         "title": "TÚ NAME",
         "artist": "Fuerza Regida",
         "album": "Dolido Pero No Arrepentido - EP",
@@ -192,23 +200,7 @@
         "length": "2:32"
     },
     {
-        "ranking": "25",
-        "title": "Un Scar",
-        "artist": "Victor Mendivil",
-        "album": "Un Scar - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/0e/60/790e60e2-fcfa-2610-caff-53092946912b/1963622648663_cover.jpg/80x80bb.webp",
-        "length": "4:59"
-    },
-    {
         "ranking": "26",
-        "title": "RUBICON",
-        "artist": "Peso Pluma",
-        "album": "GÉNESIS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a7/72/77/a77277f4-9b2e-0890-4707-31c1ac394c66/197189111396.jpg/80x80bb.webp",
-        "length": "3:58"
-    },
-    {
-        "ranking": "27",
         "title": "+57 (feat. Ovy On the Drums, J Balvin, Maluma, Ryan Castro & Blessd)",
         "artist": "KAROL G",
         "album": "+57 (feat. Ovy On the Drums, J Balvin, Maluma, Ryan Castro & Blessd) - Single",
@@ -216,7 +208,23 @@
         "length": "4:58"
     },
     {
+        "ranking": "27",
+        "title": "RUBICON",
+        "artist": "Peso Pluma",
+        "album": "GÉNESIS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a7/72/77/a77277f4-9b2e-0890-4707-31c1ac394c66/197189111396.jpg/80x80bb.webp",
+        "length": "3:58"
+    },
+    {
         "ranking": "28",
+        "title": "Morena Canela",
+        "artist": "Chino Pacas",
+        "album": "Que Sigan Llegando Las Pacas (Extended)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/19/a6/8619a6ca-c16c-c471-8aa0-7bdd7f391297/198704068621_Cover.jpg/80x80bb.webp",
+        "length": "2:58"
+    },
+    {
+        "ranking": "29",
         "title": "SANTAL 33",
         "artist": "Peso Pluma",
         "album": "ÉXODO",
@@ -224,20 +232,12 @@
         "length": "3:10"
     },
     {
-        "ranking": "29",
+        "ranking": "30",
         "title": "Si Antes Te Hubiera Conocido",
         "artist": "KAROL G",
         "album": "Si Antes Te Hubiera Conocido - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/60/94/a060947c-54d8-0fad-c558-eed12600224c/24UMGIM62705.rgb.jpg/80x80bb.webp",
         "length": "3:15"
-    },
-    {
-        "ranking": "30",
-        "title": "Morena Canela",
-        "artist": "Chino Pacas",
-        "album": "Que Sigan Llegando Las Pacas (Extended)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/19/a6/8619a6ca-c16c-c471-8aa0-7bdd7f391297/198704068621_Cover.jpg/80x80bb.webp",
-        "length": "2:58"
     },
     {
         "ranking": "31",
@@ -257,6 +257,14 @@
     },
     {
         "ranking": "33",
+        "title": "Más Altas Que Bajadas",
+        "artist": "Natanael Cano",
+        "album": "Nata Montana",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/15/a6/ac/15a6ac39-7d03-d487-a20f-97c7edaeba08/5054197720758.jpg/80x80bb.webp",
+        "length": "3:13"
+    },
+    {
+        "ranking": "34",
         "title": "Sabor Fresa",
         "artist": "Fuerza Regida",
         "album": "Sabor Fresa - Single",
@@ -264,20 +272,12 @@
         "length": "2:36"
     },
     {
-        "ranking": "34",
+        "ranking": "35",
         "title": "Q U E V A S H A C E R H O Y ?",
         "artist": "Omar Courtz",
         "album": "PRIMERA MUSA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/0f/48/300f48fd-f560-8aaf-17c1-00a4531ad61a/198588847695.jpg/80x80bb.webp",
         "length": "3:44"
-    },
-    {
-        "ranking": "35",
-        "title": "Más Altas Que Bajadas",
-        "artist": "Natanael Cano",
-        "album": "Nata Montana",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/15/a6/ac/15a6ac39-7d03-d487-a20f-97c7edaeba08/5054197720758.jpg/80x80bb.webp",
-        "length": "3:13"
     },
     {
         "ranking": "36",
@@ -289,6 +289,14 @@
     },
     {
         "ranking": "37",
+        "title": "Moscow Mule",
+        "artist": "Bad Bunny",
+        "album": "Un Verano Sin Ti",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
+        "length": "4:05"
+    },
+    {
+        "ranking": "38",
         "title": "LA TROKA",
         "artist": "Tito Double P",
         "album": "INCÓMODO",
@@ -296,20 +304,12 @@
         "length": "2:23"
     },
     {
-        "ranking": "38",
+        "ranking": "39",
         "title": "Gata Only",
         "artist": "FloyyMenor",
         "album": "Gata Only - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ca/4e/0f/ca4e0f11-2cbc-7aec-b2e4-53f5fac7cb0e/198309012715-copy-6dfc57c0.png/80x80bb.webp",
         "length": "3:42"
-    },
-    {
-        "ranking": "39",
-        "title": "Moscow Mule",
-        "artist": "Bad Bunny",
-        "album": "Un Verano Sin Ti",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
-        "length": "4:05"
     },
     {
         "ranking": "40",
@@ -329,19 +329,19 @@
     },
     {
         "ranking": "42",
-        "title": "PIÉNSALO",
-        "artist": "Junior H",
-        "album": "$AD BOYZ 4 LIFE II",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/13/2c/d3132c40-fb9c-e02e-50d8-cd66c24f4020/5054197834332.jpg/80x80bb.webp",
-        "length": "4:00"
-    },
-    {
-        "ranking": "43",
         "title": "BARBIEZ",
         "artist": "Fuerza Regida",
         "album": "Pa las Baby's Y Belikeada",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/21/e3/b7/21e3b74f-571b-07ce-567b-a2aa8274c7b2/196871548922.jpg/80x80bb.webp",
         "length": "2:46"
+    },
+    {
+        "ranking": "43",
+        "title": "PIÉNSALO",
+        "artist": "Junior H",
+        "album": "$AD BOYZ 4 LIFE II",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/13/2c/d3132c40-fb9c-e02e-50d8-cd66c24f4020/5054197834332.jpg/80x80bb.webp",
+        "length": "4:00"
     },
     {
         "ranking": "44",
@@ -377,19 +377,19 @@
     },
     {
         "ranking": "48",
-        "title": "BIRDS OF A FEATHER",
-        "artist": "Billie Eilish",
-        "album": "HIT ME HARD AND SOFT",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "length": "3:30"
-    },
-    {
-        "ranking": "49",
         "title": "La Santa",
         "artist": "Bad Bunny",
         "album": "YHLQMDLG",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8c/0f/81/8c0f81f2-9f10-5e3d-b9de-5961a73e8e52/195081078724.jpg/80x80bb.webp",
         "length": "3:26"
+    },
+    {
+        "ranking": "49",
+        "title": "BIRDS OF A FEATHER",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "3:30"
     },
     {
         "ranking": "50",
@@ -401,22 +401,6 @@
     },
     {
         "ranking": "51",
-        "title": "Brillarosa",
-        "artist": "Fuerza Regida",
-        "album": "Dolido Pero No Arrepentido - EP",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2e/39/db/2e39db39-bf85-df59-c4c5-22391beeacf8/196871825177.jpg/80x80bb.webp",
-        "length": "2:49"
-    },
-    {
-        "ranking": "52",
-        "title": "SI NO ES CONTIGO (REMIX)",
-        "artist": "Cris Mj",
-        "album": "SI NO ES CONTIGO (REMIX) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/91/fc/bc/91fcbc2c-2920-e950-907c-eac90b45c828/198846710273.jpg/80x80bb.webp",
-        "length": "4:14"
-    },
-    {
-        "ranking": "53",
         "title": "Diamantes",
         "artist": "Natanael Cano",
         "album": "A Mis 20",
@@ -424,12 +408,28 @@
         "length": "3:31"
     },
     {
+        "ranking": "52",
+        "title": "Brillarosa",
+        "artist": "Fuerza Regida",
+        "album": "Dolido Pero No Arrepentido - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2e/39/db/2e39db39-bf85-df59-c4c5-22391beeacf8/196871825177.jpg/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
+        "ranking": "53",
+        "title": "SI NO ES CONTIGO (REMIX)",
+        "artist": "Cris Mj",
+        "album": "SI NO ES CONTIGO (REMIX) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/91/fc/bc/91fcbc2c-2920-e950-907c-eac90b45c828/198846710273.jpg/80x80bb.webp",
+        "length": "4:14"
+    },
+    {
         "ranking": "54",
-        "title": "Vaquero (Remix) [feat. Andrés Castillo, La Dinastia & Riky Produce]",
-        "artist": "Bellakath",
-        "album": "Vaquero (Remix) [feat. Andrés Castillo, La Dinastia & Riky Produce] - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/60/f2/8460f2ee-0cd6-fd6a-067a-070ef6c5eeee/0.jpg/80x80bb.webp",
-        "length": "5:00"
+        "title": "APT.",
+        "artist": "ROSÉ",
+        "album": "APT. - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
+        "length": "2:49"
     },
     {
         "ranking": "55",
@@ -441,11 +441,11 @@
     },
     {
         "ranking": "56",
-        "title": "APT.",
-        "artist": "ROSÉ",
-        "album": "APT. - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "length": "2:49"
+        "title": "Vaquero (Remix) [feat. Andrés Castillo, La Dinastia & Riky Produce]",
+        "artist": "Bellakath",
+        "album": "Vaquero (Remix) [feat. Andrés Castillo, La Dinastia & Riky Produce] - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/60/f2/8460f2ee-0cd6-fd6a-067a-070ef6c5eeee/0.jpg/80x80bb.webp",
+        "length": "5:00"
     },
     {
         "ranking": "57",
@@ -465,14 +465,6 @@
     },
     {
         "ranking": "59",
-        "title": "CHINO",
-        "artist": "Tito Double P",
-        "album": "INCÓMODO",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/b1/c5/d6b1c5e2-104d-c427-465e-fea8dfe663d4/198588874653.jpg/80x80bb.webp",
-        "length": "2:54"
-    },
-    {
-        "ranking": "60",
         "title": "Vete",
         "artist": "Bad Bunny",
         "album": "YHLQMDLG",
@@ -480,7 +472,7 @@
         "length": "3:12"
     },
     {
-        "ranking": "61",
+        "ranking": "60",
         "title": "El Hijo Mayor",
         "artist": "Junior H",
         "album": "El Hijo Mayor - Single",
@@ -488,23 +480,15 @@
         "length": "3:16"
     },
     {
+        "ranking": "61",
+        "title": "CHINO",
+        "artist": "Tito Double P",
+        "album": "INCÓMODO",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/b1/c5/d6b1c5e2-104d-c427-465e-fea8dfe663d4/198588874653.jpg/80x80bb.webp",
+        "length": "2:54"
+    },
+    {
         "ranking": "62",
-        "title": "HARLEY QUINN",
-        "artist": "Fuerza Regida",
-        "album": "Pa las Baby's Y Belikeada",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/21/e3/b7/21e3b74f-571b-07ce-567b-a2aa8274c7b2/196871548922.jpg/80x80bb.webp",
-        "length": "2:23"
-    },
-    {
-        "ranking": "63",
-        "title": "Cholo 7",
-        "artist": "Fuerza Regida",
-        "album": "Cholo 7 - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/31/de/6731de29-dbde-e01b-8070-2326ea04d5ff/196872618679.jpg/80x80bb.webp",
-        "length": "2:37"
-    },
-    {
-        "ranking": "64",
         "title": "INMORTAL",
         "artist": "Fuerza Regida",
         "album": "Pa las Baby's Y Belikeada",
@@ -512,7 +496,7 @@
         "length": "2:17"
     },
     {
-        "ranking": "65",
+        "ranking": "63",
         "title": "Tipo Gatsby",
         "artist": "Óscar Maydon",
         "album": "DISTORSIÓN",
@@ -520,7 +504,15 @@
         "length": "3:22"
     },
     {
-        "ranking": "66",
+        "ranking": "64",
+        "title": "HARLEY QUINN",
+        "artist": "Fuerza Regida",
+        "album": "Pa las Baby's Y Belikeada",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/21/e3/b7/21e3b74f-571b-07ce-567b-a2aa8274c7b2/196871548922.jpg/80x80bb.webp",
+        "length": "2:23"
+    },
+    {
+        "ranking": "65",
         "title": "MR INTERNACIONAL",
         "artist": "Tito Double P",
         "album": "INCÓMODO",
@@ -528,15 +520,7 @@
         "length": "2:59"
     },
     {
-        "ranking": "67",
-        "title": "DEGENERE (feat. benny blanco)",
-        "artist": "Myke Towers",
-        "album": "LA PANTERA NEGRA (DELUXE)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/bd/f0/76bdf003-0dd5-1ef9-3a77-92d1b15600d7/5021732518545.jpg/80x80bb.webp",
-        "length": "2:10"
-    },
-    {
-        "ranking": "68",
+        "ranking": "66",
         "title": "BELANOVA",
         "artist": "Peso Pluma",
         "album": "ÉXODO",
@@ -544,7 +528,15 @@
         "length": "2:44"
     },
     {
-        "ranking": "69",
+        "ranking": "67",
+        "title": "Brillo",
+        "artist": "Natanael Cano",
+        "album": "NataKong",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3c/26/32/3c26323f-a8e8-844d-eccb-aa15186a461d/5054197142550.jpg/80x80bb.webp",
+        "length": "2:34"
+    },
+    {
+        "ranking": "68",
         "title": "Como Jordan",
         "artist": "Junior H",
         "album": "Mi Vida En Un Cigarro 2",
@@ -552,28 +544,36 @@
         "length": "3:45"
     },
     {
+        "ranking": "69",
+        "title": "DEGENERE (feat. benny blanco)",
+        "artist": "Myke Towers",
+        "album": "LA PANTERA NEGRA (DELUXE)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/bd/f0/76bdf003-0dd5-1ef9-3a77-92d1b15600d7/5021732518545.jpg/80x80bb.webp",
+        "length": "2:10"
+    },
+    {
         "ranking": "70",
-        "title": "O Me Voy O Te Vas",
-        "artist": "Natanael Cano",
-        "album": "O Me Voy O Te Vas - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7f/88/34/7f8834f4-76eb-1d84-8fb1-deb946cdbb2d/5054197877322.jpg/80x80bb.webp",
-        "length": "4:02"
+        "title": "Ese Vato No Te Queda",
+        "artist": "Carín León",
+        "album": "Ese Vato No Te Queda - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6c/c3/05/6cc305ad-ab00-2a11-1f1d-9f20f4eadbe3/00198704195693_Cover.jpg/80x80bb.webp",
+        "length": "3:18"
     },
     {
         "ranking": "71",
+        "title": "Cholo 7",
+        "artist": "Fuerza Regida",
+        "album": "Cholo 7 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/31/de/6731de29-dbde-e01b-8070-2326ea04d5ff/196872618679.jpg/80x80bb.webp",
+        "length": "2:37"
+    },
+    {
+        "ranking": "72",
         "title": "DETONA",
         "artist": "Tito Double P",
         "album": "INCÓMODO",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/b1/c5/d6b1c5e2-104d-c427-465e-fea8dfe663d4/198588874653.jpg/80x80bb.webp",
         "length": "2:23"
-    },
-    {
-        "ranking": "72",
-        "title": "Brillo",
-        "artist": "Natanael Cano",
-        "album": "NataKong",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3c/26/32/3c26323f-a8e8-844d-eccb-aa15186a461d/5054197142550.jpg/80x80bb.webp",
-        "length": "2:34"
     },
     {
         "ranking": "73",
@@ -585,6 +585,14 @@
     },
     {
         "ranking": "74",
+        "title": "O Me Voy O Te Vas",
+        "artist": "Natanael Cano",
+        "album": "O Me Voy O Te Vas - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7f/88/34/7f8834f4-76eb-1d84-8fb1-deb946cdbb2d/5054197877322.jpg/80x80bb.webp",
+        "length": "4:02"
+    },
+    {
+        "ranking": "75",
         "title": "Efecto",
         "artist": "Bad Bunny",
         "album": "Un Verano Sin Ti",
@@ -592,39 +600,7 @@
         "length": "3:33"
     },
     {
-        "ranking": "75",
-        "title": "TOMMY & PAMELA",
-        "artist": "Peso Pluma",
-        "album": "ÉXODO",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/e9/65/3de9651e-fe11-0525-7eee-762861af1152/198391808319.jpg/80x80bb.webp",
-        "length": "3:29"
-    },
-    {
         "ranking": "76",
-        "title": "Ese Vato No Te Queda",
-        "artist": "Carín León",
-        "album": "Ese Vato No Te Queda - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6c/c3/05/6cc305ad-ab00-2a11-1f1d-9f20f4eadbe3/00198704195693_Cover.jpg/80x80bb.webp",
-        "length": "3:18"
-    },
-    {
-        "ranking": "77",
-        "title": "ROSA PASTEL",
-        "artist": "Peso Pluma",
-        "album": "GÉNESIS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a7/72/77/a77277f4-9b2e-0890-4707-31c1ac394c66/197189111396.jpg/80x80bb.webp",
-        "length": "3:24"
-    },
-    {
-        "ranking": "78",
-        "title": "PRC",
-        "artist": "Peso Pluma",
-        "album": "PRC - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/31/ab/0f/31ab0f64-f8c8-65b8-1883-7c74f8963e2a/197187858316.jpg/80x80bb.webp",
-        "length": "3:04"
-    },
-    {
-        "ranking": "79",
         "title": "DILUVIO",
         "artist": "Rauw Alejandro",
         "album": "PLAYA SATURNO",
@@ -632,39 +608,31 @@
         "length": "3:17"
     },
     {
-        "ranking": "80",
-        "title": "ROCKSTAR",
-        "artist": "Junior H",
-        "album": "$AD BOYZ 4 LIFE II",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/13/2c/d3132c40-fb9c-e02e-50d8-cd66c24f4020/5054197834332.jpg/80x80bb.webp",
-        "length": "2:48"
+        "ranking": "77",
+        "title": "PRC",
+        "artist": "Peso Pluma",
+        "album": "PRC - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/31/ab/0f/31ab0f64-f8c8-65b8-1883-7c74f8963e2a/197187858316.jpg/80x80bb.webp",
+        "length": "3:04"
     },
     {
-        "ranking": "81",
-        "title": "Después De La 1",
-        "artist": "Cris Mj",
-        "album": "MJ - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/2a/e7/742ae73f-8357-bdf3-bada-769796f2ef8a/198846286426.jpg/80x80bb.webp",
-        "length": "2:57"
+        "ranking": "78",
+        "title": "ROSA PASTEL",
+        "artist": "Peso Pluma",
+        "album": "GÉNESIS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a7/72/77/a77277f4-9b2e-0890-4707-31c1ac394c66/197189111396.jpg/80x80bb.webp",
+        "length": "3:24"
     },
     {
-        "ranking": "82",
-        "title": "BRUCE WAYNE",
+        "ranking": "79",
+        "title": "TOMMY & PAMELA",
         "artist": "Peso Pluma",
         "album": "ÉXODO",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/e9/65/3de9651e-fe11-0525-7eee-762861af1152/198391808319.jpg/80x80bb.webp",
-        "length": "3:34"
+        "length": "3:29"
     },
     {
-        "ranking": "83",
-        "title": "Ojitos Lindos",
-        "artist": "Bad Bunny",
-        "album": "Un Verano Sin Ti",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
-        "length": "4:18"
-    },
-    {
-        "ranking": "84",
+        "ranking": "80",
         "title": "Disfruto Lo Malo",
         "artist": "Natanael Cano",
         "album": "Corridos Tumbados",
@@ -672,7 +640,31 @@
         "length": "3:07"
     },
     {
-        "ranking": "85",
+        "ranking": "81",
+        "title": "ROCKSTAR",
+        "artist": "Junior H",
+        "album": "$AD BOYZ 4 LIFE II",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/13/2c/d3132c40-fb9c-e02e-50d8-cd66c24f4020/5054197834332.jpg/80x80bb.webp",
+        "length": "2:48"
+    },
+    {
+        "ranking": "82",
+        "title": "Ojitos Lindos",
+        "artist": "Bad Bunny",
+        "album": "Un Verano Sin Ti",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
+        "length": "4:18"
+    },
+    {
+        "ranking": "83",
+        "title": "BRUCE WAYNE",
+        "artist": "Peso Pluma",
+        "album": "ÉXODO",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/e9/65/3de9651e-fe11-0525-7eee-762861af1152/198391808319.jpg/80x80bb.webp",
+        "length": "3:34"
+    },
+    {
+        "ranking": "84",
         "title": "VINO TINTO",
         "artist": "Peso Pluma",
         "album": "ÉXODO",
@@ -680,12 +672,20 @@
         "length": "4:05"
     },
     {
-        "ranking": "86",
+        "ranking": "85",
         "title": "Mente Positiva",
         "artist": "Junior H",
         "album": "Atrapado en un Sueño",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/60/31/05/60310558-7363-28e6-d731-ad9b5c86b26f/195081094700.jpg/80x80bb.webp",
         "length": "3:12"
+    },
+    {
+        "ranking": "86",
+        "title": "Después De La 1",
+        "artist": "Cris Mj",
+        "album": "MJ - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/2a/e7/742ae73f-8357-bdf3-bada-769796f2ef8a/198846286426.jpg/80x80bb.webp",
+        "length": "2:57"
     },
     {
         "ranking": "87",
@@ -697,30 +697,6 @@
     },
     {
         "ranking": "88",
-        "title": "El Boss",
-        "artist": "Gabito Ballesteros",
-        "album": "El Boss - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ae/b1/df/aeb1df38-cbcf-76d7-04d1-d6fe139f393b/196922892219_Cover.jpg/80x80bb.webp",
-        "length": "3:45"
-    },
-    {
-        "ranking": "89",
-        "title": "DEMBOW BÉLICO",
-        "artist": "Tito Double P",
-        "album": "DEMBOW BÉLICO - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/21/f4/d3/21f4d398-e116-086e-0038-e6e9f0ab205e/197189037535.jpg/80x80bb.webp",
-        "length": "2:06"
-    },
-    {
-        "ranking": "90",
-        "title": "Por Las Noches",
-        "artist": "Peso Pluma",
-        "album": "Por Las Noches - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b1/a4/60/b1a4600f-10d6-d22a-3500-df55d6e84b2c/3616556081072.jpg/80x80bb.webp",
-        "length": "3:58"
-    },
-    {
-        "ranking": "91",
         "title": "LA CANCIÓN",
         "artist": "J Balvin",
         "album": "OASIS",
@@ -728,7 +704,7 @@
         "length": "4:02"
     },
     {
-        "ranking": "92",
+        "ranking": "89",
         "title": "Yonaguni",
         "artist": "Bad Bunny",
         "album": "Yonaguni - Single",
@@ -736,12 +712,36 @@
         "length": "3:26"
     },
     {
-        "ranking": "93",
+        "ranking": "90",
+        "title": "DEMBOW BÉLICO",
+        "artist": "Tito Double P",
+        "album": "DEMBOW BÉLICO - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/21/f4/d3/21f4d398-e116-086e-0038-e6e9f0ab205e/197189037535.jpg/80x80bb.webp",
+        "length": "2:06"
+    },
+    {
+        "ranking": "91",
+        "title": "El Boss",
+        "artist": "Gabito Ballesteros",
+        "album": "El Boss - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ae/b1/df/aeb1df38-cbcf-76d7-04d1-d6fe139f393b/196922892219_Cover.jpg/80x80bb.webp",
+        "length": "3:45"
+    },
+    {
+        "ranking": "92",
         "title": "A Puro Dolor",
         "artist": "Gabito Ballesteros",
         "album": "A Puro Dolor - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/62/94/fc/6294fc41-9163-b6dc-2c4b-93d5ed677ce0/196922718489_Cover.jpg/80x80bb.webp",
         "length": "2:48"
+    },
+    {
+        "ranking": "93",
+        "title": "Por Las Noches",
+        "artist": "Peso Pluma",
+        "album": "Por Las Noches - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b1/a4/60/b1a4600f-10d6-d22a-3500-df55d6e84b2c/3616556081072.jpg/80x80bb.webp",
+        "length": "3:58"
     },
     {
         "ranking": "94",
@@ -761,14 +761,6 @@
     },
     {
         "ranking": "96",
-        "title": "Igualito a Mi Apá",
-        "artist": "Fuerza Regida",
-        "album": "Pa Que Hablen",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/d4/31/cc/d431cc8d-2b9c-c4e8-ee1c-532a0dda836b/196589769633.jpg/80x80bb.webp",
-        "length": "2:46"
-    },
-    {
-        "ranking": "97",
         "title": "LA DURANGO",
         "artist": "Peso Pluma",
         "album": "LA DURANGO - Single",
@@ -776,15 +768,15 @@
         "length": "4:22"
     },
     {
-        "ranking": "98",
-        "title": "Proyecto X",
-        "artist": "Gabito Ballesteros",
-        "album": "Proyecto X - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ed/a1/69/eda16982-918e-a2b5-c792-67be1d8de7cf/196922800054_Cover.jpg/80x80bb.webp",
-        "length": "2:38"
+        "ranking": "97",
+        "title": "Igualito a Mi Apá",
+        "artist": "Fuerza Regida",
+        "album": "Pa Que Hablen",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/d4/31/cc/d431cc8d-2b9c-c4e8-ee1c-532a0dda836b/196589769633.jpg/80x80bb.webp",
+        "length": "2:46"
     },
     {
-        "ranking": "99",
+        "ranking": "98",
         "title": "FARANDULITAS",
         "artist": "Tito Double P",
         "album": "INCÓMODO",
@@ -792,11 +784,19 @@
         "length": "2:45"
     },
     {
-        "ranking": "100",
+        "ranking": "99",
         "title": "PERO NO TE ENAMORES",
         "artist": "Fuerza Regida",
         "album": "PERO NO TE ENAMORES",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/95/0f/24950f19-f5dd-696b-8295-df4f780a0d9a/196872326017.jpg/80x80bb.webp",
         "length": "3:03"
+    },
+    {
+        "ranking": "100",
+        "title": "Proyecto X",
+        "artist": "Gabito Ballesteros",
+        "album": "Proyecto X - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ed/a1/69/eda16982-918e-a2b5-c792-67be1d8de7cf/196922800054_Cover.jpg/80x80bb.webp",
+        "length": "2:38"
     }
 ]

@@ -1,14 +1,6 @@
 [
     {
         "ranking": "1",
-        "title": "BIRDS OF A FEATHER",
-        "artist": "Billie Eilish",
-        "album": "HIT ME HARD AND SOFT",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "length": "3:30"
-    },
-    {
-        "ranking": "2",
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "album": "Die With A Smile - Single",
@@ -16,20 +8,28 @@
         "length": "4:11"
     },
     {
-        "ranking": "3",
-        "title": "WILDFLOWER",
-        "artist": "Billie Eilish",
-        "album": "HIT ME HARD AND SOFT",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "length": "4:21"
-    },
-    {
-        "ranking": "4",
+        "ranking": "2",
         "title": "Tu Boda",
         "artist": "Óscar Maydon",
         "album": "Tu Boda - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/f4/2b/e0f42b78-81c3-81a3-aefb-bad4927c21c7/196872471342.jpg/80x80bb.webp",
         "length": "3:45"
+    },
+    {
+        "ranking": "3",
+        "title": "BIRDS OF A FEATHER",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "3:30"
+    },
+    {
+        "ranking": "4",
+        "title": "WILDFLOWER",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "4:21"
     },
     {
         "ranking": "5",
@@ -41,30 +41,6 @@
     },
     {
         "ranking": "6",
-        "title": "Espresso",
-        "artist": "Sabrina Carpenter",
-        "album": "Espresso - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
-        "length": "2:55"
-    },
-    {
-        "ranking": "7",
-        "title": "Gata Only",
-        "artist": "FloyyMenor",
-        "album": "Gata Only - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ca/4e/0f/ca4e0f11-2cbc-7aec-b2e4-53f5fac7cb0e/198309012715-copy-6dfc57c0.png/80x80bb.webp",
-        "length": "3:42"
-    },
-    {
-        "ranking": "8",
-        "title": "NEL",
-        "artist": "Fuerza Regida",
-        "album": "PERO NO TE ENAMORES",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/95/0f/24950f19-f5dd-696b-8295-df4f780a0d9a/196872326017.jpg/80x80bb.webp",
-        "length": "2:29"
-    },
-    {
-        "ranking": "9",
         "title": "25",
         "artist": "Rod Wave",
         "album": "Last Lap",
@@ -72,7 +48,7 @@
         "length": "3:00"
     },
     {
-        "ranking": "10",
+        "ranking": "7",
         "title": "Moscow Mule",
         "artist": "Bad Bunny",
         "album": "Un Verano Sin Ti",
@@ -80,12 +56,36 @@
         "length": "4:05"
     },
     {
+        "ranking": "8",
+        "title": "Gata Only",
+        "artist": "FloyyMenor",
+        "album": "Gata Only - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ca/4e/0f/ca4e0f11-2cbc-7aec-b2e4-53f5fac7cb0e/198309012715-copy-6dfc57c0.png/80x80bb.webp",
+        "length": "3:42"
+    },
+    {
+        "ranking": "9",
+        "title": "Si Antes Te Hubiera Conocido",
+        "artist": "KAROL G",
+        "album": "Si Antes Te Hubiera Conocido - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/60/94/a060947c-54d8-0fad-c558-eed12600224c/24UMGIM62705.rgb.jpg/80x80bb.webp",
+        "length": "3:15"
+    },
+    {
+        "ranking": "10",
+        "title": "Snooze",
+        "artist": "SZA",
+        "album": "SOS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
+        "length": "3:21"
+    },
+    {
         "ranking": "11",
-        "title": "Taste",
+        "title": "Espresso",
         "artist": "Sabrina Carpenter",
-        "album": "Short n' Sweet",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
-        "length": "2:37"
+        "album": "Espresso - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
+        "length": "2:55"
     },
     {
         "ranking": "12",
@@ -97,126 +97,6 @@
     },
     {
         "ranking": "13",
-        "title": "Lose Control",
-        "artist": "Teddy Swims",
-        "album": "I've Tried Everything But Therapy (Part 1)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "length": "3:30"
-    },
-    {
-        "ranking": "14",
-        "title": "Si Antes Te Hubiera Conocido",
-        "artist": "KAROL G",
-        "album": "Si Antes Te Hubiera Conocido - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/60/94/a060947c-54d8-0fad-c558-eed12600224c/24UMGIM62705.rgb.jpg/80x80bb.webp",
-        "length": "3:15"
-    },
-    {
-        "ranking": "15",
-        "title": "A Bar Song (Tipsy)",
-        "artist": "Shaboozey",
-        "album": "Where I've Been, Isn't Where I'm Going",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/b5/bc/97b5bca2-6238-2421-4f0d-1f7a39d5d9d4/197342550925_cover.jpg/80x80bb.webp",
-        "length": "2:51"
-    },
-    {
-        "ranking": "16",
-        "title": "Tití Me Preguntó",
-        "artist": "Bad Bunny",
-        "album": "Un Verano Sin Ti",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
-        "length": "4:03"
-    },
-    {
-        "ranking": "17",
-        "title": "Please Please Please",
-        "artist": "Sabrina Carpenter",
-        "album": "Short n' Sweet",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
-        "length": "3:06"
-    },
-    {
-        "ranking": "18",
-        "title": "APT.",
-        "artist": "ROSÉ",
-        "album": "APT. - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "length": "2:49"
-    },
-    {
-        "ranking": "19",
-        "title": "LA CANCIÓN",
-        "artist": "J Balvin",
-        "album": "OASIS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/32/74/7732746d-25e5-baae-b921-bad4a07d87b1/19UMGIM55524.rgb.jpg/80x80bb.webp",
-        "length": "4:02"
-    },
-    {
-        "ranking": "20",
-        "title": "Snooze",
-        "artist": "SZA",
-        "album": "SOS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
-        "length": "3:21"
-    },
-    {
-        "ranking": "21",
-        "title": "Dating Szn",
-        "artist": "Shenseea",
-        "album": "Dating Szn - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7d/27/d8/7d27d895-7bce-32b8-a0d5-4fa7c48e6b51/0.jpg/80x80bb.webp",
-        "length": "2:55"
-    },
-    {
-        "ranking": "22",
-        "title": "ROUGH PATCH",
-        "artist": "Armanii",
-        "album": "NO SIGNAL",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/19/eb/4119eb53-e80e-69ba-a8c1-bb8ac4f465a5/198861051238.png/80x80bb.webp",
-        "length": "3:09"
-    },
-    {
-        "ranking": "23",
-        "title": "Ojitos Lindos",
-        "artist": "Bad Bunny",
-        "album": "Un Verano Sin Ti",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
-        "length": "4:18"
-    },
-    {
-        "ranking": "24",
-        "title": "Too Sweet",
-        "artist": "Hozier",
-        "album": "Unreal Unearth: Unaired",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/12/e3/a412e390-51aa-6625-9adc-d502bf1c349f/196872373004.jpg/80x80bb.webp",
-        "length": "4:11"
-    },
-    {
-        "ranking": "25",
-        "title": "I Had Some Help (feat. Morgan Wallen)",
-        "artist": "Post Malone",
-        "album": "I Had Some Help (feat. Morgan Wallen) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/b7/09/e1b7098f-d6e1-2b18-fd6f-8390110908eb/24UMGIM50612.rgb.jpg/80x80bb.webp",
-        "length": "2:58"
-    },
-    {
-        "ranking": "26",
-        "title": "UWAIE",
-        "artist": "Kapo",
-        "album": "UWAIE - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4d/e8/03/4de80347-86da-bed6-47c4-1478b3aa46fa/196872367263.jpg/80x80bb.webp",
-        "length": "2:52"
-    },
-    {
-        "ranking": "27",
-        "title": "Bed Chem",
-        "artist": "Sabrina Carpenter",
-        "album": "Short n' Sweet",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
-        "length": "2:51"
-    },
-    {
-        "ranking": "28",
         "title": "Vete",
         "artist": "Bad Bunny",
         "album": "YHLQMDLG",
@@ -224,39 +104,39 @@
         "length": "3:12"
     },
     {
-        "ranking": "29",
-        "title": "HAAD (Fiesta)",
-        "artist": "Armanii",
-        "album": "HAAD (Fiesta) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/29/26/c5292650-3f7f-89ba-2a46-2efe26f47fe1/0.jpg/80x80bb.webp",
-        "length": "2:24"
+        "ranking": "14",
+        "title": "Dating Szn",
+        "artist": "Shenseea",
+        "album": "Dating Szn - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7d/27/d8/7d27d895-7bce-32b8-a0d5-4fa7c48e6b51/0.jpg/80x80bb.webp",
+        "length": "2:55"
     },
     {
-        "ranking": "30",
-        "title": "Gogo",
-        "artist": "RajahWild",
-        "album": "Gogo - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2a/33/75/2a3375b4-ee9d-3675-d775-bff24ac6fe97/197190628319.jpg/80x80bb.webp",
-        "length": "2:36"
+        "ranking": "15",
+        "title": "Tití Me Preguntó",
+        "artist": "Bad Bunny",
+        "album": "Un Verano Sin Ti",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
+        "length": "4:03"
     },
     {
-        "ranking": "31",
-        "title": "Not Like Us",
-        "artist": "Kendrick Lamar",
-        "album": "Not Like Us - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "length": "4:34"
+        "ranking": "16",
+        "title": "Ojitos Lindos",
+        "artist": "Bad Bunny",
+        "album": "Un Verano Sin Ti",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
+        "length": "4:18"
     },
     {
-        "ranking": "32",
-        "title": "Saturn",
-        "artist": "SZA",
-        "album": "Saturn - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0f/90/a8/0f90a856-0447-d846-fa7b-b9c937e72310/196871881180.jpg/80x80bb.webp",
-        "length": "3:06"
+        "ranking": "17",
+        "title": "A Bar Song (Tipsy)",
+        "artist": "Shaboozey",
+        "album": "Where I've Been, Isn't Where I'm Going",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/b5/bc/97b5bca2-6238-2421-4f0d-1f7a39d5d9d4/197342550925_cover.jpg/80x80bb.webp",
+        "length": "2:51"
     },
     {
-        "ranking": "33",
+        "ranking": "18",
         "title": "Inferno",
         "artist": "RajahWild",
         "album": "Inferno - Single",
@@ -264,23 +144,39 @@
         "length": "2:42"
     },
     {
-        "ranking": "34",
-        "title": "Good Luck, Babe!",
-        "artist": "Chappell Roan",
-        "album": "Good Luck, Babe! - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/80x80bb.webp",
-        "length": "3:38"
+        "ranking": "19",
+        "title": "Taste",
+        "artist": "Sabrina Carpenter",
+        "album": "Short n' Sweet",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+        "length": "2:37"
     },
     {
-        "ranking": "35",
-        "title": "CHIHIRO",
-        "artist": "Billie Eilish",
-        "album": "HIT ME HARD AND SOFT",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "length": "5:03"
+        "ranking": "20",
+        "title": "APT.",
+        "artist": "ROSÉ",
+        "album": "APT. - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
+        "length": "2:49"
     },
     {
-        "ranking": "36",
+        "ranking": "21",
+        "title": "Not Like Us",
+        "artist": "Kendrick Lamar",
+        "album": "Not Like Us - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
+        "length": "4:34"
+    },
+    {
+        "ranking": "22",
+        "title": "Please Please Please",
+        "artist": "Sabrina Carpenter",
+        "album": "Short n' Sweet",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+        "length": "3:06"
+    },
+    {
+        "ranking": "23",
         "title": "Choppa",
         "artist": "Byron Messia",
         "album": "Choppa - Single",
@@ -288,79 +184,47 @@
         "length": "2:49"
     },
     {
-        "ranking": "37",
-        "title": "IKATION",
-        "artist": "Kraff Gad",
-        "album": "IKATION - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/20/f4/6020f4c1-f374-3745-6720-c3e9e2ac51c9/artwork.jpg/80x80bb.webp",
-        "length": "3:03"
+        "ranking": "24",
+        "title": "NEL",
+        "artist": "Fuerza Regida",
+        "album": "PERO NO TE ENAMORES",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/95/0f/24950f19-f5dd-696b-8295-df4f780a0d9a/196872326017.jpg/80x80bb.webp",
+        "length": "2:29"
     },
     {
-        "ranking": "38",
-        "title": "PUSH 2 START",
-        "artist": "Tyla",
-        "album": "TYLA +",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2a/cc/48/2acc48c7-e092-6b83-ce65-ff80ac6eb51c/196872520118.jpg/80x80bb.webp",
-        "length": "2:36"
+        "ranking": "25",
+        "title": "Lose Control",
+        "artist": "Teddy Swims",
+        "album": "I've Tried Everything But Therapy (Part 1)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
+        "length": "3:30"
     },
     {
-        "ranking": "39",
-        "title": "Callaita",
-        "artist": "Bad Bunny",
-        "album": "Callaita - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a8/5d/7c/a85d7c43-777a-f2b7-5abc-1e4d59d8fe7c/193483903545.jpg/80x80bb.webp",
-        "length": "4:10"
+        "ranking": "26",
+        "title": "Too Sweet",
+        "artist": "Hozier",
+        "album": "Unreal Unearth: Unaired",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/12/e3/a412e390-51aa-6625-9adc-d502bf1c349f/196872373004.jpg/80x80bb.webp",
+        "length": "4:11"
     },
     {
-        "ranking": "40",
-        "title": "Rush",
-        "artist": "Ayra Starr",
-        "album": "19 & Dangerous (Deluxe)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b5/4a/3d/b54a3d1a-f493-7a9b-1807-a73f01709053/5059449090122.png/80x80bb.webp",
-        "length": "3:05"
+        "ranking": "27",
+        "title": "I Had Some Help (feat. Morgan Wallen)",
+        "artist": "Post Malone",
+        "album": "I Had Some Help (feat. Morgan Wallen) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/b7/09/e1b7098f-d6e1-2b18-fd6f-8390110908eb/24UMGIM50612.rgb.jpg/80x80bb.webp",
+        "length": "2:58"
     },
     {
-        "ranking": "41",
-        "title": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR)",
-        "artist": "Popcaan",
-        "album": "FIXTAPE",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/4b/96/59/4b965946-d2ed-e0c0-0a47-18b7b2af606d/27019.jpg/80x80bb.webp",
-        "length": "4:19"
+        "ranking": "28",
+        "title": "UWAIE",
+        "artist": "Kapo",
+        "album": "UWAIE - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4d/e8/03/4de80347-86da-bed6-47c4-1478b3aa46fa/196872367263.jpg/80x80bb.webp",
+        "length": "2:52"
     },
     {
-        "ranking": "42",
-        "title": "Hold On, We're Going Home (feat. Majid Jordan)",
-        "artist": "Drake",
-        "album": "Nothing Was the Same (Deluxe)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/51/61/f3/5161f3c4-2292-f035-eb68-6f95bbc9edd6/00602537542338.rgb.jpg/80x80bb.webp",
-        "length": "3:51"
-    },
-    {
-        "ranking": "43",
-        "title": "Hit & Run",
-        "artist": "Shenseea",
-        "album": "Hit & Run (feat. Masicka & Di Genius) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/39/24/b8/3924b8e1-1a90-0d05-a226-9369d07a4c0c/24UMGIM07424.rgb.jpg/80x80bb.webp",
-        "length": "2:49"
-    },
-    {
-        "ranking": "44",
-        "title": "LUNA",
-        "artist": "Feid",
-        "album": "FERXXOCALIPSIS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7c/54/aa/7c54aa94-9ae3-4b80-7b23-8b23955dc3a2/23UM1IM60703.rgb.jpg/80x80bb.webp",
-        "length": "3:16"
-    },
-    {
-        "ranking": "45",
-        "title": "Si No Quieres No",
-        "artist": "Luis R Conriquez",
-        "album": "Si No Quieres No - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a4/f9/58/a4f95869-c2cc-0615-237f-7e2a45ede2c3/1963621990404_cover.jpg/80x80bb.webp",
-        "length": "2:27"
-    },
-    {
-        "ranking": "46",
+        "ranking": "29",
         "title": "Pounds",
         "artist": "Armanii",
         "album": "Pounds - Single",
@@ -368,215 +232,31 @@
         "length": "2:43"
     },
     {
-        "ranking": "47",
-        "title": "Artform",
-        "artist": "Coutain",
-        "album": "1996",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/57/16/2c/57162c3b-a304-e387-ccb9-b928bb15f7d1/198342712801_cover.jpg/80x80bb.webp",
-        "length": "2:32"
+        "ranking": "30",
+        "title": "LA CANCIÓN",
+        "artist": "J Balvin",
+        "album": "OASIS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/32/74/7732746d-25e5-baae-b921-bad4a07d87b1/19UMGIM55524.rgb.jpg/80x80bb.webp",
+        "length": "4:02"
     },
     {
-        "ranking": "48",
-        "title": "Efecto",
-        "artist": "Bad Bunny",
-        "album": "Un Verano Sin Ti",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
-        "length": "3:33"
-    },
-    {
-        "ranking": "49",
-        "title": "un x100to",
-        "artist": "Grupo Frontera",
-        "album": "un x100to - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b6/74/4d/b6744dbd-77ed-413a-3777-5ac6a2e780eb/197188732554.jpg/80x80bb.webp",
-        "length": "3:14"
-    },
-    {
-        "ranking": "50",
-        "title": "Under the Influence",
-        "artist": "Chris Brown",
-        "album": "Indigo (Extended)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/96/1b/c9/961bc949-7e03-2670-f612-72c34ece6a22/886447924464.jpg/80x80bb.webp",
-        "length": "3:04"
-    },
-    {
-        "ranking": "51",
-        "title": "QLONA",
-        "artist": "KAROL G",
-        "album": "MAÑANA SERÁ BONITO (BICHOTA SEASON)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/56/45/46/5645464b-7fad-b6ea-6c15-9dbf754a8d83/23UMGIM68667.rgb.jpg/80x80bb.webp",
-        "length": "2:52"
-    },
-    {
-        "ranking": "52",
-        "title": "Diet Pepsi",
-        "artist": "Addison Rae",
-        "album": "Diet Pepsi - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/ef/7a/01ef7a06-1b48-0460-efbf-983d6a0a37fa/196872309959.jpg/80x80bb.webp",
+        "ranking": "31",
+        "title": "Hit & Run",
+        "artist": "Shenseea",
+        "album": "Hit & Run (feat. Masicka & Di Genius) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/39/24/b8/3924b8e1-1a90-0d05-a226-9369d07a4c0c/24UMGIM07424.rgb.jpg/80x80bb.webp",
         "length": "2:49"
     },
     {
-        "ranking": "53",
-        "title": "Soltera",
-        "artist": "Shakira",
-        "album": "Soltera - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/e4/a5/cbe4a5ca-085e-e3ef-eda5-d521ee55bb4b/196872485844.jpg/80x80bb.webp",
-        "length": "3:34"
-    },
-    {
-        "ranking": "54",
-        "title": "Hard Fought Hallelujah",
-        "artist": "Brandon Lake",
-        "album": "Hard Fought Hallelujah - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a5/82/ee/a582eeb1-4b8a-e196-a60d-ca5aecbc5303/196872603842.jpg/80x80bb.webp",
-        "length": "5:16"
-    },
-    {
-        "ranking": "55",
-        "title": "Kiss Me More (feat. SZA)",
-        "artist": "Doja Cat",
-        "album": "Kiss Me More (feat. SZA) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d1/52/a4/d152a430-1906-e507-0682-75e144085141/886449138791.jpg/80x80bb.webp",
-        "length": "3:28"
-    },
-    {
-        "ranking": "56",
-        "title": "Wild Out",
+        "ranking": "32",
+        "title": "Gogo",
         "artist": "RajahWild",
-        "album": "Wild Out - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/08/5f/95/085f9539-610d-689f-69f8-01a84ccf1e31/0.jpg/80x80bb.webp",
-        "length": "2:33"
+        "album": "Gogo - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2a/33/75/2a3375b4-ee9d-3675-d775-bff24ac6fe97/197190628319.jpg/80x80bb.webp",
+        "length": "2:36"
     },
     {
-        "ranking": "57",
-        "title": "Expensive",
-        "artist": "Valiant",
-        "album": "Expensive - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/67/ef/ba/67efba92-a95d-8a3e-f26e-7751657948f4/197188257088.jpg/80x80bb.webp",
-        "length": "3:55"
-    },
-    {
-        "ranking": "58",
-        "title": "HARLEY QUINN",
-        "artist": "Fuerza Regida",
-        "album": "Pa las Baby's Y Belikeada",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/21/e3/b7/21e3b74f-571b-07ce-567b-a2aa8274c7b2/196871548922.jpg/80x80bb.webp",
-        "length": "2:23"
-    },
-    {
-        "ranking": "59",
-        "title": "Stargazing",
-        "artist": "Myles Smith",
-        "album": "Stargazing - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/c3/a5/bfc3a56d-a51b-69cb-cdfc-26ee63631cb8/196872051872.jpg/80x80bb.webp",
-        "length": "2:52"
-    },
-    {
-        "ranking": "60",
-        "title": "Little Miss Best Body",
-        "artist": "Kman 6ixx",
-        "album": "Little Ms.BestBody - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/c0/99/8cc09932-e38c-b523-e07d-e0c66cd32eb4/0.jpg/80x80bb.webp",
-        "length": "2:58"
-    },
-    {
-        "ranking": "61",
-        "title": "Dancing In The Flames",
-        "artist": "The Weeknd",
-        "album": "Dancing In The Flames - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/7e/9f/347e9f54-2d74-820f-a910-68d01f044fcf/24UMGIM95646.rgb.jpg/80x80bb.webp",
-        "length": "3:40"
-    },
-    {
-        "ranking": "62",
-        "title": "DÁKITI",
-        "artist": "Bad Bunny",
-        "album": "EL ÚLTIMO TOUR DEL MUNDO",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/64/70/1c/64701cff-71ed-912f-ce62-71d409f5e6ad/195497640560.jpg/80x80bb.webp",
-        "length": "3:25"
-    },
-    {
-        "ranking": "63",
-        "title": "Me Porto Bonito",
-        "artist": "Bad Bunny",
-        "album": "Un Verano Sin Ti",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
-        "length": "2:58"
-    },
-    {
-        "ranking": "64",
-        "title": "Yonaguni",
-        "artist": "Bad Bunny",
-        "album": "Yonaguni - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b6/12/da/b612daba-6c68-c2ab-7492-fb2e079074d5/196006829308.jpg/80x80bb.webp",
-        "length": "3:26"
-    },
-    {
-        "ranking": "65",
-        "title": "Calm Down",
-        "artist": "Rema",
-        "album": "Calm Down - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ee/f1/dc/eef1dc82-f516-fd0f-581c-3f952a0e2243/22UMGIM92113.rgb.jpg/80x80bb.webp",
-        "length": "3:59"
-    },
-    {
-        "ranking": "66",
-        "title": "Ella Baila Sola",
-        "artist": "Eslabon Armado",
-        "album": "Ella Baila Sola - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b1/9b/95/b19b9506-5696-ad86-1c85-d198503adfbf/816144021906_Cover.jpg/80x80bb.webp",
-        "length": "2:45"
-    },
-    {
-        "ranking": "67",
-        "title": "Love on the Brain",
-        "artist": "Rihanna",
-        "album": "ANTI (Deluxe)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/11/e9/60/11e9600c-7f3a-424b-1643-97c69f7e8067/16UMGIM03373.rgb.jpg/80x80bb.webp",
-        "length": "3:43"
-    },
-    {
-        "ranking": "68",
-        "title": "Woman",
-        "artist": "Doja Cat",
-        "album": "Planet Her (Deluxe)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2d/fe/76/2dfe76da-e6bd-3a2c-d798-5b8a901a67bd/886449410538.jpg/80x80bb.webp",
-        "length": "2:52"
-    },
-    {
-        "ranking": "69",
-        "title": "WHERE SHE GOES",
-        "artist": "Bad Bunny",
-        "album": "WHERE SHE GOES - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ad/b7/0e/adb70ef8-c456-3b31-136c-450d196d7cda/197188909819.jpg/80x80bb.webp",
-        "length": "3:51"
-    },
-    {
-        "ranking": "70",
-        "title": "Wild n' Rich",
-        "artist": "450",
-        "album": "Wild n' Rich - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/72/7f/90727f13-9f47-b059-cf3d-0fc066391ab0/0.jpg/80x80bb.webp",
-        "length": "2:47"
-    },
-    {
-        "ranking": "71",
-        "title": "Nice & Easy",
-        "artist": "Alkaline",
-        "album": "Nice & Easy - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/48/3a/0e/483a0e18-f18b-e02b-075c-017fe3e0ac9c/848760048111.jpg/80x80bb.webp",
-        "length": "2:50"
-    },
-    {
-        "ranking": "72",
-        "title": "LADY GAGA",
-        "artist": "Peso Pluma",
-        "album": "GÉNESIS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a7/72/77/a77277f4-9b2e-0890-4707-31c1ac394c66/197189111396.jpg/80x80bb.webp",
-        "length": "3:32"
-    },
-    {
-        "ranking": "73",
+        "ranking": "33",
         "title": "What's Up (Big Buddy)",
         "artist": "Jada Kingdom",
         "album": "What's Up (Big Buddy) - Single",
@@ -584,39 +264,79 @@
         "length": "2:21"
     },
     {
-        "ranking": "74",
-        "title": "Qué Onda",
-        "artist": "Calle 24",
-        "album": "Qué Onda - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2c/32/72/2c327216-8562-911a-f6e8-5c268f55afd6/717340552815_cover.jpg/80x80bb.webp",
-        "length": "3:11"
+        "ranking": "34",
+        "title": "CHIHIRO",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "5:03"
     },
     {
-        "ranking": "75",
-        "title": "PERRO NEGRO",
-        "artist": "Bad Bunny",
-        "album": "nadie sabe lo que va a pasar mañana",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/13/21/22/132122a1-2ef2-381b-94b6-7b9449dcaa4a/197190137897.jpg/80x80bb.webp",
-        "length": "2:42"
+        "ranking": "35",
+        "title": "ROUGH PATCH",
+        "artist": "Armanii",
+        "album": "NO SIGNAL",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/19/eb/4119eb53-e80e-69ba-a8c1-bb8ac4f465a5/198861051238.png/80x80bb.webp",
+        "length": "3:09"
     },
     {
-        "ranking": "76",
-        "title": "Santa",
-        "artist": "Rvssian",
-        "album": "Santa - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/3b/65/783b6546-bf40-4583-1064-1d4946a82f50/196871978293.jpg/80x80bb.webp",
-        "length": "3:13"
+        "ranking": "36",
+        "title": "Talibans",
+        "artist": "Byron Messia",
+        "album": "No Love",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4f/65/15/4f65159c-285b-5a8d-fbd6-22c6e793a4ff/23UMGIM46699.rgb.jpg/80x80bb.webp",
+        "length": "3:08"
     },
     {
-        "ranking": "77",
-        "title": "Orion",
-        "artist": "Boza",
-        "album": "Orion - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c6/20/8a/c6208a06-d26d-27c1-317f-a49107a0895a/196872039450.jpg/80x80bb.webp",
-        "length": "4:00"
+        "ranking": "37",
+        "title": "Hold On, We're Going Home (feat. Majid Jordan)",
+        "artist": "Drake",
+        "album": "Nothing Was the Same (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/51/61/f3/5161f3c4-2292-f035-eb68-6f95bbc9edd6/00602537542338.rgb.jpg/80x80bb.webp",
+        "length": "3:51"
     },
     {
-        "ranking": "78",
+        "ranking": "38",
+        "title": "QLONA",
+        "artist": "KAROL G",
+        "album": "MAÑANA SERÁ BONITO (BICHOTA SEASON)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/56/45/46/5645464b-7fad-b6ea-6c15-9dbf754a8d83/23UMGIM68667.rgb.jpg/80x80bb.webp",
+        "length": "2:52"
+    },
+    {
+        "ranking": "39",
+        "title": "Wild n' Rich",
+        "artist": "450",
+        "album": "Wild n' Rich - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/72/7f/90727f13-9f47-b059-cf3d-0fc066391ab0/0.jpg/80x80bb.webp",
+        "length": "2:47"
+    },
+    {
+        "ranking": "40",
+        "title": "HAAD (Fiesta)",
+        "artist": "Armanii",
+        "album": "HAAD (Fiesta) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/29/26/c5292650-3f7f-89ba-2a46-2efe26f47fe1/0.jpg/80x80bb.webp",
+        "length": "2:24"
+    },
+    {
+        "ranking": "41",
+        "title": "Saturn",
+        "artist": "SZA",
+        "album": "Saturn - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0f/90/a8/0f90a856-0447-d846-fa7b-b9c937e72310/196871881180.jpg/80x80bb.webp",
+        "length": "3:06"
+    },
+    {
+        "ranking": "42",
+        "title": "Bed Chem",
+        "artist": "Sabrina Carpenter",
+        "album": "Short n' Sweet",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+        "length": "2:51"
+    },
+    {
+        "ranking": "43",
         "title": "That’s So True",
         "artist": "Gracie Abrams",
         "album": "The Secret of Us (Deluxe)",
@@ -624,47 +344,47 @@
         "length": "2:46"
     },
     {
-        "ranking": "79",
-        "title": "Passionfruit",
-        "artist": "Drake",
-        "album": "More Life",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/71/97/d0/7197d021-de0f-9548-3f31-40b8294d3242/17UMGIM85032.rgb.jpg/80x80bb.webp",
-        "length": "4:58"
+        "ranking": "44",
+        "title": "DÁKITI",
+        "artist": "Bad Bunny",
+        "album": "EL ÚLTIMO TOUR DEL MUNDO",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/64/70/1c/64701cff-71ed-912f-ce62-71d409f5e6ad/195497640560.jpg/80x80bb.webp",
+        "length": "3:25"
     },
     {
-        "ranking": "80",
-        "title": "Fever",
-        "artist": "Vybz Kartel",
-        "album": "King of the Dancehall",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6b/0c/9f/6b0c9fe6-130a-7898-6a8d-92c62011677b/KingOfTheDanceHall-COVER-colour-ver014.jpg/80x80bb.webp",
-        "length": "3:24"
+        "ranking": "45",
+        "title": "Me Porto Bonito",
+        "artist": "Bad Bunny",
+        "album": "Un Verano Sin Ti",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
+        "length": "2:58"
     },
     {
-        "ranking": "81",
-        "title": "Too Good (feat. Rihanna)",
-        "artist": "Drake",
-        "album": "Views",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f2/0d/8b/f20d8bff-a927-ae98-6784-20a1f51cb23e/16UMGIM27642.rgb.jpg/80x80bb.webp",
-        "length": "4:23"
+        "ranking": "46",
+        "title": "Yonaguni",
+        "artist": "Bad Bunny",
+        "album": "Yonaguni - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b6/12/da/b612daba-6c68-c2ab-7492-fb2e079074d5/196006829308.jpg/80x80bb.webp",
+        "length": "3:26"
     },
     {
-        "ranking": "82",
-        "title": "V6",
-        "artist": "Ireland Boss",
-        "album": "V6 - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/27/34/4d/27344d90-e8ac-58af-3a38-caa82ce18763/0.jpg/80x80bb.webp",
-        "length": "2:42"
+        "ranking": "47",
+        "title": "Rush",
+        "artist": "Ayra Starr",
+        "album": "19 & Dangerous (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b5/4a/3d/b54a3d1a-f493-7a9b-1807-a73f01709053/5059449090122.png/80x80bb.webp",
+        "length": "3:05"
     },
     {
-        "ranking": "83",
-        "title": "Foreplay",
-        "artist": "Shenseea",
-        "album": "Foreplay - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a3/41/b0/a341b000-a660-f9e3-abb7-58236be1d6c7/20UMGIM03519.rgb.jpg/80x80bb.webp",
-        "length": "2:46"
+        "ranking": "48",
+        "title": "Love on the Brain",
+        "artist": "Rihanna",
+        "album": "ANTI (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/11/e9/60/11e9600c-7f3a-424b-1643-97c69f7e8067/16UMGIM03373.rgb.jpg/80x80bb.webp",
+        "length": "3:43"
     },
     {
-        "ranking": "84",
+        "ranking": "49",
         "title": "ocean eyes",
         "artist": "Billie Eilish",
         "album": "dont smile at me",
@@ -672,55 +392,87 @@
         "length": "3:20"
     },
     {
-        "ranking": "85",
-        "title": "TULUM",
-        "artist": "Peso Pluma",
-        "album": "GÉNESIS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a7/72/77/a77277f4-9b2e-0890-4707-31c1ac394c66/197189111396.jpg/80x80bb.webp",
-        "length": "3:29"
+        "ranking": "50",
+        "title": "Fall In Love",
+        "artist": "Popcaan",
+        "album": "Work Permit Riddim",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/bc/cf/2d/bccf2daf-dd5e-186f-0f62-5d41a8d57088/Work_Permit.jpg/80x80bb.webp",
+        "length": "3:05"
     },
     {
-        "ranking": "86",
-        "title": "Good Days",
-        "artist": "SZA",
-        "album": "Good Days - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ef/09/cf/ef09cf1f-a057-6039-00d3-7b5d14c7eba1/886449006717.jpg/80x80bb.webp",
-        "length": "4:39"
+        "ranking": "51",
+        "title": "Qué Onda",
+        "artist": "Calle 24",
+        "album": "Qué Onda - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2c/32/72/2c327216-8562-911a-f6e8-5c268f55afd6/717340552815_cover.jpg/80x80bb.webp",
+        "length": "3:11"
     },
     {
-        "ranking": "87",
-        "title": "Praise Jah In the Moonlight",
-        "artist": "YG Marley",
-        "album": "Praise Jah In the Moonlight - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f2/da/b4/f2dab4af-f209-1563-ff58-98fa5bd2920a/cover_4062851821834.jpg/80x80bb.webp",
-        "length": "4:23"
+        "ranking": "52",
+        "title": "Santa",
+        "artist": "Rvssian",
+        "album": "Santa - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/3b/65/783b6546-bf40-4583-1064-1d4946a82f50/196871978293.jpg/80x80bb.webp",
+        "length": "3:13"
     },
     {
-        "ranking": "88",
-        "title": "Side Chick",
-        "artist": "Alkaline",
-        "album": "New Level Unlocked",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c4/30/04/c43004d6-bbc0-d966-4b68-f87049a45d9e/0.jpg/80x80bb.webp",
-        "length": "3:37"
+        "ranking": "53",
+        "title": "IKATION",
+        "artist": "Kraff Gad",
+        "album": "IKATION - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/20/f4/6020f4c1-f374-3745-6720-c3e9e2ac51c9/artwork.jpg/80x80bb.webp",
+        "length": "3:03"
     },
     {
-        "ranking": "89",
-        "title": "Love Me (feat. Drake & Future)",
-        "artist": "Lil Wayne",
-        "album": "I Am Not a Human Being II (Deluxe Version)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/36/86/e8/3686e84e-ea08-049a-c28b-2fce975e0c01/13UMGIM25908.rgb.jpg/80x80bb.webp",
-        "length": "4:15"
+        "ranking": "54",
+        "title": "Callaita",
+        "artist": "Bad Bunny",
+        "album": "Callaita - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a8/5d/7c/a85d7c43-777a-f2b7-5abc-1e4d59d8fe7c/193483903545.jpg/80x80bb.webp",
+        "length": "4:10"
     },
     {
-        "ranking": "90",
-        "title": "Yandel 150",
-        "artist": "Yandel",
-        "album": "Yandel 150 - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/6c/73/8f/6c738fd4-53cd-36f1-c8fe-0f20ba2f31d8/197187733972.jpg/80x80bb.webp",
-        "length": "3:36"
+        "ranking": "55",
+        "title": "Efecto",
+        "artist": "Bad Bunny",
+        "album": "Un Verano Sin Ti",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
+        "length": "3:33"
     },
     {
-        "ranking": "91",
+        "ranking": "56",
+        "title": "un x100to",
+        "artist": "Grupo Frontera",
+        "album": "un x100to - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b6/74/4d/b6744dbd-77ed-413a-3777-5ac6a2e780eb/197188732554.jpg/80x80bb.webp",
+        "length": "3:14"
+    },
+    {
+        "ranking": "57",
+        "title": "Kiss Me More (feat. SZA)",
+        "artist": "Doja Cat",
+        "album": "Kiss Me More (feat. SZA) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d1/52/a4/d152a430-1906-e507-0682-75e144085141/886449138791.jpg/80x80bb.webp",
+        "length": "3:28"
+    },
+    {
+        "ranking": "58",
+        "title": "Foreplay",
+        "artist": "Shenseea",
+        "album": "Foreplay - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a3/41/b0/a341b000-a660-f9e3-abb7-58236be1d6c7/20UMGIM03519.rgb.jpg/80x80bb.webp",
+        "length": "2:46"
+    },
+    {
+        "ranking": "59",
+        "title": "Happier Than Ever",
+        "artist": "Billie Eilish",
+        "album": "Happier Than Ever",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2d/f3/c9/2df3c9fd-e0eb-257c-c035-b04f05a66580/21UMGIM36691.rgb.jpg/80x80bb.webp",
+        "length": "4:58"
+    },
+    {
+        "ranking": "60",
         "title": "Mad Out",
         "artist": "Valiant",
         "album": "Mad Out - Single",
@@ -728,23 +480,15 @@
         "length": "2:33"
     },
     {
-        "ranking": "92",
-        "title": "Beautiful Things",
-        "artist": "Benson Boone",
-        "album": "Beautiful Things - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
-        "length": "3:00"
+        "ranking": "61",
+        "title": "LUNA",
+        "artist": "Feid",
+        "album": "FERXXOCALIPSIS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7c/54/aa/7c54aa94-9ae3-4b80-7b23-8b23955dc3a2/23UM1IM60703.rgb.jpg/80x80bb.webp",
+        "length": "3:16"
     },
     {
-        "ranking": "93",
-        "title": "Swimming Pools (Drank)",
-        "artist": "Kendrick Lamar",
-        "album": "good kid, m.A.A.d city (Deluxe)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ac/9e/6a/ac9e6ad5-27a5-baef-0e33-795b2f42c3cf/12UMGIM52990.rgb.jpg/80x80bb.webp",
-        "length": "4:07"
-    },
-    {
-        "ranking": "94",
+        "ranking": "62",
         "title": "DILUVIO",
         "artist": "Rauw Alejandro",
         "album": "PLAYA SATURNO",
@@ -752,15 +496,143 @@
         "length": "3:17"
     },
     {
-        "ranking": "95",
-        "title": "Cups Up",
-        "artist": "Malie Donn",
-        "album": "Cups Up - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/23/49/26/2349266a-4fd1-4c96-8ddd-8a21cfe23227/197189042348.jpg/80x80bb.webp",
-        "length": "3:11"
+        "ranking": "63",
+        "title": "Good Luck, Babe!",
+        "artist": "Chappell Roan",
+        "album": "Good Luck, Babe! - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/80x80bb.webp",
+        "length": "3:38"
     },
     {
-        "ranking": "96",
+        "ranking": "64",
+        "title": "Stargazing",
+        "artist": "Myles Smith",
+        "album": "Stargazing - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/c3/a5/bfc3a56d-a51b-69cb-cdfc-26ee63631cb8/196872051872.jpg/80x80bb.webp",
+        "length": "2:52"
+    },
+    {
+        "ranking": "65",
+        "title": "GodFada",
+        "artist": "Valiant",
+        "album": "GodFada - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ea/84/2e/ea842e46-dd40-6a5f-346a-7657da208099/198588255285.jpg/80x80bb.webp",
+        "length": "2:06"
+    },
+    {
+        "ranking": "66",
+        "title": "Ohnana",
+        "artist": "Kapo",
+        "album": "Ohnana - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/26/da/4426daa2-4b70-91d7-cb18-6bb219d176c5/196872167030.jpg/80x80bb.webp",
+        "length": "2:36"
+    },
+    {
+        "ranking": "67",
+        "title": "Little Miss Best Body",
+        "artist": "Kman 6ixx",
+        "album": "Little Ms.BestBody - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/c0/99/8cc09932-e38c-b523-e07d-e0c66cd32eb4/0.jpg/80x80bb.webp",
+        "length": "2:58"
+    },
+    {
+        "ranking": "68",
+        "title": "Soltera",
+        "artist": "Shakira",
+        "album": "Soltera - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/e4/a5/cbe4a5ca-085e-e3ef-eda5-d521ee55bb4b/196872485844.jpg/80x80bb.webp",
+        "length": "3:34"
+    },
+    {
+        "ranking": "69",
+        "title": "Oscar Winning Tears.",
+        "artist": "RAYE",
+        "album": "My 21st Century Blues",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/90/93/08/909308e3-94ca-dbf8-ebc7-0177bae4b9ad/197186999980.jpg/80x80bb.webp",
+        "length": "3:03"
+    },
+    {
+        "ranking": "70",
+        "title": "Pestilence (feat. Tman)",
+        "artist": "Kman 6ixx",
+        "album": "Rich Out - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/35/61/81/35618167-3b14-6b59-122e-08dc688143d6/0.jpg/80x80bb.webp",
+        "length": "3:17"
+    },
+    {
+        "ranking": "71",
+        "title": "MIA (feat. Drake)",
+        "artist": "Bad Bunny",
+        "album": "MIA (feat. Drake) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/09/aa/f8/09aaf8da-8eaf-bf60-0c23-48a88d546cbd/26991.jpg/80x80bb.webp",
+        "length": "3:30"
+    },
+    {
+        "ranking": "72",
+        "title": "No Guidance (feat. Drake)",
+        "artist": "Chris Brown",
+        "album": "Indigo (Extended)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/96/1b/c9/961bc949-7e03-2670-f612-72c34ece6a22/886447924464.jpg/80x80bb.webp",
+        "length": "4:20"
+    },
+    {
+        "ranking": "73",
+        "title": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR)",
+        "artist": "Popcaan",
+        "album": "FIXTAPE",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/4b/96/59/4b965946-d2ed-e0c0-0a47-18b7b2af606d/27019.jpg/80x80bb.webp",
+        "length": "4:19"
+    },
+    {
+        "ranking": "74",
+        "title": "Protocol",
+        "artist": "Skeng",
+        "album": "Protocol - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/1d/0b/3b/1d0b3b42-a657-0b20-23ba-b8a5d7d98a29/195375188436.png/80x80bb.webp",
+        "length": "3:19"
+    },
+    {
+        "ranking": "75",
+        "title": "WAIT FOR U (feat. Drake & Tems)",
+        "artist": "Future",
+        "album": "I NEVER LIKED YOU",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/65/f2/06/65f2067b-a8ea-239c-c219-8e0f0282dcea/196589073693.jpg/80x80bb.webp",
+        "length": "3:09"
+    },
+    {
+        "ranking": "76",
+        "title": "Wild Out",
+        "artist": "RajahWild",
+        "album": "Wild Out - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/08/5f/95/085f9539-610d-689f-69f8-01a84ccf1e31/0.jpg/80x80bb.webp",
+        "length": "2:33"
+    },
+    {
+        "ranking": "77",
+        "title": "Beautiful Things",
+        "artist": "Benson Boone",
+        "album": "Beautiful Things - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
+        "length": "3:00"
+    },
+    {
+        "ranking": "78",
+        "title": "PERRO NEGRO",
+        "artist": "Bad Bunny",
+        "album": "nadie sabe lo que va a pasar mañana",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/13/21/22/132122a1-2ef2-381b-94b6-7b9449dcaa4a/197190137897.jpg/80x80bb.webp",
+        "length": "2:42"
+    },
+    {
+        "ranking": "79",
+        "title": "Like That",
+        "artist": "Future",
+        "album": "WE DON'T TRUST YOU",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/9f/7b/4e9f7b71-28ad-a8dc-9b34-da532feb82f6/196871937382.jpg/80x80bb.webp",
+        "length": "4:27"
+    },
+    {
+        "ranking": "80",
         "title": "Big Breeze",
         "artist": "SQUASH",
         "album": "Big Breeze - Single",
@@ -768,35 +640,163 @@
         "length": "3:03"
     },
     {
+        "ranking": "81",
+        "title": "Orion",
+        "artist": "Boza",
+        "album": "Orion - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c6/20/8a/c6208a06-d26d-27c1-317f-a49107a0895a/196872039450.jpg/80x80bb.webp",
+        "length": "4:00"
+    },
+    {
+        "ranking": "82",
+        "title": "Slow It Down",
+        "artist": "Benson Boone",
+        "album": "Fireworks & Rollerblades",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a5/c1/9c/a5c19c62-d641-93b4-2800-e74778569f5f/093624852483.jpg/80x80bb.webp",
+        "length": "2:41"
+    },
+    {
+        "ranking": "83",
+        "title": "Dancing In The Flames",
+        "artist": "The Weeknd",
+        "album": "Dancing In The Flames - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/7e/9f/347e9f54-2d74-820f-a910-68d01f044fcf/24UMGIM95646.rgb.jpg/80x80bb.webp",
+        "length": "3:40"
+    },
+    {
+        "ranking": "84",
+        "title": "DOS DÍAS",
+        "artist": "Tito Double P",
+        "album": "INCÓMODO",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/b1/c5/d6b1c5e2-104d-c427-465e-fea8dfe663d4/198588874653.jpg/80x80bb.webp",
+        "length": "2:33"
+    },
+    {
+        "ranking": "85",
+        "title": "PUSH 2 START",
+        "artist": "Tyla",
+        "album": "TYLA +",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2a/cc/48/2acc48c7-e092-6b83-ce65-ff80ac6eb51c/196872520118.jpg/80x80bb.webp",
+        "length": "2:36"
+    },
+    {
+        "ranking": "86",
+        "title": "Hard Fought Hallelujah",
+        "artist": "Brandon Lake",
+        "album": "Hard Fought Hallelujah - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a5/82/ee/a582eeb1-4b8a-e196-a60d-ca5aecbc5303/196872603842.jpg/80x80bb.webp",
+        "length": "5:16"
+    },
+    {
+        "ranking": "87",
+        "title": "Blinding Lights",
+        "artist": "The Weeknd",
+        "album": "Blinding Lights - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a6/6e/bf/a66ebf79-5008-8948-b352-a790fc87446b/19UM1IM04638.rgb.jpg/80x80bb.webp",
+        "length": "3:21"
+    },
+    {
+        "ranking": "88",
+        "title": "Passionfruit",
+        "artist": "Drake",
+        "album": "More Life",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/71/97/d0/7197d021-de0f-9548-3f31-40b8294d3242/17UMGIM85032.rgb.jpg/80x80bb.webp",
+        "length": "4:58"
+    },
+    {
+        "ranking": "89",
+        "title": "Ella Baila Sola",
+        "artist": "Eslabon Armado",
+        "album": "Ella Baila Sola - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b1/9b/95/b19b9506-5696-ad86-1c85-d198503adfbf/816144021906_Cover.jpg/80x80bb.webp",
+        "length": "2:45"
+    },
+    {
+        "ranking": "90",
+        "title": "Fever",
+        "artist": "Vybz Kartel",
+        "album": "King of the Dancehall",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6b/0c/9f/6b0c9fe6-130a-7898-6a8d-92c62011677b/KingOfTheDanceHall-COVER-colour-ver014.jpg/80x80bb.webp",
+        "length": "3:24"
+    },
+    {
+        "ranking": "91",
+        "title": "Too Good (feat. Rihanna)",
+        "artist": "Drake",
+        "album": "Views",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f2/0d/8b/f20d8bff-a927-ae98-6784-20a1f51cb23e/16UMGIM27642.rgb.jpg/80x80bb.webp",
+        "length": "4:23"
+    },
+    {
+        "ranking": "92",
+        "title": "Under the Influence",
+        "artist": "Chris Brown",
+        "album": "Indigo (Extended)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/96/1b/c9/961bc949-7e03-2670-f612-72c34ece6a22/886447924464.jpg/80x80bb.webp",
+        "length": "3:04"
+    },
+    {
+        "ranking": "93",
+        "title": "V6",
+        "artist": "Ireland Boss",
+        "album": "V6 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/27/34/4d/27344d90-e8ac-58af-3a38-caa82ce18763/0.jpg/80x80bb.webp",
+        "length": "2:42"
+    },
+    {
+        "ranking": "94",
+        "title": "everything i wanted",
+        "artist": "Billie Eilish",
+        "album": "everything i wanted - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c5/6c/b1/c56cb16a-52c3-33b5-5189-6c65028001fb/19UM1IM00404.rgb.jpg/80x80bb.webp",
+        "length": "4:05"
+    },
+    {
+        "ranking": "95",
+        "title": "Woman",
+        "artist": "Doja Cat",
+        "album": "Planet Her (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2d/fe/76/2dfe76da-e6bd-3a2c-d798-5b8a901a67bd/886449410538.jpg/80x80bb.webp",
+        "length": "2:52"
+    },
+    {
+        "ranking": "96",
+        "title": "Shabba Madda Pot",
+        "artist": "Dexta Daps",
+        "album": "Shabba Madda Pot - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c5/9b/9e/c59b9eb1-e798-3b3c-6a75-d6e5b2eb9184/Dexta_Daps_-_Shabba_Madda_Pot_cover_art_2.jpg/80x80bb.webp",
+        "length": "2:22"
+    },
+    {
         "ranking": "97",
-        "title": "ADIVINO",
-        "artist": "Myke Towers",
-        "album": "ADIVINO - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6c/79/1e/6c791e10-d063-a4ad-45d7-047581c289cb/5021732285218.jpg/80x80bb.webp",
-        "length": "4:38"
+        "title": "Need To Know",
+        "artist": "Doja Cat",
+        "album": "Planet Her",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b5/a4/a8/b5a4a8a0-2a94-52bb-6e43-c47429a07ddf/886449138852.jpg/80x80bb.webp",
+        "length": "3:30"
     },
     {
         "ranking": "98",
-        "title": "Juno",
-        "artist": "Sabrina Carpenter",
-        "album": "Short n' Sweet",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
-        "length": "3:43"
+        "title": "Summertime Sadness",
+        "artist": "Lana Del Rey",
+        "album": "Born to Die: The Paradise Edition",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/5e/30/32/5e30329b-2765-60a6-96b8-8151c4b15a01/12UMGIM54175.rgb.jpg/80x80bb.webp",
+        "length": "4:25"
     },
     {
         "ranking": "99",
-        "title": "I Love You, I'm Sorry",
-        "artist": "Gracie Abrams",
-        "album": "The Secret of Us",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/9a/a7/529aa76f-5d60-cd81-9eb0-0eb521de861d/24UMGIM43968.rgb.jpg/80x80bb.webp",
-        "length": "2:37"
+        "title": "Yandel 150",
+        "artist": "Yandel",
+        "album": "Yandel 150 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/6c/73/8f/6c738fd4-53cd-36f1-c8fe-0f20ba2f31d8/197187733972.jpg/80x80bb.webp",
+        "length": "3:36"
     },
     {
         "ranking": "100",
-        "title": "Passoa",
-        "artist": "JHAYCO",
-        "album": "Le Clique: Vida Rockstar (X)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/78/fd/3778fd46-790c-5ab0-cc98-25f17843148c/23UM1IM55597.rgb.jpg/80x80bb.webp",
-        "length": "5:09"
+        "title": "AMARGURA",
+        "artist": "KAROL G",
+        "album": "MAÑANA SERÁ BONITO",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9b/01/44/9b0144e6-21ae-b53f-2b25-ef6c594b18a3/22UM1IM38716.rgb.jpg/80x80bb.webp",
+        "length": "2:50"
     }
 ]

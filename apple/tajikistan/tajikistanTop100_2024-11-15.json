@@ -25,78 +25,6 @@
     },
     {
         "ranking": "4",
-        "title": "Заново",
-        "artist": "MACAN",
-        "album": "I AM",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/91/47/98/9147988a-4ae9-d1e6-893e-261111df8328/cover.jpg/80x80bb.webp",
-        "length": "2:00"
-    },
-    {
-        "ranking": "5",
-        "title": "Как же (feat. Kiliana)",
-        "artist": "MACAN",
-        "album": "I AM",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/91/47/98/9147988a-4ae9-d1e6-893e-261111df8328/cover.jpg/80x80bb.webp",
-        "length": "2:33"
-    },
-    {
-        "ranking": "6",
-        "title": "Timeless",
-        "artist": "The Weeknd",
-        "album": "Timeless - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "length": "4:16"
-    },
-    {
-        "ranking": "7",
-        "title": "WILDFLOWER",
-        "artist": "Billie Eilish",
-        "album": "HIT ME HARD AND SOFT",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "length": "4:21"
-    },
-    {
-        "ranking": "8",
-        "title": "Si Ai",
-        "artist": "Tayna",
-        "album": "Si Ai - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/44/62/d94462bc-71aa-f292-6160-23de1a25d145/4062851013673.jpg/80x80bb.webp",
-        "length": "2:46"
-    },
-    {
-        "ranking": "9",
-        "title": "Айдахар",
-        "artist": "Ирина Кайратовна",
-        "album": "Айдахар - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/c5/90/5bc5909f-be1b-0b64-65ea-957edaf0c37e/cover.jpg/80x80bb.webp",
-        "length": "3:06"
-    },
-    {
-        "ranking": "10",
-        "title": "Die With A Smile",
-        "artist": "Lady Gaga",
-        "album": "Die With A Smile - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "length": "4:11"
-    },
-    {
-        "ranking": "11",
-        "title": "Где ты теперь и с кем",
-        "artist": "Basta",
-        "album": "Где ты теперь и с кем - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/92/da/58/92da58f9-7e98-9166-4b4d-957c37ae3bd1/0.jpg/80x80bb.webp",
-        "length": "5:06"
-    },
-    {
-        "ranking": "12",
-        "title": "Мир",
-        "artist": "Гио ПиКа",
-        "album": "Мир - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/c0/18/f4c01814-4108-c558-26b8-909d71db0fdc/cover.jpg/80x80bb.webp",
-        "length": "2:39"
-    },
-    {
-        "ranking": "13",
         "title": "Gata Only",
         "artist": "FloyyMenor",
         "album": "Gata Only - Single",
@@ -104,44 +32,116 @@
         "length": "3:42"
     },
     {
-        "ranking": "14",
-        "title": "Спят усталые игрушки",
-        "artist": "Oleg Anofriev",
-        "album": "Пусть всегда будет солнце",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/67/18/29/67182935-9403-0fdc-390c-b209a5b6950c/cover.jpg/80x80bb.webp",
-        "length": "2:32"
+        "ranking": "5",
+        "title": "Заново",
+        "artist": "MACAN",
+        "album": "I AM",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/91/47/98/9147988a-4ae9-d1e6-893e-261111df8328/cover.jpg/80x80bb.webp",
+        "length": "2:00"
     },
     {
-        "ranking": "15",
-        "title": "Memories",
-        "artist": "Xcho",
-        "album": "CROSS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e5/27/d9/e527d943-5001-c6aa-d594-a5e6b79a9737/cover.jpg/80x80bb.webp",
+        "ranking": "6",
+        "title": "Die With A Smile",
+        "artist": "Lady Gaga",
+        "album": "Die With A Smile - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
+        "length": "4:11"
+    },
+    {
+        "ranking": "7",
+        "title": "Si Ai",
+        "artist": "Tayna",
+        "album": "Si Ai - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/44/62/d94462bc-71aa-f292-6160-23de1a25d145/4062851013673.jpg/80x80bb.webp",
+        "length": "2:46"
+    },
+    {
+        "ranking": "8",
+        "title": "На грани",
+        "artist": "JANAGA",
+        "album": "На грани - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fd/f9/3c/fdf93cf3-134a-e76d-3164-ea7072832682/0.jpg/80x80bb.webp",
         "length": "2:50"
     },
     {
+        "ranking": "9",
+        "title": "Как же (feat. Kiliana)",
+        "artist": "MACAN",
+        "album": "I AM",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/91/47/98/9147988a-4ae9-d1e6-893e-261111df8328/cover.jpg/80x80bb.webp",
+        "length": "2:33"
+    },
+    {
+        "ranking": "10",
+        "title": "Timeless",
+        "artist": "The Weeknd",
+        "album": "Timeless - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
+        "length": "4:16"
+    },
+    {
+        "ranking": "11",
+        "title": "Айдахар",
+        "artist": "Ирина Кайратовна",
+        "album": "Айдахар - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/c5/90/5bc5909f-be1b-0b64-65ea-957edaf0c37e/cover.jpg/80x80bb.webp",
+        "length": "3:06"
+    },
+    {
+        "ranking": "12",
+        "title": "Skyfall",
+        "artist": "Adele",
+        "album": "Skyfall - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b3/fe/cf/b3fecf76-0359-8e14-0651-4b101fc68a3f/886443673632.jpg/80x80bb.webp",
+        "length": "4:46"
+    },
+    {
+        "ranking": "13",
+        "title": "Мир",
+        "artist": "Гио ПиКа",
+        "album": "Мир - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/c0/18/f4c01814-4108-c558-26b8-909d71db0fdc/cover.jpg/80x80bb.webp",
+        "length": "2:39"
+    },
+    {
+        "ranking": "14",
+        "title": "По весне",
+        "artist": "Jakone",
+        "album": "По весне - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/48/80/1a/48801a2e-899a-6f51-d625-0920c471b58f/cover.jpg/80x80bb.webp",
+        "length": "2:29"
+    },
+    {
+        "ranking": "15",
+        "title": "Где ты теперь и с кем",
+        "artist": "Basta",
+        "album": "Где ты теперь и с кем - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/92/da/58/92da58f9-7e98-9166-4b4d-957c37ae3bd1/0.jpg/80x80bb.webp",
+        "length": "5:06"
+    },
+    {
         "ranking": "16",
-        "title": "Espresso",
-        "artist": "Sabrina Carpenter",
-        "album": "Espresso - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
-        "length": "2:55"
+        "title": "Ты и Я",
+        "artist": "Xcho",
+        "album": "Ты и Я - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d2/dc/e6/d2dce600-fbaa-d3d3-aecb-d7f3971fadd5/cover.jpg/80x80bb.webp",
+        "length": "2:28"
     },
     {
         "ranking": "17",
-        "title": "BIRDS OF A FEATHER",
+        "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "album": "HIT ME HARD AND SOFT",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "length": "3:30"
+        "length": "4:21"
     },
     {
         "ranking": "18",
-        "title": "APT.",
-        "artist": "ROSÉ",
-        "album": "APT. - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "length": "2:49"
+        "title": "Certain Things (feat. Chasing Grace)",
+        "artist": "James Arthur",
+        "album": "James Arthur (Deluxe Version)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/12/6a/d2126a8a-0198-2480-aa55-956100fdb14f/886444133692.jpg/80x80bb.webp",
+        "length": "3:53"
     },
     {
         "ranking": "19",
@@ -161,70 +161,6 @@
     },
     {
         "ranking": "21",
-        "title": "Ты и Я",
-        "artist": "Xcho",
-        "album": "Ты и Я - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d2/dc/e6/d2dce600-fbaa-d3d3-aecb-d7f3971fadd5/cover.jpg/80x80bb.webp",
-        "length": "2:28"
-    },
-    {
-        "ranking": "22",
-        "title": "На заре",
-        "artist": "Basta",
-        "album": "На заре - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/32/7c/34/327c3426-4225-c3cf-d549-fc00d32451c2/cover.jpg/80x80bb.webp",
-        "length": "5:06"
-    },
-    {
-        "ranking": "23",
-        "title": "Certain Things (feat. Chasing Grace)",
-        "artist": "James Arthur",
-        "album": "James Arthur (Deluxe Version)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/12/6a/d2126a8a-0198-2480-aa55-956100fdb14f/886444133692.jpg/80x80bb.webp",
-        "length": "3:53"
-    },
-    {
-        "ranking": "24",
-        "title": "Безусловная любовь",
-        "artist": "MONA",
-        "album": "Дневник памяти",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/3e/98/5c3e98bc-c1f4-bf6d-2beb-374a7f996f9e/cover.jpg/80x80bb.webp",
-        "length": "2:39"
-    },
-    {
-        "ranking": "25",
-        "title": "Another Love",
-        "artist": "Tom Odell",
-        "album": "Long Way Down (Expanded Edition)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/3d/80/6e/3d806e1d-106c-7483-2024-032042519ab3/886443996779.jpg/80x80bb.webp",
-        "length": "4:04"
-    },
-    {
-        "ranking": "26",
-        "title": "Fire Man",
-        "artist": "Miyagi & Эндшпиль",
-        "album": "Hajime, Pt. 3",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/63/a7/d5/63a7d585-00e0-bcec-1b61-b8aab26663b4/cover.jpg/80x80bb.webp",
-        "length": "3:37"
-    },
-    {
-        "ranking": "27",
-        "title": "Медина",
-        "artist": "Jah Khalib",
-        "album": "E.G.O.",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3d/8b/5f/3d8b5f38-d3fb-6c11-6dd8-b7f4d05ceeb8/contsched.cchzdzyc.jpg/80x80bb.webp",
-        "length": "3:42"
-    },
-    {
-        "ranking": "28",
-        "title": "Medoni Yo Ne",
-        "artist": "Parem",
-        "album": "Medoni Yo Ne - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/0a/3d/59/0a3d59a8-7e24-a219-9383-80d92e67e4e6/800739854475.png/80x80bb.webp",
-        "length": "4:00"
-    },
-    {
-        "ranking": "29",
         "title": "Beautiful",
         "artist": "Eminem",
         "album": "Relapse: Refill",
@@ -232,79 +168,31 @@
         "length": "6:32"
     },
     {
-        "ranking": "30",
-        "title": "CHIHIRO",
-        "artist": "Billie Eilish",
-        "album": "HIT ME HARD AND SOFT",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "length": "5:03"
+        "ranking": "22",
+        "title": "Espresso",
+        "artist": "Sabrina Carpenter",
+        "album": "Espresso - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
+        "length": "2:55"
     },
     {
-        "ranking": "31",
-        "title": "Дорога дальняя",
+        "ranking": "23",
+        "title": "Але Але",
         "artist": "Jakone",
-        "album": "Дорога дальняя - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/78/ca/13/78ca13c3-f53a-fbc0-1e13-c29c3a5cb1c9/cover.jpg/80x80bb.webp",
-        "length": "2:22"
+        "album": "Але Але - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/9c/20/979c20b9-f0be-51be-ce53-d26c4dac31a8/cover.jpg/80x80bb.webp",
+        "length": "1:58"
     },
     {
-        "ranking": "32",
-        "title": "Move",
-        "artist": "Adam Port",
-        "album": "Move - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/84/6d/7b846d83-4d1f-36f4-32e5-6289596980c2/dj.kdflvmhp.jpg/80x80bb.webp",
-        "length": "2:57"
+        "ranking": "24",
+        "title": "Спят усталые игрушки",
+        "artist": "Oleg Anofriev",
+        "album": "Пусть всегда будет солнце",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/67/18/29/67182935-9403-0fdc-390c-b209a5b6950c/cover.jpg/80x80bb.webp",
+        "length": "2:32"
     },
     {
-        "ranking": "33",
-        "title": "Свободна",
-        "artist": "The Brookln",
-        "album": "Свободна - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/36/ef/a936ef8a-9d1a-d977-764a-4ddd8a5ba8d4/cover.jpg/80x80bb.webp",
-        "length": "3:25"
-    },
-    {
-        "ranking": "34",
-        "title": "I Got Love (feat. Рем Дигга)",
-        "artist": "Miyagi & Эндшпиль",
-        "album": "I Got Love (feat. Рем Дигга) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/98/f3/dd/98f3dd8f-b5b4-d6a1-849c-795130748b81/cover.jpg/80x80bb.webp",
-        "length": "4:36"
-    },
-    {
-        "ranking": "35",
-        "title": "Mockingbird",
-        "artist": "Eminem",
-        "album": "Encore (Deluxe Version)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8b/bf/10/8bbf10dc-5dcb-9b81-6ec2-83341286ff72/00602498646717.rgb.jpg/80x80bb.webp",
-        "length": "4:10"
-    },
-    {
-        "ranking": "36",
-        "title": "Положение",
-        "artist": "Skryptonite",
-        "album": "Уроборос: Улица 36",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6c/b4/7b/6cb47b98-c39b-8243-1e1e-72c76cf6e965/cover.jpg/80x80bb.webp",
-        "length": "4:42"
-    },
-    {
-        "ranking": "37",
-        "title": "Blinding Lights",
-        "artist": "The Weeknd",
-        "album": "Blinding Lights - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a6/6e/bf/a66ebf79-5008-8948-b352-a790fc87446b/19UM1IM04638.rgb.jpg/80x80bb.webp",
-        "length": "3:21"
-    },
-    {
-        "ranking": "38",
-        "title": "After Hours",
-        "artist": "The Weeknd",
-        "album": "After Hours",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6f/bc/e6/6fbce6c4-c38c-72d8-4fd0-66cfff32f679/20UMGIM12176.rgb.jpg/80x80bb.webp",
-        "length": "6:01"
-    },
-    {
-        "ranking": "39",
+        "ranking": "25",
         "title": "Птичка",
         "artist": "HammAli & Navai",
         "album": "Птичка - Single",
@@ -312,39 +200,87 @@
         "length": "3:10"
     },
     {
-        "ranking": "40",
-        "title": "Боже, как завидую",
-        "artist": "HammAli & Navai",
-        "album": "Боже, как завидую - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/26/be/06/26be06b5-aa50-b1ce-cee4-42e0253e601a/190296363795.jpg/80x80bb.webp",
-        "length": "2:40"
+        "ranking": "26",
+        "title": "На заре",
+        "artist": "Basta",
+        "album": "На заре - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/32/7c/34/327c3426-4225-c3cf-d549-fc00d32451c2/cover.jpg/80x80bb.webp",
+        "length": "5:06"
     },
     {
-        "ranking": "41",
-        "title": "ASPHALT 8",
-        "artist": "MACAN",
-        "album": "ASPHALT 8 - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/99/d9/6b/99d96b14-b330-2293-f4c5-c09296b6dc3e/cover.jpg/80x80bb.webp",
-        "length": "2:15"
+        "ranking": "27",
+        "title": "Баллада",
+        "artist": "Xcho",
+        "album": "Баллада - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/a0/cc/aaa0cc52-5282-fa3a-a748-7e015b3d1e8a/cover.jpg/80x80bb.webp",
+        "length": "3:02"
     },
     {
-        "ranking": "42",
-        "title": "На грани",
-        "artist": "JANAGA",
-        "album": "На грани - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fd/f9/3c/fdf93cf3-134a-e76d-3164-ea7072832682/0.jpg/80x80bb.webp",
+        "ranking": "28",
+        "title": "Дорога дальняя",
+        "artist": "Jakone",
+        "album": "Дорога дальняя - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/78/ca/13/78ca13c3-f53a-fbc0-1e13-c29c3a5cb1c9/cover.jpg/80x80bb.webp",
+        "length": "2:22"
+    },
+    {
+        "ranking": "29",
+        "title": "BIRDS OF A FEATHER",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "3:30"
+    },
+    {
+        "ranking": "30",
+        "title": "Move",
+        "artist": "Adam Port",
+        "album": "Move - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/84/6d/7b846d83-4d1f-36f4-32e5-6289596980c2/dj.kdflvmhp.jpg/80x80bb.webp",
+        "length": "2:57"
+    },
+    {
+        "ranking": "31",
+        "title": "APT.",
+        "artist": "ROSÉ",
+        "album": "APT. - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
+        "ranking": "32",
+        "title": "I Got Love (feat. Рем Дигга)",
+        "artist": "Miyagi & Эндшпиль",
+        "album": "I Got Love (feat. Рем Дигга) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/98/f3/dd/98f3dd8f-b5b4-d6a1-849c-795130748b81/cover.jpg/80x80bb.webp",
+        "length": "4:36"
+    },
+    {
+        "ranking": "33",
+        "title": "Mockingbird",
+        "artist": "Eminem",
+        "album": "Encore (Deluxe Version)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8b/bf/10/8bbf10dc-5dcb-9b81-6ec2-83341286ff72/00602498646717.rgb.jpg/80x80bb.webp",
+        "length": "4:10"
+    },
+    {
+        "ranking": "34",
+        "title": "Memories",
+        "artist": "Xcho",
+        "album": "CROSS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e5/27/d9/e527d943-5001-c6aa-d594-a5e6b79a9737/cover.jpg/80x80bb.webp",
         "length": "2:50"
     },
     {
-        "ranking": "43",
-        "title": "Skyfall",
-        "artist": "Adele",
-        "album": "Skyfall - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b3/fe/cf/b3fecf76-0359-8e14-0651-4b101fc68a3f/886443673632.jpg/80x80bb.webp",
-        "length": "4:46"
+        "ranking": "35",
+        "title": "After Hours",
+        "artist": "The Weeknd",
+        "album": "After Hours",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6f/bc/e6/6fbce6c4-c38c-72d8-4fd0-66cfff32f679/20UMGIM12176.rgb.jpg/80x80bb.webp",
+        "length": "6:01"
     },
     {
-        "ranking": "44",
+        "ranking": "36",
         "title": "Bachai Kulob",
         "artist": "Shabnam Surayo",
         "album": "Bachai Kulob - Single",
@@ -352,7 +288,23 @@
         "length": "4:42"
     },
     {
-        "ranking": "45",
+        "ranking": "37",
+        "title": "Shape of My Heart",
+        "artist": "Sting",
+        "album": "Ten Summoner's Tales",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ce/ae/e5/ceaee5fa-d506-c23e-350f-ae2e4942fa32/06UMGIM49867.rgb.jpg/80x80bb.webp",
+        "length": "4:39"
+    },
+    {
+        "ranking": "38",
+        "title": "CHIHIRO",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "5:03"
+    },
+    {
+        "ranking": "39",
         "title": "Дым",
         "artist": "Egor Kreed",
         "album": "Дым - Single",
@@ -360,39 +312,111 @@
         "length": "2:53"
     },
     {
+        "ranking": "40",
+        "title": "FE!N (feat. Playboi Carti)",
+        "artist": "Travis Scott",
+        "album": "UTOPIA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/7d/b0/097db06f-8403-3cf7-7510-139e570ca66b/196871341882.jpg/80x80bb.webp",
+        "length": "3:11"
+    },
+    {
+        "ranking": "41",
+        "title": "Yor Yor",
+        "artist": "Shabnam Surayo",
+        "album": "Yor Yor - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/6c/0d/be6c0d37-c8b1-8abf-0569-02f86abdec18/8721253207788.png/80x80bb.webp",
+        "length": "3:11"
+    },
+    {
+        "ranking": "42",
+        "title": "İstədim",
+        "artist": "Roza Zərgərli",
+        "album": "İstədim - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/54/27/4b542773-0da0-1420-3615-5dd4c6e4ddef/cover.jpg/80x80bb.webp",
+        "length": "2:55"
+    },
+    {
+        "ranking": "43",
+        "title": "Безусловная любовь",
+        "artist": "MONA",
+        "album": "Дневник памяти",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/3e/98/5c3e98bc-c1f4-bf6d-2beb-374a7f996f9e/cover.jpg/80x80bb.webp",
+        "length": "2:39"
+    },
+    {
+        "ranking": "44",
+        "title": "Bargard",
+        "artist": "Nigina Amonqulova",
+        "album": "Bargard - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/81/92/f5/8192f53b-1ea1-3d07-6675-63ddc708a4e9/8721253266440.png/80x80bb.webp",
+        "length": "4:27"
+    },
+    {
+        "ranking": "45",
+        "title": "Another Love",
+        "artist": "Tom Odell",
+        "album": "Long Way Down (Expanded Edition)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/3d/80/6e/3d806e1d-106c-7483-2024-032042519ab3/886443996779.jpg/80x80bb.webp",
+        "length": "4:04"
+    },
+    {
         "ranking": "46",
-        "title": "Pure Love (feat. Helena)",
-        "artist": "Arash",
-        "album": "Donya",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/16/29/b5/mzi.erkdknsm.jpg/80x80bb.webp",
-        "length": "3:13"
+        "title": "Fire Man",
+        "artist": "Miyagi & Эндшпиль",
+        "album": "Hajime, Pt. 3",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/63/a7/d5/63a7d585-00e0-bcec-1b61-b8aab26663b4/cover.jpg/80x80bb.webp",
+        "length": "3:37"
     },
     {
         "ranking": "47",
-        "title": "Мир нам завидовал",
-        "artist": "Akmal'",
-        "album": "Мир нам завидовал - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/b0/d2/cfb0d2da-e79c-8c7c-fddd-d7343b338e5f/cover.jpg/80x80bb.webp",
-        "length": "3:07"
+        "title": "Как любовь твою понять?",
+        "artist": "JONY",
+        "album": "Как любовь твою понять? - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/df/20/24/df202470-38eb-b90b-29fd-2a6ac3421798/0.jpg/80x80bb.webp",
+        "length": "4:05"
     },
     {
         "ranking": "48",
-        "title": "По весне",
-        "artist": "Jakone",
-        "album": "По весне - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/48/80/1a/48801a2e-899a-6f51-d625-0920c471b58f/cover.jpg/80x80bb.webp",
-        "length": "2:29"
+        "title": "Медина",
+        "artist": "Jah Khalib",
+        "album": "E.G.O.",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3d/8b/5f/3d8b5f38-d3fb-6c11-6dd8-b7f4d05ceeb8/contsched.cchzdzyc.jpg/80x80bb.webp",
+        "length": "3:42"
     },
     {
         "ranking": "49",
-        "title": "Dakar",
-        "artist": "RFT",
-        "album": "Dakar - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bd/90/5f/bd905f59-eed4-63f5-10d5-24b4d1d896ad/cover.jpg/80x80bb.webp",
-        "length": "2:58"
+        "title": "Medoni Yo Ne",
+        "artist": "Parem",
+        "album": "Medoni Yo Ne - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/0a/3d/59/0a3d59a8-7e24-a219-9383-80d92e67e4e6/800739854475.png/80x80bb.webp",
+        "length": "4:00"
     },
     {
         "ranking": "50",
+        "title": "Вороны",
+        "artist": "Xcho",
+        "album": "Вороны - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/55/8a/aa/558aaa0d-37fd-b7c8-2f66-0e5926a9fef7/cover.jpg/80x80bb.webp",
+        "length": "2:36"
+    },
+    {
+        "ranking": "51",
+        "title": "Bizan Dutora",
+        "artist": "Shabnam Surayo",
+        "album": "Bizan Dutora - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/82/96/e3/8296e30d-c69a-8c00-1797-e0187e48dedd/8720205865540.png/80x80bb.webp",
+        "length": "3:40"
+    },
+    {
+        "ranking": "52",
+        "title": "Приятная (feat. Ollane)",
+        "artist": "Endshpil",
+        "album": "Приятная (feat. Ollane) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/66/df/f2/66dff2d3-46e3-f307-bdbd-8e1098cea4ee/cover.jpg/80x80bb.webp",
+        "length": "4:00"
+    },
+    {
+        "ranking": "53",
         "title": "Заманчивая",
         "artist": "MATRANG",
         "album": "Заманчивая - Single",
@@ -400,7 +424,7 @@
         "length": "3:35"
     },
     {
-        "ranking": "51",
+        "ranking": "54",
         "title": "Tanho",
         "artist": "Safarmuhammad",
         "album": "Tanho - Single",
@@ -408,52 +432,28 @@
         "length": "3:49"
     },
     {
-        "ranking": "52",
-        "title": "Rolling in the Deep",
-        "artist": "Adele",
-        "album": "21",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d8/e3/f9/d8e3f9ea-d6fe-9a1b-9f13-109983d3062e/191404113868.png/80x80bb.webp",
-        "length": "3:48"
-    },
-    {
-        "ranking": "53",
-        "title": "Superman (feat. Dina Rae)",
-        "artist": "Eminem",
-        "album": "The Eminem Show",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b4/13/e9/b413e91d-40aa-a1a8-b8e3-2bacc3b3e222/00606949329020.rgb.jpg/80x80bb.webp",
-        "length": "5:50"
-    },
-    {
-        "ranking": "54",
-        "title": "Пополам",
-        "artist": "BRANYA",
-        "album": "Пополам - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9b/e9/46/9be946e1-2e1c-4894-1a38-4a547f17e584/cover.jpg/80x80bb.webp",
-        "length": "2:21"
-    },
-    {
         "ranking": "55",
-        "title": "Ты словно целая вселенная",
-        "artist": "Jah Khalib",
-        "album": "KHALIBания души - EP",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/87/c3/32/87c33213-77ec-53aa-269e-4b845f29c5e2/190295980924.jpg/80x80bb.webp",
-        "length": "3:44"
+        "title": "Moth To A Flame",
+        "artist": "Swedish House Mafia",
+        "album": "Moth To A Flame - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2f/56/e7/2f56e79c-fdaa-c0d5-545e-9942e54301c3/21UM1IM29516.rgb.jpg/80x80bb.webp",
+        "length": "3:54"
     },
     {
         "ranking": "56",
-        "title": "Без названия",
-        "artist": "MACAN",
-        "album": "Без названия - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/94/79/78/94797831-052e-2d0c-ea5e-65ce0633ee4e/cover.jpg/80x80bb.webp",
-        "length": "3:00"
+        "title": "Голгофа",
+        "artist": "Miyagi & Эндшпиль",
+        "album": "NARRATIVE",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ec/08/b9/ec08b9e2-0f27-d795-d7a2-bdac87a00d2e/cover.jpg/80x80bb.webp",
+        "length": "3:27"
     },
     {
         "ranking": "57",
-        "title": "Untouchable (feat. Рем Дигга)",
-        "artist": "Miyagi & Эндшпиль",
-        "album": "Untouchable (feat. Рем Дигга) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/88/95/49/88954974-3153-bddc-2666-10fa14499123/cover.jpg/80x80bb.webp",
-        "length": "3:33"
+        "title": "Спой",
+        "artist": "A.V.G",
+        "album": "Спой - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/76/e4/2f/76e42f3e-2744-16a1-6cfd-8ca54a672f12/cover.jpg/80x80bb.webp",
+        "length": "2:25"
     },
     {
         "ranking": "58",
@@ -473,38 +473,14 @@
     },
     {
         "ranking": "60",
-        "title": "Baby (feat. Baron)",
-        "artist": "Zulaykho Mahmadshoeva",
-        "album": "Baby (feat. Baron) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/9b/83/079b83a6-7665-3187-6c5f-bd88a0b8ea2b/cover.jpg/80x80bb.webp",
-        "length": "3:38"
+        "title": "Jonam",
+        "artist": "Shabnam Surayo",
+        "album": "Jonam - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/f7/3c/adf73c8b-bf38-dd6c-d3d9-506f52c43ae3/8721093672845.png/80x80bb.webp",
+        "length": "3:03"
     },
     {
         "ranking": "61",
-        "title": "Ishqi Man",
-        "artist": "Madina Aknazarova",
-        "album": "Ishqi Man - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/fe/91/6bfe9189-b40b-35c3-3a3c-c2b062aaee57/cover.jpg/80x80bb.webp",
-        "length": "3:04"
-    },
-    {
-        "ranking": "62",
-        "title": "Гонк-Конг",
-        "artist": "UNIK",
-        "album": "Гонк-Конг - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/f0/35/ddf03597-d722-ef90-f89f-beed1160b424/cover.jpg/80x80bb.webp",
-        "length": "3:19"
-    },
-    {
-        "ranking": "63",
-        "title": "Я хочу с тобой (feat. SCIRENA)",
-        "artist": "MACAN",
-        "album": "I AM",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/91/47/98/9147988a-4ae9-d1e6-893e-261111df8328/cover.jpg/80x80bb.webp",
-        "length": "3:17"
-    },
-    {
-        "ranking": "64",
         "title": "I Adore You (feat. Daecolm)",
         "artist": "HUGEL",
         "album": "I Adore You (feat. Daecolm) - Single",
@@ -512,31 +488,23 @@
         "length": "3:34"
     },
     {
-        "ranking": "65",
-        "title": "Yor Yor",
-        "artist": "Shabnam Surayo",
-        "album": "Yor Yor - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/6c/0d/be6c0d37-c8b1-8abf-0569-02f86abdec18/8721253207788.png/80x80bb.webp",
-        "length": "3:11"
-    },
-    {
-        "ranking": "66",
-        "title": "Как любовь твою понять?",
+        "ranking": "62",
+        "title": "Наверно, ты меня не помнишь",
         "artist": "JONY",
-        "album": "Как любовь твою понять? - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/df/20/24/df202470-38eb-b90b-29fd-2a6ac3421798/0.jpg/80x80bb.webp",
-        "length": "4:05"
+        "album": "Наверно, ты меня не помнишь - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a1/a7/99/a1a7995e-d0e3-9de6-cbd8-f8a612efbde6/190296386923.jpg/80x80bb.webp",
+        "length": "3:10"
     },
     {
-        "ranking": "67",
-        "title": "Camarob",
-        "artist": "Safarmuhammad",
-        "album": "Camarob - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/59/12/77/591277ae-3c9d-2cd1-32a2-e3cd5d16dc28/artwork.jpg/80x80bb.webp",
-        "length": "4:14"
+        "ranking": "63",
+        "title": "Боже, как завидую",
+        "artist": "HammAli & Navai",
+        "album": "Боже, как завидую - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/26/be/06/26be06b5-aa50-b1ce-cee4-42e0253e601a/190296363795.jpg/80x80bb.webp",
+        "length": "2:40"
     },
     {
-        "ranking": "68",
+        "ranking": "64",
         "title": "Manoe Nadorad",
         "artist": "Safarmuhammad",
         "album": "Manoe Nadorad - Single",
@@ -544,23 +512,15 @@
         "length": "3:49"
     },
     {
-        "ranking": "69",
-        "title": "Silhouette",
-        "artist": "Miyagi & Эндшпиль",
-        "album": "HATTORI",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a3/82/6f/a3826f0b-263f-872c-19b9-c40d03833471/cover.jpg/80x80bb.webp",
-        "length": "3:49"
+        "ranking": "65",
+        "title": "Ты пари",
+        "artist": "JONY",
+        "album": "Небесные розы - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3e/ab/6d/3eab6de5-8c48-cf21-768a-790d492986bf/3616408036144.jpg/80x80bb.webp",
+        "length": "3:54"
     },
     {
-        "ranking": "70",
-        "title": "По барам",
-        "artist": "ANNA ASTI",
-        "album": "Феникс",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/1a/6a/3a/1a6a3a53-f4ba-ae02-91b7-f45422064460/cover.jpg/80x80bb.webp",
-        "length": "3:57"
-    },
-    {
-        "ranking": "71",
+        "ranking": "66",
         "title": "Set Fire to the Rain",
         "artist": "Adele",
         "album": "21",
@@ -568,7 +528,7 @@
         "length": "4:02"
     },
     {
-        "ranking": "72",
+        "ranking": "67",
         "title": "А если это любовь?",
         "artist": "HammAli & Navai",
         "album": "А если это любовь? - Single",
@@ -576,7 +536,7 @@
         "length": "4:00"
     },
     {
-        "ranking": "73",
+        "ranking": "68",
         "title": "Капкан",
         "artist": "МОТ",
         "album": "Наизнанку",
@@ -584,23 +544,23 @@
         "length": "3:48"
     },
     {
-        "ranking": "74",
-        "title": "Bizan Dutora",
-        "artist": "Shabnam Surayo",
-        "album": "Bizan Dutora - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/82/96/e3/8296e30d-c69a-8c00-1797-e0187e48dedd/8720205865540.png/80x80bb.webp",
-        "length": "3:40"
+        "ranking": "69",
+        "title": "Call Out My Name",
+        "artist": "The Weeknd",
+        "album": "My Dear Melancholy,",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2a/aa/b4/2aaab42a-a4cb-a600-4a25-d78961495960/18UMGIM17204.rgb.jpg/80x80bb.webp",
+        "length": "3:48"
     },
     {
-        "ranking": "75",
-        "title": "Ishq",
-        "artist": "Shabnam Surayo",
-        "album": "Ishq - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/72/ed/3d/72ed3d79-7164-a357-f03c-60dd6afa7d3a/8720923949744.png/80x80bb.webp",
-        "length": "3:34"
+        "ranking": "70",
+        "title": "Umre Tizd",
+        "artist": "Safarmuhammad",
+        "album": "Umre Tizd - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ba/d0/67/bad067e0-2787-4e42-13aa-23fc54551b7d/artwork.jpg/80x80bb.webp",
+        "length": "4:37"
     },
     {
-        "ranking": "76",
+        "ranking": "71",
         "title": "Царица",
         "artist": "ANNA ASTI",
         "album": "Царица - Single",
@@ -608,31 +568,79 @@
         "length": "3:35"
     },
     {
+        "ranking": "72",
+        "title": "Kosandra",
+        "artist": "Miyagi & Andy Panda",
+        "album": "Kosandra - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/1c/5e/53/1c5e53e5-24ed-2b7c-17ba-f946b7d0b324/cover.jpg/80x80bb.webp",
+        "length": "3:41"
+    },
+    {
+        "ranking": "73",
+        "title": "Грустный дэнс",
+        "artist": "Артём Качер",
+        "album": "7 (Part 1)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9a/ad/0b/9aad0b69-af8a-f57e-582b-89480a06d85c/190296892943.jpg/80x80bb.webp",
+        "length": "3:37"
+    },
+    {
+        "ranking": "74",
+        "title": "Босс",
+        "artist": "JONY",
+        "album": "Босс - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/38/5c/73/385c732e-2a54-7c35-5308-a143c3480d98/190296444982.jpg/80x80bb.webp",
+        "length": "2:58"
+    },
+    {
+        "ranking": "75",
+        "title": "Rolling in the Deep",
+        "artist": "Adele",
+        "album": "21",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d8/e3/f9/d8e3f9ea-d6fe-9a1b-9f13-109983d3062e/191404113868.png/80x80bb.webp",
+        "length": "3:48"
+    },
+    {
+        "ranking": "76",
+        "title": "Superman (feat. Dina Rae)",
+        "artist": "Eminem",
+        "album": "The Eminem Show",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b4/13/e9/b413e91d-40aa-a1a8-b8e3-2bacc3b3e222/00606949329020.rgb.jpg/80x80bb.webp",
+        "length": "5:50"
+    },
+    {
         "ranking": "77",
-        "title": "Moth To A Flame",
-        "artist": "Swedish House Mafia",
-        "album": "Moth To A Flame - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2f/56/e7/2f56e79c-fdaa-c0d5-545e-9942e54301c3/21UM1IM29516.rgb.jpg/80x80bb.webp",
-        "length": "3:54"
+        "title": "Ты словно целая вселенная",
+        "artist": "Jah Khalib",
+        "album": "KHALIBания души - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/87/c3/32/87c33213-77ec-53aa-269e-4b845f29c5e2/190295980924.jpg/80x80bb.webp",
+        "length": "3:44"
     },
     {
         "ranking": "78",
-        "title": "Январь",
-        "artist": "Xcho",
-        "album": "Январь - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/0c/77/22/0c7722ff-dbaa-123c-e14a-192b537058b0/cover.jpg/80x80bb.webp",
-        "length": "2:27"
+        "title": "Май",
+        "artist": "MACAN",
+        "album": "Май - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d4/31/8a/d4318a97-cfc6-0d07-4543-b0a497002c1d/cover.jpg/80x80bb.webp",
+        "length": "2:36"
     },
     {
         "ranking": "79",
-        "title": "Спой",
-        "artist": "A.V.G",
-        "album": "Спой - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/76/e4/2f/76e42f3e-2744-16a1-6cfd-8ca54a672f12/cover.jpg/80x80bb.webp",
-        "length": "2:25"
+        "title": "Без названия",
+        "artist": "MACAN",
+        "album": "Без названия - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/94/79/78/94797831-052e-2d0c-ea5e-65ce0633ee4e/cover.jpg/80x80bb.webp",
+        "length": "3:00"
     },
     {
         "ranking": "80",
+        "title": "One Of The Girls",
+        "artist": "The Weeknd",
+        "album": "The Idol Episode 4 (Music from the HBO Original Series) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/db/28/e7/db28e7c3-f53a-76c8-eaa4-d92a22e4f160/23UMGIM72115.rgb.jpg/80x80bb.webp",
+        "length": "4:04"
+    },
+    {
+        "ranking": "81",
         "title": "Останься образом",
         "artist": "MACAN",
         "album": "Останься образом - Single",
@@ -640,44 +648,36 @@
         "length": "3:36"
     },
     {
-        "ranking": "81",
-        "title": "Баллада",
-        "artist": "Xcho",
-        "album": "Баллада - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/a0/cc/aaa0cc52-5282-fa3a-a748-7e015b3d1e8a/cover.jpg/80x80bb.webp",
-        "length": "3:02"
-    },
-    {
         "ranking": "82",
-        "title": "Sabry Aalil",
-        "artist": "Sherine",
-        "album": "Garh Tany",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/83/ab/07/83ab076c-a8b3-0bc8-96d9-8e9e4b855ef4/dj.siwvayyg.jpg/80x80bb.webp",
-        "length": "4:35"
+        "title": "Someone Like You",
+        "artist": "Adele",
+        "album": "21",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d8/e3/f9/d8e3f9ea-d6fe-9a1b-9f13-109983d3062e/191404113868.png/80x80bb.webp",
+        "length": "4:45"
     },
     {
         "ranking": "83",
-        "title": "Setoram",
-        "artist": "Jaloliddin Ahmadaliyev",
-        "album": "Setoram - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c4/bc/30/c4bc30ad-1c5d-18e5-3056-41bea988ce7d/2_001_Jaloliddin_Ahmadaliyev-Setoram.jpg/80x80bb.webp",
-        "length": "3:26"
+        "title": "Забытый бала",
+        "artist": "Santiz",
+        "album": "52 Герца",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/28/56/2a/28562a2f-9f98-6b89-5ed6-fa44392e897c/7031160466224.jpg/80x80bb.webp",
+        "length": "3:42"
     },
     {
         "ranking": "84",
-        "title": "Я найду тебя через века",
-        "artist": "Basta",
-        "album": "Я найду тебя через века - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/86/2f/aa862fe5-4416-af21-b449-c494fa950881/cover.jpg/80x80bb.webp",
-        "length": "3:28"
+        "title": "Malohat",
+        "artist": "Xamdam Sobirov",
+        "album": "Malohat - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/78/b0/1e78b050-b59e-349f-85c5-ee3e31ac2b0c/cover.jpg/80x80bb.webp",
+        "length": "3:33"
     },
     {
         "ranking": "85",
-        "title": "Фосилахо",
-        "artist": "HASANOV",
-        "album": "Фосилахо - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/c7/c4/99c7c402-1a46-b5b1-dbca-a693fb480ea1/2_001_HASANOV-Fosilakho.jpg/80x80bb.webp",
-        "length": "3:11"
+        "title": "Голоса",
+        "artist": "Zvonkiy",
+        "album": "Мир моих иллюзий",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0b/da/f6/0bdaf6be-736d-fcbc-4060-29d258e694f1/cover.jpg/80x80bb.webp",
+        "length": "3:26"
     },
     {
         "ranking": "86",
@@ -689,70 +689,62 @@
     },
     {
         "ranking": "87",
-        "title": "Moulayiten (feat. Ahmad Sleiman)",
-        "artist": "Obeidmusic",
-        "album": "Moulayiten (feat. Ahmad Sleiman) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/36/86/5a/36865a8e-9e02-12e9-393d-30fcbda10174/cover.jpg/80x80bb.webp",
-        "length": "4:57"
+        "title": "Хлопья летят наверх",
+        "artist": "FEDUK",
+        "album": "Хлопья летят наверх - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/fc/31/a0/fc31a076-281f-c9b6-f14f-ded87600ff47/0.jpg/80x80bb.webp",
+        "length": "4:22"
     },
     {
         "ranking": "88",
-        "title": "Исцеляющая музыка",
-        "artist": "Отдыхать и спать",
-        "album": "Колыбельные - Расслабляющие песни, фортепианная музыка, Спокойные мелодии, Детский сон",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1b/4a/35/1b4a3533-2c06-e2e9-02ab-2e9df18a7c6d/5903600198786.jpg/80x80bb.webp",
-        "length": "4:01"
+        "title": "Мир нам завидовал",
+        "artist": "Akmal'",
+        "album": "Мир нам завидовал - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/b0/d2/cfb0d2da-e79c-8c7c-fddd-d7343b338e5f/cover.jpg/80x80bb.webp",
+        "length": "3:07"
     },
     {
         "ranking": "89",
-        "title": "Потрачу",
-        "artist": "Egor Kreed",
-        "album": "Что они знают?",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/6d/a4/c86da4e0-1430-f963-4fe4-ff4f3c10fb45/cover.jpg/80x80bb.webp",
-        "length": "3:04"
+        "title": "Janona",
+        "artist": "G'aybulla Tursunov",
+        "album": "Janona - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/40/54/12/405412ff-6af8-1f1e-c3f6-6a142c59b746/4660275024369.png/80x80bb.webp",
+        "length": "4:08"
     },
     {
         "ranking": "90",
-        "title": "São Paulo",
-        "artist": "The Weeknd",
-        "album": "São Paulo - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/4a/64/934a64d3-2665-72ef-e5b4-29d61fd3707a/24UM1IM21420.rgb.jpg/80x80bb.webp",
-        "length": "5:01"
+        "title": "Я хочу с тобой (feat. SCIRENA)",
+        "artist": "MACAN",
+        "album": "I AM",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/91/47/98/9147988a-4ae9-d1e6-893e-261111df8328/cover.jpg/80x80bb.webp",
+        "length": "3:17"
     },
     {
         "ranking": "91",
-        "title": "РЕВНУЮ",
-        "artist": "Aarne",
-        "album": "WE LIVE ONLY ONCE",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/dd/dc/6adddc59-2b24-2c72-b756-52f51809ac4f/cover.jpg/80x80bb.webp",
-        "length": "2:41"
+        "title": "Свободна",
+        "artist": "The Brookln",
+        "album": "Свободна - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/36/ef/a936ef8a-9d1a-d977-764a-4ddd8a5ba8d4/cover.jpg/80x80bb.webp",
+        "length": "3:25"
     },
     {
         "ranking": "92",
-        "title": "Топит",
-        "artist": "ANNA ASTI",
-        "album": "Топит - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/6a/aa/2f6aaa18-faea-8a41-119e-2d15f6b4daa1/cover.png/80x80bb.webp",
-        "length": "3:55"
+        "title": "Dancing In The Flames",
+        "artist": "The Weeknd",
+        "album": "Dancing In The Flames - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/7e/9f/347e9f54-2d74-820f-a910-68d01f044fcf/24UMGIM95646.rgb.jpg/80x80bb.webp",
+        "length": "3:40"
     },
     {
         "ranking": "93",
-        "title": "İstədim",
-        "artist": "Roza Zərgərli",
-        "album": "İstədim - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/54/27/4b542773-0da0-1420-3615-5dd4c6e4ddef/cover.jpg/80x80bb.webp",
-        "length": "2:55"
+        "title": "волна",
+        "artist": "tima ishet svet",
+        "album": "зеркало",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3e/ec/85/3eec8526-4e60-fb9b-bb27-7b5bbf4a3d1f/14_001_tima_ishchet_svet-zerkalo.jpg/80x80bb.webp",
+        "length": "3:10"
     },
     {
         "ranking": "94",
-        "title": "Але Але",
-        "artist": "Jakone",
-        "album": "Але Але - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/9c/20/979c20b9-f0be-51be-ce53-d26c4dac31a8/cover.jpg/80x80bb.webp",
-        "length": "1:58"
-    },
-    {
-        "ranking": "95",
         "title": "В твоих глазах",
         "artist": "MONA",
         "album": "Дневник памяти",
@@ -760,43 +752,51 @@
         "length": "2:27"
     },
     {
+        "ranking": "95",
+        "title": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
+        "artist": "Tyler, The Creator",
+        "album": "CHROMAKOPIA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/bd/e9/7dbde97e-b97d-8cc3-0203-218b687408a9/196872555059.jpg/80x80bb.webp",
+        "length": "4:15"
+    },
+    {
         "ranking": "96",
-        "title": "Босая",
-        "artist": "MONA",
-        "album": "Дневник памяти",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/3e/98/5c3e98bc-c1f4-bf6d-2beb-374a7f996f9e/cover.jpg/80x80bb.webp",
-        "length": "2:30"
+        "title": "Положение",
+        "artist": "Skryptonite",
+        "album": "Уроборос: Улица 36",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6c/b4/7b/6cb47b98-c39b-8243-1e1e-72c76cf6e965/cover.jpg/80x80bb.webp",
+        "length": "4:42"
     },
     {
         "ranking": "97",
-        "title": "Bargard",
-        "artist": "Nigina Amonqulova",
-        "album": "Bargard - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/81/92/f5/8192f53b-1ea1-3d07-6675-63ddc708a4e9/8721253266440.png/80x80bb.webp",
-        "length": "4:27"
+        "title": "Blinding Lights",
+        "artist": "The Weeknd",
+        "album": "Blinding Lights - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a6/6e/bf/a66ebf79-5008-8948-b352-a790fc87446b/19UM1IM04638.rgb.jpg/80x80bb.webp",
+        "length": "3:21"
     },
     {
         "ranking": "98",
+        "title": "Dakar",
+        "artist": "RFT",
+        "album": "Dakar - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bd/90/5f/bd905f59-eed4-63f5-10d5-24b4d1d896ad/cover.jpg/80x80bb.webp",
+        "length": "2:58"
+    },
+    {
+        "ranking": "99",
+        "title": "lovely",
+        "artist": "Billie Eilish",
+        "album": "lovely - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/27/94/d4/2794d4fc-c3e2-2373-3e6c-dd82fd5aefe6/18UMGIM18200.rgb.jpg/80x80bb.webp",
+        "length": "3:20"
+    },
+    {
+        "ranking": "100",
         "title": "Avenue",
         "artist": "Safarmuhammad",
         "album": "Avenue - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3c/10/39/3c10398e-05b8-c080-b7a2-74a6f65eb27f/artwork.jpg/80x80bb.webp",
         "length": "3:38"
-    },
-    {
-        "ranking": "99",
-        "title": "everything i wanted",
-        "artist": "Billie Eilish",
-        "album": "everything i wanted - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c5/6c/b1/c56cb16a-52c3-33b5-5189-6c65028001fb/19UM1IM00404.rgb.jpg/80x80bb.webp",
-        "length": "4:05"
-    },
-    {
-        "ranking": "100",
-        "title": "Кино",
-        "artist": "MACAN",
-        "album": "Кино - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/34/e1/20/34e12052-3c63-b2b0-e8f3-8c6d38070528/cover.jpg/80x80bb.webp",
-        "length": "3:04"
     }
 ]

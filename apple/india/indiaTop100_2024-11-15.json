@@ -25,62 +25,6 @@
     },
     {
         "ranking": "4",
-        "title": "Winning Speech",
-        "artist": "Karan Aujla",
-        "album": "Winning Speech - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/7c/36/487c3668-f7a4-4b1a-e09e-c74dae124dd9/5063483578089_cover.jpg/80x80bb.webp",
-        "length": "3:47"
-    },
-    {
-        "ranking": "5",
-        "title": "Russian Bandana",
-        "artist": "Dhanda Nyoliwala",
-        "album": "Russian Bandana - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/0d/15/bf0d1594-b24c-73cb-d440-13d422c40b4b/24UMGIM96203.rgb.jpg/80x80bb.webp",
-        "length": "3:17"
-    },
-    {
-        "ranking": "6",
-        "title": "Ishq (From \"Lost;Found\")",
-        "artist": "Faheem Abdullah",
-        "album": "Ishq (From \"Lost;Found\") - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a3/04/c1/a304c107-6887-c475-8377-d05e86cfe108/cover.jpg/80x80bb.webp",
-        "length": "3:48"
-    },
-    {
-        "ranking": "7",
-        "title": "Sifar Safar",
-        "artist": "Karan Aujla",
-        "album": "Sifar Safar - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b5/a1/5f/b5a15f57-7184-47a6-564e-272d515b4810/5063616203642_cover.jpg/80x80bb.webp",
-        "length": "3:00"
-    },
-    {
-        "ranking": "8",
-        "title": "Millionaire",
-        "artist": "Yo Yo Honey Singh",
-        "album": "GLORY",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/e3/9c/11e39c6d-0ac9-8728-cb9e-94197f645bfd/8903431012173_cover.jpg/80x80bb.webp",
-        "length": "3:19"
-    },
-    {
-        "ranking": "9",
-        "title": "Greatest",
-        "artist": "Arjan Dhillon",
-        "album": "Patander",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/e4/0d/14e40d9e-7ee7-199a-64d8-8876b0989223/cover.jpg/80x80bb.webp",
-        "length": "2:58"
-    },
-    {
-        "ranking": "10",
-        "title": "Lalkara (feat. Sultaan)",
-        "artist": "Diljit Dosanjh",
-        "album": "Ghost",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/94/80/be/9480bec1-6ca2-5bae-a7da-d0e7c45633ce/859779847831_cover.jpg/80x80bb.webp",
-        "length": "2:40"
-    },
-    {
-        "ranking": "11",
         "title": "Brats",
         "artist": "Arjan Dhillon",
         "album": "Patander",
@@ -88,12 +32,68 @@
         "length": "2:41"
     },
     {
+        "ranking": "5",
+        "title": "Winning Speech",
+        "artist": "Karan Aujla",
+        "album": "Winning Speech - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/7c/36/487c3668-f7a4-4b1a-e09e-c74dae124dd9/5063483578089_cover.jpg/80x80bb.webp",
+        "length": "3:47"
+    },
+    {
+        "ranking": "6",
+        "title": "Greatest",
+        "artist": "Arjan Dhillon",
+        "album": "Patander",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/e4/0d/14e40d9e-7ee7-199a-64d8-8876b0989223/cover.jpg/80x80bb.webp",
+        "length": "2:58"
+    },
+    {
+        "ranking": "7",
+        "title": "Russian Bandana",
+        "artist": "Dhanda Nyoliwala",
+        "album": "Russian Bandana - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/0d/15/bf0d1594-b24c-73cb-d440-13d422c40b4b/24UMGIM96203.rgb.jpg/80x80bb.webp",
+        "length": "3:17"
+    },
+    {
+        "ranking": "8",
+        "title": "Ishq (From \"Lost;Found\")",
+        "artist": "Faheem Abdullah",
+        "album": "Ishq (From \"Lost;Found\") - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a3/04/c1/a304c107-6887-c475-8377-d05e86cfe108/cover.jpg/80x80bb.webp",
+        "length": "3:48"
+    },
+    {
+        "ranking": "9",
+        "title": "Millionaire",
+        "artist": "Yo Yo Honey Singh",
+        "album": "GLORY",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/e3/9c/11e39c6d-0ac9-8728-cb9e-94197f645bfd/8903431012173_cover.jpg/80x80bb.webp",
+        "length": "3:19"
+    },
+    {
+        "ranking": "10",
+        "title": "Sifar Safar",
+        "artist": "Karan Aujla",
+        "album": "Sifar Safar - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b5/a1/5f/b5a15f57-7184-47a6-564e-272d515b4810/5063616203642_cover.jpg/80x80bb.webp",
+        "length": "3:00"
+    },
+    {
+        "ranking": "11",
+        "title": "Big Flex",
+        "artist": "Arjan Dhillon",
+        "album": "Patander",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/e4/0d/14e40d9e-7ee7-199a-64d8-8876b0989223/cover.jpg/80x80bb.webp",
+        "length": "2:46"
+    },
+    {
         "ranking": "12",
-        "title": "Old Money",
-        "artist": "AP Dhillon",
-        "album": "Old Money - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/fb/61/5afb613a-c9ca-625d-da7f-8d4b501f8eab/24UMGIM84219.rgb.jpg/80x80bb.webp",
-        "length": "2:08"
+        "title": "Lalkara (feat. Sultaan)",
+        "artist": "Diljit Dosanjh",
+        "album": "Ghost",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/94/80/be/9480bec1-6ca2-5bae-a7da-d0e7c45633ce/859779847831_cover.jpg/80x80bb.webp",
+        "length": "2:40"
     },
     {
         "ranking": "13",
@@ -105,70 +105,14 @@
     },
     {
         "ranking": "14",
-        "title": "Softly",
-        "artist": "Karan Aujla",
-        "album": "Making Memories",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/08/bc/d308bc6a-20e1-6532-d933-35d1b429210e/5054197755538.jpg/80x80bb.webp",
-        "length": "2:35"
+        "title": "Old Money",
+        "artist": "AP Dhillon",
+        "album": "Old Money - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/fb/61/5afb613a-c9ca-625d-da7f-8d4b501f8eab/24UMGIM84219.rgb.jpg/80x80bb.webp",
+        "length": "2:08"
     },
     {
         "ranking": "15",
-        "title": "Lover",
-        "artist": "Diljit Dosanjh",
-        "album": "MoonChild Era",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8a/89/e4/8a89e445-d2c6-f8ac-a828-27818b0c1afe/859749638209_cover.jpg/80x80bb.webp",
-        "length": "3:10"
-    },
-    {
-        "ranking": "16",
-        "title": "Big Flex",
-        "artist": "Arjan Dhillon",
-        "album": "Patander",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/e4/0d/14e40d9e-7ee7-199a-64d8-8876b0989223/cover.jpg/80x80bb.webp",
-        "length": "2:46"
-    },
-    {
-        "ranking": "17",
-        "title": "Chuttamalle (From \"Devara Part 1\")",
-        "artist": "Anirudh Ravichander",
-        "album": "Chuttamalle (From \"Devara Part 1\") - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/86/7c/53/867c53cc-4efe-faef-a20e-8d9c896053db/8903431011411_cover.jpg/80x80bb.webp",
-        "length": "3:42"
-    },
-    {
-        "ranking": "18",
-        "title": "On Top",
-        "artist": "Karan Aujla",
-        "album": "On Top - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a8/60/5f/a8605f98-0b93-da9e-76fe-e239fed1e38c/5059950896060.png/80x80bb.webp",
-        "length": "3:03"
-    },
-    {
-        "ranking": "19",
-        "title": "Paparazzi",
-        "artist": "Arjan Dhillon",
-        "album": "Patander",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/e4/0d/14e40d9e-7ee7-199a-64d8-8876b0989223/cover.jpg/80x80bb.webp",
-        "length": "2:10"
-    },
-    {
-        "ranking": "20",
-        "title": "Admirin' You (feat. Preston Pablo)",
-        "artist": "Karan Aujla",
-        "album": "Making Memories",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/08/bc/d308bc6a-20e1-6532-d933-35d1b429210e/5054197755538.jpg/80x80bb.webp",
-        "length": "3:34"
-    },
-    {
-        "ranking": "21",
-        "title": "Kinni Kinni",
-        "artist": "Diljit Dosanjh",
-        "album": "Ghost",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/94/80/be/9480bec1-6ca2-5bae-a7da-d0e7c45633ce/859779847831_cover.jpg/80x80bb.webp",
-        "length": "3:33"
-    },
-    {
-        "ranking": "22",
         "title": "Never Ever",
         "artist": "Arjan Dhillon",
         "album": "Patander",
@@ -176,12 +120,68 @@
         "length": "2:26"
     },
     {
+        "ranking": "16",
+        "title": "Softly",
+        "artist": "Karan Aujla",
+        "album": "Making Memories",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/08/bc/d308bc6a-20e1-6532-d933-35d1b429210e/5054197755538.jpg/80x80bb.webp",
+        "length": "2:35"
+    },
+    {
+        "ranking": "17",
+        "title": "Lover",
+        "artist": "Diljit Dosanjh",
+        "album": "MoonChild Era",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8a/89/e4/8a89e445-d2c6-f8ac-a828-27818b0c1afe/859749638209_cover.jpg/80x80bb.webp",
+        "length": "3:10"
+    },
+    {
+        "ranking": "18",
+        "title": "Paparazzi",
+        "artist": "Arjan Dhillon",
+        "album": "Patander",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a3/31/8c/a3318cf0-7a28-a428-413d-1cb138ddc3b0/8447352281732.jpg/80x80bb.webp",
+        "length": "2:10"
+    },
+    {
+        "ranking": "19",
+        "title": "On Top",
+        "artist": "Karan Aujla",
+        "album": "On Top - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a8/60/5f/a8605f98-0b93-da9e-76fe-e239fed1e38c/5059950896060.png/80x80bb.webp",
+        "length": "3:03"
+    },
+    {
+        "ranking": "20",
+        "title": "Chuttamalle (From \"Devara Part 1\")",
+        "artist": "Anirudh Ravichander",
+        "album": "Chuttamalle (From \"Devara Part 1\") - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/86/7c/53/867c53cc-4efe-faef-a20e-8d9c896053db/8903431011411_cover.jpg/80x80bb.webp",
+        "length": "3:42"
+    },
+    {
+        "ranking": "21",
+        "title": "Admirin' You (feat. Preston Pablo)",
+        "artist": "Karan Aujla",
+        "album": "Making Memories",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/08/bc/d308bc6a-20e1-6532-d933-35d1b429210e/5054197755538.jpg/80x80bb.webp",
+        "length": "3:34"
+    },
+    {
+        "ranking": "22",
+        "title": "Kinni Kinni",
+        "artist": "Diljit Dosanjh",
+        "album": "Ghost",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/94/80/be/9480bec1-6ca2-5bae-a7da-d0e7c45633ce/859779847831_cover.jpg/80x80bb.webp",
+        "length": "3:33"
+    },
+    {
         "ranking": "23",
-        "title": "Hikka",
+        "title": "Youngsters",
         "artist": "Arjan Dhillon",
         "album": "Patander",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/e4/0d/14e40d9e-7ee7-199a-64d8-8876b0989223/cover.jpg/80x80bb.webp",
-        "length": "2:45"
+        "length": "1:57"
     },
     {
         "ranking": "24",
@@ -193,6 +193,14 @@
     },
     {
         "ranking": "25",
+        "title": "2 Asle",
+        "artist": "Arjan Dhillon",
+        "album": "Patander",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a3/31/8c/a3318cf0-7a28-a428-413d-1cb138ddc3b0/8447352281732.jpg/80x80bb.webp",
+        "length": "1:57"
+    },
+    {
+        "ranking": "26",
         "title": "Hawayein",
         "artist": "Pritam",
         "album": "Jab Harry Met Sejal (Original Motion Picture Soundtrack)",
@@ -200,7 +208,15 @@
         "length": "4:50"
     },
     {
-        "ranking": "26",
+        "ranking": "27",
+        "title": "Hikka",
+        "artist": "Arjan Dhillon",
+        "album": "Patander",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/e4/0d/14e40d9e-7ee7-199a-64d8-8876b0989223/cover.jpg/80x80bb.webp",
+        "length": "2:45"
+    },
+    {
+        "ranking": "28",
         "title": "Born to Shine",
         "artist": "Diljit Dosanjh",
         "album": "G.O.A.T.",
@@ -208,28 +224,12 @@
         "length": "3:33"
     },
     {
-        "ranking": "27",
-        "title": "Youngsters",
-        "artist": "Arjan Dhillon",
-        "album": "Patander",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/e4/0d/14e40d9e-7ee7-199a-64d8-8876b0989223/cover.jpg/80x80bb.webp",
-        "length": "1:57"
-    },
-    {
-        "ranking": "28",
+        "ranking": "29",
         "title": "Husn",
         "artist": "Anuv Jain",
         "album": "Husn - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b6/3d/12/b63d1218-7bc1-f4f2-5fdd-5d1909abda1c/23UM1IM56437.rgb.jpg/80x80bb.webp",
         "length": "3:37"
-    },
-    {
-        "ranking": "29",
-        "title": "2-2 Asle",
-        "artist": "Arjan Dhillon",
-        "album": "Patander",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/e4/0d/14e40d9e-7ee7-199a-64d8-8876b0989223/cover.jpg/80x80bb.webp",
-        "length": "1:57"
     },
     {
         "ranking": "30",
@@ -257,14 +257,6 @@
     },
     {
         "ranking": "33",
-        "title": "Tere Bina Na Guzara E (feat. Kinza Hashmi)",
-        "artist": "Josh Brar",
-        "album": "Tere Bina Na Guzara E (feat. Kinza Hashmi) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/da/10/c6/da10c6d9-8ef3-f843-e0b5-9974a61a3372/8902633358683.jpg/80x80bb.webp",
-        "length": "3:40"
-    },
-    {
-        "ranking": "34",
         "title": "APT.",
         "artist": "ROSÉ",
         "album": "APT. - Single",
@@ -272,7 +264,23 @@
         "length": "2:49"
     },
     {
+        "ranking": "34",
+        "title": "Zigana",
+        "artist": "Arjan Dhillon",
+        "album": "Patander",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/e4/0d/14e40d9e-7ee7-199a-64d8-8876b0989223/cover.jpg/80x80bb.webp",
+        "length": "1:44"
+    },
+    {
         "ranking": "35",
+        "title": "Tere Bina Na Guzara E (feat. Kinza Hashmi)",
+        "artist": "Josh Brar",
+        "album": "Tere Bina Na Guzara E (feat. Kinza Hashmi) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/da/10/c6/da10c6d9-8ef3-f843-e0b5-9974a61a3372/8902633358683.jpg/80x80bb.webp",
+        "length": "3:40"
+    },
+    {
+        "ranking": "36",
         "title": "Tujhe Kitna Chahne Lage",
         "artist": "Arijit Singh",
         "album": "Kabir Singh (Original Motion Picture Soundtrack)",
@@ -280,7 +288,7 @@
         "length": "4:44"
     },
     {
-        "ranking": "36",
+        "ranking": "37",
         "title": "Jaana Samjho Na (From \"Bhool Bhulaiyaa 3\")",
         "artist": "Lijo George-Dj Chetas",
         "album": "Jaana Samjho Na (From \"Bhool Bhulaiyaa 3\") - Single",
@@ -288,15 +296,15 @@
         "length": "3:32"
     },
     {
-        "ranking": "37",
-        "title": "Die With A Smile",
-        "artist": "Lady Gaga",
-        "album": "Die With A Smile - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "length": "4:11"
+        "ranking": "38",
+        "title": "Nain",
+        "artist": "Arjan Dhillon",
+        "album": "Patander",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/e4/0d/14e40d9e-7ee7-199a-64d8-8876b0989223/cover.jpg/80x80bb.webp",
+        "length": "2:36"
     },
     {
-        "ranking": "38",
+        "ranking": "39",
         "title": "52 Bars",
         "artist": "Karan Aujla",
         "album": "Four You - EP",
@@ -304,39 +312,15 @@
         "length": "3:34"
     },
     {
-        "ranking": "39",
-        "title": "Khuda Jaane",
-        "artist": "Vishal & Shekhar",
-        "album": "Bachna Ae Haseeno (Original Soundtrack)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/ca/0e/95ca0eee-4709-b2a0-7e2d-7097c944d2cc/849486005822_cover.jpg/80x80bb.webp",
-        "length": "5:37"
-    },
-    {
         "ranking": "40",
-        "title": "Naina (From \"Crew\")",
-        "artist": "Diljit Dosanjh",
-        "album": "Naina (From \"Crew\") - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/5e/29/bc5e2962-1e89-ac6c-566f-fd087c788acb/8901854099214.jpg/80x80bb.webp",
-        "length": "3:00"
+        "title": "Die With A Smile",
+        "artist": "Lady Gaga",
+        "album": "Die With A Smile - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
+        "length": "4:11"
     },
     {
         "ranking": "41",
-        "title": "G.O.A.T.",
-        "artist": "Diljit Dosanjh",
-        "album": "G.O.A.T.",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d2/89/ac/d289ac98-749e-3822-6b6e-b06aa4815715/859740651597_cover.jpg/80x80bb.webp",
-        "length": "3:43"
-    },
-    {
-        "ranking": "42",
-        "title": "Tum Se Hi",
-        "artist": "Pritam",
-        "album": "Jab We Met (Original Motion Picture Soundtrack)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3d/c7/43/3dc74387-e7f4-2342-397c-4cf2037c69a5/8902894623223_cover.jpg/80x80bb.webp",
-        "length": "5:21"
-    },
-    {
-        "ranking": "43",
         "title": "Timeless",
         "artist": "The Weeknd",
         "album": "Timeless - Single",
@@ -344,7 +328,47 @@
         "length": "4:16"
     },
     {
+        "ranking": "42",
+        "title": "Khuda Jaane",
+        "artist": "Vishal & Shekhar",
+        "album": "Bachna Ae Haseeno (Original Soundtrack)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/ca/0e/95ca0eee-4709-b2a0-7e2d-7097c944d2cc/849486005822_cover.jpg/80x80bb.webp",
+        "length": "5:37"
+    },
+    {
+        "ranking": "43",
+        "title": "Style",
+        "artist": "Arjan Dhillon",
+        "album": "Patander",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a3/31/8c/a3318cf0-7a28-a428-413d-1cb138ddc3b0/8447352281732.jpg/80x80bb.webp",
+        "length": "2:00"
+    },
+    {
         "ranking": "44",
+        "title": "Naina (From \"Crew\")",
+        "artist": "Diljit Dosanjh",
+        "album": "Naina (From \"Crew\") - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/5e/29/bc5e2962-1e89-ac6c-566f-fd087c788acb/8901854099214.jpg/80x80bb.webp",
+        "length": "3:00"
+    },
+    {
+        "ranking": "45",
+        "title": "G.O.A.T.",
+        "artist": "Diljit Dosanjh",
+        "album": "G.O.A.T.",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d2/89/ac/d289ac98-749e-3822-6b6e-b06aa4815715/859740651597_cover.jpg/80x80bb.webp",
+        "length": "3:43"
+    },
+    {
+        "ranking": "46",
+        "title": "Tum Se Hi",
+        "artist": "Pritam",
+        "album": "Jab We Met (Original Motion Picture Soundtrack)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3d/c7/43/3dc74387-e7f4-2342-397c-4cf2037c69a5/8902894623223_cover.jpg/80x80bb.webp",
+        "length": "5:21"
+    },
+    {
+        "ranking": "47",
         "title": "Kabira",
         "artist": "Pritam",
         "album": "Yeh Jawaani Hai Deewani (Original Motion Picture Soundtrack)",
@@ -352,7 +376,7 @@
         "length": "3:43"
     },
     {
-        "ranking": "45",
+        "ranking": "48",
         "title": "Sajni",
         "artist": "Ram Sampath",
         "album": "Laapataa Ladies (Original Motion Picture Soundtrack)",
@@ -360,36 +384,12 @@
         "length": "2:50"
     },
     {
-        "ranking": "46",
-        "title": "Hey Minnale (From \"Amaran\")",
-        "artist": "Haricharan",
-        "album": "Hey Minnale (From \"Amaran\") - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/14/42/d0/1442d02e-1d78-b997-d6fa-3be56a4a9fac/198846526584.jpg/80x80bb.webp",
-        "length": "3:49"
-    },
-    {
-        "ranking": "47",
+        "ranking": "49",
         "title": "Kesariya (From \"Brahmastra\")",
         "artist": "Pritam",
         "album": "Kesariya (From \"Brahmastra\") - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9f/13/ca/9f13ca3b-e533-03e0-f19a-f0aaa774581d/196589311191.jpg/80x80bb.webp",
         "length": "4:28"
-    },
-    {
-        "ranking": "48",
-        "title": "Style",
-        "artist": "Arjan Dhillon",
-        "album": "Patander",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/e4/0d/14e40d9e-7ee7-199a-64d8-8876b0989223/cover.jpg/80x80bb.webp",
-        "length": "2:00"
-    },
-    {
-        "ranking": "49",
-        "title": "Kaise Hua",
-        "artist": "Vishal Mishra",
-        "album": "Kabir Singh (Original Motion Picture Soundtrack)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f6/70/84/f6708434-0123-ff36-0ac3-7401e8cf0f94/8902894360807_cover.jpg/80x80bb.webp",
-        "length": "3:54"
     },
     {
         "ranking": "50",
@@ -401,6 +401,30 @@
     },
     {
         "ranking": "51",
+        "title": "Hey Minnale (From \"Amaran\")",
+        "artist": "Haricharan",
+        "album": "Hey Minnale (From \"Amaran\") - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/14/42/d0/1442d02e-1d78-b997-d6fa-3be56a4a9fac/198846526584.jpg/80x80bb.webp",
+        "length": "3:49"
+    },
+    {
+        "ranking": "52",
+        "title": "Tu Jdo Auna",
+        "artist": "Arjan Dhillon",
+        "album": "Patander",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a3/31/8c/a3318cf0-7a28-a428-413d-1cb138ddc3b0/8447352281732.jpg/80x80bb.webp",
+        "length": "3:18"
+    },
+    {
+        "ranking": "53",
+        "title": "Kaise Hua",
+        "artist": "Vishal Mishra",
+        "album": "Kabir Singh (Original Motion Picture Soundtrack)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f6/70/84/f6708434-0123-ff36-0ac3-7401e8cf0f94/8902894360807_cover.jpg/80x80bb.webp",
+        "length": "3:54"
+    },
+    {
+        "ranking": "54",
         "title": "No Love",
         "artist": "Shubh",
         "album": "No Love - Single",
@@ -408,55 +432,7 @@
         "length": "2:50"
     },
     {
-        "ranking": "52",
-        "title": "Nain",
-        "artist": "Arjan Dhillon",
-        "album": "Patander",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/e4/0d/14e40d9e-7ee7-199a-64d8-8876b0989223/cover.jpg/80x80bb.webp",
-        "length": "2:36"
-    },
-    {
-        "ranking": "53",
-        "title": "Tera Yaar Hoon Main",
-        "artist": "Arijit Singh",
-        "album": "Sonu Ke Titu Ki Sweety (Original Motion Picture Soundtrack)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/81/a5/b0/81a5b084-89f7-7ed8-372e-aefd67504922/8902894360074_cover.jpg/80x80bb.webp",
-        "length": "4:24"
-    },
-    {
-        "ranking": "54",
-        "title": "Manasilaayo (From \"Vettaiyan\")",
-        "artist": "Anirudh Ravichander",
-        "album": "Manasilaayo (From \"Vettaiyan\") - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b5/fa/46/b5fa4632-dd53-32fc-25fc-e390940f7a43/196872454130.jpg/80x80bb.webp",
-        "length": "3:55"
-    },
-    {
         "ranking": "55",
-        "title": "Zigana",
-        "artist": "Arjan Dhillon",
-        "album": "Patander",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/e4/0d/14e40d9e-7ee7-199a-64d8-8876b0989223/cover.jpg/80x80bb.webp",
-        "length": "1:44"
-    },
-    {
-        "ranking": "56",
-        "title": "Phir Se Ud Chala",
-        "artist": "Mohit Chauhan",
-        "album": "Rockstar (Original Motion Picture Soundtrack)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/56/ac/41/56ac41f7-99f3-3eae-3b07-443167292c4e/8902894697408_cover.jpg/80x80bb.webp",
-        "length": "4:28"
-    },
-    {
-        "ranking": "57",
-        "title": "Pehle Bhi Main",
-        "artist": "Vishal Mishra",
-        "album": "ANIMAL (Original Motion Picture Soundtrack)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/db/ad/5e/dbad5e8b-0bee-d962-92d4-021c90e375ac/8902894362092_cover.jpg/80x80bb.webp",
-        "length": "4:10"
-    },
-    {
-        "ranking": "58",
         "title": "Wo Noor",
         "artist": "AP Dhillon",
         "album": "Two Hearts Never Break the Same - EP",
@@ -464,20 +440,44 @@
         "length": "3:19"
     },
     {
-        "ranking": "59",
-        "title": "Invoice",
-        "artist": "Arjan Dhillon",
-        "album": "Patander",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/e4/0d/14e40d9e-7ee7-199a-64d8-8876b0989223/cover.jpg/80x80bb.webp",
-        "length": "2:40"
+        "ranking": "56",
+        "title": "Tera Yaar Hoon Main",
+        "artist": "Arijit Singh",
+        "album": "Sonu Ke Titu Ki Sweety (Original Motion Picture Soundtrack)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/81/a5/b0/81a5b084-89f7-7ed8-372e-aefd67504922/8902894360074_cover.jpg/80x80bb.webp",
+        "length": "4:24"
     },
     {
-        "ranking": "60",
+        "ranking": "57",
+        "title": "Manasilaayo (From \"Vettaiyan\")",
+        "artist": "Anirudh Ravichander",
+        "album": "Manasilaayo (From \"Vettaiyan\") - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b5/fa/46/b5fa4632-dd53-32fc-25fc-e390940f7a43/196872454130.jpg/80x80bb.webp",
+        "length": "3:55"
+    },
+    {
+        "ranking": "58",
+        "title": "Pehle Bhi Main",
+        "artist": "Vishal Mishra",
+        "album": "ANIMAL (Original Motion Picture Soundtrack)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/db/ad/5e/dbad5e8b-0bee-d962-92d4-021c90e375ac/8902894362092_cover.jpg/80x80bb.webp",
+        "length": "4:10"
+    },
+    {
+        "ranking": "59",
         "title": "One Love",
         "artist": "Shubh",
         "album": "One Love - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/48/4f/3c/484f3c19-fdab-1fa8-fdb4-c7de79852d12/197189603969.jpg/80x80bb.webp",
         "length": "2:39"
+    },
+    {
+        "ranking": "60",
+        "title": "Phir Se Ud Chala",
+        "artist": "Mohit Chauhan",
+        "album": "Rockstar (Original Motion Picture Soundtrack)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/56/ac/41/56ac41f7-99f3-3eae-3b07-443167292c4e/8902894697408_cover.jpg/80x80bb.webp",
+        "length": "4:28"
     },
     {
         "ranking": "61",
@@ -489,30 +489,6 @@
     },
     {
         "ranking": "62",
-        "title": "Hunter Vantaar (From \"Vettaiyan\")",
-        "artist": "Anirudh Ravichander",
-        "album": "Hunter Vantaar (From \"Vettaiyan\") - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/65/79/be657915-a8d8-762b-8af7-625a9ebebcc5/196872492156.jpg/80x80bb.webp",
-        "length": "3:12"
-    },
-    {
-        "ranking": "63",
-        "title": "Dooriyan",
-        "artist": "Mohit Chauhan",
-        "album": "Love Aaj Kal (Original Motion Picture Soundtrack)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4a/e1/d4/4ae1d4c0-cc8e-8b7b-1371-a72da72eaeb8/828970016827.jpg/80x80bb.webp",
-        "length": "5:37"
-    },
-    {
-        "ranking": "64",
-        "title": "Ghungroo (From \"War\")",
-        "artist": "Arijit Singh",
-        "album": "Ghungroo (From \"War\") - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f4/0b/88/f40b88d5-75cb-27b8-6b00-bba98f0f2fd0/849486006911_cover.jpg/80x80bb.webp",
-        "length": "5:02"
-    },
-    {
-        "ranking": "65",
         "title": "Aayi Nai",
         "artist": "Pawan Singh",
         "album": "Stree 2 (Original Motion Picture Soundtrack) - EP",
@@ -520,15 +496,47 @@
         "length": "2:58"
     },
     {
+        "ranking": "63",
+        "title": "Hunter Vantaar (From \"Vettaiyan\")",
+        "artist": "Anirudh Ravichander",
+        "album": "Hunter Vantaar (From \"Vettaiyan\") - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/65/79/be657915-a8d8-762b-8af7-625a9ebebcc5/196872492156.jpg/80x80bb.webp",
+        "length": "3:12"
+    },
+    {
+        "ranking": "64",
+        "title": "Sher-E-Panjab",
+        "artist": "Arjan Dhillon",
+        "album": "Patander",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/e4/0d/14e40d9e-7ee7-199a-64d8-8876b0989223/cover.jpg/80x80bb.webp",
+        "length": "2:31"
+    },
+    {
+        "ranking": "65",
+        "title": "Invoice",
+        "artist": "Arjan Dhillon",
+        "album": "Patander",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/e4/0d/14e40d9e-7ee7-199a-64d8-8876b0989223/cover.jpg/80x80bb.webp",
+        "length": "2:40"
+    },
+    {
         "ranking": "66",
-        "title": "Shree Hanuman Chalisa",
-        "artist": "Hariharan",
-        "album": "Shree Hanuman Chalisa (Hanuman Ashtak)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/c5/3a/8d/c53a8d9b-23d8-5cc1-ec14-6ed0ce7920a0/8902894137256_cover.jpg/80x80bb.webp",
-        "length": "9:46"
+        "title": "Dooriyan",
+        "artist": "Mohit Chauhan",
+        "album": "Love Aaj Kal (Original Motion Picture Soundtrack)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4a/e1/d4/4ae1d4c0-cc8e-8b7b-1371-a72da72eaeb8/828970016827.jpg/80x80bb.webp",
+        "length": "5:37"
     },
     {
         "ranking": "67",
+        "title": "Ghungroo (From \"War\")",
+        "artist": "Arijit Singh",
+        "album": "Ghungroo (From \"War\") - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f4/0b/88/f40b88d5-75cb-27b8-6b00-bba98f0f2fd0/849486006911_cover.jpg/80x80bb.webp",
+        "length": "5:02"
+    },
+    {
+        "ranking": "68",
         "title": "Jee Ni Lagda",
         "artist": "Karan Aujla",
         "album": "Making Memories",
@@ -536,28 +544,20 @@
         "length": "2:19"
     },
     {
-        "ranking": "68",
-        "title": "Aaj Ki Raat (From \"Stree 2\")",
-        "artist": "Madhubanti Bagchi",
-        "album": "Aaj Ki Raat (From \"Stree 2\") - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/7f/47/3a7f47da-2330-c758-4460-ce12f9385a82/198588793954.jpg/80x80bb.webp",
-        "length": "3:48"
-    },
-    {
         "ranking": "69",
-        "title": "Aasa Kooda (From \"Think Indie\")",
-        "artist": "Sai Abhyankkar",
-        "album": "Aasa Kooda (From \"Think Indie\") - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/42/ba/3942ba45-40bd-5d0a-d7ad-0595f1336f3f/cover.jpg/80x80bb.webp",
-        "length": "3:35"
-    },
-    {
-        "ranking": "70",
         "title": "Bachke Bachke (feat. Yarah)",
         "artist": "Karan Aujla",
         "album": "Making Memories",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/08/bc/d308bc6a-20e1-6532-d933-35d1b429210e/5054197755538.jpg/80x80bb.webp",
         "length": "3:30"
+    },
+    {
+        "ranking": "70",
+        "title": "Aaj Ki Raat (From \"Stree 2\")",
+        "artist": "Madhubanti Bagchi",
+        "album": "Aaj Ki Raat (From \"Stree 2\") - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/7f/47/3a7f47da-2330-c758-4460-ce12f9385a82/198588793954.jpg/80x80bb.webp",
+        "length": "3:48"
     },
     {
         "ranking": "71",
@@ -569,6 +569,14 @@
     },
     {
         "ranking": "72",
+        "title": "Aasa Kooda (From \"Think Indie\")",
+        "artist": "Sai Abhyankkar",
+        "album": "Aasa Kooda (From \"Think Indie\") - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/42/ba/3942ba45-40bd-5d0a-d7ad-0595f1336f3f/cover.jpg/80x80bb.webp",
+        "length": "3:35"
+    },
+    {
+        "ranking": "73",
         "title": "Dil Nu",
         "artist": "AP Dhillon",
         "album": "Two Hearts Never Break the Same - EP",
@@ -576,31 +584,7 @@
         "length": "3:53"
     },
     {
-        "ranking": "73",
-        "title": "Tu Jdo Auna",
-        "artist": "Arjan Dhillon",
-        "album": "Patander",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/e4/0d/14e40d9e-7ee7-199a-64d8-8876b0989223/cover.jpg/80x80bb.webp",
-        "length": "3:18"
-    },
-    {
         "ranking": "74",
-        "title": "Bulleya",
-        "artist": "Pritam",
-        "album": "Ae Dil Hai Mushkil (Original Motion Picture Soundtrack)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/68/f3/c6/68f3c645-1b25-3d44-af6f-ebe4aea3df08/886446201597.jpg/80x80bb.webp",
-        "length": "5:48"
-    },
-    {
-        "ranking": "75",
-        "title": "315 (feat. Shinda Kahlon & Jazzy B)",
-        "artist": "AP Dhillon",
-        "album": "The Brownprint",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/7a/63/c67a6326-d344-71ad-f08b-deef1935ac8b/24UMGIM89733.rgb.jpg/80x80bb.webp",
-        "length": "2:11"
-    },
-    {
-        "ranking": "76",
         "title": "Mere Dholna 3.0 (Sonu Nigam Version) [From \"Bhool Bhulaiyaa 3\"]",
         "artist": "Amaal Mallik",
         "album": "Mere Dholna 3.0 (Sonu Nigam Version) [From \"Bhool Bhulaiyaa 3\"] - Single",
@@ -608,15 +592,23 @@
         "length": "4:26"
     },
     {
-        "ranking": "77",
-        "title": "Suniyan Suniyan",
-        "artist": "Juss",
-        "album": "Suniyan Suniyan - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/da/fc/38/dafc38f4-8148-2d35-83ea-c160082dda81/8905285148121.jpg/80x80bb.webp",
-        "length": "3:17"
+        "ranking": "75",
+        "title": "Bulleya",
+        "artist": "Pritam",
+        "album": "Ae Dil Hai Mushkil (Original Motion Picture Soundtrack)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/68/f3/c6/68f3c645-1b25-3d44-af6f-ebe4aea3df08/886446201597.jpg/80x80bb.webp",
+        "length": "5:48"
     },
     {
-        "ranking": "78",
+        "ranking": "76",
+        "title": "Kini Der Baad",
+        "artist": "Arjan Dhillon",
+        "album": "Patander",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/e4/0d/14e40d9e-7ee7-199a-64d8-8876b0989223/cover.jpg/80x80bb.webp",
+        "length": "2:50"
+    },
+    {
+        "ranking": "77",
         "title": "Tainu Khabar Nahi (From \"Munjya\")",
         "artist": "Sachin-Jigar",
         "album": "Tainu Khabar Nahi (From \"Munjya\") - Single",
@@ -624,15 +616,15 @@
         "length": "3:08"
     },
     {
-        "ranking": "79",
-        "title": "Channa Mereya",
-        "artist": "Pritam",
-        "album": "Ae Dil Hai Mushkil (Original Motion Picture Soundtrack)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/68/f3/c6/68f3c645-1b25-3d44-af6f-ebe4aea3df08/886446201597.jpg/80x80bb.webp",
-        "length": "4:49"
+        "ranking": "78",
+        "title": "Suniyan Suniyan",
+        "artist": "Juss",
+        "album": "Suniyan Suniyan - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/da/fc/38/dafc38f4-8148-2d35-83ea-c160082dda81/8905285148121.jpg/80x80bb.webp",
+        "length": "3:17"
     },
     {
-        "ranking": "80",
+        "ranking": "79",
         "title": "Clash",
         "artist": "Diljit Dosanjh",
         "album": "G.O.A.T.",
@@ -640,20 +632,28 @@
         "length": "2:56"
     },
     {
+        "ranking": "80",
+        "title": "315 (feat. Shinda Kahlon & Jazzy B)",
+        "artist": "AP Dhillon",
+        "album": "The Brownprint",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/7a/63/c67a6326-d344-71ad-f08b-deef1935ac8b/24UMGIM89733.rgb.jpg/80x80bb.webp",
+        "length": "2:11"
+    },
+    {
         "ranking": "81",
+        "title": "Channa Mereya",
+        "artist": "Pritam",
+        "album": "Ae Dil Hai Mushkil (Original Motion Picture Soundtrack)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/68/f3/c6/68f3c645-1b25-3d44-af6f-ebe4aea3df08/886446201597.jpg/80x80bb.webp",
+        "length": "4:49"
+    },
+    {
+        "ranking": "82",
         "title": "Never Fold (feat. Sunny Malton)",
         "artist": "Sidhu Moose Wala",
         "album": "No Name - EP",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d7/57/85/d75785de-f357-7a3c-fdb8-8d7d2be7572e/2729.jpg/80x80bb.webp",
         "length": "3:03"
-    },
-    {
-        "ranking": "82",
-        "title": "Be Mine",
-        "artist": "Shubh",
-        "album": "Be Mine - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e7/3f/d6/e73fd6f2-160c-2212-400b-cd46e234afa1/5021732426918.jpg/80x80bb.webp",
-        "length": "2:28"
     },
     {
         "ranking": "83",
@@ -665,38 +665,22 @@
     },
     {
         "ranking": "84",
-        "title": "Tum Ho",
-        "artist": "Mohit Chauhan",
-        "album": "Rockstar (Original Motion Picture Soundtrack)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/56/ac/41/56ac41f7-99f3-3eae-3b07-443167292c4e/8902894697408_cover.jpg/80x80bb.webp",
-        "length": "5:16"
+        "title": "Be Mine",
+        "artist": "Shubh",
+        "album": "Be Mine - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e7/3f/d6/e73fd6f2-160c-2212-400b-cd46e234afa1/5021732426918.jpg/80x80bb.webp",
+        "length": "2:28"
     },
     {
         "ranking": "85",
-        "title": "Champagne",
-        "artist": "Diljit Dosanjh",
-        "album": "MoonChild Era",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8a/89/e4/8a89e445-d2c6-f8ac-a828-27818b0c1afe/859749638209_cover.jpg/80x80bb.webp",
-        "length": "3:02"
+        "title": "Shree Hanuman Chalisa",
+        "artist": "Hariharan",
+        "album": "Shree Hanuman Chalisa (Hanuman Ashtak)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/c5/3a/8d/c53a8d9b-23d8-5cc1-ec14-6ed0ce7920a0/8902894137256_cover.jpg/80x80bb.webp",
+        "length": "9:46"
     },
     {
         "ranking": "86",
-        "title": "Wishes",
-        "artist": "Hasan Raheem",
-        "album": "Maybe, It's Love - EP",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/66/d2/dd/66d2dd38-4624-be46-444c-9e5a87f84a51/artwork.jpg/80x80bb.webp",
-        "length": "3:38"
-    },
-    {
-        "ranking": "87",
-        "title": "Gangsta (feat. YG)",
-        "artist": "Karan Aujla",
-        "album": "Way Ahead - EP",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/91/7c/9a/917c9a21-fd53-f953-bcf6-0b6a2aebe2bf/859761929279_cover.jpg/80x80bb.webp",
-        "length": "3:10"
-    },
-    {
-        "ranking": "88",
         "title": "With You",
         "artist": "AP Dhillon",
         "album": "With You - Single",
@@ -704,15 +688,7 @@
         "length": "2:34"
     },
     {
-        "ranking": "89",
-        "title": "Espresso",
-        "artist": "Sabrina Carpenter",
-        "album": "Espresso - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
-        "length": "2:55"
-    },
-    {
-        "ranking": "90",
+        "ranking": "87",
         "title": "Sang Rahiyo",
         "artist": "Jasleen Royal",
         "album": "Sang Rahiyo - Single",
@@ -720,7 +696,55 @@
         "length": "3:33"
     },
     {
+        "ranking": "88",
+        "title": "Tum Ho",
+        "artist": "Mohit Chauhan",
+        "album": "Rockstar (Original Motion Picture Soundtrack)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/56/ac/41/56ac41f7-99f3-3eae-3b07-443167292c4e/8902894697408_cover.jpg/80x80bb.webp",
+        "length": "5:16"
+    },
+    {
+        "ranking": "89",
+        "title": "Champagne",
+        "artist": "Diljit Dosanjh",
+        "album": "MoonChild Era",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8a/89/e4/8a89e445-d2c6-f8ac-a828-27818b0c1afe/859749638209_cover.jpg/80x80bb.webp",
+        "length": "3:02"
+    },
+    {
+        "ranking": "90",
+        "title": "Wishes",
+        "artist": "Hasan Raheem",
+        "album": "Maybe, It's Love - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/66/d2/dd/66d2dd38-4624-be46-444c-9e5a87f84a51/artwork.jpg/80x80bb.webp",
+        "length": "3:38"
+    },
+    {
         "ranking": "91",
+        "title": "Espresso",
+        "artist": "Sabrina Carpenter",
+        "album": "Espresso - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
+        "length": "2:55"
+    },
+    {
+        "ranking": "92",
+        "title": "Kun Faya Kun",
+        "artist": "A.R. Rahman",
+        "album": "Rockstar (Original Motion Picture Soundtrack)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/56/ac/41/56ac41f7-99f3-3eae-3b07-443167292c4e/8902894697408_cover.jpg/80x80bb.webp",
+        "length": "7:50"
+    },
+    {
+        "ranking": "93",
+        "title": "Gangsta (feat. YG)",
+        "artist": "Karan Aujla",
+        "album": "Way Ahead - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/91/7c/9a/917c9a21-fd53-f953-bcf6-0b6a2aebe2bf/859761929279_cover.jpg/80x80bb.webp",
+        "length": "3:10"
+    },
+    {
+        "ranking": "94",
         "title": "Aabaad Barbaad (From \"Ludo\")",
         "artist": "Pritam",
         "album": "Aabaad Barbaad (From \"Ludo\") - Single",
@@ -728,7 +752,7 @@
         "length": "5:09"
     },
     {
-        "ranking": "92",
+        "ranking": "95",
         "title": "Pehli Nazar Mein",
         "artist": "Atif Aslam",
         "album": "Race (Original Motion Picture Soundtrack)",
@@ -736,15 +760,7 @@
         "length": "5:12"
     },
     {
-        "ranking": "93",
-        "title": "Jeena Jeena",
-        "artist": "Atif Aslam",
-        "album": "Badlapur (Original Motion Picture Soundtrack)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f1/01/00/f10100ca-71bc-f94b-84c6-8447c3ddcf31/828970040020.jpg/80x80bb.webp",
-        "length": "3:48"
-    },
-    {
-        "ranking": "94",
+        "ranking": "96",
         "title": "9:45",
         "artist": "Prabh Singh",
         "album": "9:45 - Single",
@@ -752,15 +768,15 @@
         "length": "1:57"
     },
     {
-        "ranking": "95",
-        "title": "Sher-E-Panjab",
-        "artist": "Arjan Dhillon",
-        "album": "Patander",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/e4/0d/14e40d9e-7ee7-199a-64d8-8876b0989223/cover.jpg/80x80bb.webp",
-        "length": "2:31"
+        "ranking": "97",
+        "title": "Jeena Jeena",
+        "artist": "Atif Aslam",
+        "album": "Badlapur (Original Motion Picture Soundtrack)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f1/01/00/f10100ca-71bc-f94b-84c6-8447c3ddcf31/828970040020.jpg/80x80bb.webp",
+        "length": "3:48"
     },
     {
-        "ranking": "96",
+        "ranking": "98",
         "title": "Aaj Ki Raat",
         "artist": "Madhubanti Bagchi",
         "album": "Stree 2 (Original Motion Picture Soundtrack) - EP",
@@ -768,35 +784,19 @@
         "length": "3:48"
     },
     {
-        "ranking": "97",
-        "title": "Ilahi",
-        "artist": "Pritam",
-        "album": "Yeh Jawaani Hai Deewani (Original Motion Picture Soundtrack)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/62/d6/74/62d67432-0670-631f-db6a-d4bac3adae4b/8902894353328_cover.jpg/80x80bb.webp",
-        "length": "3:48"
-    },
-    {
-        "ranking": "98",
-        "title": "Fear Song (From \"Devara Part 1\") - TELUGU",
-        "artist": "Anirudh Ravichander",
-        "album": "Fear Song (From \"Devara Part 1\") - TELUGU - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/c6/af/1dc6af82-69e9-5341-5010-a9223fc25709/8903431001368_cover.jpg/80x80bb.webp",
-        "length": "3:15"
-    },
-    {
         "ranking": "99",
+        "title": "Afreen Afreen (Coke Studio Season 9)",
+        "artist": "Rahat Fateh Ali Khan",
+        "album": "Afreen Afreen (Coke Studio Season 9) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/95/ff/b0/95ffb0d1-ba72-767e-a4e4-6e7989524b03/190394811402.jpg/80x80bb.webp",
+        "length": "6:40"
+    },
+    {
+        "ranking": "100",
         "title": "Spaceship",
         "artist": "AP Dhillon",
         "album": "Hidden Gems - EP",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/24/77/cb/2477cbbb-563f-5ef1-9b05-299a4f34e5f1/859751714458_cover.jpg/80x80bb.webp",
         "length": "2:04"
-    },
-    {
-        "ranking": "100",
-        "title": "Excuses",
-        "artist": "AP Dhillon",
-        "album": "Excuses - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/47/47/ac/4747ac85-1658-64ae-bc82-220a4d6213d5/859747478890_cover.jpg/80x80bb.webp",
-        "length": "2:56"
     }
 ]

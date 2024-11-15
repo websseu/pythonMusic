@@ -1,14 +1,6 @@
 [
     {
         "ranking": "1",
-        "title": "4 Kampé",
-        "artist": "Joé Dwèt Filé",
-        "album": "4 Kampé - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/32/0a/05320ae3-1eef-3cd6-8f19-9ad9f078fa25/cover.jpg/80x80bb.webp",
-        "length": "3:34"
-    },
-    {
-        "ranking": "2",
         "title": "Ogechi (feat. Davido) [Remix]",
         "artist": "BoyPee",
         "album": "Ogechi (feat. Davido) [Remix] - Single",
@@ -16,479 +8,7 @@
         "length": "3:12"
     },
     {
-        "ranking": "3",
-        "title": "Rhythm & Blues",
-        "artist": "Ayra Starr",
-        "album": "Rhythm & Blues - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6c/93/5a/6c935a01-7cf2-89e7-acd5-6da37ebe883a/23UM1IM04256.rgb.jpg/80x80bb.webp",
-        "length": "2:24"
-    },
-    {
-        "ranking": "4",
-        "title": "SL",
-        "artist": "Fally Ipupa",
-        "album": "Formule 7",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ce/1b/91/ce1b917e-ca4a-b8bc-d56d-9bdcb4db0d21/5054197450891.jpg/80x80bb.webp",
-        "length": "7:28"
-    },
-    {
-        "ranking": "5",
-        "title": "Amante fiel",
-        "artist": "CEF Tanzy",
-        "album": "Bairro Star",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/12/a0/ed/12a0edea-3a14-bdc8-1eaf-33371a7694e4/c8m005.jpg/80x80bb.webp",
-        "length": "2:48"
-    },
-    {
-        "ranking": "6",
-        "title": "Makila : Wablé",
-        "artist": "Dadju",
-        "album": "Makila : Wablé - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/88/44/ba/8844ba41-80f1-80a1-7d6a-e01a17046e86/cover.jpg/80x80bb.webp",
-        "length": "3:45"
-    },
-    {
-        "ranking": "7",
-        "title": "Afro Mbokalisation",
-        "artist": "Afara Tsena",
-        "album": "Afro Mbokalisation - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/86/56/02/86560258-e955-786e-bf0d-5aa982be7a82/196589633514.jpg/80x80bb.webp",
-        "length": "4:07"
-    },
-    {
-        "ranking": "8",
-        "title": "Adrenalina do Amor",
-        "artist": "Chetekela",
-        "album": "Adrenalina do Amor - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/c4/49/0b/c4490bfe-f02f-5e12-d53d-a05763306b44/194660051370.jpg/80x80bb.webp",
-        "length": "4:46"
-    },
-    {
-        "ranking": "9",
-        "title": "Tu vas me manquer (Pilule Bleue)",
-        "artist": "GIMS",
-        "album": "Mon cœur avait raison",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/39/e2/bd/39e2bd70-a7da-2815-cf12-0cb9f6f62ba0/886445517385.jpg/80x80bb.webp",
-        "length": "4:10"
-    },
-    {
-        "ranking": "10",
-        "title": "Je te pardonne (feat. Sia) [Pilule Bleue]",
-        "artist": "GIMS",
-        "album": "Mon cœur avait raison",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/39/e2/bd/39e2bd70-a7da-2815-cf12-0cb9f6f62ba0/886445517385.jpg/80x80bb.webp",
-        "length": "3:33"
-    },
-    {
-        "ranking": "11",
-        "title": "Amar Pela Metade",
-        "artist": "Calema",
-        "album": "Amar Pela Metade / Aimer À Moitié - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/a1/49/eea149db-f385-8981-0b82-4a8aece641bc/24UMGIM96558.rgb.jpg/80x80bb.webp",
-        "length": "3:06"
-    },
-    {
-        "ranking": "12",
-        "title": "Against the Grain (feat. Ray Lavender)",
-        "artist": "Akon",
-        "album": "Freedom",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d7/c3/9e/d7c39e5c-1284-8c22-8ea5-ca259bcfc525/08UMGIM26305.rgb.jpg/80x80bb.webp",
-        "length": "4:04"
-    },
-    {
-        "ranking": "13",
-        "title": "We Don't Care",
-        "artist": "Akon",
-        "album": "Freedom",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d7/c3/9e/d7c39e5c-1284-8c22-8ea5-ca259bcfc525/08UMGIM26305.rgb.jpg/80x80bb.webp",
-        "length": "4:16"
-    },
-    {
-        "ranking": "14",
-        "title": "Est-ce que tu m'aimes ? (Pilule Bleue)",
-        "artist": "GIMS",
-        "album": "Mon cœur avait raison",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/39/e2/bd/39e2bd70-a7da-2815-cf12-0cb9f6f62ba0/886445517385.jpg/80x80bb.webp",
-        "length": "3:57"
-    },
-    {
-        "ranking": "15",
-        "title": "Se Não Chorar com Pagode (Ao Vivo)",
-        "artist": "LUDMILLA",
-        "album": "Numanice #3 (Ao Vivo)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a4/2d/bc/a42dbcb0-0fe9-4c85-7738-79063a8aaf91/197338057353.jpg/80x80bb.webp",
-        "length": "2:56"
-    },
-    {
-        "ranking": "16",
-        "title": "Me Fala",
-        "artist": "Button Rose",
-        "album": "Minha Rosa - EP",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3c/cd/54/3ccd5496-ab11-ba80-3e00-4d2ec482f0a0/8445162481823.jpg/80x80bb.webp",
-        "length": "3:13"
-    },
-    {
-        "ranking": "17",
-        "title": "Cinderella (feat. Reed)",
-        "artist": "Stixx",
-        "album": "Dust 2 Dust",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/27/f3/7327f37c-5aac-7745-df2f-972df86cee4b/24UM1IM21464.rgb.jpg/80x80bb.webp",
-        "length": "7:55"
-    },
-    {
-        "ranking": "18",
-        "title": "Nunca Voy A Olvidarte",
-        "artist": "Cristian",
-        "album": "Un Segundo En El Tiempo",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/48/32/9b/48329b8c-7c9c-97b4-0343-542d15e3db59/19UMGIM82895.rgb.jpg/80x80bb.webp",
-        "length": "5:06"
-    },
-    {
-        "ranking": "19",
-        "title": "Última Lágrima",
-        "artist": "BUTTON ROSE",
-        "album": "Última Lágrima - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/83/b6/69/83b669a9-4935-9fe2-8d57-ad379798cb56/0.jpg/80x80bb.webp",
-        "length": "3:39"
-    },
-    {
-        "ranking": "20",
-        "title": "Bandida (feat. Elji Beatzkilla)",
-        "artist": "Loreta KBA",
-        "album": "Bandida (feat. Elji Beatzkilla) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/cb/e3/a4cbe341-241a-fbef-4009-bea068c9e3b6/198009665563.png/80x80bb.webp",
-        "length": "3:30"
-    },
-    {
-        "ranking": "21",
-        "title": "Saudade da Gente (Ao Vivo)",
-        "artist": "LUDMILLA",
-        "album": "Numanice #3 (Ao Vivo)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a4/2d/bc/a42dbcb0-0fe9-4c85-7738-79063a8aaf91/197338057353.jpg/80x80bb.webp",
-        "length": "3:07"
-    },
-    {
-        "ranking": "22",
-        "title": "Viver",
-        "artist": "Vado Más Ki Ás",
-        "album": "Viver - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9b/a5/e5/9ba5e56e-9664-8276-b635-c1bc976f12b5/8447053094617.jpg/80x80bb.webp",
-        "length": "3:33"
-    },
-    {
-        "ranking": "23",
-        "title": "Adentro",
-        "artist": "Amenazzy",
-        "album": "Adentro - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d8/48/c7/d848c7ae-c65e-4d75-b4e6-a04612b76020/197187548996.jpg/80x80bb.webp",
-        "length": "2:12"
-    },
-    {
-        "ranking": "24",
-        "title": "Xtraga (feat. Real'Or'Beat)",
-        "artist": "Elji Beatzkilla",
-        "album": "Milligan",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/57/65/15/5765152d-d0d5-ec0f-33ff-f30d857e5711/cover.jpg/80x80bb.webp",
-        "length": "5:28"
-    },
-    {
-        "ranking": "25",
-        "title": "Kazanga",
-        "artist": "Quatro Plus",
-        "album": "Angolana",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2c/3e/79/2c3e7929-0f81-7fb2-8eb2-61af1af0c21f/8445281448929.jpg/80x80bb.webp",
-        "length": "5:53"
-    },
-    {
-        "ranking": "26",
-        "title": "Poe Mans Dreams (His Vice) [feat. GLC]",
-        "artist": "Kendrick Lamar",
-        "album": "Section.80",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d7/d3/37/d7d33750-6d28-6e73-4913-7139ebd80906/888915968772_cover.jpg/80x80bb.webp",
-        "length": "4:21"
-    },
-    {
-        "ranking": "27",
-        "title": "C'est La Vie",
-        "artist": "Vado Más Ki Ás",
-        "album": "Rosas e Espinhos",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bc/b5/61/bcb56111-dfa4-8d0d-b7c5-fddd6f43e6c4/886449738243.jpg/80x80bb.webp",
-        "length": "2:56"
-    },
-    {
-        "ranking": "28",
-        "title": "Segredos",
-        "artist": "Vado Más Ki Ás",
-        "album": "Rosas e Espinhos",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bc/b5/61/bcb56111-dfa4-8d0d-b7c5-fddd6f43e6c4/886449738243.jpg/80x80bb.webp",
-        "length": "3:21"
-    },
-    {
-        "ranking": "29",
-        "title": "TE AMAR BUÉ",
-        "artist": "Landrick",
-        "album": "REI DO KUYUYU",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/33/3a/42/333a42fe-7e1c-1e37-3fd9-4bae94e65168/24UMGIM18604.rgb.jpg/80x80bb.webp",
-        "length": "3:18"
-    },
-    {
-        "ranking": "30",
-        "title": "ADDICTED (feat. The Cavemen.)",
-        "artist": "CKay",
-        "album": "EMOTIONS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/93/da/b9/93dab926-c4e0-d7dc-411e-0717359072ac/5021732519399.jpg/80x80bb.webp",
-        "length": "3:52"
-    },
-    {
-        "ranking": "31",
-        "title": "Phephisa",
-        "artist": "Stixx",
-        "album": "Dust 2 Dust",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/27/f3/7327f37c-5aac-7745-df2f-972df86cee4b/24UM1IM21464.rgb.jpg/80x80bb.webp",
-        "length": "7:51"
-    },
-    {
-        "ranking": "32",
-        "title": "Position",
-        "artist": "Franglish",
-        "album": "Prime",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/38/14/77/38147794-548b-8e7a-cda6-a94a8fc01b17/24UMGIM00632.rgb.jpg/80x80bb.webp",
-        "length": "2:21"
-    },
-    {
-        "ranking": "33",
-        "title": "Tout donner (Pilule Violette)",
-        "artist": "GIMS",
-        "album": "À contrecœur (Pilule Violette)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/fc/2d/f0/fc2df0b6-31db-871b-2cf7-258b06cff487/886445932034.jpg/80x80bb.webp",
-        "length": "3:23"
-    },
-    {
-        "ranking": "34",
-        "title": "Paname (Pilule Violette)",
-        "artist": "GIMS",
-        "album": "À contrecœur (Pilule Violette)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/fc/2d/f0/fc2df0b6-31db-871b-2cf7-258b06cff487/886445932034.jpg/80x80bb.webp",
-        "length": "3:08"
-    },
-    {
-        "ranking": "35",
-        "title": "Ma beauté (Pilule Violette)",
-        "artist": "GIMS",
-        "album": "À contrecœur (Pilule Violette)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/fc/2d/f0/fc2df0b6-31db-871b-2cf7-258b06cff487/886445932034.jpg/80x80bb.webp",
-        "length": "3:05"
-    },
-    {
-        "ranking": "36",
-        "title": "Last Last",
-        "artist": "Burna Boy",
-        "album": "Love, Damini",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/34/42/db/3442dbd6-644f-a111-8344-0151ffb93313/075679745156.jpg/80x80bb.webp",
-        "length": "2:52"
-    },
-    {
-        "ranking": "37",
-        "title": "Rush",
-        "artist": "Ayra Starr",
-        "album": "19 & Dangerous (Deluxe)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b5/4a/3d/b54a3d1a-f493-7a9b-1807-a73f01709053/5059449090122.png/80x80bb.webp",
-        "length": "3:05"
-    },
-    {
-        "ranking": "38",
-        "title": "It's Plenty",
-        "artist": "Burna Boy",
-        "album": "Love, Damini",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/34/42/db/3442dbd6-644f-a111-8344-0151ffb93313/075679745156.jpg/80x80bb.webp",
-        "length": "3:36"
-    },
-    {
-        "ranking": "39",
-        "title": "UNAVAILABLE (feat. Musa Keys)",
-        "artist": "Davido",
-        "album": "Timeless",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
-        "length": "2:49"
-    },
-    {
-        "ranking": "40",
-        "title": "Lonely At The Top",
-        "artist": "Asake",
-        "album": "Work Of Art",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cc/23/83/cc2383d9-eecc-f974-5f5b-d445c583acdb/197342233958_cover.jpg/80x80bb.webp",
-        "length": "2:37"
-    },
-    {
-        "ranking": "41",
-        "title": "FEEL",
-        "artist": "Davido",
-        "album": "Timeless",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
-        "length": "2:34"
-    },
-    {
-        "ranking": "42",
-        "title": "People",
-        "artist": "Libianca",
-        "album": "People - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c6/8c/ca/c68ccacb-cdd5-b765-53e1-eeca394770ac/196589735607.jpg/80x80bb.webp",
-        "length": "3:04"
-    },
-    {
-        "ranking": "43",
-        "title": "Un coup (feat. Dadju)",
-        "artist": "Fally Ipupa",
-        "album": "Tokooos II",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f0/07/49/f00749ad-164a-5199-1695-5651874707fd/190295060473.jpg/80x80bb.webp",
-        "length": "4:11"
-    },
-    {
-        "ranking": "44",
-        "title": "Minha Vida",
-        "artist": "Gerilson Insrael",
-        "album": "Veracidade",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5f/d7/81/5fd781bd-67e8-d801-b8a1-947f1d7fb197/859747240336_cover.jpg/80x80bb.webp",
-        "length": "4:15"
-    },
-    {
-        "ranking": "45",
-        "title": "Girlfriend",
-        "artist": "Ruger",
-        "album": "The Second Wave (Deluxe)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/78/68/ce/7868ce23-2ce0-0cfd-7ce3-3eb1196f1d96/196589221094_Cover.jpg/80x80bb.webp",
-        "length": "3:16"
-    },
-    {
-        "ranking": "46",
-        "title": "I love you",
-        "artist": "Dadju",
-        "album": "I love you - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/78/86/b0/7886b0f8-a8a8-5e36-82ae-9eae2a3f30bf/cover.jpg/80x80bb.webp",
-        "length": "3:57"
-    },
-    {
-        "ranking": "47",
-        "title": "Ngozi",
-        "artist": "Crayon",
-        "album": "Trench to Triumph",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/da/0a/6e/da0a6e7d-769d-209b-c8f8-c9af3789b0ee/5059449136325.png/80x80bb.webp",
-        "length": "3:41"
-    },
-    {
-        "ranking": "48",
-        "title": "Ta Falar Ta Fazer",
-        "artist": "CEF Tanzy",
-        "album": "The Coach",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/28/a5/1d/28a51d0d-0b40-abc5-1e55-573855c74e8b/c8003.jpg/80x80bb.webp",
-        "length": "3:27"
-    },
-    {
-        "ranking": "49",
-        "title": "City Boys",
-        "artist": "Burna Boy",
-        "album": "Músicas pra Ouvir Sozinho no Fone",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/12/08/09/120809e9-398a-c6a0-a1b2-fcca86961f46/5059460350731.jpg/80x80bb.webp",
-        "length": "2:33"
-    },
-    {
-        "ranking": "50",
-        "title": "KANTE (feat. Fave)",
-        "artist": "Davido",
-        "album": "Timeless",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
-        "length": "3:14"
-    },
-    {
-        "ranking": "51",
-        "title": "Bloody Samaritan",
-        "artist": "Ayra Starr",
-        "album": "19 & Dangerous",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/38/7c/a2/387ca287-aa0f-074c-3b90-589fba5f7394/5059449022734.png/80x80bb.webp",
-        "length": "3:07"
-    },
-    {
-        "ranking": "52",
-        "title": "O Nosso Amor",
-        "artist": "Soraia Ramos",
-        "album": "O Nosso Amor - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/55/2b/d7/552bd7c7-3786-0aef-4fc9-418a04ad8bf1/cover.jpg/80x80bb.webp",
-        "length": "4:46"
-    },
-    {
-        "ranking": "53",
-        "title": "Terminator",
-        "artist": "Asake",
-        "album": "Mr. Money With The Vibe",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5e/4f/66/5e4f6644-a234-d037-609d-7ed53fd6c7f9/194690909856_cover.jpg/80x80bb.webp",
-        "length": "2:35"
-    },
-    {
-        "ranking": "54",
-        "title": "Elshadai Adonaih",
-        "artist": "Benjamin Dube",
-        "album": "Healing in His Presence",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/7b/17/4a/7b174a50-79a9-28bb-57c1-6258997504e8/6009691406751.jpg/80x80bb.webp",
-        "length": "3:01"
-    },
-    {
-        "ranking": "55",
-        "title": "Bela",
-        "artist": "Djodje",
-        "album": "Bela - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/46/39/01/4639014f-5093-df21-e98f-60bdb8bf4f38/8445162208505.jpg/80x80bb.webp",
-        "length": "3:58"
-    },
-    {
-        "ranking": "56",
-        "title": "Emiliana",
-        "artist": "CKay",
-        "album": "Emiliana - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0c/86/8d/0c868d5a-81f4-42dd-1ce2-f6569fee0585/190296332722.jpg/80x80bb.webp",
-        "length": "2:44"
-    },
-    {
-        "ranking": "57",
-        "title": "Peace Be Unto You (PBUY)",
-        "artist": "Asake",
-        "album": "Peace Be Unto You (PBUY) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7e/db/4f/7edb4fdc-007f-5de8-de1b-3e48effd169a/194690866432_cover.jpg/80x80bb.webp",
-        "length": "2:33"
-    },
-    {
-        "ranking": "58",
-        "title": "You",
-        "artist": "Djodje",
-        "album": "You - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/01/38/04/0138042f-2f70-77a2-b833-9a495650ab20/8445162399388.jpg/80x80bb.webp",
-        "length": "3:15"
-    },
-    {
-        "ranking": "59",
-        "title": "woman",
-        "artist": "Omah Lay",
-        "album": "Boy Alone (Deluxe)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/a7/4d/13a74d60-f269-603c-a8ee-527c0daba041/093624841319_01.jpg/80x80bb.webp",
-        "length": "2:48"
-    },
-    {
-        "ranking": "60",
-        "title": "Amapiano",
-        "artist": "Asake",
-        "album": "Work Of Art",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cc/23/83/cc2383d9-eecc-f974-5f5b-d445c583acdb/197342233958_cover.jpg/80x80bb.webp",
-        "length": "2:45"
-    },
-    {
-        "ranking": "61",
-        "title": "Organise",
-        "artist": "Asake",
-        "album": "Mr. Money With The Vibe",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5e/4f/66/5e4f6644-a234-d037-609d-7ed53fd6c7f9/194690909856_cover.jpg/80x80bb.webp",
-        "length": "2:03"
-    },
-    {
-        "ranking": "62",
+        "ranking": "2",
         "title": "Tentason",
         "artist": "Djodje",
         "album": "Tentason - Single",
@@ -496,7 +16,455 @@
         "length": "2:46"
     },
     {
-        "ranking": "63",
+        "ranking": "3",
+        "title": "SL",
+        "artist": "Fally Ipupa",
+        "album": "Formule 7",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ce/1b/91/ce1b917e-ca4a-b8bc-d56d-9bdcb4db0d21/5054197450891.jpg/80x80bb.webp",
+        "length": "7:28"
+    },
+    {
+        "ranking": "4",
+        "title": "Makila : Wablé",
+        "artist": "Dadju",
+        "album": "Makila : Wablé - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/88/44/ba/8844ba41-80f1-80a1-7d6a-e01a17046e86/cover.jpg/80x80bb.webp",
+        "length": "3:45"
+    },
+    {
+        "ranking": "5",
+        "title": "Afro Mbokalisation",
+        "artist": "Afara Tsena",
+        "album": "Afro Mbokalisation - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/86/56/02/86560258-e955-786e-bf0d-5aa982be7a82/196589633514.jpg/80x80bb.webp",
+        "length": "4:07"
+    },
+    {
+        "ranking": "6",
+        "title": "Cigana Linda",
+        "artist": "Badoxa",
+        "album": "Cigana Linda - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/2c/da/ee2cdaa7-072f-c9e9-52cf-1653848e3985/0.jpg/80x80bb.webp",
+        "length": "3:37"
+    },
+    {
+        "ranking": "7",
+        "title": "Afsana",
+        "artist": "Fally Ipupa",
+        "album": "Formule 7",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ce/1b/91/ce1b917e-ca4a-b8bc-d56d-9bdcb4db0d21/5054197450891.jpg/80x80bb.webp",
+        "length": "4:47"
+    },
+    {
+        "ranking": "8",
+        "title": "4 Kampé",
+        "artist": "Joé Dwèt Filé",
+        "album": "4 Kampé - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/32/0a/05320ae3-1eef-3cd6-8f19-9ad9f078fa25/cover.jpg/80x80bb.webp",
+        "length": "3:34"
+    },
+    {
+        "ranking": "9",
+        "title": "Lollipop (feat. Static Major)",
+        "artist": "Lil Wayne",
+        "album": "Tha Carter III",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7d/63/39/7d6339c5-6ce7-7cf6-5f5b-6f3f3f478817/08UMGIM10308.rgb.jpg/80x80bb.webp",
+        "length": "4:59"
+    },
+    {
+        "ranking": "10",
+        "title": "Sunny Day (feat. Wyclef Jean)",
+        "artist": "Akon",
+        "album": "Freedom",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d7/c3/9e/d7c39e5c-1284-8c22-8ea5-ca259bcfc525/08UMGIM26305.rgb.jpg/80x80bb.webp",
+        "length": "5:12"
+    },
+    {
+        "ranking": "11",
+        "title": "À Toa",
+        "artist": "Chelsea Dinorath",
+        "album": "À Toa - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/3d/5b/623d5bbb-066b-502b-abe8-2fb4487db3e8/0.jpg/80x80bb.webp",
+        "length": "3:06"
+    },
+    {
+        "ranking": "12",
+        "title": "We Don't Care",
+        "artist": "Akon",
+        "album": "Freedom",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d7/c3/9e/d7c39e5c-1284-8c22-8ea5-ca259bcfc525/08UMGIM26305.rgb.jpg/80x80bb.webp",
+        "length": "4:16"
+    },
+    {
+        "ranking": "13",
+        "title": "Back to My Roots",
+        "artist": "Lucky Dube",
+        "album": "Slave",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/54/30/6c/54306c74-500f-01b0-9414-34e5adb67428/6001208422933_Cover.jpg/80x80bb.webp",
+        "length": "4:14"
+    },
+    {
+        "ranking": "14",
+        "title": "Homem Que É Homem",
+        "artist": "Badoxa",
+        "album": "Homem Que É Homem - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/8e/1d/be8e1d2c-c606-3986-d7cc-ea2cc079507b/0.jpg/80x80bb.webp",
+        "length": "3:36"
+    },
+    {
+        "ranking": "15",
+        "title": "Muetse",
+        "artist": "Oliver N'Goma",
+        "album": "Adia",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/dc/44/b1/dc44b1b3-5543-ecbc-03e0-2ff0063ddb68/mzi.hfxeqttn.jpg/80x80bb.webp",
+        "length": "6:11"
+    },
+    {
+        "ranking": "16",
+        "title": "Water (Remix)",
+        "artist": "Tyla",
+        "album": "Water (Remix) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5c/ba/d5/5cbad569-9d4b-e1d2-3e5a-66e46207a00f/196871650083.jpg/80x80bb.webp",
+        "length": "3:20"
+    },
+    {
+        "ranking": "17",
+        "title": "I'm So Paid (feat. Lil Wayne)",
+        "artist": "Akon",
+        "album": "Freedom",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d7/c3/9e/d7c39e5c-1284-8c22-8ea5-ca259bcfc525/08UMGIM26305.rgb.jpg/80x80bb.webp",
+        "length": "3:22"
+    },
+    {
+        "ranking": "18",
+        "title": "Ogechi",
+        "artist": "Brown Joel",
+        "album": "Ogechi - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/4d/31/cf4d31c4-7301-5ea5-d104-40fbfa4a4de8/766214750215.png/80x80bb.webp",
+        "length": "2:32"
+    },
+    {
+        "ranking": "19",
+        "title": "Lili",
+        "artist": "Oliver N'Goma",
+        "album": "Bane",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/79/db/3d/79db3d2c-010e-799c-56f9-9c358743e423/5055373529233.png/80x80bb.webp",
+        "length": "4:50"
+    },
+    {
+        "ranking": "20",
+        "title": "Kole Sere",
+        "artist": "Jocelyne Béroard",
+        "album": "Siwo",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/dc/5f/2b/dc5f2b51-7027-5745-7274-325d54a0b7f5/5055373543321.png/80x80bb.webp",
+        "length": "4:42"
+    },
+    {
+        "ranking": "21",
+        "title": "BENIN BOYS",
+        "artist": "Rema",
+        "album": "BENIN BOYS - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/f2/6d/9df26db8-92c6-41d8-81da-2bc68bdb471f/24UMGIM62607.rgb.jpg/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
+        "ranking": "22",
+        "title": "Bandida (feat. Elji Beatzkilla)",
+        "artist": "Loreta KBA",
+        "album": "Bandida (feat. Elji Beatzkilla) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/cb/e3/a4cbe341-241a-fbef-4009-bea068c9e3b6/198009665563.png/80x80bb.webp",
+        "length": "3:30"
+    },
+    {
+        "ranking": "23",
+        "title": "Melhor Sem Mim",
+        "artist": "Calema",
+        "album": "Voyage (Part III)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/90/0f/b7900f5c-d4b9-2591-badf-53d1bfc6c31d/24UM1IM15052.rgb.jpg/80x80bb.webp",
+        "length": "3:09"
+    },
+    {
+        "ranking": "24",
+        "title": "My Love (2024)",
+        "artist": "Alex Wann",
+        "album": "My Love (2024) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/2c/46/db2c4637-2726-b5d0-11a7-1553d34a861c/24UMGIM86635.rgb.jpg/80x80bb.webp",
+        "length": "3:04"
+    },
+    {
+        "ranking": "25",
+        "title": "Je t'aime, je t'aime, je t'aime (feat. Daan Junior)",
+        "artist": "Teeyah",
+        "album": "Métisse",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/e3/7b/30/e37b3024-15bc-cfc0-72bb-117336242d61/3760139808850_cover.jpg/80x80bb.webp",
+        "length": "4:30"
+    },
+    {
+        "ranking": "26",
+        "title": "Julie! Julie!",
+        "artist": "Lucky Dube",
+        "album": "The Other Side",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bc/11/c5/bc11c5bb-7693-1537-a9d3-b136eca91872/196922078583_Cover.jpg/80x80bb.webp",
+        "length": "6:39"
+    },
+    {
+        "ranking": "27",
+        "title": "Les génies vous parlent",
+        "artist": "Meiway",
+        "album": "Les génies vous parlent : 500% Zoblazo",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/2e/8d/f8/2e8df86d-cffa-964d-e604-8e985db834c8/cover.jpg/80x80bb.webp",
+        "length": "4:45"
+    },
+    {
+        "ranking": "28",
+        "title": "Lomilo Afrohouse",
+        "artist": "Aleteo VIP",
+        "album": "Lomilo Afrohouse - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/83/1b/52/831b52ca-c514-0d3e-91e3-16126b69d60a/artwork.jpg/80x80bb.webp",
+        "length": "3:05"
+    },
+    {
+        "ranking": "29",
+        "title": "Tirana Nights",
+        "artist": "Fahlberg",
+        "album": "Tirana Nights - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/ff/e2/5dffe2a7-5789-1a2c-cfd7-ca0b7d9e10a5/198391664014.jpg/80x80bb.webp",
+        "length": "5:10"
+    },
+    {
+        "ranking": "30",
+        "title": "Tu seras élevé",
+        "artist": "DJ KEROZEN",
+        "album": "Tu seras élevé - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ef/46/d3/ef46d33e-24ae-529c-4305-1197701dae5f/cover.jpg/80x80bb.webp",
+        "length": "4:07"
+    },
+    {
+        "ranking": "31",
+        "title": "Ma beauté (Pilule Violette)",
+        "artist": "GIMS",
+        "album": "À contrecœur (Pilule Violette)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/fc/2d/f0/fc2df0b6-31db-871b-2cf7-258b06cff487/886445932034.jpg/80x80bb.webp",
+        "length": "3:05"
+    },
+    {
+        "ranking": "32",
+        "title": "Last Last",
+        "artist": "Burna Boy",
+        "album": "Love, Damini",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/34/42/db/3442dbd6-644f-a111-8344-0151ffb93313/075679745156.jpg/80x80bb.webp",
+        "length": "2:52"
+    },
+    {
+        "ranking": "33",
+        "title": "Rush",
+        "artist": "Ayra Starr",
+        "album": "19 & Dangerous (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b5/4a/3d/b54a3d1a-f493-7a9b-1807-a73f01709053/5059449090122.png/80x80bb.webp",
+        "length": "3:05"
+    },
+    {
+        "ranking": "34",
+        "title": "It's Plenty",
+        "artist": "Burna Boy",
+        "album": "Love, Damini",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/34/42/db/3442dbd6-644f-a111-8344-0151ffb93313/075679745156.jpg/80x80bb.webp",
+        "length": "3:36"
+    },
+    {
+        "ranking": "35",
+        "title": "UNAVAILABLE (feat. Musa Keys)",
+        "artist": "Davido",
+        "album": "Timeless",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
+        "ranking": "36",
+        "title": "Lonely At The Top",
+        "artist": "Asake",
+        "album": "Work Of Art",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cc/23/83/cc2383d9-eecc-f974-5f5b-d445c583acdb/197342233958_cover.jpg/80x80bb.webp",
+        "length": "2:37"
+    },
+    {
+        "ranking": "37",
+        "title": "FEEL",
+        "artist": "Davido",
+        "album": "Timeless",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
+        "length": "2:34"
+    },
+    {
+        "ranking": "38",
+        "title": "People",
+        "artist": "Libianca",
+        "album": "People - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c6/8c/ca/c68ccacb-cdd5-b765-53e1-eeca394770ac/196589735607.jpg/80x80bb.webp",
+        "length": "3:04"
+    },
+    {
+        "ranking": "39",
+        "title": "Un coup (feat. Dadju)",
+        "artist": "Fally Ipupa",
+        "album": "Tokooos II",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f0/07/49/f00749ad-164a-5199-1695-5651874707fd/190295060473.jpg/80x80bb.webp",
+        "length": "4:11"
+    },
+    {
+        "ranking": "40",
+        "title": "KU LO SA - A COLORS SHOW",
+        "artist": "Oxlade",
+        "album": "KU LO SA - A COLORS SHOW - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3c/6c/c7/3c6cc7b9-5bff-e196-2751-665fa5705ab1/196589232137.jpg/80x80bb.webp",
+        "length": "2:27"
+    },
+    {
+        "ranking": "41",
+        "title": "Minha Vida",
+        "artist": "Gerilson Insrael",
+        "album": "Veracidade",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5f/d7/81/5fd781bd-67e8-d801-b8a1-947f1d7fb197/859747240336_cover.jpg/80x80bb.webp",
+        "length": "4:15"
+    },
+    {
+        "ranking": "42",
+        "title": "Girlfriend",
+        "artist": "Ruger",
+        "album": "The Second Wave (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/78/68/ce/7868ce23-2ce0-0cfd-7ce3-3eb1196f1d96/196589221094_Cover.jpg/80x80bb.webp",
+        "length": "3:16"
+    },
+    {
+        "ranking": "43",
+        "title": "I love you",
+        "artist": "Dadju",
+        "album": "I love you - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/78/86/b0/7886b0f8-a8a8-5e36-82ae-9eae2a3f30bf/cover.jpg/80x80bb.webp",
+        "length": "3:57"
+    },
+    {
+        "ranking": "44",
+        "title": "City Boys",
+        "artist": "Burna Boy",
+        "album": "Músicas pra Ouvir Sozinho no Fone",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/12/08/09/120809e9-398a-c6a0-a1b2-fcca86961f46/5059460350731.jpg/80x80bb.webp",
+        "length": "2:33"
+    },
+    {
+        "ranking": "45",
+        "title": "Ngozi",
+        "artist": "Crayon",
+        "album": "Trench to Triumph",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/da/0a/6e/da0a6e7d-769d-209b-c8f8-c9af3789b0ee/5059449136325.png/80x80bb.webp",
+        "length": "3:41"
+    },
+    {
+        "ranking": "46",
+        "title": "Ta Falar Ta Fazer",
+        "artist": "CEF Tanzy",
+        "album": "The Coach",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/28/a5/1d/28a51d0d-0b40-abc5-1e55-573855c74e8b/c8003.jpg/80x80bb.webp",
+        "length": "3:27"
+    },
+    {
+        "ranking": "47",
+        "title": "KANTE (feat. Fave)",
+        "artist": "Davido",
+        "album": "Timeless",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
+        "length": "3:14"
+    },
+    {
+        "ranking": "48",
+        "title": "Bloody Samaritan",
+        "artist": "Ayra Starr",
+        "album": "19 & Dangerous",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/38/7c/a2/387ca287-aa0f-074c-3b90-589fba5f7394/5059449022734.png/80x80bb.webp",
+        "length": "3:07"
+    },
+    {
+        "ranking": "49",
+        "title": "O Nosso Amor",
+        "artist": "Soraia Ramos",
+        "album": "O Nosso Amor - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/55/2b/d7/552bd7c7-3786-0aef-4fc9-418a04ad8bf1/cover.jpg/80x80bb.webp",
+        "length": "4:46"
+    },
+    {
+        "ranking": "50",
+        "title": "Terminator",
+        "artist": "Asake",
+        "album": "Mr. Money With The Vibe",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5e/4f/66/5e4f6644-a234-d037-609d-7ed53fd6c7f9/194690909856_cover.jpg/80x80bb.webp",
+        "length": "2:35"
+    },
+    {
+        "ranking": "51",
+        "title": "Peace Be Unto You (PBUY)",
+        "artist": "Asake",
+        "album": "Peace Be Unto You (PBUY) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7e/db/4f/7edb4fdc-007f-5de8-de1b-3e48effd169a/194690866432_cover.jpg/80x80bb.webp",
+        "length": "2:33"
+    },
+    {
+        "ranking": "52",
+        "title": "Elshadai Adonaih",
+        "artist": "Benjamin Dube",
+        "album": "Healing in His Presence",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/7b/17/4a/7b174a50-79a9-28bb-57c1-6258997504e8/6009691406751.jpg/80x80bb.webp",
+        "length": "3:01"
+    },
+    {
+        "ranking": "53",
+        "title": "Emiliana",
+        "artist": "CKay",
+        "album": "Emiliana - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0c/86/8d/0c868d5a-81f4-42dd-1ce2-f6569fee0585/190296332722.jpg/80x80bb.webp",
+        "length": "2:44"
+    },
+    {
+        "ranking": "54",
+        "title": "Bela",
+        "artist": "Djodje",
+        "album": "Bela - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/46/39/01/4639014f-5093-df21-e98f-60bdb8bf4f38/8445162208505.jpg/80x80bb.webp",
+        "length": "3:58"
+    },
+    {
+        "ranking": "55",
+        "title": "Organise",
+        "artist": "Asake",
+        "album": "Mr. Money With The Vibe",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5e/4f/66/5e4f6644-a234-d037-609d-7ed53fd6c7f9/194690909856_cover.jpg/80x80bb.webp",
+        "length": "2:03"
+    },
+    {
+        "ranking": "56",
+        "title": "You",
+        "artist": "Djodje",
+        "album": "You - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/01/38/04/0138042f-2f70-77a2-b833-9a495650ab20/8445162399388.jpg/80x80bb.webp",
+        "length": "3:15"
+    },
+    {
+        "ranking": "57",
+        "title": "woman",
+        "artist": "Omah Lay",
+        "album": "Boy Alone (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/a7/4d/13a74d60-f269-603c-a8ee-527c0daba041/093624841319_01.jpg/80x80bb.webp",
+        "length": "2:48"
+    },
+    {
+        "ranking": "58",
+        "title": "Amapiano",
+        "artist": "Asake",
+        "album": "Work Of Art",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cc/23/83/cc2383d9-eecc-f974-5f5b-d445c583acdb/197342233958_cover.jpg/80x80bb.webp",
+        "length": "2:45"
+    },
+    {
+        "ranking": "59",
         "title": "Splikan (feat. Karyna Gomes)",
         "artist": "As One 1820",
         "album": "Splikan (feat. Karyna Gomes) - Single",
@@ -504,7 +472,7 @@
         "length": "3:33"
     },
     {
-        "ranking": "64",
+        "ranking": "60",
         "title": "Petit génie (feat. Abou Debeing & Lossa)",
         "artist": "Jungeli",
         "album": "Petit génie (feat. Abou Debeing & Lossa) - Single",
@@ -512,12 +480,44 @@
         "length": "3:37"
     },
     {
-        "ranking": "65",
+        "ranking": "61",
+        "title": "NO COMPETITION (feat. Asake)",
+        "artist": "Davido",
+        "album": "Timeless",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
+        "length": "2:36"
+    },
+    {
+        "ranking": "62",
+        "title": "Épouse-moi",
+        "artist": "Dadju",
+        "album": "HÉRITAGE",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/dd/8d/5f/dd8d5f04-23bd-c8ca-a2ec-ffe2517d29a2/cover.jpg/80x80bb.webp",
+        "length": "4:20"
+    },
+    {
+        "ranking": "63",
         "title": "Meditate",
         "artist": "Klash",
         "album": "The Power of Silence",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6c/38/c0/6c38c0c0-09b1-a23d-94c2-00b75e61515d/198015834373.jpg/80x80bb.webp",
         "length": "3:16"
+    },
+    {
+        "ranking": "64",
+        "title": "Amore",
+        "artist": "Fally Ipupa",
+        "album": "Tokooos II",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f0/07/49/f00749ad-164a-5199-1695-5651874707fd/190295060473.jpg/80x80bb.webp",
+        "length": "2:51"
+    },
+    {
+        "ranking": "65",
+        "title": "Rhythm & Blues",
+        "artist": "Ayra Starr",
+        "album": "Rhythm & Blues - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6c/93/5a/6c935a01-7cf2-89e7-acd5-6da37ebe883a/23UM1IM04256.rgb.jpg/80x80bb.webp",
+        "length": "2:24"
     },
     {
         "ranking": "66",
@@ -529,30 +529,6 @@
     },
     {
         "ranking": "67",
-        "title": "AWAY",
-        "artist": "Davido",
-        "album": "Timeless",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
-        "length": "2:33"
-    },
-    {
-        "ranking": "68",
-        "title": "Volume No Maximo",
-        "artist": "CEF Tanzy",
-        "album": "The Coach",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/28/a5/1d/28a51d0d-0b40-abc5-1e55-573855c74e8b/c8003.jpg/80x80bb.webp",
-        "length": "2:50"
-    },
-    {
-        "ranking": "69",
-        "title": "Épouse-moi",
-        "artist": "Dadju",
-        "album": "HÉRITAGE",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/dd/8d/5f/dd8d5f04-23bd-c8ca-a2ec-ffe2517d29a2/cover.jpg/80x80bb.webp",
-        "length": "4:20"
-    },
-    {
-        "ranking": "70",
         "title": "Suleban",
         "artist": "William Araujo",
         "album": "RED",
@@ -560,23 +536,23 @@
         "length": "3:20"
     },
     {
-        "ranking": "71",
-        "title": "Bu Ka Speraba",
-        "artist": "Djodje",
-        "album": "Bu Ka Speraba - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/09/b4/51/09b45194-5569-0170-902d-b762912dd5b5/8445162888363.jpg/80x80bb.webp",
-        "length": "3:15"
+        "ranking": "68",
+        "title": "AWAY",
+        "artist": "Davido",
+        "album": "Timeless",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
+        "length": "2:33"
     },
     {
-        "ranking": "72",
-        "title": "Amore",
-        "artist": "Fally Ipupa",
-        "album": "Tokooos II",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f0/07/49/f00749ad-164a-5199-1695-5651874707fd/190295060473.jpg/80x80bb.webp",
-        "length": "2:51"
+        "ranking": "69",
+        "title": "Volume No Maximo",
+        "artist": "CEF Tanzy",
+        "album": "The Coach",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/28/a5/1d/28a51d0d-0b40-abc5-1e55-573855c74e8b/c8003.jpg/80x80bb.webp",
+        "length": "2:50"
     },
     {
-        "ranking": "73",
+        "ranking": "70",
         "title": "God's Plan",
         "artist": "Drake",
         "album": "Scorpion",
@@ -584,12 +560,36 @@
         "length": "3:18"
     },
     {
-        "ranking": "74",
+        "ranking": "71",
+        "title": "Hmmm (feat. Davido)",
+        "artist": "Chris Brown",
+        "album": "11:11 (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/5c/c1/2d5cc1a6-86ce-ee16-5985-807f2fffa3cb/196871957267.jpg/80x80bb.webp",
+        "length": "2:56"
+    },
+    {
+        "ranking": "72",
+        "title": "Bu Ka Speraba",
+        "artist": "Djodje",
+        "album": "Bu Ka Speraba - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/09/b4/51/09b45194-5569-0170-902d-b762912dd5b5/8445162888363.jpg/80x80bb.webp",
+        "length": "3:15"
+    },
+    {
+        "ranking": "73",
         "title": "Versos & Poesias #4: Céu Azul (feat. Penelas Sidney, Chelsea Dinorath, LordCkOficial, Queen Marcy, Sheila Da Cunha, LilBoy Bruce, Mary J & Fábio S)",
         "artist": "Black Spygo",
         "album": "Versos & Poesias #4: Céu Azul (feat. Penelas Sidney, Chelsea Dinorath, LordCkOficial, Queen Marcy, Sheila Da Cunha, LilBoy Bruce, Mary J & Fábio S) - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ea/51/68/ea51685a-69fb-fd1f-eccc-41ba3a39a327/22UMGIM81778.rgb.jpg/80x80bb.webp",
         "length": "6:06"
+    },
+    {
+        "ranking": "74",
+        "title": "Big 7",
+        "artist": "Burna Boy",
+        "album": "I Told Them...",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e9/3e/3e/e93e3e48-6f68-c368-83b4-d15d54fe53c2/075679673787.jpg/80x80bb.webp",
+        "length": "2:23"
     },
     {
         "ranking": "75",
@@ -617,30 +617,6 @@
     },
     {
         "ranking": "78",
-        "title": "Hmmm (feat. Davido)",
-        "artist": "Chris Brown",
-        "album": "11:11 (Deluxe)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/5c/c1/2d5cc1a6-86ce-ee16-5985-807f2fffa3cb/196871957267.jpg/80x80bb.webp",
-        "length": "2:56"
-    },
-    {
-        "ranking": "79",
-        "title": "Big 7",
-        "artist": "Burna Boy",
-        "album": "I Told Them...",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e9/3e/3e/e93e3e48-6f68-c368-83b4-d15d54fe53c2/075679673787.jpg/80x80bb.webp",
-        "length": "2:23"
-    },
-    {
-        "ranking": "80",
-        "title": "Vou Fazer Bonito",
-        "artist": "CEF Tanzy",
-        "album": "The Coach",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/55/0f/de/550fdead-9d5c-fe32-2199-40f500b07b72/196292848342.jpg/80x80bb.webp",
-        "length": "3:12"
-    },
-    {
-        "ranking": "81",
         "title": "Cofres do Céu",
         "artist": "C4 pedro",
         "album": "Cofres do Céu - Single",
@@ -648,7 +624,15 @@
         "length": "3:18"
     },
     {
-        "ranking": "82",
+        "ranking": "79",
+        "title": "Vou Fazer Bonito",
+        "artist": "CEF Tanzy",
+        "album": "The Coach",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/55/0f/de/550fdead-9d5c-fe32-2199-40f500b07b72/196292848342.jpg/80x80bb.webp",
+        "length": "3:12"
+    },
+    {
+        "ranking": "80",
         "title": "Ye Ye",
         "artist": "Gerilson Insrael",
         "album": "Veracidade",
@@ -656,7 +640,7 @@
         "length": "5:02"
     },
     {
-        "ranking": "83",
+        "ranking": "81",
         "title": "Mente Confusa",
         "artist": "3 Finer",
         "album": "Mente Confusa - Single",
@@ -664,7 +648,7 @@
         "length": "2:44"
     },
     {
-        "ranking": "84",
+        "ranking": "82",
         "title": "Sensational (feat. Davido & Lojay)",
         "artist": "Chris Brown",
         "album": "Sensational (feat. Davido & Lojay) - Single",
@@ -672,7 +656,7 @@
         "length": "3:51"
     },
     {
-        "ranking": "85",
+        "ranking": "83",
         "title": "Still D.R.E. (feat. Snoop Dogg)",
         "artist": "Dr. Dre",
         "album": "2001",
@@ -680,7 +664,7 @@
         "length": "4:30"
     },
     {
-        "ranking": "86",
+        "ranking": "84",
         "title": "Jeito Dela",
         "artist": "Landrick",
         "album": "Jeito Dela - Single",
@@ -688,12 +672,28 @@
         "length": "3:28"
     },
     {
-        "ranking": "87",
+        "ranking": "85",
+        "title": "Bobo",
+        "artist": "CEF Tanzy",
+        "album": "Bairro Star",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/12/a0/ed/12a0edea-3a14-bdc8-1eaf-33371a7694e4/c8m005.jpg/80x80bb.webp",
+        "length": "2:41"
+    },
+    {
+        "ranking": "86",
         "title": "Já Não Cabe",
         "artist": "Anna Joyce",
         "album": "Anna",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c7/9c/dd/c79cddff-7430-1660-13c5-9faecb610851/cover.jpg/80x80bb.webp",
         "length": "3:51"
+    },
+    {
+        "ranking": "87",
+        "title": "Amante fiel",
+        "artist": "CEF Tanzy",
+        "album": "Bairro Star",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/12/a0/ed/12a0edea-3a14-bdc8-1eaf-33371a7694e4/c8m005.jpg/80x80bb.webp",
+        "length": "2:48"
     },
     {
         "ranking": "88",
@@ -713,19 +713,19 @@
     },
     {
         "ranking": "90",
-        "title": "Bobo",
-        "artist": "CEF Tanzy",
-        "album": "Bairro Star",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/12/a0/ed/12a0edea-3a14-bdc8-1eaf-33371a7694e4/c8m005.jpg/80x80bb.webp",
-        "length": "2:41"
-    },
-    {
-        "ranking": "91",
         "title": "Pedrinha",
         "artist": "Danni Gato",
         "album": "Pedrinha - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/96/65/6b9665fc-b811-3e64-2934-7a194f845a4f/8447053219218.jpg/80x80bb.webp",
         "length": "2:56"
+    },
+    {
+        "ranking": "91",
+        "title": "Nha Terra",
+        "artist": "Soraia Ramos",
+        "album": "Nha Terra - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/03/b3/36/03b33620-4290-b9dc-8a86-265d02614c1a/cover.jpg/80x80bb.webp",
+        "length": "3:29"
     },
     {
         "ranking": "92",
@@ -737,14 +737,6 @@
     },
     {
         "ranking": "93",
-        "title": "Nha Terra",
-        "artist": "Soraia Ramos",
-        "album": "Nha Terra - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/03/b3/36/03b33620-4290-b9dc-8a86-265d02614c1a/cover.jpg/80x80bb.webp",
-        "length": "3:29"
-    },
-    {
-        "ranking": "94",
         "title": "Commas",
         "artist": "Ayra Starr",
         "album": "The Year I Turned 21",
@@ -752,12 +744,20 @@
         "length": "2:37"
     },
     {
-        "ranking": "95",
+        "ranking": "94",
         "title": "Africana",
         "artist": "Gerilson Insrael",
         "album": "Veracidade",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5f/d7/81/5fd781bd-67e8-d801-b8a1-947f1d7fb197/859747240336_cover.jpg/80x80bb.webp",
         "length": "3:20"
+    },
+    {
+        "ranking": "95",
+        "title": "N'ka Misti Discola",
+        "artist": "Klash",
+        "album": "The Power of Silence",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6c/38/c0/6c38c0c0-09b1-a23d-94c2-00b75e61515d/198015834373.jpg/80x80bb.webp",
+        "length": "2:27"
     },
     {
         "ranking": "96",
@@ -769,14 +769,6 @@
     },
     {
         "ranking": "97",
-        "title": "N'ka Misti Discola",
-        "artist": "Klash",
-        "album": "The Power of Silence",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6c/38/c0/6c38c0c0-09b1-a23d-94c2-00b75e61515d/198015834373.jpg/80x80bb.webp",
-        "length": "2:27"
-    },
-    {
-        "ranking": "98",
         "title": "All My Life (feat. J. Cole)",
         "artist": "Lil Durk",
         "album": "Almost Healed",
@@ -784,12 +776,20 @@
         "length": "3:43"
     },
     {
-        "ranking": "99",
+        "ranking": "98",
         "title": "Juste une fois (feat. M. Pokora)",
         "artist": "Fally Ipupa",
         "album": "Tokooos II",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f0/07/49/f00749ad-164a-5199-1695-5651874707fd/190295060473.jpg/80x80bb.webp",
         "length": "3:16"
+    },
+    {
+        "ranking": "99",
+        "title": "In da Club",
+        "artist": "50 Cent",
+        "album": "Get Rich or Die Tryin' (Bonus Track Version)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/51/a6/c9/51a6c989-f81d-42b3-c94c-e889a7c07885/06UMGIM15592.rgb.jpg/80x80bb.webp",
+        "length": "3:13"
     },
     {
         "ranking": "100",

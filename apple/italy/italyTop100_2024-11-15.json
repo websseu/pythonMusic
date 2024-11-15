@@ -57,14 +57,6 @@
     },
     {
         "ranking": "8",
-        "title": "Feeling",
-        "artist": "Elodie",
-        "album": "Feeling - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/da/1a/c9/da1ac9c7-36cc-1822-b15e-94f721d47d93/24UM1IM21127.rgb.jpg/80x80bb.webp",
-        "length": "2:40"
-    },
-    {
-        "ranking": "9",
         "title": "Si Antes Te Hubiera Conocido",
         "artist": "KAROL G",
         "album": "Si Antes Te Hubiera Conocido - Single",
@@ -72,12 +64,20 @@
         "length": "3:15"
     },
     {
-        "ranking": "10",
+        "ranking": "9",
         "title": "Scarabocchi",
         "artist": "Olly",
         "album": "TUTTA VITA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/f3/81/30f381bd-9698-5c02-0aa0-10f8ac2aaab1/196872446982.jpg/80x80bb.webp",
         "length": "3:00"
+    },
+    {
+        "ranking": "10",
+        "title": "Feeling",
+        "artist": "Elodie",
+        "album": "Feeling - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/da/1a/c9/da1ac9c7-36cc-1822-b15e-94f721d47d93/24UM1IM21127.rgb.jpg/80x80bb.webp",
+        "length": "2:40"
     },
     {
         "ranking": "11",
@@ -113,11 +113,11 @@
     },
     {
         "ranking": "15",
-        "title": "BUIO DAVANTI",
-        "artist": "Lazza",
-        "album": "LOCURA",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/62/ec/aa62ec44-54f7-7f6c-7ad0-134de1a684ef/24UMGIM94964.rgb.jpg/80x80bb.webp",
-        "length": "3:09"
+        "title": "Niente Panico",
+        "artist": "Ghali",
+        "album": "Niente Panico - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/a9/83/60a983b1-92a4-fb85-c9af-a25d4c096631/5021732506443.jpg/80x80bb.webp",
+        "length": "3:01"
     },
     {
         "ranking": "16",
@@ -129,22 +129,14 @@
     },
     {
         "ranking": "17",
-        "title": "Niente Panico",
-        "artist": "Ghali",
-        "album": "Niente Panico - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/a9/83/60a983b1-92a4-fb85-c9af-a25d4c096631/5021732506443.jpg/80x80bb.webp",
-        "length": "3:01"
+        "title": "BUIO DAVANTI",
+        "artist": "Lazza",
+        "album": "LOCURA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/62/ec/aa62ec44-54f7-7f6c-7ad0-134de1a684ef/24UMGIM94964.rgb.jpg/80x80bb.webp",
+        "length": "3:09"
     },
     {
         "ranking": "18",
-        "title": "Donna",
-        "artist": "Kid Yugi",
-        "album": "Donna - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/95/c1/0c/95c10c21-1179-a448-ca24-9cd96214b4ad/24UM1IM11486.rgb.jpg/80x80bb.webp",
-        "length": "2:59"
-    },
-    {
-        "ranking": "19",
         "title": "Romantico Ma Muori",
         "artist": "Pinguini Tattici Nucleari",
         "album": "Romantico Ma Muori - Single",
@@ -152,12 +144,20 @@
         "length": "2:46"
     },
     {
-        "ranking": "20",
+        "ranking": "19",
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "album": "Die With A Smile - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
         "length": "4:11"
+    },
+    {
+        "ranking": "20",
+        "title": "Donna",
+        "artist": "Kid Yugi",
+        "album": "Donna - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/95/c1/0c/95c10c21-1179-a448-ca24-9cd96214b4ad/24UM1IM11486.rgb.jpg/80x80bb.webp",
+        "length": "2:59"
     },
     {
         "ranking": "21",
@@ -177,14 +177,6 @@
     },
     {
         "ranking": "23",
-        "title": "Entro nel posto",
-        "artist": "Night Skinny",
-        "album": "Containers",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/2c/9f/862c9fff-3244-0287-b7dd-cef2ed31ef05/24UM1IM08618.rgb.jpg/80x80bb.webp",
-        "length": "2:59"
-    },
-    {
-        "ranking": "24",
         "title": "RAGNI",
         "artist": "Tananai",
         "album": "RAGNI - Single",
@@ -192,15 +184,15 @@
         "length": "3:30"
     },
     {
-        "ranking": "25",
-        "title": "São Paulo",
-        "artist": "The Weeknd",
-        "album": "São Paulo - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/4a/64/934a64d3-2665-72ef-e5b4-29d61fd3707a/24UM1IM21420.rgb.jpg/80x80bb.webp",
-        "length": "5:01"
+        "ranking": "24",
+        "title": "Entro nel posto",
+        "artist": "Night Skinny",
+        "album": "Containers",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/2c/9f/862c9fff-3244-0287-b7dd-cef2ed31ef05/24UM1IM08618.rgb.jpg/80x80bb.webp",
+        "length": "2:59"
     },
     {
-        "ranking": "26",
+        "ranking": "25",
         "title": "100 MESSAGGI",
         "artist": "Lazza",
         "album": "100 MESSAGGI - Single",
@@ -208,12 +200,20 @@
         "length": "4:04"
     },
     {
-        "ranking": "27",
+        "ranking": "26",
         "title": "Tu Me Quieres (Prod. by Higashi x Roberto Ferrante)",
         "artist": "Baby Gang",
         "album": "Tu Me Quieres - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/d5/7d/96d57dee-1ac1-8d99-9803-ec2befa7b06a/812429014069.png/80x80bb.webp",
         "length": "3:34"
+    },
+    {
+        "ranking": "27",
+        "title": "São Paulo",
+        "artist": "The Weeknd",
+        "album": "São Paulo - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/4a/64/934a64d3-2665-72ef-e5b4-29d61fd3707a/24UM1IM21420.rgb.jpg/80x80bb.webp",
+        "length": "5:01"
     },
     {
         "ranking": "28",
@@ -233,14 +233,6 @@
     },
     {
         "ranking": "30",
-        "title": "IO T’O GIUR’ (feat. Sfera Ebbasta)",
-        "artist": "Geolier",
-        "album": "DIO LO SA",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/7a/59/9d7a59d1-bc66-3e7f-9e83-ff7c744bfa7f/5021732285935.jpg/80x80bb.webp",
-        "length": "3:20"
-    },
-    {
-        "ranking": "31",
         "title": "30ºC",
         "artist": "ANNA",
         "album": "30ºC - Single",
@@ -248,15 +240,15 @@
         "length": "2:22"
     },
     {
-        "ranking": "32",
-        "title": "GHETTO SUPERSTAR",
-        "artist": "Lazza",
-        "album": "LOCURA",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/62/ec/aa62ec44-54f7-7f6c-7ad0-134de1a684ef/24UMGIM94964.rgb.jpg/80x80bb.webp",
-        "length": "4:01"
+        "ranking": "31",
+        "title": "IO T’O GIUR’ (feat. Sfera Ebbasta)",
+        "artist": "Geolier",
+        "album": "DIO LO SA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/7a/59/9d7a59d1-bc66-3e7f-9e83-ff7c744bfa7f/5021732285935.jpg/80x80bb.webp",
+        "length": "3:20"
     },
     {
-        "ranking": "33",
+        "ranking": "32",
         "title": "ZERI IN PIÙ (LOCURA)",
         "artist": "Lazza",
         "album": "LOCURA",
@@ -264,15 +256,15 @@
         "length": "4:07"
     },
     {
-        "ranking": "34",
-        "title": "STORIE BREVI",
-        "artist": "Tananai",
-        "album": "STORIE BREVI - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/98/c8/a0/98c8a068-b489-8936-6f93-f6b0b3c0431c/5021732396334.jpg/80x80bb.webp",
-        "length": "2:55"
+        "ranking": "33",
+        "title": "GHETTO SUPERSTAR",
+        "artist": "Lazza",
+        "album": "LOCURA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/62/ec/aa62ec44-54f7-7f6c-7ad0-134de1a684ef/24UMGIM94964.rgb.jpg/80x80bb.webp",
+        "length": "4:01"
     },
     {
-        "ranking": "35",
+        "ranking": "34",
         "title": "SESSO E SAMBA",
         "artist": "Tony Effe",
         "album": "ICON",
@@ -280,15 +272,15 @@
         "length": "2:47"
     },
     {
-        "ranking": "36",
-        "title": "Solo Dio sa",
-        "artist": "Night Skinny",
-        "album": "Containers",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/2c/9f/862c9fff-3244-0287-b7dd-cef2ed31ef05/24UM1IM08618.rgb.jpg/80x80bb.webp",
-        "length": "3:30"
+        "ranking": "35",
+        "title": "STORIE BREVI",
+        "artist": "Tananai",
+        "album": "STORIE BREVI - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/98/c8/a0/98c8a068-b489-8936-6f93-f6b0b3c0431c/5021732396334.jpg/80x80bb.webp",
+        "length": "2:55"
     },
     {
-        "ranking": "37",
+        "ranking": "36",
         "title": "Born With a Broken Heart",
         "artist": "Damiano David",
         "album": "Born With a Broken Heart - Single",
@@ -296,15 +288,15 @@
         "length": "3:28"
     },
     {
-        "ranking": "38",
-        "title": "GRANDINE (feat. Mew)",
-        "artist": "Holden",
-        "album": "GRANDINE (feat. Mew) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/0a/cb/f60acb65-b48e-53e9-1bdb-e1ee9a0bd3bb/5034644227092.jpg/80x80bb.webp",
-        "length": "3:07"
+        "ranking": "37",
+        "title": "Solo Dio sa",
+        "artist": "Night Skinny",
+        "album": "Containers",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/2c/9f/862c9fff-3244-0287-b7dd-cef2ed31ef05/24UM1IM08618.rgb.jpg/80x80bb.webp",
+        "length": "3:30"
     },
     {
-        "ranking": "39",
+        "ranking": "38",
         "title": "EL PIBE DE ORO",
         "artist": "Geolier",
         "album": "EL PIBE DE ORO - Single",
@@ -312,39 +304,7 @@
         "length": "2:35"
     },
     {
-        "ranking": "40",
-        "title": "L'ULTIMA POESIA",
-        "artist": "Geolier",
-        "album": "L'ULTIMA POESIA - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/fc/2b/ca/fc2bca6a-6819-f7f2-4053-b664fb254278/5021732261359.jpg/80x80bb.webp",
-        "length": "3:48"
-    },
-    {
-        "ranking": "41",
-        "title": "VRP",
-        "artist": "Simba La Rue",
-        "album": "VRP - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/b3/26/55b32667-f70e-3118-3ba0-ad1882cbe68d/5021732498915.jpg/80x80bb.webp",
-        "length": "2:28"
-    },
-    {
-        "ranking": "42",
-        "title": "Nella trap",
-        "artist": "Night Skinny",
-        "album": "Containers",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/2c/9f/862c9fff-3244-0287-b7dd-cef2ed31ef05/24UM1IM08618.rgb.jpg/80x80bb.webp",
-        "length": "2:20"
-    },
-    {
-        "ranking": "43",
-        "title": "Gata Only",
-        "artist": "FloyyMenor",
-        "album": "Gata Only - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ca/4e/0f/ca4e0f11-2cbc-7aec-b2e4-53f5fac7cb0e/198309012715-copy-6dfc57c0.png/80x80bb.webp",
-        "length": "3:42"
-    },
-    {
-        "ranking": "44",
+        "ranking": "39",
         "title": "Timeless",
         "artist": "The Weeknd",
         "album": "Timeless - Single",
@@ -352,55 +312,23 @@
         "length": "4:16"
     },
     {
-        "ranking": "45",
-        "title": "BBE",
-        "artist": "ANNA",
-        "album": "BBE - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d2/a2/b5/d2a2b55a-dca1-4393-cd4b-c0bf59214d67/24UMGIM52145.rgb.jpg/80x80bb.webp",
-        "length": "3:18"
+        "ranking": "40",
+        "title": "GRANDINE (feat. Mew)",
+        "artist": "Holden",
+        "album": "GRANDINE (feat. Mew) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/0a/cb/f60acb65-b48e-53e9-1bdb-e1ee9a0bd3bb/5034644227092.jpg/80x80bb.webp",
+        "length": "3:07"
     },
     {
-        "ranking": "46",
-        "title": "Borse Hermès",
-        "artist": "Capo Plaza",
-        "album": "Borse Hermès - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/ef/78/a2ef780d-ad3b-72eb-51e0-0550e135d82e/5021732522672.jpg/80x80bb.webp",
-        "length": "2:40"
+        "ranking": "41",
+        "title": "L'ULTIMA POESIA",
+        "artist": "Geolier",
+        "album": "L'ULTIMA POESIA - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/fc/2b/ca/fc2bca6a-6819-f7f2-4053-b664fb254278/5021732261359.jpg/80x80bb.webp",
+        "length": "3:48"
     },
     {
-        "ranking": "47",
-        "title": "-3 (PERDERE IL VOLO)",
-        "artist": "Lazza",
-        "album": "LOCURA",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/62/ec/aa62ec44-54f7-7f6c-7ad0-134de1a684ef/24UMGIM94964.rgb.jpg/80x80bb.webp",
-        "length": "2:59"
-    },
-    {
-        "ranking": "48",
-        "title": "Brivido (feat. Marracash)",
-        "artist": "Guè",
-        "album": "Bravo ragazzo (Royal Edition)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0e/ae/18/0eae18ea-6010-47a8-9ab6-d2399a6a8467/00602537643424.rgb.jpg/80x80bb.webp",
-        "length": "3:47"
-    },
-    {
-        "ranking": "49",
-        "title": "APT.",
-        "artist": "ROSÉ",
-        "album": "APT. - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "length": "2:49"
-    },
-    {
-        "ranking": "50",
-        "title": "RA TA TA",
-        "artist": "Mahmood",
-        "album": "RA TA TA - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/f4/d1/eaf4d162-5b1f-3dd3-57db-37482f78a06c/24UMGIM61977.rgb.jpg/80x80bb.webp",
-        "length": "2:32"
-    },
-    {
-        "ranking": "51",
+        "ranking": "42",
         "title": "COME UN TUONO (feat. Guè)",
         "artist": "Rose Villain",
         "album": "RADIO SAKURA",
@@ -408,55 +336,23 @@
         "length": "2:55"
     },
     {
-        "ranking": "52",
-        "title": "I LOVE IT",
-        "artist": "ANNA",
-        "album": "VERA BADDIE",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/93/31/ba9331ff-6726-3f27-74b2-c9afce9dd45e/24UMGIM63142.rgb.jpg/80x80bb.webp",
-        "length": "3:12"
+        "ranking": "43",
+        "title": "VRP",
+        "artist": "Simba La Rue",
+        "album": "VRP - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/b3/26/55b32667-f70e-3118-3ba0-ad1882cbe68d/5021732498915.jpg/80x80bb.webp",
+        "length": "2:28"
     },
     {
-        "ranking": "53",
-        "title": "NIENTE DI MALE",
-        "artist": "Giorgia",
-        "album": "NIENTE DI MALE - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/14/b3/5e14b3a2-53ca-1b81-fa55-fceb8f9d5b77/196872548259.jpg/80x80bb.webp",
-        "length": "3:37"
+        "ranking": "44",
+        "title": "Gata Only",
+        "artist": "FloyyMenor",
+        "album": "Gata Only - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ca/4e/0f/ca4e0f11-2cbc-7aec-b2e4-53f5fac7cb0e/198309012715-copy-6dfc57c0.png/80x80bb.webp",
+        "length": "3:42"
     },
     {
-        "ranking": "54",
-        "title": "Diablo",
-        "artist": "Kid Yugi",
-        "album": "Tutti i Nomi del Diavolo",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/a5/23/1da523a6-2ed1-10d2-a615-a5318117cc40/24UM1IM17124.rgb.jpg/80x80bb.webp",
-        "length": "2:24"
-    },
-    {
-        "ranking": "55",
-        "title": "ALTROVE",
-        "artist": "Ultimo",
-        "album": "ALTROVE - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e7/2a/1e/e72a1e2c-920f-5667-7a52-1d4e3bb71d45/cover.jpg/80x80bb.webp",
-        "length": "3:25"
-    },
-    {
-        "ranking": "56",
-        "title": "Si mette male",
-        "artist": "Alessandra Amoroso",
-        "album": "Si mette male - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/f2/7f/47f27f81-cac2-b7cb-7e5e-a9443d099860/196872567397.jpg/80x80bb.webp",
-        "length": "3:13"
-    },
-    {
-        "ranking": "57",
-        "title": "MMH (feat. Rose Villain)",
-        "artist": "Fred De Palma",
-        "album": "MMH (feat. Rose Villain) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9a/4d/22/9a4d22ec-1541-d6c7-744b-d03b92981696/5021732519023.jpg/80x80bb.webp",
-        "length": "3:07"
-    },
-    {
-        "ranking": "58",
+        "ranking": "45",
         "title": "EPISODIO D'AMORE",
         "artist": "Geolier",
         "album": "DIO LO SA",
@@ -464,7 +360,103 @@
         "length": "3:16"
     },
     {
-        "ranking": "59",
+        "ranking": "46",
+        "title": "Nella trap",
+        "artist": "Night Skinny",
+        "album": "Containers",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/2c/9f/862c9fff-3244-0287-b7dd-cef2ed31ef05/24UM1IM08618.rgb.jpg/80x80bb.webp",
+        "length": "2:20"
+    },
+    {
+        "ranking": "47",
+        "title": "Borse Hermès",
+        "artist": "Capo Plaza",
+        "album": "FERITE (Deluxe Edition)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/70/ac/76/70ac76b3-70c6-01b0-3c3e-5ab3da92085e/5021732529282.jpg/80x80bb.webp",
+        "length": "2:40"
+    },
+    {
+        "ranking": "48",
+        "title": "BBE",
+        "artist": "ANNA",
+        "album": "BBE - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d2/a2/b5/d2a2b55a-dca1-4393-cd4b-c0bf59214d67/24UMGIM52145.rgb.jpg/80x80bb.webp",
+        "length": "3:18"
+    },
+    {
+        "ranking": "49",
+        "title": "MMH (feat. Rose Villain)",
+        "artist": "Fred De Palma",
+        "album": "MMH (feat. Rose Villain) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9a/4d/22/9a4d22ec-1541-d6c7-744b-d03b92981696/5021732519023.jpg/80x80bb.webp",
+        "length": "3:07"
+    },
+    {
+        "ranking": "50",
+        "title": "APT.",
+        "artist": "ROSÉ",
+        "album": "APT. - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
+        "ranking": "51",
+        "title": "Brivido (feat. Marracash)",
+        "artist": "Guè",
+        "album": "Bravo ragazzo (Royal Edition)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0e/ae/18/0eae18ea-6010-47a8-9ab6-d2399a6a8467/00602537643424.rgb.jpg/80x80bb.webp",
+        "length": "3:47"
+    },
+    {
+        "ranking": "52",
+        "title": "-3 (PERDERE IL VOLO)",
+        "artist": "Lazza",
+        "album": "LOCURA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/62/ec/aa62ec44-54f7-7f6c-7ad0-134de1a684ef/24UMGIM94964.rgb.jpg/80x80bb.webp",
+        "length": "2:59"
+    },
+    {
+        "ranking": "53",
+        "title": "RA TA TA",
+        "artist": "Mahmood",
+        "album": "RA TA TA - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/f4/d1/eaf4d162-5b1f-3dd3-57db-37482f78a06c/24UMGIM61977.rgb.jpg/80x80bb.webp",
+        "length": "2:32"
+    },
+    {
+        "ranking": "54",
+        "title": "NIENTE DI MALE",
+        "artist": "Giorgia",
+        "album": "NIENTE DI MALE - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/14/b3/5e14b3a2-53ca-1b81-fa55-fceb8f9d5b77/196872548259.jpg/80x80bb.webp",
+        "length": "3:37"
+    },
+    {
+        "ranking": "55",
+        "title": "I LOVE IT",
+        "artist": "ANNA",
+        "album": "VERA BADDIE",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/93/31/ba9331ff-6726-3f27-74b2-c9afce9dd45e/24UMGIM63142.rgb.jpg/80x80bb.webp",
+        "length": "3:12"
+    },
+    {
+        "ranking": "56",
+        "title": "ALTROVE",
+        "artist": "Ultimo",
+        "album": "ALTROVE - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e7/2a/1e/e72a1e2c-920f-5667-7a52-1d4e3bb71d45/cover.jpg/80x80bb.webp",
+        "length": "3:25"
+    },
+    {
+        "ranking": "57",
+        "title": "Si mette male",
+        "artist": "Alessandra Amoroso",
+        "album": "Si mette male - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/f2/7f/47f27f81-cac2-b7cb-7e5e-a9443d099860/196872567397.jpg/80x80bb.webp",
+        "length": "3:13"
+    },
+    {
+        "ranking": "58",
         "title": "WAG1 (feat. Sfera Ebbasta & Tedua)",
         "artist": "Simba La Rue",
         "album": "ESCI DAL TUNNEL",
@@ -472,7 +464,7 @@
         "length": "3:05"
     },
     {
-        "ranking": "60",
+        "ranking": "59",
         "title": "Tessera sanitaria",
         "artist": "Night Skinny",
         "album": "Containers",
@@ -480,12 +472,20 @@
         "length": "3:24"
     },
     {
+        "ranking": "60",
+        "title": "HELLO KITTY",
+        "artist": "ANNA",
+        "album": "VERA BADDIE",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/93/31/ba9331ff-6726-3f27-74b2-c9afce9dd45e/24UMGIM63142.rgb.jpg/80x80bb.webp",
+        "length": "2:29"
+    },
+    {
         "ranking": "61",
-        "title": "Polvere (feat. Tony Boy)",
-        "artist": "Shiva",
-        "album": "Milano Angels",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/e5/ba/afe5babf-3102-8ee2-9ecb-3375b9d0938b/196872118391.jpg/80x80bb.webp",
-        "length": "2:47"
+        "title": "Q U E V A S H A C E R H O Y ?",
+        "artist": "Omar Courtz",
+        "album": "PRIMERA MUSA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/0f/48/300f48fd-f560-8aaf-17c1-00a4531ad61a/198588847695.jpg/80x80bb.webp",
+        "length": "3:44"
     },
     {
         "ranking": "62",
@@ -497,27 +497,27 @@
     },
     {
         "ranking": "63",
-        "title": "HELLO KITTY",
-        "artist": "ANNA",
-        "album": "VERA BADDIE",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/93/31/ba9331ff-6726-3f27-74b2-c9afce9dd45e/24UMGIM63142.rgb.jpg/80x80bb.webp",
-        "length": "2:29"
+        "title": "Diablo",
+        "artist": "Kid Yugi",
+        "album": "Tutti i Nomi del Diavolo",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/a5/23/1da523a6-2ed1-10d2-a615-a5318117cc40/24UM1IM17124.rgb.jpg/80x80bb.webp",
+        "length": "2:24"
     },
     {
         "ranking": "64",
-        "title": "Q U E V A S H A C E R H O Y ?",
-        "artist": "Omar Courtz",
-        "album": "PRIMERA MUSA",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/0f/48/300f48fd-f560-8aaf-17c1-00a4531ad61a/198588847695.jpg/80x80bb.webp",
-        "length": "3:44"
+        "title": "Good Luck, Babe!",
+        "artist": "Chappell Roan",
+        "album": "Good Luck, Babe! - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/80x80bb.webp",
+        "length": "3:38"
     },
     {
         "ranking": "65",
-        "title": "Disease",
-        "artist": "Lady Gaga",
-        "album": "Disease - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/2b/dc/c72bdc7a-7014-e5df-a106-583074c0affa/24UM1IM12462.rgb.jpg/80x80bb.webp",
-        "length": "3:49"
+        "title": "CRUDELIA - I nervi",
+        "artist": "Marracash",
+        "album": "Persona",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b9/33/ea/b933eaf3-104c-5aa9-f62f-76227849e669/19UMGIM91312.rgb.jpg/80x80bb.webp",
+        "length": "3:50"
     },
     {
         "ranking": "66",
@@ -529,22 +529,30 @@
     },
     {
         "ranking": "67",
-        "title": "Good Luck, Babe!",
-        "artist": "Chappell Roan",
-        "album": "Good Luck, Babe! - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/80x80bb.webp",
-        "length": "3:38"
+        "title": "Polvere (feat. Tony Boy)",
+        "artist": "Shiva",
+        "album": "Milano Angels",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/e5/ba/afe5babf-3102-8ee2-9ecb-3375b9d0938b/196872118391.jpg/80x80bb.webp",
+        "length": "2:47"
     },
     {
         "ranking": "68",
-        "title": "CRUDELIA - I nervi",
-        "artist": "Marracash",
-        "album": "Persona",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b9/33/ea/b933eaf3-104c-5aa9-f62f-76227849e669/19UMGIM91312.rgb.jpg/80x80bb.webp",
-        "length": "3:50"
+        "title": "Disease",
+        "artist": "Lady Gaga",
+        "album": "Disease - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/2b/dc/c72bdc7a-7014-e5df-a106-583074c0affa/24UM1IM12462.rgb.jpg/80x80bb.webp",
+        "length": "3:49"
     },
     {
         "ranking": "69",
+        "title": "DEGENERE (feat. benny blanco)",
+        "artist": "Myke Towers",
+        "album": "LA PANTERA NEGRA (DELUXE)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/bd/f0/76bdf003-0dd5-1ef9-3a77-92d1b15600d7/5021732518545.jpg/80x80bb.webp",
+        "length": "2:10"
+    },
+    {
+        "ranking": "70",
         "title": "Beatrice (feat. Annalisa)",
         "artist": "Tedua",
         "album": "La Divina Commedia (Deluxe)",
@@ -552,28 +560,20 @@
         "length": "3:03"
     },
     {
-        "ranking": "70",
-        "title": "MILANO TESTAROSSA (feat. Guè)",
-        "artist": "Artie 5ive",
-        "album": "MILANO TESTAROSSA (feat. Guè) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/a1/8f/05a18fa3-ef3c-071d-4317-38f40ca29ecc/5021732438867.jpg/80x80bb.webp",
-        "length": "3:18"
-    },
-    {
         "ranking": "71",
-        "title": "ABITUDINE",
-        "artist": "Lazza",
-        "album": "LOCURA",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/62/ec/aa62ec44-54f7-7f6c-7ad0-134de1a684ef/24UMGIM94964.rgb.jpg/80x80bb.webp",
-        "length": "3:09"
-    },
-    {
-        "ranking": "72",
         "title": "Bad Boy (feat. Shiva, Capo Plaza & AVA)",
         "artist": "Finesse",
         "album": "Bad Boy (feat. Shiva, Capo Plaza & AVA) - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/34/87/e23487ae-dc91-88fe-6b20-8bd5e154fd86/196872232387.jpg/80x80bb.webp",
         "length": "2:40"
+    },
+    {
+        "ranking": "72",
+        "title": "MILANO TESTAROSSA (feat. Guè)",
+        "artist": "Artie 5ive",
+        "album": "MILANO TESTAROSSA (feat. Guè) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/a1/8f/05a18fa3-ef3c-071d-4317-38f40ca29ecc/5021732438867.jpg/80x80bb.webp",
+        "length": "3:18"
     },
     {
         "ranking": "73",
@@ -585,11 +585,11 @@
     },
     {
         "ranking": "74",
-        "title": "IDEE CHIARE (feat. Lazza)",
-        "artist": "Geolier",
-        "album": "DIO LO SA",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/7a/59/9d7a59d1-bc66-3e7f-9e83-ff7c744bfa7f/5021732285935.jpg/80x80bb.webp",
-        "length": "2:39"
+        "title": "ABITUDINE",
+        "artist": "Lazza",
+        "album": "LOCURA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/62/ec/aa62ec44-54f7-7f6c-7ad0-134de1a684ef/24UMGIM94964.rgb.jpg/80x80bb.webp",
+        "length": "3:09"
     },
     {
         "ranking": "75",
@@ -601,22 +601,14 @@
     },
     {
         "ranking": "76",
-        "title": "DEGENERE (feat. benny blanco)",
-        "artist": "Myke Towers",
-        "album": "LA PANTERA NEGRA (DELUXE)",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/bd/f0/76bdf003-0dd5-1ef9-3a77-92d1b15600d7/5021732518545.jpg/80x80bb.webp",
-        "length": "2:10"
+        "title": "IDEE CHIARE (feat. Lazza)",
+        "artist": "Geolier",
+        "album": "DIO LO SA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/7a/59/9d7a59d1-bc66-3e7f-9e83-ff7c744bfa7f/5021732285935.jpg/80x80bb.webp",
+        "length": "2:39"
     },
     {
         "ranking": "77",
-        "title": "Ex Angelo",
-        "artist": "Kid Yugi",
-        "album": "Tutti i Nomi del Diavolo",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/a5/23/1da523a6-2ed1-10d2-a615-a5318117cc40/24UM1IM17124.rgb.jpg/80x80bb.webp",
-        "length": "3:23"
-    },
-    {
-        "ranking": "78",
         "title": "Take 5",
         "artist": "Shiva",
         "album": "Take 5 - Single",
@@ -624,23 +616,7 @@
         "length": "3:11"
     },
     {
-        "ranking": "79",
-        "title": "MEZZE VERITÀ",
-        "artist": "Lazza",
-        "album": "LOCURA",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/62/ec/aa62ec44-54f7-7f6c-7ad0-134de1a684ef/24UMGIM94964.rgb.jpg/80x80bb.webp",
-        "length": "3:23"
-    },
-    {
-        "ranking": "80",
-        "title": "CENERE",
-        "artist": "Lazza",
-        "album": "CENERE - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/76/3f/15/763f1580-ee5a-26f2-103c-977d86b4c8d7/23UMGIM07806.rgb.jpg/80x80bb.webp",
-        "length": "3:28"
-    },
-    {
-        "ranking": "81",
+        "ranking": "78",
         "title": "Sant'allegria (Jack Sani Remix)",
         "artist": "Ornella Vanoni",
         "album": "Sant'allegria (Jack Sani Remix) - Single",
@@ -648,12 +624,36 @@
         "length": "2:27"
     },
     {
-        "ranking": "82",
-        "title": "S.X.S.I.C.",
+        "ranking": "79",
+        "title": "CENERE",
+        "artist": "Lazza",
+        "album": "CENERE - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/76/3f/15/763f1580-ee5a-26f2-103c-977d86b4c8d7/23UMGIM07806.rgb.jpg/80x80bb.webp",
+        "length": "3:28"
+    },
+    {
+        "ranking": "80",
+        "title": "Ex Angelo",
         "artist": "Kid Yugi",
         "album": "Tutti i Nomi del Diavolo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/a5/23/1da523a6-2ed1-10d2-a615-a5318117cc40/24UM1IM17124.rgb.jpg/80x80bb.webp",
-        "length": "3:20"
+        "length": "3:23"
+    },
+    {
+        "ranking": "81",
+        "title": "MEZZE VERITÀ",
+        "artist": "Lazza",
+        "album": "LOCURA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/62/ec/aa62ec44-54f7-7f6c-7ad0-134de1a684ef/24UMGIM94964.rgb.jpg/80x80bb.webp",
+        "length": "3:23"
+    },
+    {
+        "ranking": "82",
+        "title": "Beautiful Things",
+        "artist": "Benson Boone",
+        "album": "Beautiful Things - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
+        "length": "3:00"
     },
     {
         "ranking": "83",
@@ -673,14 +673,6 @@
     },
     {
         "ranking": "85",
-        "title": "Beautiful Things",
-        "artist": "Benson Boone",
-        "album": "Beautiful Things - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
-        "length": "3:00"
-    },
-    {
-        "ranking": "86",
         "title": "I P’ ME, TU P’ TE",
         "artist": "Geolier",
         "album": "I P’ ME, TU P’ TE - Single",
@@ -688,7 +680,7 @@
         "length": "3:07"
     },
     {
-        "ranking": "87",
+        "ranking": "86",
         "title": "TONIGHT",
         "artist": "ANNA",
         "album": "VERA BADDIE",
@@ -696,63 +688,7 @@
         "length": "2:55"
     },
     {
-        "ranking": "88",
-        "title": "6SEI6",
-        "artist": "Kid Yugi",
-        "album": "Tutti i Nomi del Diavolo",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/a5/23/1da523a6-2ed1-10d2-a615-a5318117cc40/24UM1IM17124.rgb.jpg/80x80bb.webp",
-        "length": "3:15"
-    },
-    {
-        "ranking": "89",
-        "title": "GHETTO (feat. Baby Gang)",
-        "artist": "Simba La Rue",
-        "album": "ESCI DAL TUNNEL",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ce/f1/28/cef12811-3584-57a4-df91-b6c9cb799525/5021732500038.jpg/80x80bb.webp",
-        "length": "2:31"
-    },
-    {
-        "ranking": "90",
-        "title": "Eva",
-        "artist": "Kid Yugi",
-        "album": "I Nomi del Diavolo",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/35/b5/54/35b554e8-b866-f057-9328-3e0c58ae5eb8/24UMGIM05425.rgb.jpg/80x80bb.webp",
-        "length": "2:40"
-    },
-    {
-        "ranking": "91",
-        "title": "COS'HAI DETTO? (feat. Ghali)",
-        "artist": "Simba La Rue",
-        "album": "ESCI DAL TUNNEL",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ce/f1/28/cef12811-3584-57a4-df91-b6c9cb799525/5021732500038.jpg/80x80bb.webp",
-        "length": "3:18"
-    },
-    {
-        "ranking": "92",
-        "title": "Poetica",
-        "artist": "Cesare Cremonini",
-        "album": "Poetica - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/d4/f6/40/d4f640e2-0b55-aff2-3c64-1fb073339712/00602567152095.rgb.jpg/80x80bb.webp",
-        "length": "4:53"
-    },
-    {
-        "ranking": "93",
-        "title": "VDLC",
-        "artist": "Sfera Ebbasta",
-        "album": "X2VR",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d3/e6/9b/d3e69bb1-cecd-eb1d-a445-1d1fe33da0be/23UM1IM47617.rgb.jpg/80x80bb.webp",
-        "length": "3:18"
-    },
-    {
-        "ranking": "94",
-        "title": "I cantieri del Giappone",
-        "artist": "Olly",
-        "album": "TUTTA VITA",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/f3/81/30f381bd-9698-5c02-0aa0-10f8ac2aaab1/196872446982.jpg/80x80bb.webp",
-        "length": "3:04"
-    },
-    {
-        "ranking": "95",
+        "ranking": "87",
         "title": "HO VOGLIA DI TE",
         "artist": "JVLI",
         "album": "HO VOGLIA DI TE - Single",
@@ -760,23 +696,71 @@
         "length": "3:08"
     },
     {
-        "ranking": "96",
-        "title": "Lilith",
+        "ranking": "88",
+        "title": "The Emptiness Machine",
+        "artist": "LINKIN PARK",
+        "album": "From Zero",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/21/cf/6921cff3-7074-118a-ece2-4012450e6c75/093624839811.jpg/80x80bb.webp",
+        "length": "3:10"
+    },
+    {
+        "ranking": "89",
+        "title": "COS'HAI DETTO? (feat. Ghali)",
+        "artist": "Simba La Rue",
+        "album": "ESCI DAL TUNNEL",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ce/f1/28/cef12811-3584-57a4-df91-b6c9cb799525/5021732500038.jpg/80x80bb.webp",
+        "length": "3:18"
+    },
+    {
+        "ranking": "90",
+        "title": "GHETTO (feat. Baby Gang)",
+        "artist": "Simba La Rue",
+        "album": "ESCI DAL TUNNEL",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ce/f1/28/cef12811-3584-57a4-df91-b6c9cb799525/5021732500038.jpg/80x80bb.webp",
+        "length": "2:31"
+    },
+    {
+        "ranking": "91",
+        "title": "S.X.S.I.C.",
+        "artist": "Kid Yugi",
+        "album": "Tutti i Nomi del Diavolo",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/a5/23/1da523a6-2ed1-10d2-a615-a5318117cc40/24UM1IM17124.rgb.jpg/80x80bb.webp",
+        "length": "3:20"
+    },
+    {
+        "ranking": "92",
+        "title": "Paprika",
+        "artist": "Ghali",
+        "album": "Paprika - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c0/a3/1d/c0a31d9d-337b-b449-56b6-df2a4bbdd0d6/5021732365774.jpg/80x80bb.webp",
+        "length": "2:28"
+    },
+    {
+        "ranking": "93",
+        "title": "Poetica",
+        "artist": "Cesare Cremonini",
+        "album": "Poetica - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/d4/f6/40/d4f640e2-0b55-aff2-3c64-1fb073339712/00602567152095.rgb.jpg/80x80bb.webp",
+        "length": "4:53"
+    },
+    {
+        "ranking": "94",
+        "title": "Eva",
         "artist": "Kid Yugi",
         "album": "I Nomi del Diavolo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/35/b5/54/35b554e8-b866-f057-9328-3e0c58ae5eb8/24UMGIM05425.rgb.jpg/80x80bb.webp",
-        "length": "2:44"
+        "length": "2:40"
     },
     {
-        "ranking": "97",
-        "title": "Il Filmografo",
-        "artist": "Kid Yugi",
-        "album": "The Globe",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/6c/76/e4/6c76e463-40cc-5f07-0775-115b7f8c17d7/22UM1IM21692.rgb.jpg/80x80bb.webp",
-        "length": "2:26"
+        "ranking": "95",
+        "title": "I cantieri del Giappone",
+        "artist": "Olly",
+        "album": "TUTTA VITA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/f3/81/30f381bd-9698-5c02-0aa0-10f8ac2aaab1/196872446982.jpg/80x80bb.webp",
+        "length": "3:04"
     },
     {
-        "ranking": "98",
+        "ranking": "96",
         "title": "15 Piani",
         "artist": "Sfera Ebbasta",
         "album": "X2VR",
@@ -784,19 +768,35 @@
         "length": "3:26"
     },
     {
-        "ranking": "99",
-        "title": "A noi non serve far l'amore",
-        "artist": "Olly",
-        "album": "TUTTA VITA",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/f3/81/30f381bd-9698-5c02-0aa0-10f8ac2aaab1/196872446982.jpg/80x80bb.webp",
-        "length": "3:27"
+        "ranking": "97",
+        "title": "VDLC",
+        "artist": "Sfera Ebbasta",
+        "album": "X2VR",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d3/e6/9b/d3e69bb1-cecd-eb1d-a445-1d1fe33da0be/23UM1IM47617.rgb.jpg/80x80bb.webp",
+        "length": "3:18"
     },
     {
-        "ranking": "100",
-        "title": "Ex Angelo",
+        "ranking": "98",
+        "title": "Lilith",
         "artist": "Kid Yugi",
         "album": "I Nomi del Diavolo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/35/b5/54/35b554e8-b866-f057-9328-3e0c58ae5eb8/24UMGIM05425.rgb.jpg/80x80bb.webp",
-        "length": "2:58"
+        "length": "2:44"
+    },
+    {
+        "ranking": "99",
+        "title": "6SEI6",
+        "artist": "Kid Yugi",
+        "album": "Tutti i Nomi del Diavolo",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/a5/23/1da523a6-2ed1-10d2-a615-a5318117cc40/24UM1IM17124.rgb.jpg/80x80bb.webp",
+        "length": "3:15"
+    },
+    {
+        "ranking": "100",
+        "title": "DOPO LE 4",
+        "artist": "Tony Effe",
+        "album": "ICON",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/3c/c7/673cc792-ab13-1fd7-436d-27e0282e65c4/24UMGIM16845.rgb.jpg/80x80bb.webp",
+        "length": "3:02"
     }
 ]

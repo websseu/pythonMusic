@@ -33,6 +33,14 @@
     },
     {
         "ranking": "5",
+        "title": "Kese (Dance)",
+        "artist": "Wizkid",
+        "album": "Kese (Dance) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/60/3b/82603b3c-1aad-6e37-3b81-d5451046accf/196872637434.jpg/80x80bb.webp",
+        "length": "2:54"
+    },
+    {
+        "ranking": "6",
         "title": "HAUSAPIANO (Remix)",
         "artist": "Kvng Vinci",
         "album": "HAUSAPIANO (Remix) - Single",
@@ -40,7 +48,7 @@
         "length": "2:17"
     },
     {
-        "ranking": "6",
+        "ranking": "7",
         "title": "Higher",
         "artist": "Burna Boy",
         "album": "Higher - Single",
@@ -48,7 +56,7 @@
         "length": "2:17"
     },
     {
-        "ranking": "7",
+        "ranking": "8",
         "title": "Worldwide",
         "artist": "Asake",
         "album": "Lungu Boy",
@@ -56,7 +64,7 @@
         "length": "3:02"
     },
     {
-        "ranking": "8",
+        "ranking": "9",
         "title": "Remember",
         "artist": "Asake",
         "album": "Work Of Art",
@@ -64,7 +72,7 @@
         "length": "3:02"
     },
     {
-        "ranking": "9",
+        "ranking": "10",
         "title": "Phenomena",
         "artist": "Bnxn",
         "album": "Phenomena - Single",
@@ -72,7 +80,7 @@
         "length": "3:22"
     },
     {
-        "ranking": "10",
+        "ranking": "11",
         "title": "Vex For U (feat. Fireboy DML & Ayo Maff)",
         "artist": "Lil Kesh",
         "album": "Vex For U (feat. Fireboy DML & Ayo Maff) - Single",
@@ -80,7 +88,7 @@
         "length": "3:05"
     },
     {
-        "ranking": "11",
+        "ranking": "12",
         "title": "Active",
         "artist": "Asake",
         "album": "Lungu Boy",
@@ -88,23 +96,7 @@
         "length": "2:52"
     },
     {
-        "ranking": "12",
-        "title": "Order",
-        "artist": "Shallipopi",
-        "album": "Order - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/7f/e0/187fe0d5-4df3-106e-f172-5b3fa96cd1d3/198704212307_Cover.jpg/80x80bb.webp",
-        "length": "2:49"
-    },
-    {
         "ranking": "13",
-        "title": "alone (Remix)",
-        "artist": "FOLA",
-        "album": "alone (Remix) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/c3/e1/6fc3e143-70bc-c41c-5e96-94e2be8a01ce/197342774369_cover.jpg/80x80bb.webp",
-        "length": "2:34"
-    },
-    {
-        "ranking": "14",
         "title": "Casablanca (feat. Ayo Maff)",
         "artist": "Shoday",
         "album": "Casablanca - Single",
@@ -112,7 +104,23 @@
         "length": "2:43"
     },
     {
+        "ranking": "14",
+        "title": "Order",
+        "artist": "Shallipopi",
+        "album": "Order - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/7f/e0/187fe0d5-4df3-106e-f172-5b3fa96cd1d3/198704212307_Cover.jpg/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
         "ranking": "15",
+        "title": "alone (Remix)",
+        "artist": "FOLA",
+        "album": "alone (Remix) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/c3/e1/6fc3e143-70bc-c41c-5e96-94e2be8a01ce/197342774369_cover.jpg/80x80bb.webp",
+        "length": "2:34"
+    },
+    {
+        "ranking": "16",
         "title": "JUJU (feat. Shallipopi)",
         "artist": "Smur Lee",
         "album": "JUJU (feat. Shallipopi) - Single",
@@ -120,20 +128,12 @@
         "length": "2:37"
     },
     {
-        "ranking": "16",
+        "ranking": "17",
         "title": "Are you there?",
         "artist": "Ayo Maff",
         "album": "MAFFIAN",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/f7/22/88f722a7-6b24-b38a-8618-3b2f12a1e940/197342709392_cover.jpg/80x80bb.webp",
         "length": "2:36"
-    },
-    {
-        "ranking": "17",
-        "title": "Doha",
-        "artist": "Seyi Vibez",
-        "album": "Loseyi Professor",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0f/8a/4e/0f8a4e52-a32f-af5c-4751-4c73915c403e/198704062575_Cover.jpg/80x80bb.webp",
-        "length": "2:44"
     },
     {
         "ranking": "18",
@@ -145,6 +145,14 @@
     },
     {
         "ranking": "19",
+        "title": "Doha",
+        "artist": "Seyi Vibez",
+        "album": "Loseyi Professor",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0f/8a/4e/0f8a4e52-a32f-af5c-4751-4c73915c403e/198704062575_Cover.jpg/80x80bb.webp",
+        "length": "2:44"
+    },
+    {
+        "ranking": "20",
         "title": "Awolowo",
         "artist": "Fido",
         "album": "Awolowo - Single",
@@ -152,20 +160,12 @@
         "length": "2:15"
     },
     {
-        "ranking": "20",
+        "ranking": "21",
         "title": "Back to Back",
         "artist": "Zerrydl",
         "album": "Back to Back - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ca/c3/6f/cac36fff-a72c-ba99-c0b5-d2b1c388f2b4/198704152351_Cover.jpg/80x80bb.webp",
         "length": "2:26"
-    },
-    {
-        "ranking": "21",
-        "title": "Where I’m from (feat. Seyi Vibez)",
-        "artist": "Tml Vibez",
-        "album": "Timileyin 2.0 - EP",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/6f/67/076f6758-74af-b310-88db-c4d4b664b0d0/198704044205_Cover.jpg/80x80bb.webp",
-        "length": "2:39"
     },
     {
         "ranking": "22",
@@ -177,6 +177,14 @@
     },
     {
         "ranking": "23",
+        "title": "Where I’m from (feat. Seyi Vibez)",
+        "artist": "Tml Vibez",
+        "album": "Timileyin 2.0 - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/6f/67/076f6758-74af-b310-88db-c4d4b664b0d0/198704044205_Cover.jpg/80x80bb.webp",
+        "length": "2:39"
+    },
+    {
+        "ranking": "24",
         "title": "Mentally",
         "artist": "Asake",
         "album": "Lungu Boy",
@@ -184,20 +192,12 @@
         "length": "3:17"
     },
     {
-        "ranking": "24",
+        "ranking": "25",
         "title": "Fuji Vibe",
         "artist": "Asake",
         "album": "Lungu Boy",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/34/59/383459da-ba6a-4bee-67df-7de269764383/197342707992_cover.jpg/80x80bb.webp",
         "length": "5:22"
-    },
-    {
-        "ranking": "25",
-        "title": "Mood",
-        "artist": "Asake",
-        "album": "Lungu Boy",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/34/59/383459da-ba6a-4bee-67df-7de269764383/197342707992_cover.jpg/80x80bb.webp",
-        "length": "2:51"
     },
     {
         "ranking": "26",
@@ -209,6 +209,14 @@
     },
     {
         "ranking": "27",
+        "title": "Mood",
+        "artist": "Asake",
+        "album": "Lungu Boy",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/34/59/383459da-ba6a-4bee-67df-7de269764383/197342707992_cover.jpg/80x80bb.webp",
+        "length": "2:51"
+    },
+    {
+        "ranking": "28",
         "title": "Stronger",
         "artist": "Young Jonn",
         "album": "Jiggy Forever",
@@ -216,7 +224,7 @@
         "length": "2:21"
     },
     {
-        "ranking": "28",
+        "ranking": "29",
         "title": "alone (feat. BhadBoi OML)",
         "artist": "FOLA",
         "album": "alone (feat. BhadBoi OML) - Single",
@@ -224,7 +232,7 @@
         "length": "2:33"
     },
     {
-        "ranking": "29",
+        "ranking": "30",
         "title": "Uhh Yeahh",
         "artist": "Asake",
         "album": "Lungu Boy",
@@ -232,31 +240,7 @@
         "length": "3:24"
     },
     {
-        "ranking": "30",
-        "title": "Abanikanda (feat. Naira Marley)",
-        "artist": "Zinoleesky",
-        "album": "Abanikanda (feat. Naira Marley) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/18/da/31/18da3117-ff6b-2ba1-b333-a3f834674522/859792886794_cover.jpg/80x80bb.webp",
-        "length": "3:27"
-    },
-    {
         "ranking": "31",
-        "title": "Dealer",
-        "artist": "Ayo Maff",
-        "album": "Dealer - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/3f/99/c83f995a-814d-11a1-ecea-93979b57db5f/197342568494_cover.jpg/80x80bb.webp",
-        "length": "3:00"
-    },
-    {
-        "ranking": "32",
-        "title": "My Heart",
-        "artist": "Asake",
-        "album": "Lungu Boy",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/34/59/383459da-ba6a-4bee-67df-7de269764383/197342707992_cover.jpg/80x80bb.webp",
-        "length": "3:17"
-    },
-    {
-        "ranking": "33",
         "title": "IDK (feat. Zlatan)",
         "artist": "Wizkid",
         "album": "S2 - EP",
@@ -264,15 +248,23 @@
         "length": "3:00"
     },
     {
-        "ranking": "34",
-        "title": "Moving",
-        "artist": "Omah Lay",
-        "album": "Moving - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/3a/c2/5a3ac2f1-614d-3594-6a57-706d05b45136/054391256409.jpg/80x80bb.webp",
-        "length": "2:20"
+        "ranking": "32",
+        "title": "Dealer",
+        "artist": "Ayo Maff",
+        "album": "Dealer - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/3f/99/c83f995a-814d-11a1-ecea-93979b57db5f/197342568494_cover.jpg/80x80bb.webp",
+        "length": "3:00"
     },
     {
-        "ranking": "35",
+        "ranking": "33",
+        "title": "My Heart",
+        "artist": "Asake",
+        "album": "Lungu Boy",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/34/59/383459da-ba6a-4bee-67df-7de269764383/197342707992_cover.jpg/80x80bb.webp",
+        "length": "3:17"
+    },
+    {
+        "ranking": "34",
         "title": "KANTE (feat. Fave)",
         "artist": "Davido",
         "album": "Timeless",
@@ -280,15 +272,15 @@
         "length": "3:14"
     },
     {
-        "ranking": "36",
-        "title": "Terminator",
-        "artist": "Asake",
-        "album": "Mr. Money With The Vibe",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5e/4f/66/5e4f6644-a234-d037-609d-7ed53fd6c7f9/194690909856_cover.jpg/80x80bb.webp",
-        "length": "2:35"
+        "ranking": "35",
+        "title": "Moving",
+        "artist": "Omah Lay",
+        "album": "Moving - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/3a/c2/5a3ac2f1-614d-3594-6a57-706d05b45136/054391256409.jpg/80x80bb.webp",
+        "length": "2:20"
     },
     {
-        "ranking": "37",
+        "ranking": "36",
         "title": "Real Life (feat. Stormzy)",
         "artist": "Burna Boy",
         "album": "Twice As Tall",
@@ -296,31 +288,15 @@
         "length": "3:17"
     },
     {
-        "ranking": "38",
-        "title": "Wave",
+        "ranking": "37",
+        "title": "Terminator",
         "artist": "Asake",
-        "album": "Wave - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1c/19/b1/1c19b169-b261-d687-3777-13f914c04d17/197342650755_cover.jpg/80x80bb.webp",
-        "length": "3:25"
+        "album": "Mr. Money With The Vibe",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5e/4f/66/5e4f6644-a234-d037-609d-7ed53fd6c7f9/194690909856_cover.jpg/80x80bb.webp",
+        "length": "2:35"
     },
     {
-        "ranking": "39",
-        "title": "Hello Habibi",
-        "artist": "Olamide",
-        "album": "Hello Habibi - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/09/21/47/09214740-a5ea-0738-f530-9602beac9865/197342810173_cover.jpg/80x80bb.webp",
-        "length": "3:14"
-    },
-    {
-        "ranking": "40",
-        "title": "Different Pattern",
-        "artist": "Seyi Vibez",
-        "album": "Nahamciaga - EP",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/f9/7c/7df97c2b-8f07-8369-a7ad-b12e0584a514/198704188909_Cover.jpg/80x80bb.webp",
-        "length": "2:03"
-    },
-    {
-        "ranking": "41",
+        "ranking": "38",
         "title": "City Boys",
         "artist": "Burna Boy",
         "album": "Músicas pra Ouvir Sozinho no Fone",
@@ -328,20 +304,44 @@
         "length": "2:33"
     },
     {
+        "ranking": "39",
+        "title": "Different Pattern",
+        "artist": "Seyi Vibez",
+        "album": "Nahamciaga - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/f9/7c/7df97c2b-8f07-8369-a7ad-b12e0584a514/198704188909_Cover.jpg/80x80bb.webp",
+        "length": "2:03"
+    },
+    {
+        "ranking": "40",
+        "title": "Hello Habibi",
+        "artist": "Olamide",
+        "album": "Hello Habibi - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/09/21/47/09214740-a5ea-0738-f530-9602beac9865/197342810173_cover.jpg/80x80bb.webp",
+        "length": "3:14"
+    },
+    {
+        "ranking": "41",
+        "title": "Abanikanda (feat. Naira Marley)",
+        "artist": "Zinoleesky",
+        "album": "Abanikanda (feat. Naira Marley) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/18/da/31/18da3117-ff6b-2ba1-b333-a3f834674522/859792886794_cover.jpg/80x80bb.webp",
+        "length": "3:27"
+    },
+    {
         "ranking": "42",
+        "title": "Wave",
+        "artist": "Asake",
+        "album": "Wave - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1c/19/b1/1c19b169-b261-d687-3777-13f914c04d17/197342650755_cover.jpg/80x80bb.webp",
+        "length": "3:25"
+    },
+    {
+        "ranking": "43",
         "title": "Last Last",
         "artist": "Burna Boy",
         "album": "Love, Damini",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/34/42/db/3442dbd6-644f-a111-8344-0151ffb93313/075679745156.jpg/80x80bb.webp",
         "length": "2:52"
-    },
-    {
-        "ranking": "43",
-        "title": "Suru (feat. Stormzy)",
-        "artist": "Asake",
-        "album": "Lungu Boy",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/34/59/383459da-ba6a-4bee-67df-7de269764383/197342707992_cover.jpg/80x80bb.webp",
-        "length": "3:40"
     },
     {
         "ranking": "44",
@@ -353,11 +353,11 @@
     },
     {
         "ranking": "45",
-        "title": "Bahamas",
-        "artist": "Young Jonn",
-        "album": "Jiggy Forever",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f5/bd/f0/f5bdf0e4-45fd-fe9d-eb07-3f616b73e461/085365596870.jpg/80x80bb.webp",
-        "length": "2:46"
+        "title": "Suru (feat. Stormzy)",
+        "artist": "Asake",
+        "album": "Lungu Boy",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/34/59/383459da-ba6a-4bee-67df-7de269764383/197342707992_cover.jpg/80x80bb.webp",
+        "length": "3:40"
     },
     {
         "ranking": "46",
@@ -369,11 +369,11 @@
     },
     {
         "ranking": "47",
-        "title": "Adenuga (feat. Qing Madi)",
-        "artist": "Joeboy",
-        "album": "Adenuga x Concerning - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/2d/7a/132d7afe-9e69-34d1-c021-e835d275886c/5021732265784.jpg/80x80bb.webp",
-        "length": "2:40"
+        "title": "Bahamas",
+        "artist": "Young Jonn",
+        "album": "Jiggy Forever",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f5/bd/f0/f5bdf0e4-45fd-fe9d-eb07-3f616b73e461/085365596870.jpg/80x80bb.webp",
+        "length": "2:46"
     },
     {
         "ranking": "48",
@@ -393,11 +393,11 @@
     },
     {
         "ranking": "50",
-        "title": "Metaverse",
-        "artist": "Olamide",
-        "album": "Ikigai / 生き甲斐, Vol. 1",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/9e/cc/fe9ecc76-31bc-3187-8ce8-68f01d951d75/197342670760_cover.jpg/80x80bb.webp",
-        "length": "2:59"
+        "title": "Adenuga (feat. Qing Madi)",
+        "artist": "Joeboy",
+        "album": "Adenuga x Concerning - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/2d/7a/132d7afe-9e69-34d1-c021-e835d275886c/5021732265784.jpg/80x80bb.webp",
+        "length": "2:40"
     },
     {
         "ranking": "51",
@@ -409,6 +409,14 @@
     },
     {
         "ranking": "52",
+        "title": "Metaverse",
+        "artist": "Olamide",
+        "album": "Ikigai / 生き甲斐, Vol. 1",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/9e/cc/fe9ecc76-31bc-3187-8ce8-68f01d951d75/197342670760_cover.jpg/80x80bb.webp",
+        "length": "2:59"
+    },
+    {
+        "ranking": "53",
         "title": "Favourite Girl (with Rema)",
         "artist": "Darkoo",
         "album": "Favourite Girl (with Rema) - Single",
@@ -416,20 +424,12 @@
         "length": "3:04"
     },
     {
-        "ranking": "53",
-        "title": "OZEBA",
-        "artist": "Rema",
-        "album": "HEIS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/67/cd/4367cd08-da60-dbd5-783d-edf824fd5710/24UMGIM73107.rgb.jpg/80x80bb.webp",
-        "length": "2:17"
-    },
-    {
         "ranking": "54",
-        "title": "POE",
-        "artist": "Ruger",
-        "album": "RnB",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/45/ab/00/45ab0092-4f5b-af75-68a2-7892edbb775d/197342544658_cover.jpg/80x80bb.webp",
-        "length": "3:26"
+        "title": "everyday",
+        "artist": "Fireboy DML",
+        "album": "everyday - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/8e/31/db8e319e-27bd-0646-5423-d9e8c0e5f5c7/197342563185_cover.jpg/80x80bb.webp",
+        "length": "2:46"
     },
     {
         "ranking": "55",
@@ -441,6 +441,14 @@
     },
     {
         "ranking": "56",
+        "title": "POE",
+        "artist": "Ruger",
+        "album": "RnB",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/45/ab/00/45ab0092-4f5b-af75-68a2-7892edbb775d/197342544658_cover.jpg/80x80bb.webp",
+        "length": "3:26"
+    },
+    {
+        "ranking": "57",
         "title": "Marhaba",
         "artist": "Kizz Daniel",
         "album": "Marhaba X We Must - Single",
@@ -448,20 +456,12 @@
         "length": "2:23"
     },
     {
-        "ranking": "57",
-        "title": "everyday",
-        "artist": "Fireboy DML",
-        "album": "everyday - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/8e/31/db8e319e-27bd-0646-5423-d9e8c0e5f5c7/197342563185_cover.jpg/80x80bb.webp",
-        "length": "2:46"
-    },
-    {
         "ranking": "58",
-        "title": "Can't Breathe",
-        "artist": "Llona",
-        "album": "Homeless",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/ca/59/43ca597e-1811-ccb6-15f4-4ccb7092e086/8721093500568.png/80x80bb.webp",
-        "length": "2:22"
+        "title": "OZEBA",
+        "artist": "Rema",
+        "album": "HEIS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/67/cd/4367cd08-da60-dbd5-783d-edf824fd5710/24UMGIM73107.rgb.jpg/80x80bb.webp",
+        "length": "2:17"
     },
     {
         "ranking": "59",
@@ -473,22 +473,14 @@
     },
     {
         "ranking": "60",
-        "title": "Skating",
-        "artist": "Asake",
-        "album": "Lungu Boy",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/34/59/383459da-ba6a-4bee-67df-7de269764383/197342707992_cover.jpg/80x80bb.webp",
-        "length": "2:56"
+        "title": "Can't Breathe",
+        "artist": "Llona",
+        "album": "Homeless",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/ca/59/43ca597e-1811-ccb6-15f4-4ccb7092e086/8721093500568.png/80x80bb.webp",
+        "length": "2:22"
     },
     {
         "ranking": "61",
-        "title": "Tested, Approved & Trusted",
-        "artist": "Burna Boy",
-        "album": "I Told Them...",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/01/ee/63/01ee6370-1805-15e4-de8c-293a889a439c/075679676351.jpg/80x80bb.webp",
-        "length": "3:40"
-    },
-    {
-        "ranking": "62",
         "title": "Man of The Year",
         "artist": "Seyi Vibez",
         "album": "Thy Kingdom Come",
@@ -496,7 +488,31 @@
         "length": "2:24"
     },
     {
+        "ranking": "62",
+        "title": "Tested, Approved & Trusted",
+        "artist": "Burna Boy",
+        "album": "I Told Them...",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/01/ee/63/01ee6370-1805-15e4-de8c-293a889a439c/075679676351.jpg/80x80bb.webp",
+        "length": "3:40"
+    },
+    {
         "ranking": "63",
+        "title": "Skating",
+        "artist": "Asake",
+        "album": "Lungu Boy",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/34/59/383459da-ba6a-4bee-67df-7de269764383/197342707992_cover.jpg/80x80bb.webp",
+        "length": "2:56"
+    },
+    {
+        "ranking": "64",
+        "title": "Lonely At The Top",
+        "artist": "Asake",
+        "album": "Work Of Art",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cc/23/83/cc2383d9-eecc-f974-5f5b-d445c583acdb/197342233958_cover.jpg/80x80bb.webp",
+        "length": "2:37"
+    },
+    {
+        "ranking": "65",
         "title": "Ye",
         "artist": "Burna Boy",
         "album": "Outside",
@@ -504,15 +520,7 @@
         "length": "3:51"
     },
     {
-        "ranking": "64",
-        "title": "Awolowo (Remix)",
-        "artist": "Fido",
-        "album": "Awolowo (Remix) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dd/bf/36/ddbf36e8-3d9b-7986-9def-0dc5ee73ae4d/476922.jpg/80x80bb.webp",
-        "length": "2:18"
-    },
-    {
-        "ranking": "65",
+        "ranking": "66",
         "title": "BENIN BOYS",
         "artist": "Rema",
         "album": "BENIN BOYS - Single",
@@ -520,20 +528,12 @@
         "length": "2:49"
     },
     {
-        "ranking": "66",
+        "ranking": "67",
         "title": "Santorini",
         "artist": "Seyi Vibez",
         "album": "Loseyi Professor",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0f/8a/4e/0f8a4e52-a32f-af5c-4751-4c73915c403e/198704062575_Cover.jpg/80x80bb.webp",
         "length": "2:44"
-    },
-    {
-        "ranking": "67",
-        "title": "DOG EAT DOG II (feat. Cruel Santino & Bella Shmurda)",
-        "artist": "ODUMODUBLVCK",
-        "album": "DOG EAT DOG II (feat. Cruel Santino & Bella Shmurda) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/07/b6/97/07b6976f-3701-eb11-0dc8-f579c0842353/196922490781_Cover.jpg/80x80bb.webp",
-        "length": "4:00"
     },
     {
         "ranking": "68",
@@ -545,22 +545,14 @@
     },
     {
         "ranking": "69",
-        "title": "Lonely At The Top",
-        "artist": "Asake",
-        "album": "Work Of Art",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cc/23/83/cc2383d9-eecc-f974-5f5b-d445c583acdb/197342233958_cover.jpg/80x80bb.webp",
-        "length": "2:37"
+        "title": "DOG EAT DOG II (feat. Cruel Santino & Bella Shmurda)",
+        "artist": "ODUMODUBLVCK",
+        "album": "DOG EAT DOG II (feat. Cruel Santino & Bella Shmurda) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/07/b6/97/07b6976f-3701-eb11-0dc8-f579c0842353/196922490781_Cover.jpg/80x80bb.webp",
+        "length": "4:00"
     },
     {
         "ranking": "70",
-        "title": "25",
-        "artist": "Rod Wave",
-        "album": "Last Lap",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/37/da/5a37da14-dea1-6123-6553-4a24010657e8/196872534610.jpg/80x80bb.webp",
-        "length": "3:00"
-    },
-    {
-        "ranking": "71",
         "title": "Infinity (feat. Omah Lay)",
         "artist": "Olamide",
         "album": "Carpe Diem",
@@ -568,15 +560,15 @@
         "length": "2:51"
     },
     {
-        "ranking": "72",
-        "title": "hell and back",
-        "artist": "Fireboy DML",
-        "album": "adedamola",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/36/52/5e365214-2057-31df-2d2e-d39022d6cd9f/197342696906_cover.jpg/80x80bb.webp",
-        "length": "2:41"
+        "ranking": "71",
+        "title": "Awolowo (Remix)",
+        "artist": "Fido",
+        "album": "Awolowo (Remix) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dd/bf/36/ddbf36e8-3d9b-7986-9def-0dc5ee73ae4d/476922.jpg/80x80bb.webp",
+        "length": "2:18"
     },
     {
-        "ranking": "73",
+        "ranking": "72",
         "title": "Anoti",
         "artist": "Wizkid",
         "album": "Made In Lagos: Deluxe Edition",
@@ -584,15 +576,7 @@
         "length": "3:01"
     },
     {
-        "ranking": "74",
-        "title": "Instagram",
-        "artist": "Muyeez",
-        "album": "Vibez Incorporation Mixtape, Vol. 1",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/99/76/cb/9976cba2-b8af-72b3-1619-a765443cbc30/196922974915_Cover.jpg/80x80bb.webp",
-        "length": "2:20"
-    },
-    {
-        "ranking": "75",
+        "ranking": "73",
         "title": "Ginger (feat. Burna Boy)",
         "artist": "Wizkid",
         "album": "Made In Lagos",
@@ -600,7 +584,15 @@
         "length": "3:16"
     },
     {
-        "ranking": "76",
+        "ranking": "74",
+        "title": "25",
+        "artist": "Rod Wave",
+        "album": "Last Lap",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/37/da/5a37da14-dea1-6123-6553-4a24010657e8/196872534610.jpg/80x80bb.webp",
+        "length": "3:00"
+    },
+    {
+        "ranking": "75",
         "title": "For My Hand (feat. Ed Sheeran)",
         "artist": "Burna Boy",
         "album": "Love, Damini",
@@ -608,31 +600,7 @@
         "length": "2:39"
     },
     {
-        "ranking": "77",
-        "title": "Lagos",
-        "artist": "Seyi Vibez",
-        "album": "Loseyi Professor",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0f/8a/4e/0f8a4e52-a32f-af5c-4751-4c73915c403e/198704062575_Cover.jpg/80x80bb.webp",
-        "length": "2:25"
-    },
-    {
-        "ranking": "78",
-        "title": "Cana",
-        "artist": "Seyi Vibez",
-        "album": "Nahamciaga - EP",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/f9/7c/7df97c2b-8f07-8369-a7ad-b12e0584a514/198704188909_Cover.jpg/80x80bb.webp",
-        "length": "2:20"
-    },
-    {
-        "ranking": "79",
-        "title": "Bad Vibes",
-        "artist": "Ayra Starr",
-        "album": "The Year I Turned 21",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fa/d4/c4/fad4c4ce-2b3f-0304-8965-3c618987824e/24UMGIM51453.rgb.jpg/80x80bb.webp",
-        "length": "2:48"
-    },
-    {
-        "ranking": "80",
+        "ranking": "76",
         "title": "Essence (feat. Tems)",
         "artist": "Wizkid",
         "album": "Made In Lagos",
@@ -640,15 +608,23 @@
         "length": "4:09"
     },
     {
-        "ranking": "81",
-        "title": "Bad Influence",
-        "artist": "Omah Lay",
-        "album": "Get Layd - EP",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ef/49/86/ef49860e-ba89-32ab-797e-25f85e11271c/093624888147.jpg/80x80bb.webp",
-        "length": "2:18"
+        "ranking": "77",
+        "title": "Instagram",
+        "artist": "Muyeez",
+        "album": "Vibez Incorporation Mixtape, Vol. 1",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/99/76/cb/9976cba2-b8af-72b3-1619-a765443cbc30/196922974915_Cover.jpg/80x80bb.webp",
+        "length": "2:20"
     },
     {
-        "ranking": "82",
+        "ranking": "78",
+        "title": "hell and back",
+        "artist": "Fireboy DML",
+        "album": "adedamola",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/36/52/5e365214-2057-31df-2d2e-d39022d6cd9f/197342696906_cover.jpg/80x80bb.webp",
+        "length": "2:41"
+    },
+    {
+        "ranking": "79",
         "title": "UNAVAILABLE (feat. Musa Keys)",
         "artist": "Davido",
         "album": "Timeless",
@@ -656,7 +632,23 @@
         "length": "2:49"
     },
     {
-        "ranking": "83",
+        "ranking": "80",
+        "title": "Cana",
+        "artist": "Seyi Vibez",
+        "album": "Nahamciaga - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/f9/7c/7df97c2b-8f07-8369-a7ad-b12e0584a514/198704188909_Cover.jpg/80x80bb.webp",
+        "length": "2:20"
+    },
+    {
+        "ranking": "81",
+        "title": "Bad Vibes",
+        "artist": "Ayra Starr",
+        "album": "The Year I Turned 21",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fa/d4/c4/fad4c4ce-2b3f-0304-8965-3c618987824e/24UMGIM51453.rgb.jpg/80x80bb.webp",
+        "length": "2:48"
+    },
+    {
+        "ranking": "82",
         "title": "Uptown Disco",
         "artist": "Olamide",
         "album": "Ikigai / 生き甲斐, Vol. 1",
@@ -664,103 +656,15 @@
         "length": "3:59"
     },
     {
+        "ranking": "83",
+        "title": "Lagos",
+        "artist": "Seyi Vibez",
+        "album": "Loseyi Professor",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0f/8a/4e/0f8a4e52-a32f-af5c-4751-4c73915c403e/198704062575_Cover.jpg/80x80bb.webp",
+        "length": "2:25"
+    },
+    {
         "ranking": "84",
-        "title": "Ligali",
-        "artist": "Asake",
-        "album": "Lungu Boy",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/34/59/383459da-ba6a-4bee-67df-7de269764383/197342707992_cover.jpg/80x80bb.webp",
-        "length": "2:53"
-    },
-    {
-        "ranking": "85",
-        "title": "WAR MACHINE (feat. ODUMODUBLVCK)",
-        "artist": "Rema",
-        "album": "HEIS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/67/cd/4367cd08-da60-dbd5-783d-edf824fd5710/24UMGIM73107.rgb.jpg/80x80bb.webp",
-        "length": "2:37"
-    },
-    {
-        "ranking": "86",
-        "title": "Come Closer (feat. Drake)",
-        "artist": "Wizkid",
-        "album": "Sounds From the Other Side",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a2/26/5c/a2265cf3-4a4b-872a-f516-511073542cec/886446425689.jpg/80x80bb.webp",
-        "length": "3:31"
-    },
-    {
-        "ranking": "87",
-        "title": "AZAMAN",
-        "artist": "Rema",
-        "album": "HEIS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/67/cd/4367cd08-da60-dbd5-783d-edf824fd5710/24UMGIM73107.rgb.jpg/80x80bb.webp",
-        "length": "2:28"
-    },
-    {
-        "ranking": "88",
-        "title": "Maria (feat. Lasmid)",
-        "artist": "Tml Vibez",
-        "album": "Xin Mao - EP",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/bc/f1/08bcf19d-e631-bc3d-8a0a-a608f7cddbbd/198704054570_Cover.jpg/80x80bb.webp",
-        "length": "2:23"
-    },
-    {
-        "ranking": "89",
-        "title": "Complicated",
-        "artist": "FAVE",
-        "album": "Dutty Love",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f4/99/00/f499000b-ab1e-fc63-f73c-a63de24a9c42/075679661050.jpg/80x80bb.webp",
-        "length": "2:36"
-    },
-    {
-        "ranking": "90",
-        "title": "Stubborn",
-        "artist": "Victony",
-        "album": "Stubborn - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a5/e4/19/a5e4197e-f774-5983-4439-c25b7f2a7e98/8721093126881.png/80x80bb.webp",
-        "length": "2:56"
-    },
-    {
-        "ranking": "91",
-        "title": "Sharpally",
-        "artist": "Young Jonn",
-        "album": "Sharpally - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1f/c3/63/1fc363b0-8ffb-e803-ab43-a347984eb04e/197338630051.jpg/80x80bb.webp",
-        "length": "2:43"
-    },
-    {
-        "ranking": "92",
-        "title": "Organise",
-        "artist": "Asake",
-        "album": "Mr. Money With The Vibe",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5e/4f/66/5e4f6644-a234-d037-609d-7ed53fd6c7f9/194690909856_cover.jpg/80x80bb.webp",
-        "length": "2:03"
-    },
-    {
-        "ranking": "93",
-        "title": "I Swear",
-        "artist": "Asake",
-        "album": "Lungu Boy",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/34/59/383459da-ba6a-4bee-67df-7de269764383/197342707992_cover.jpg/80x80bb.webp",
-        "length": "3:04"
-    },
-    {
-        "ranking": "94",
-        "title": "Biri Marung (feat. Sje Konka, Focalistic, DJ Maphorisa, Scotts Maphuma & CowBoii)",
-        "artist": "Mr Pilato",
-        "album": "Biri Marung (feat. Sje Konka, Focalistic, DJ Maphorisa, Scotts Maphuma & CowBoii) - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/22/e6/01/22e60183-8ce0-d820-4cd0-3353a8bb1edc/196872635690.jpg/80x80bb.webp",
-        "length": "7:34"
-    },
-    {
-        "ranking": "95",
-        "title": "For Days",
-        "artist": "Bnxn",
-        "album": "For Days - Single",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/19/37/05/193705d1-c624-d7a6-ef5b-870678b8acf3/194690812088_cover.jpg/80x80bb.webp",
-        "length": "2:44"
-    },
-    {
-        "ranking": "96",
         "title": "Way Too Big",
         "artist": "Burna Boy",
         "album": "Twice As Tall",
@@ -768,7 +672,119 @@
         "length": "3:20"
     },
     {
+        "ranking": "85",
+        "title": "Bad Influence",
+        "artist": "Omah Lay",
+        "album": "Get Layd - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ef/49/86/ef49860e-ba89-32ab-797e-25f85e11271c/093624888147.jpg/80x80bb.webp",
+        "length": "2:18"
+    },
+    {
+        "ranking": "86",
+        "title": "WAR MACHINE (feat. ODUMODUBLVCK)",
+        "artist": "Rema",
+        "album": "HEIS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/67/cd/4367cd08-da60-dbd5-783d-edf824fd5710/24UMGIM73107.rgb.jpg/80x80bb.webp",
+        "length": "2:37"
+    },
+    {
+        "ranking": "87",
+        "title": "Ligali",
+        "artist": "Asake",
+        "album": "Lungu Boy",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/34/59/383459da-ba6a-4bee-67df-7de269764383/197342707992_cover.jpg/80x80bb.webp",
+        "length": "2:53"
+    },
+    {
+        "ranking": "88",
+        "title": "Complicated",
+        "artist": "FAVE",
+        "album": "Dutty Love",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f4/99/00/f499000b-ab1e-fc63-f73c-a63de24a9c42/075679661050.jpg/80x80bb.webp",
+        "length": "2:36"
+    },
+    {
+        "ranking": "89",
+        "title": "Come Closer (feat. Drake)",
+        "artist": "Wizkid",
+        "album": "Sounds From the Other Side",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a2/26/5c/a2265cf3-4a4b-872a-f516-511073542cec/886446425689.jpg/80x80bb.webp",
+        "length": "3:31"
+    },
+    {
+        "ranking": "90",
+        "title": "Biri Marung (feat. Sje Konka, Focalistic, DJ Maphorisa, Scotts Maphuma & CowBoii)",
+        "artist": "Mr Pilato",
+        "album": "Biri Marung (feat. Sje Konka, Focalistic, DJ Maphorisa, Scotts Maphuma & CowBoii) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/22/e6/01/22e60183-8ce0-d820-4cd0-3353a8bb1edc/196872635690.jpg/80x80bb.webp",
+        "length": "7:34"
+    },
+    {
+        "ranking": "91",
+        "title": "Maria (feat. Lasmid)",
+        "artist": "Tml Vibez",
+        "album": "Xin Mao - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/bc/f1/08bcf19d-e631-bc3d-8a0a-a608f7cddbbd/198704054570_Cover.jpg/80x80bb.webp",
+        "length": "2:23"
+    },
+    {
+        "ranking": "92",
+        "title": "AZAMAN",
+        "artist": "Rema",
+        "album": "HEIS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/67/cd/4367cd08-da60-dbd5-783d-edf824fd5710/24UMGIM73107.rgb.jpg/80x80bb.webp",
+        "length": "2:28"
+    },
+    {
+        "ranking": "93",
+        "title": "For Days",
+        "artist": "Bnxn",
+        "album": "For Days - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/19/37/05/193705d1-c624-d7a6-ef5b-870678b8acf3/194690812088_cover.jpg/80x80bb.webp",
+        "length": "2:44"
+    },
+    {
+        "ranking": "94",
+        "title": "Organise",
+        "artist": "Asake",
+        "album": "Mr. Money With The Vibe",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5e/4f/66/5e4f6644-a234-d037-609d-7ed53fd6c7f9/194690909856_cover.jpg/80x80bb.webp",
+        "length": "2:03"
+    },
+    {
+        "ranking": "95",
+        "title": "Stubborn",
+        "artist": "Victony",
+        "album": "Stubborn - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a5/e4/19/a5e4197e-f774-5983-4439-c25b7f2a7e98/8721093126881.png/80x80bb.webp",
+        "length": "2:56"
+    },
+    {
+        "ranking": "96",
+        "title": "Sharpally",
+        "artist": "Young Jonn",
+        "album": "Sharpally - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1f/c3/63/1fc363b0-8ffb-e803-ab43-a347984eb04e/197338630051.jpg/80x80bb.webp",
+        "length": "2:43"
+    },
+    {
         "ranking": "97",
+        "title": "I Swear",
+        "artist": "Asake",
+        "album": "Lungu Boy",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/34/59/383459da-ba6a-4bee-67df-7de269764383/197342707992_cover.jpg/80x80bb.webp",
+        "length": "3:04"
+    },
+    {
+        "ranking": "98",
+        "title": "Innocent (feat. Fireboy DML)",
+        "artist": "Mayorkun",
+        "album": "Innocent (feat. Fireboy DML) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c3/3f/06/c33f0609-fa8d-ffc6-cc20-a7c8645c0dd0/196872617689.jpg/80x80bb.webp",
+        "length": "2:52"
+    },
+    {
+        "ranking": "99",
         "title": "Constantly",
         "artist": "Hyce",
         "album": "Constantly - Single",
@@ -776,27 +792,11 @@
         "length": "3:13"
     },
     {
-        "ranking": "98",
-        "title": "Casablanca",
-        "artist": "Seyi Vibez",
-        "album": "Loseyi Professor",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0f/8a/4e/0f8a4e52-a32f-af5c-4751-4c73915c403e/198704062575_Cover.jpg/80x80bb.webp",
-        "length": "2:31"
-    },
-    {
-        "ranking": "99",
+        "ranking": "100",
         "title": "WAIT FOR U (feat. Drake & Tems)",
         "artist": "Future",
         "album": "I NEVER LIKED YOU",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/65/f2/06/65f2067b-a8ea-239c-c219-8e0f0282dcea/196589073693.jpg/80x80bb.webp",
         "length": "3:09"
-    },
-    {
-        "ranking": "100",
-        "title": "Ilashe",
-        "artist": "Ruger",
-        "album": "RnB",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/45/ab/00/45ab0092-4f5b-af75-68a2-7892edbb775d/197342544658_cover.jpg/80x80bb.webp",
-        "length": "2:40"
     }
 ]
