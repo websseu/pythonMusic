@@ -124,7 +124,8 @@
         "title": "사랑은 늘 도망가",
         "artist": "임영웅",
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/107/35/654/10735654_20211008114339_500.jpg/melon/resize/120/quality/80/optimize",
-        "album": "신사와 아가씨 OST Part.2"
+        "album": "신사와 아가씨 OST Part.2",
+        "youtubeID": "LKQ-18LoFQk"
     },
     {
         "ranking": "17",
@@ -470,7 +471,8 @@
         "title": "다정히 내 이름을 부르면",
         "artist": "경서예지",
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/106/10/525/10610525_20210518143433_500.jpg/melon/resize/120/quality/80/optimize",
-        "album": "다정히 내 이름을 부르면 (경서예지 x 전건호)"
+        "album": "다정히 내 이름을 부르면 (경서예지 x 전건호)",
+        "youtubeID": "b_6EfFZyBxY"
     },
     {
         "ranking": "63",
@@ -500,14 +502,16 @@
         "title": "미안해 미워해 사랑해",
         "artist": "Crush",
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/114/49/278/11449278_20240322170237_500.jpg/melon/resize/120/quality/80/optimize",
-        "album": "눈물의 여왕 OST Part.4"
+        "album": "눈물의 여왕 OST Part.4",
+        "youtubeID": "Z4qVfCi_lUI"
     },
     {
         "ranking": "67",
         "title": "SPOT! (feat. JENNIE)",
         "artist": "지코 (ZICO)",
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/114/74/894/11474894_20240426103349_500.jpg/melon/resize/120/quality/80/optimize",
-        "album": "SPOT!"
+        "album": "SPOT!",
+        "youtubeID": "xfqBQ2XhBCg"
     },
     {
         "ranking": "68",
@@ -538,7 +542,8 @@
         "title": "I AM",
         "artist": "IVE (아이브)",
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/112/11/297/11211297_20230410151046_500.jpg/melon/resize/120/quality/80/optimize",
-        "album": "I've IVE"
+        "album": "I've IVE",
+        "youtubeID": "6ZUIwj3FgUY"
     },
     {
         "ranking": "72",
@@ -589,7 +594,8 @@
         "title": "취중고백",
         "artist": "김민석",
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/16/959/10816959_20211217144957_500.jpg/melon/resize/120/quality/80/optimize",
-        "album": "취중고백"
+        "album": "취중고백",
+        "youtubeID": "VMQl78z1DiY"
     },
     {
         "ranking": "79",
@@ -655,21 +661,24 @@
         "title": "I Don't Think That I Like Her",
         "artist": "Charlie Puth",
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/44/485/10844485_20221006154824_500.jpg/melon/resize/120/quality/80/optimize",
-        "album": "CHARLIE"
+        "album": "CHARLIE",
+        "youtubeID": "9voN0gkdlS4"
     },
     {
         "ranking": "88",
         "title": "사막에서 꽃을 피우듯",
         "artist": "우디 (Woody)",
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/112/85/867/11285867_20230713162404_500.jpg/melon/resize/120/quality/80/optimize",
-        "album": "사막에서 꽃을 피우듯"
+        "album": "사막에서 꽃을 피우듯",
+        "youtubeID": "j4qaT26K80A"
     },
     {
         "ranking": "89",
         "title": "오래된 노래",
         "artist": "허각",
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/115/13/169/11513169_20240614150349_500.jpg/melon/resize/120/quality/80/optimize",
-        "album": "오래된 노래"
+        "album": "오래된 노래",
+        "youtubeID": "7jgWxcULibs"
     },
     {
         "ranking": "90",
@@ -684,7 +693,8 @@
         "title": "ETA",
         "artist": "NewJeans",
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/112/81/456/11281456_20230706180841_500.jpg/melon/resize/120/quality/80/optimize",
-        "album": "NewJeans 2nd EP 'Get Up'"
+        "album": "NewJeans 2nd EP 'Get Up'",
+        "youtubeID": "jOTfBlKSQYY"
     },
     {
         "ranking": "92",
@@ -753,6 +763,7 @@
         "title": "CRAZY",
         "artist": "LE SSERAFIM (르세라핌)",
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/115/79/884/11579884_20240830100608_500.jpg/melon/resize/120/quality/80/optimize",
-        "album": "CRAZY"
+        "album": "CRAZY",
+        "youtubeID": "BBdC1rl5sKY"
     }
 ]

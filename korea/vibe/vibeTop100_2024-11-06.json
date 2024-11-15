@@ -340,70 +340,80 @@
         "title": "사랑할 수밖에",
         "artist": "볼빨간사춘기",
         "album": "Merry Go Round",
-        "image": "https://musicmeta-phinf.pstatic.net/album/030/451/30451566.jpg?type=r120Fll&v=20240227160510"
+        "image": "https://musicmeta-phinf.pstatic.net/album/030/451/30451566.jpg?type=r120Fll&v=20240227160510",
+        "youtubeID": "cMB4cQHJt6Y"
     },
     {
         "ranking": "44",
         "title": "SPOT! (feat. JENNIE)",
         "artist": "지코 (ZICO)",
         "album": "SPOT!",
-        "image": "https://musicmeta-phinf.pstatic.net/album/031/511/31511885.jpg?type=r120Fll&v=20240429173328"
+        "image": "https://musicmeta-phinf.pstatic.net/album/031/511/31511885.jpg?type=r120Fll&v=20240429173328",
+        "youtubeID": "xfqBQ2XhBCg"
     },
     {
         "ranking": "45",
         "title": "그대가 내 안에 박혔다(그내박)",
         "artist": "순순희(기태)",
         "album": "그대가 내 안에 박혔다(그내박)",
-        "image": "https://musicmeta-phinf.pstatic.net/album/008/746/8746607.jpg?type=r120Fll&v=20240224004013"
+        "image": "https://musicmeta-phinf.pstatic.net/album/008/746/8746607.jpg?type=r120Fll&v=20240224004013",
+        "youtubeID": "RyiFowxqN-Q"
     },
     {
         "ranking": "46",
         "title": "I AM",
         "artist": "IVE(아이브)",
         "album": "I've IVE",
-        "image": "https://musicmeta-phinf.pstatic.net/album/009/334/9334427.jpg?type=r120Fll&v=20240225013026"
+        "image": "https://musicmeta-phinf.pstatic.net/album/009/334/9334427.jpg?type=r120Fll&v=20240225013026",
+        "youtubeID": "6ZUIwj3FgUY"
     },
     {
         "ranking": "47",
         "title": "다정히 내 이름을 부르면",
         "artist": "경서예지",
         "album": "다정히 내 이름을 부르면 (경서예지 x 전건호)",
-        "image": "https://musicmeta-phinf.pstatic.net/album/005/880/5880633.jpg?type=r120Fll&v=20240216232008"
+        "image": "https://musicmeta-phinf.pstatic.net/album/005/880/5880633.jpg?type=r120Fll&v=20240216232008",
+        "youtubeID": "b_6EfFZyBxY"
     },
     {
         "ranking": "48",
         "title": "사막에서 꽃을 피우듯",
         "artist": "우디 (Woody)",
         "album": "사막에서 꽃을 피우듯",
-        "image": "https://musicmeta-phinf.pstatic.net/album/010/042/10042234.jpg?type=r120Fll&v=20230717102032"
+        "image": "https://musicmeta-phinf.pstatic.net/album/010/042/10042234.jpg?type=r120Fll&v=20230717102032",
+        "youtubeID": "j4qaT26K80A"
     },
     {
         "ranking": "49",
         "title": "물론",
         "artist": "허각",
         "album": "물론",
-        "image": "https://musicmeta-phinf.pstatic.net/album/009/613/9613552.jpg?type=r120Fll&v=20240225095505"
+        "image": "https://musicmeta-phinf.pstatic.net/album/009/613/9613552.jpg?type=r120Fll&v=20240225095505",
+        "youtubeID": "9dM54xKgJP0"
     },
     {
         "ranking": "50",
         "title": "CRAZY",
         "artist": "LE SSERAFIM (르세라핌)",
         "album": "CRAZY",
-        "image": "https://musicmeta-phinf.pstatic.net/album/032/056/32056801.jpg?type=r120Fll&v=20240830153358"
+        "image": "https://musicmeta-phinf.pstatic.net/album/032/056/32056801.jpg?type=r120Fll&v=20240830153358",
+        "youtubeID": "BBdC1rl5sKY"
     },
     {
         "ranking": "51",
         "title": "사건의 지평선",
         "artist": "윤하",
         "album": "YOUNHA 6th Album Repackage 'END THEORY : Final Edition'",
-        "image": "https://musicmeta-phinf.pstatic.net/album/007/434/7434553.jpg?type=r120Fll&v=20240219231017"
+        "image": "https://musicmeta-phinf.pstatic.net/album/007/434/7434553.jpg?type=r120Fll&v=20240219231017",
+        "youtubeID": "BBdC1rl5sKY"
     },
     {
         "ranking": "52",
         "title": "그리운건 그대일까 그때일까 (A Sleepless Night)",
         "artist": "CNBLUE(씨엔블루)",
         "album": "X",
-        "image": "https://musicmeta-phinf.pstatic.net/album/032/205/32205127.jpg?type=r120Fll&v=20241015100902"
+        "image": "https://musicmeta-phinf.pstatic.net/album/032/205/32205127.jpg?type=r120Fll&v=20241015100902",
+        "youtubeID": "ai2Afs604_w"
     },
     {
         "ranking": "53",
@@ -418,28 +428,32 @@
         "title": "취중고백",
         "artist": "김민석",
         "album": "취중고백",
-        "image": "https://musicmeta-phinf.pstatic.net/album/006/739/6739257.jpg?type=r120Fll&v=20231215200513"
+        "image": "https://musicmeta-phinf.pstatic.net/album/006/739/6739257.jpg?type=r120Fll&v=20231215200513",
+        "youtubeID": "VMQl78z1DiY"
     },
     {
         "ranking": "55",
         "title": "밤편지",
         "artist": "아이유(IU)",
         "album": "밤편지",
-        "image": "https://musicmeta-phinf.pstatic.net/album/001/855/1855408.jpg?type=r120Fll&v=20230331142723"
+        "image": "https://musicmeta-phinf.pstatic.net/album/001/855/1855408.jpg?type=r120Fll&v=20230331142723",
+        "youtubeID": "BzYnNdJhZQw"
     },
     {
         "ranking": "56",
         "title": "새끼손가락 걸고",
         "artist": "우디 (Woody)",
         "album": "새끼손가락 걸고",
-        "image": "https://musicmeta-phinf.pstatic.net/album/032/211/32211597.jpg?type=r120Fll&v=20241016163149"
+        "image": "https://musicmeta-phinf.pstatic.net/album/032/211/32211597.jpg?type=r120Fll&v=20241016163149",
+        "youtubeID": "NGmL_WouziE"
     },
     {
         "ranking": "57",
         "title": "밤양갱",
         "artist": "비비(BIBI)",
         "album": "밤양갱",
-        "image": "https://musicmeta-phinf.pstatic.net/album/030/864/30864083.jpg?type=r120Fll&v=20240610141946"
+        "image": "https://musicmeta-phinf.pstatic.net/album/030/864/30864083.jpg?type=r120Fll&v=20240610141946",
+        "youtubeID": "m9l1sRobl-E"
     },
     {
         "ranking": "58",
@@ -454,7 +468,8 @@
         "title": "When I Get Old",
         "artist": "Christopher",
         "album": "When I Get Old",
-        "image": "https://musicmeta-phinf.pstatic.net/album/008/241/8241264.jpg?type=r120Fll&v=20240222104522"
+        "image": "https://musicmeta-phinf.pstatic.net/album/008/241/8241264.jpg?type=r120Fll&v=20240222104522",
+        "youtubeID": "Ua3aNDJE_Cg"
     },
     {
         "ranking": "60",
@@ -484,7 +499,8 @@
         "title": "미안해 미워해 사랑해",
         "artist": "Crush",
         "album": "눈물의 여왕 OST Part 4",
-        "image": "https://musicmeta-phinf.pstatic.net/album/031/066/31066435.jpg?type=r120Fll&v=20240520113121"
+        "image": "https://musicmeta-phinf.pstatic.net/album/031/066/31066435.jpg?type=r120Fll&v=20240520113121",
+        "youtubeID": "Z4qVfCi_lUI"
     },
     {
         "ranking": "64",
@@ -542,21 +558,24 @@
         "title": "ETA",
         "artist": "NewJeans",
         "album": "NewJeans 2nd EP 'Get Up'",
-        "image": "https://musicmeta-phinf.pstatic.net/album/010/035/10035234.jpg?type=r120Fll&v=20240226054515"
+        "image": "https://musicmeta-phinf.pstatic.net/album/010/035/10035234.jpg?type=r120Fll&v=20240226054515",
+        "youtubeID": "jOTfBlKSQYY"
     },
     {
         "ranking": "72",
         "title": "Love Lee",
         "artist": "AKMU(악뮤)",
         "album": "Love Lee",
-        "image": "https://musicmeta-phinf.pstatic.net/album/010/197/10197837.jpg?type=r120Fll&v=20230821125934"
+        "image": "https://musicmeta-phinf.pstatic.net/album/010/197/10197837.jpg?type=r120Fll&v=20230821125934",
+        "youtubeID": "EIz09kLzN9k"
     },
     {
         "ranking": "73",
         "title": "사랑은 늘 도망가",
         "artist": "임영웅",
         "album": "신사와 아가씨 OST Part 2",
-        "image": "https://musicmeta-phinf.pstatic.net/album/006/465/6465843.jpg?type=r120Fll&v=20240218084016"
+        "image": "https://musicmeta-phinf.pstatic.net/album/006/465/6465843.jpg?type=r120Fll&v=20240218084016",
+        "youtubeID": "LKQ-18LoFQk"
     },
     {
         "ranking": "74",
@@ -571,28 +590,32 @@
         "title": "고민중독 (Ballad Ver.)",
         "artist": "허용별(허각, 신용재, 임한별)",
         "album": "허용별 프로젝트 - Special Single",
-        "image": "https://musicmeta-phinf.pstatic.net/album/031/883/31883795.jpg?type=r120Fll&v=20240628143042"
+        "image": "https://musicmeta-phinf.pstatic.net/album/031/883/31883795.jpg?type=r120Fll&v=20240628143042",
+        "youtubeID": "bpeDBIDSBGE"
     },
     {
         "ranking": "76",
         "title": "I Don't Think That I Like Her",
         "artist": "Charlie Puth",
         "album": "CHARLIE",
-        "image": "https://musicmeta-phinf.pstatic.net/album/006/958/6958691.jpg?type=r120Fll&v=20240219110027"
+        "image": "https://musicmeta-phinf.pstatic.net/album/006/958/6958691.jpg?type=r120Fll&v=20240219110027",
+        "youtubeID": "9voN0gkdlS4"
     },
     {
         "ranking": "77",
         "title": "밤하늘의 별을 (2020)",
         "artist": "경서",
         "album": "밤하늘의 별을 (2020)",
-        "image": "https://musicmeta-phinf.pstatic.net/album/005/083/5083052.jpg?type=r120Fll&v=20240215024015"
+        "image": "https://musicmeta-phinf.pstatic.net/album/005/083/5083052.jpg?type=r120Fll&v=20240215024015",
+        "youtubeID": "NuTNPV72rFo"
     },
     {
         "ranking": "78",
         "title": "오래된 노래",
         "artist": "허각",
         "album": "오래된 노래",
-        "image": "https://musicmeta-phinf.pstatic.net/album/031/817/31817706.jpg?type=r120Fll&v=20240614173558"
+        "image": "https://musicmeta-phinf.pstatic.net/album/031/817/31817706.jpg?type=r120Fll&v=20240614173558",
+        "youtubeID": "7jgWxcULibs"
     },
     {
         "ranking": "79",
@@ -607,21 +630,24 @@
         "title": "잠시라도 우리",
         "artist": "성시경",
         "album": "잠시라도 우리",
-        "image": "https://musicmeta-phinf.pstatic.net/album/030/095/30095364.jpg?type=r120Fll&v=20240227045014"
+        "image": "https://musicmeta-phinf.pstatic.net/album/030/095/30095364.jpg?type=r120Fll&v=20240227045014",
+        "youtubeID": "IGVOxPeeCMI"
     },
     {
         "ranking": "81",
         "title": "나에게 그대만이",
         "artist": "탑현",
         "album": "나에게 그대만이",
-        "image": "https://musicmeta-phinf.pstatic.net/album/009/741/9741533.jpg?type=r120Fll&v=20240225212522"
+        "image": "https://musicmeta-phinf.pstatic.net/album/009/741/9741533.jpg?type=r120Fll&v=20240225212522",
+        "youtubeID": "k1xceZZ1Zuw"
     },
     {
         "ranking": "82",
         "title": "사실말야내가말야그게그러니까말이야",
         "artist": "케이시(Kassy)",
         "album": "사실말야내가말야그게그러니까말이야",
-        "image": "https://musicmeta-phinf.pstatic.net/album/009/729/9729747.jpg?type=r120Fll&v=20240225193519"
+        "image": "https://musicmeta-phinf.pstatic.net/album/009/729/9729747.jpg?type=r120Fll&v=20240225193519",
+        "youtubeID": "ne2fkVCVkTE"
     },
     {
         "ranking": "83",
@@ -651,7 +677,8 @@
         "title": "Starry Night",
         "artist": "FIFTY FIFTY",
         "album": "Love Tune",
-        "image": "https://musicmeta-phinf.pstatic.net/album/032/054/32054333.jpg?type=r120Fll&v=20241105182014"
+        "image": "https://musicmeta-phinf.pstatic.net/album/032/054/32054333.jpg?type=r120Fll&v=20241105182014",
+        "youtubeID": "lzm-7YfBJBU"
     },
     {
         "ranking": "87",
