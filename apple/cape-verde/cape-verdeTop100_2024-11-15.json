@@ -1,0 +1,802 @@
+[
+    {
+        "ranking": "1",
+        "title": "Só Deus",
+        "artist": "Helio Batalha",
+        "album": "Só Deus - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/14/ca/56/14ca56ed-4d0e-47bd-061b-70e867c23153/0.jpg/80x80bb.webp",
+        "length": "5:22"
+    },
+    {
+        "ranking": "2",
+        "title": "À Toa",
+        "artist": "Chelsea Dinorath",
+        "album": "À Toa - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/3d/5b/623d5bbb-066b-502b-abe8-2fb4487db3e8/0.jpg/80x80bb.webp",
+        "length": "3:06"
+    },
+    {
+        "ranking": "3",
+        "title": "BOLOLO (feat. Dibongu, Ze Grogu & Polback)",
+        "artist": "Rednav",
+        "album": "AMAREDDY - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/f2/f1/2cf2f1b3-393b-928c-37dc-3af8c4459e68/cover.jpg/80x80bb.webp",
+        "length": "2:25"
+    },
+    {
+        "ranking": "4",
+        "title": "Obra Prima",
+        "artist": "Mark Delman",
+        "album": "Obra Prima - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6d/6e/fe/6d6efeab-b471-b2ff-2a31-9c66a66ebb77/cover.jpg/80x80bb.webp",
+        "length": "3:37"
+    },
+    {
+        "ranking": "5",
+        "title": "Korpu Viola",
+        "artist": "Alyrio",
+        "album": "Korpu Viola - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/01/62/b0/0162b0d5-cbc1-6b6c-7081-2bfe0c0a6be3/artwork.jpg/80x80bb.webp",
+        "length": "2:10"
+    },
+    {
+        "ranking": "6",
+        "title": "XOO (feat. Ze Grogu, Dibongu & Polback)",
+        "artist": "Rednav",
+        "album": "AMAREDDY DELUXE",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/80/86/dc80865f-2aed-927b-83a8-88872c889207/cover.jpg/80x80bb.webp",
+        "length": "3:00"
+    },
+    {
+        "ranking": "7",
+        "title": "STORM",
+        "artist": "Mark Delman",
+        "album": "STORM - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/52/9f/ad529f84-a695-f467-69be-799b4422ba56/cover.jpg/80x80bb.webp",
+        "length": "4:12"
+    },
+    {
+        "ranking": "8",
+        "title": "SODADE (feat. Michelle)",
+        "artist": "Cesf",
+        "album": "SODADE (feat. Michelle) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d5/4b/6a/d54b6a41-0030-4580-c58b-4c9e2ae27e62/artwork.jpg/80x80bb.webp",
+        "length": "3:27"
+    },
+    {
+        "ranking": "9",
+        "title": "Xkece",
+        "artist": "Djodje",
+        "album": "Elements - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4c/54/78/4c547826-e640-2343-064a-6820c14fce20/8447053128534.jpg/80x80bb.webp",
+        "length": "3:27"
+    },
+    {
+        "ranking": "10",
+        "title": "Mundo Gira",
+        "artist": "PCC",
+        "album": "Mundo Gira - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ef/f4/66/eff4669c-3cb5-9435-24a5-a36e783ed1cc/0.jpg/80x80bb.webp",
+        "length": "3:35"
+    },
+    {
+        "ranking": "11",
+        "title": "Timeless",
+        "artist": "The Weeknd",
+        "album": "Timeless - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
+        "length": "4:16"
+    },
+    {
+        "ranking": "12",
+        "title": "PAPU RETU",
+        "artist": "Alyrio",
+        "album": "PAPU RETU - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c4/2f/2d/c42f2d90-8def-6c9f-5f71-0c1127159517/artwork.jpg/80x80bb.webp",
+        "length": "2:29"
+    },
+    {
+        "ranking": "13",
+        "title": "Interestelar",
+        "artist": "Plutónio",
+        "album": "Interestelar - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/6f/c7/606fc790-537e-d55a-f5a8-17ce0387f585/196872557992.jpg/80x80bb.webp",
+        "length": "3:08"
+    },
+    {
+        "ranking": "14",
+        "title": "Crack com Mussilon",
+        "artist": "Matuê",
+        "album": "333",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/14/b5/4a/14b54a4f-eefd-fb47-cf0f-1c4afe252d0f/5034644060613.jpg/80x80bb.webp",
+        "length": "2:34"
+    },
+    {
+        "ranking": "15",
+        "title": "MUFUNFA (feat. Cjay FGB & Polback)",
+        "artist": "Rednav",
+        "album": "AMAREDDY DELUXE",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/80/86/dc80865f-2aed-927b-83a8-88872c889207/cover.jpg/80x80bb.webp",
+        "length": "2:51"
+    },
+    {
+        "ranking": "16",
+        "title": "Holy Ghost",
+        "artist": "Omah Lay",
+        "album": "Holy Ghost - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/93/e8/88/93e88861-c093-8e4f-019a-c43f7afc5c03/054391356826.jpg/80x80bb.webp",
+        "length": "3:06"
+    },
+    {
+        "ranking": "17",
+        "title": "Continua Pa Li (feat. Trakinuz)",
+        "artist": "Helio Batalha",
+        "album": "Nuta Kontinua Pali (feat. Trakinuz) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e2/fd/50/e2fd50fc-c235-501a-6381-014cd0c9b447/195081888668.jpg/80x80bb.webp",
+        "length": "4:17"
+    },
+    {
+        "ranking": "18",
+        "title": "Dexam Bua (feat. Sónia Sousa)",
+        "artist": "Helio Batalha",
+        "album": "Dexam Bua (feat. Sónia Sousa) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b9/e0/db/b9e0db3b-6562-76e9-459d-41c67243ba45/3567258627795.jpg/80x80bb.webp",
+        "length": "4:32"
+    },
+    {
+        "ranking": "19",
+        "title": "Viver",
+        "artist": "Vado Más Ki Ás",
+        "album": "Viver - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9b/a5/e5/9ba5e56e-9664-8276-b635-c1bc976f12b5/8447053094617.jpg/80x80bb.webp",
+        "length": "3:33"
+    },
+    {
+        "ranking": "20",
+        "title": "Ka Mesti Kanderu",
+        "artist": "Helio Batalha",
+        "album": "Di Cairo a Cabo",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cc/0c/c3/cc0cc3b3-0fa6-c70f-37a8-74f9aedc140d/3567258628099.jpg/80x80bb.webp",
+        "length": "5:09"
+    },
+    {
+        "ranking": "21",
+        "title": "Not Like Us",
+        "artist": "Kendrick Lamar",
+        "album": "Not Like Us - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
+        "length": "4:34"
+    },
+    {
+        "ranking": "22",
+        "title": "Imagina esse Cenário",
+        "artist": "Matuê",
+        "album": "333",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/14/b5/4a/14b54a4f-eefd-fb47-cf0f-1c4afe252d0f/5034644060613.jpg/80x80bb.webp",
+        "length": "2:35"
+    },
+    {
+        "ranking": "23",
+        "title": "Isso é Sério",
+        "artist": "Matuê",
+        "album": "333",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/14/b5/4a/14b54a4f-eefd-fb47-cf0f-1c4afe252d0f/5034644060613.jpg/80x80bb.webp",
+        "length": "4:45"
+    },
+    {
+        "ranking": "24",
+        "title": "V de Vilão",
+        "artist": "Matuê",
+        "album": "333",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/14/b5/4a/14b54a4f-eefd-fb47-cf0f-1c4afe252d0f/5034644060613.jpg/80x80bb.webp",
+        "length": "2:26"
+    },
+    {
+        "ranking": "25",
+        "title": "PUXA PASSA (feat. Lil Rody & RF)",
+        "artist": "Rednav",
+        "album": "AMAREDDY DELUXE",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/80/86/dc80865f-2aed-927b-83a8-88872c889207/cover.jpg/80x80bb.webp",
+        "length": "2:48"
+    },
+    {
+        "ranking": "26",
+        "title": "DEXAM (feat. RF)",
+        "artist": "Rednav",
+        "album": "AMAREDDY DELUXE",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/80/86/dc80865f-2aed-927b-83a8-88872c889207/cover.jpg/80x80bb.webp",
+        "length": "1:58"
+    },
+    {
+        "ranking": "27",
+        "title": "Last Last",
+        "artist": "Burna Boy",
+        "album": "Love, Damini",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/34/42/db/3442dbd6-644f-a111-8344-0151ffb93313/075679745156.jpg/80x80bb.webp",
+        "length": "2:52"
+    },
+    {
+        "ranking": "28",
+        "title": "Hero",
+        "artist": "Nelson Freitas",
+        "album": "Black Butterfly",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/84/f9/1e/84f91e9f-d7e1-2fa7-23a6-92d3f01a64b4/197190966671.jpg/80x80bb.webp",
+        "length": "3:26"
+    },
+    {
+        "ranking": "29",
+        "title": "Distancia (feat. Kady)",
+        "artist": "Cesf",
+        "album": "Distancia (feat. Kady) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/43/94/5f439431-9426-93b5-9495-f5d29e57a43c/artwork.jpg/80x80bb.webp",
+        "length": "3:20"
+    },
+    {
+        "ranking": "30",
+        "title": "Pipoca",
+        "artist": "Vado Más Ki Ás",
+        "album": "Pipoca - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/fa/ff/1afaff7b-eec9-7336-7067-3d44ba16944e/8447053117088.jpg/80x80bb.webp",
+        "length": "3:23"
+    },
+    {
+        "ranking": "31",
+        "title": "THE BOX MEDLEY FUNK 2",
+        "artist": "The Box",
+        "album": "THE BOX MEDLEY FUNK 2 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/a5/a1/63a5a127-cb15-c2fd-f6fa-85e5013378a0/196872018301.jpg/80x80bb.webp",
+        "length": "4:26"
+    },
+    {
+        "ranking": "32",
+        "title": "Agoh (feat. Vado Más Ki Ás)",
+        "artist": "Cesf",
+        "album": "XKEMA - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/01/4a/a3014a72-9467-15ca-b5a5-d8c093d46eb8/artwork.jpg/80x80bb.webp",
+        "length": "4:48"
+    },
+    {
+        "ranking": "33",
+        "title": "Tony Montana",
+        "artist": "Elji Beatzkilla",
+        "album": "Tony Montana - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/81/30/6b8130a2-7b5e-eef6-d0ba-d13646d67ea1/cover.jpg/80x80bb.webp",
+        "length": "3:31"
+    },
+    {
+        "ranking": "34",
+        "title": "Die With A Smile",
+        "artist": "Lady Gaga",
+        "album": "Die With A Smile - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
+        "length": "4:11"
+    },
+    {
+        "ranking": "35",
+        "title": "Moving",
+        "artist": "Omah Lay",
+        "album": "Moving - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/3a/c2/5a3ac2f1-614d-3594-6a57-706d05b45136/054391256409.jpg/80x80bb.webp",
+        "length": "2:20"
+    },
+    {
+        "ranking": "36",
+        "title": "Balacobaco (feat. Dannah)",
+        "artist": "Alyrio",
+        "album": "Balacobaco (feat. Dannah) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b2/2c/65/b22c652e-d98c-364a-aee7-4deaa3e23289/artwork.jpg/80x80bb.webp",
+        "length": "2:34"
+    },
+    {
+        "ranking": "37",
+        "title": "São Paulo",
+        "artist": "The Weeknd",
+        "album": "São Paulo - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/4a/64/934a64d3-2665-72ef-e5b4-29d61fd3707a/24UM1IM21420.rgb.jpg/80x80bb.webp",
+        "length": "5:01"
+    },
+    {
+        "ranking": "38",
+        "title": "TXUTXUKA",
+        "artist": "Ruben Teixeira",
+        "album": "TXUTXUKA - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7b/bd/24/7bbd2426-b27d-fe56-8e01-982e2751995d/artwork.jpg/80x80bb.webp",
+        "length": "3:13"
+    },
+    {
+        "ranking": "39",
+        "title": "Barbie",
+        "artist": "MC Tuto",
+        "album": "Barbie - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/54/30/3d543015-acf1-3f79-42ba-bc61f471c1fa/cover.jpg/80x80bb.webp",
+        "length": "3:12"
+    },
+    {
+        "ranking": "40",
+        "title": "ZOMBIE (feat. Giiio, Mister HiGH, VenasMadiba & GnzEnt)",
+        "artist": "Masterment",
+        "album": "ZOMBIE (feat. Giiio, Mister HiGH, VenasMadiba & GnzEnt) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/4a/aa/db4aaaab-9100-43a2-57e3-bbcd2735953c/artwork.jpg/80x80bb.webp",
+        "length": "2:38"
+    },
+    {
+        "ranking": "41",
+        "title": "Motivação",
+        "artist": "BigZ Patronato",
+        "album": "Motivação - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/7b/a7/8b7ba737-1132-a94d-e837-1864dde35bbd/8447053230848.jpg/80x80bb.webp",
+        "length": "2:36"
+    },
+    {
+        "ranking": "42",
+        "title": "Tempo Sabi",
+        "artist": "Djodje",
+        "album": "Tempo Sabi - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/73/ef/92/73ef925f-fba7-ac8c-db52-4a6397b8d08d/8445162165969.jpg/80x80bb.webp",
+        "length": "3:30"
+    },
+    {
+        "ranking": "43",
+        "title": "Chakras",
+        "artist": "Ivandro",
+        "album": "Chakras - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/38/07/1e/38071eb1-e761-8300-4bca-e6e1d8ae2fdf/23UMGIM44548.rgb.jpg/80x80bb.webp",
+        "length": "3:16"
+    },
+    {
+        "ranking": "44",
+        "title": "Destin",
+        "artist": "Mark Delman",
+        "album": "Destin - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/cc/05/4d/cc054d5e-6781-6193-d083-73cf4d532b7e/198015254744.jpg/80x80bb.webp",
+        "length": "3:37"
+    },
+    {
+        "ranking": "45",
+        "title": "Devia Ir",
+        "artist": "Wet Bed Gang",
+        "album": "Devia Ir - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8c/f0/c5/8cf0c5d1-06dd-db23-d83a-82eed4f19363/196871109284.jpg/80x80bb.webp",
+        "length": "4:53"
+    },
+    {
+        "ranking": "46",
+        "title": "Tentason",
+        "artist": "Djodje",
+        "album": "Tentason - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d8/b1/1a/d8b11a6c-b1ab-a908-45e4-c810ee364017/8447053074046.jpg/80x80bb.webp",
+        "length": "2:46"
+    },
+    {
+        "ranking": "47",
+        "title": "understand",
+        "artist": "Omah Lay",
+        "album": "Boy Alone (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/a7/4d/13a74d60-f269-603c-a8ee-527c0daba041/093624841319_01.jpg/80x80bb.webp",
+        "length": "2:54"
+    },
+    {
+        "ranking": "48",
+        "title": "L. T. L",
+        "artist": "Dynamo",
+        "album": "Independent",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/91/f0/57/91f057cb-155c-d032-68f1-3a34741ff535/8445162121712.jpg/80x80bb.webp",
+        "length": "3:40"
+    },
+    {
+        "ranking": "49",
+        "title": "Djam Bem",
+        "artist": "Helio Batalha",
+        "album": "Di Cairo a Cabo",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cc/0c/c3/cc0cc3b3-0fa6-c70f-37a8-74f9aedc140d/3567258628099.jpg/80x80bb.webp",
+        "length": "3:14"
+    },
+    {
+        "ranking": "50",
+        "title": "Qual é seu desejo? (feat. Cupula)",
+        "artist": "Tz da Coronel",
+        "album": "Qual é seu desejo? (feat. Cupula) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d0/19/c6/d019c666-9977-37b3-9863-ffdca81956bb/198391246944.jpg/80x80bb.webp",
+        "length": "2:33"
+    },
+    {
+        "ranking": "51",
+        "title": "Black Butterfly",
+        "artist": "Nelson Freitas",
+        "album": "Black Butterfly",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/84/f9/1e/84f91e9f-d7e1-2fa7-23a6-92d3f01a64b4/197190966671.jpg/80x80bb.webp",
+        "length": "3:03"
+    },
+    {
+        "ranking": "52",
+        "title": "KBB",
+        "artist": "Edgar Domingos",
+        "album": "Às de Copas",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/54/6a/b6/546ab67d-c529-9d73-068a-c61bc9991274/197342517201_cover.jpg/80x80bb.webp",
+        "length": "3:43"
+    },
+    {
+        "ranking": "53",
+        "title": "Controla",
+        "artist": "Apollo G",
+        "album": "Controla - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/5c/8e/f05c8e0e-265d-ba06-c07b-6e9da886ec77/artwork.jpg/80x80bb.webp",
+        "length": "3:46"
+    },
+    {
+        "ranking": "54",
+        "title": "Chocolate",
+        "artist": "Nelson Freitas",
+        "album": "Dpos D' Quarentena",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fc/65/d0/fc65d0dd-46b4-6c9d-fde1-dfc08f2c8828/3616554035640.jpg/80x80bb.webp",
+        "length": "3:10"
+    },
+    {
+        "ranking": "55",
+        "title": "Bitch, Don’t Kill My Vibe",
+        "artist": "Kendrick Lamar",
+        "album": "good kid, m.A.A.d city (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ac/9e/6a/ac9e6ad5-27a5-baef-0e33-795b2f42c3cf/12UMGIM52990.rgb.jpg/80x80bb.webp",
+        "length": "5:10"
+    },
+    {
+        "ranking": "56",
+        "title": "BEM NU BAI (feat. Boy Game)",
+        "artist": "PCC",
+        "album": "BEM NU BAI (feat. Boy Game) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/69/54/38695411-20e2-a8ac-2777-cb604caffa24/artwork.jpg/80x80bb.webp",
+        "length": "3:47"
+    },
+    {
+        "ranking": "57",
+        "title": "Passo a passo",
+        "artist": "Apollo G",
+        "album": "Passo a passo - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/95/8b/a9958b67-f8e8-4d3f-3b04-f9a539b473c0/artwork.jpg/80x80bb.webp",
+        "length": "2:41"
+    },
+    {
+        "ranking": "58",
+        "title": "RAZON",
+        "artist": "Miguel KR",
+        "album": "RAZON - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/13/d5/2513d5ab-81af-bcc1-19a4-84ea44612348/artwork.jpg/80x80bb.webp",
+        "length": "2:56"
+    },
+    {
+        "ranking": "59",
+        "title": "BIRDS OF A FEATHER",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "3:30"
+    },
+    {
+        "ranking": "60",
+        "title": "ATIVO (feat. Polback)",
+        "artist": "Rednav",
+        "album": "AMAREDDY - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/f2/f1/2cf2f1b3-393b-928c-37dc-3af8c4459e68/cover.jpg/80x80bb.webp",
+        "length": "2:22"
+    },
+    {
+        "ranking": "61",
+        "title": "1993",
+        "artist": "Matuê",
+        "album": "333",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/14/b5/4a/14b54a4f-eefd-fb47-cf0f-1c4afe252d0f/5034644060613.jpg/80x80bb.webp",
+        "length": "2:07"
+    },
+    {
+        "ranking": "62",
+        "title": "BABETE",
+        "artist": "Landrick",
+        "album": "REI DO KUYUYU",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/33/3a/42/333a42fe-7e1c-1e37-3fd9-4bae94e65168/24UMGIM18604.rgb.jpg/80x80bb.webp",
+        "length": "3:23"
+    },
+    {
+        "ranking": "63",
+        "title": "04AM",
+        "artist": "Matuê",
+        "album": "333",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/14/b5/4a/14b54a4f-eefd-fb47-cf0f-1c4afe252d0f/5034644060613.jpg/80x80bb.webp",
+        "length": "3:19"
+    },
+    {
+        "ranking": "64",
+        "title": "Castlevania",
+        "artist": "Matuê",
+        "album": "333",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/14/b5/4a/14b54a4f-eefd-fb47-cf0f-1c4afe252d0f/5034644060613.jpg/80x80bb.webp",
+        "length": "3:50"
+    },
+    {
+        "ranking": "65",
+        "title": "Piece of My Heart (feat. Brent Faiyaz)",
+        "artist": "Wizkid",
+        "album": "Piece of My Heart (feat. Brent Faiyaz) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/6a/1d/316a1d33-c077-d011-54ac-d2fda862896f/196872495171.jpg/80x80bb.webp",
+        "length": "4:19"
+    },
+    {
+        "ranking": "66",
+        "title": "PUNU (feat. Ze Grogu, Dibongu & Polback)",
+        "artist": "Rednav",
+        "album": "AMAREDDY DELUXE",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/80/86/dc80865f-2aed-927b-83a8-88872c889207/cover.jpg/80x80bb.webp",
+        "length": "2:39"
+    },
+    {
+        "ranking": "67",
+        "title": "4 Kampé",
+        "artist": "Joé Dwèt Filé",
+        "album": "4 Kampé - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/32/0a/05320ae3-1eef-3cd6-8f19-9ad9f078fa25/cover.jpg/80x80bb.webp",
+        "length": "3:34"
+    },
+    {
+        "ranking": "68",
+        "title": "A Danada Me Ligando",
+        "artist": "MC Cebezinho",
+        "album": "A Danada Me Ligando - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/b9/af/c7b9af61-fc15-7da9-238d-82ba4153ba64/0.jpg/80x80bb.webp",
+        "length": "4:43"
+    },
+    {
+        "ranking": "69",
+        "title": "Casa Melhor",
+        "artist": "Plutónio",
+        "album": "Carta de Alforria",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b2/de/30/b2de3042-b4e2-4c2e-6f2e-056a7a1c2c4e/196872597851.jpg/80x80bb.webp",
+        "length": null
+    },
+    {
+        "ranking": "70",
+        "title": "Sala de Audiências",
+        "artist": "Plutónio",
+        "album": "Carta de Alforria",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b2/de/30/b2de3042-b4e2-4c2e-6f2e-056a7a1c2c4e/196872597851.jpg/80x80bb.webp",
+        "length": null
+    },
+    {
+        "ranking": "71",
+        "title": "Bando",
+        "artist": "Montero xix",
+        "album": "Bando - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8f/d7/48/8fd74858-ce1c-fbdb-a900-294a2e98a5bd/artwork.jpg/80x80bb.webp",
+        "length": "2:25"
+    },
+    {
+        "ranking": "72",
+        "title": "1000 Bocados",
+        "artist": "Plutónio",
+        "album": "Carta de Alforria",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b2/de/30/b2de3042-b4e2-4c2e-6f2e-056a7a1c2c4e/196872597851.jpg/80x80bb.webp",
+        "length": null
+    },
+    {
+        "ranking": "73",
+        "title": "ArmaDilha",
+        "artist": "Jovem Dex",
+        "album": "Olha Essa Arte",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/14/90/9014905c-f1c1-ebb1-9f26-5a5738340347/0.jpg/80x80bb.webp",
+        "length": "2:40"
+    },
+    {
+        "ranking": "74",
+        "title": "Gênio",
+        "artist": "Jovem Dex",
+        "album": "Olha Essa Arte",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/14/90/9014905c-f1c1-ebb1-9f26-5a5738340347/0.jpg/80x80bb.webp",
+        "length": "3:12"
+    },
+    {
+        "ranking": "75",
+        "title": "Under the Influence",
+        "artist": "Chris Brown",
+        "album": "Indigo (Extended)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/96/1b/c9/961bc949-7e03-2670-f612-72c34ece6a22/886447924464.jpg/80x80bb.webp",
+        "length": "3:04"
+    },
+    {
+        "ranking": "76",
+        "title": "KU LO SA - A COLORS SHOW",
+        "artist": "Oxlade",
+        "album": "KU LO SA - A COLORS SHOW - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3c/6c/c7/3c6cc7b9-5bff-e196-2751-665fa5705ab1/196589232137.jpg/80x80bb.webp",
+        "length": "2:27"
+    },
+    {
+        "ranking": "77",
+        "title": "No Guidance (feat. Drake)",
+        "artist": "Chris Brown",
+        "album": "Indigo (Extended)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/96/1b/c9/961bc949-7e03-2670-f612-72c34ece6a22/886447924464.jpg/80x80bb.webp",
+        "length": "4:20"
+    },
+    {
+        "ranking": "78",
+        "title": "Versos & Poesias #4: Céu Azul (feat. Penelas Sidney, Chelsea Dinorath, LordCkOficial, Queen Marcy, Sheila Da Cunha, LilBoy Bruce, Mary J & Fábio S)",
+        "artist": "Black Spygo",
+        "album": "Versos & Poesias #4: Céu Azul (feat. Penelas Sidney, Chelsea Dinorath, LordCkOficial, Queen Marcy, Sheila Da Cunha, LilBoy Bruce, Mary J & Fábio S) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ea/51/68/ea51685a-69fb-fd1f-eccc-41ba3a39a327/22UMGIM81778.rgb.jpg/80x80bb.webp",
+        "length": "6:06"
+    },
+    {
+        "ranking": "79",
+        "title": "soso",
+        "artist": "Omah Lay",
+        "album": "Boy Alone (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/a7/4d/13a74d60-f269-603c-a8ee-527c0daba041/093624841319_01.jpg/80x80bb.webp",
+        "length": "3:03"
+    },
+    {
+        "ranking": "80",
+        "title": "Pidi la",
+        "artist": "DJ Deekay",
+        "album": "Pidi la - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d0/27/f5/d027f5a1-21d4-a12f-8329-1ab520da4eec/artwork.jpg/80x80bb.webp",
+        "length": "2:58"
+    },
+    {
+        "ranking": "81",
+        "title": "No Role Modelz",
+        "artist": "J. Cole",
+        "album": "2014 Forest Hills Drive",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/92/b9/62/92b9624d-e9fb-0e4f-f14b-6f1f96c0a3e0/21UM1IM54414.rgb.jpg/80x80bb.webp",
+        "length": "4:52"
+    },
+    {
+        "ranking": "82",
+        "title": "Real Life (feat. Stormzy)",
+        "artist": "Burna Boy",
+        "album": "Twice As Tall",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/85/a1/42/85a142dc-b01b-6840-c0d6-b52f90c5397c/075679807311.jpg/80x80bb.webp",
+        "length": "3:17"
+    },
+    {
+        "ranking": "83",
+        "title": "Fair Trade (feat. Travis Scott)",
+        "artist": "Drake",
+        "album": "Certified Lover Boy",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/11/36/38/1136384a-eebc-697a-c005-d890e41c0854/21UM1IM07518.rgb.jpg/80x80bb.webp",
+        "length": "4:51"
+    },
+    {
+        "ranking": "84",
+        "title": "Pom 1 Pe",
+        "artist": "Cesf",
+        "album": "Pom 1 Pe - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/32/57/40/3257402e-9c91-37fc-9358-4895571d714f/artwork.jpg/80x80bb.webp",
+        "length": "3:26"
+    },
+    {
+        "ranking": "85",
+        "title": "Charm",
+        "artist": "Rema",
+        "album": "Rave & Roses Ultra",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c8/97/ea/c897ea8e-fbc6-d4b8-48fe-d9e31b46f1ed/23SYMIM04172.rgb.jpg/80x80bb.webp",
+        "length": "3:24"
+    },
+    {
+        "ranking": "86",
+        "title": "Cima Nu Sta Nu Ka Podi Fika (feat. PCC)",
+        "artist": "Helio Batalha",
+        "album": "Cima Nu Sta Nu Ka Podi Fika (feat. PCC) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/51/11/2a/51112a1f-6489-a0ce-8f62-e5667daf4420/3567258625999.jpg/80x80bb.webp",
+        "length": "4:20"
+    },
+    {
+        "ranking": "87",
+        "title": "Kel Ké Dmeu (feat. Renata)",
+        "artist": "Mark Delman",
+        "album": "#1991",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/4e/d3/48/4ed34836-3787-e387-cb8c-2a639add690f/194660470003.jpg/80x80bb.webp",
+        "length": "4:15"
+    },
+    {
+        "ranking": "88",
+        "title": "Dexas Fla (feat. Dibaz MOB & Mark Delman)",
+        "artist": "Helio Batalha",
+        "album": "Di Cairo a Cabo",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cc/0c/c3/cc0cc3b3-0fa6-c70f-37a8-74f9aedc140d/3567258628099.jpg/80x80bb.webp",
+        "length": "4:59"
+    },
+    {
+        "ranking": "89",
+        "title": "Are We There Yet",
+        "artist": "Nelson Freitas",
+        "album": "Black Butterfly",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/84/f9/1e/84f91e9f-d7e1-2fa7-23a6-92d3f01a64b4/197190966671.jpg/80x80bb.webp",
+        "length": "3:01"
+    },
+    {
+        "ranking": "90",
+        "title": "X1 (feat. Dallass)",
+        "artist": "MC Cabelinho",
+        "album": "Little Hair",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/27/13/b7/2713b7a6-81b1-233e-79de-7a40209f1b99/0.jpg/80x80bb.webp",
+        "length": "3:08"
+    },
+    {
+        "ranking": "91",
+        "title": "Viaja",
+        "artist": "Irina Barros",
+        "album": "Viaja - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b7/69/36/b7693620-2f58-a0ae-2131-5958f3c8a602/8445162669924.jpg/80x80bb.webp",
+        "length": "3:45"
+    },
+    {
+        "ranking": "92",
+        "title": "Nubian Queen",
+        "artist": "Nelson Freitas",
+        "album": "Sempre Verão",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/dd/e1/17/dde117e0-46eb-8ca4-56fc-3caef885c13f/3616400725336.jpg/80x80bb.webp",
+        "length": "3:59"
+    },
+    {
+        "ranking": "93",
+        "title": "Caminho (feat. Michelle)",
+        "artist": "Mark Delman",
+        "album": "#1991",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/4e/d3/48/4ed34836-3787-e387-cb8c-2a639add690f/194660470003.jpg/80x80bb.webp",
+        "length": "5:22"
+    },
+    {
+        "ranking": "94",
+        "title": "Bo Tem Mel (feat. C4 pedro)",
+        "artist": "Nelson Freitas",
+        "album": "Elevate",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/be/3c/3f/be3c3f54-0fe3-1840-dd3d-c2f0124b0170/3610152397858.jpg/80x80bb.webp",
+        "length": "4:57"
+    },
+    {
+        "ranking": "95",
+        "title": "Bunita",
+        "artist": "Dynamo",
+        "album": "Blindado",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/ff/ad/92ffad60-4782-3936-af28-30f7ce5f2807/8447053161975.jpg/80x80bb.webp",
+        "length": "3:32"
+    },
+    {
+        "ranking": "96",
+        "title": "KANORMAL",
+        "artist": "Irina Barros",
+        "album": "KANORMAL - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e9/23/05/e92305e2-88be-2b60-2e79-48d40a497425/8447053126523.jpg/80x80bb.webp",
+        "length": "3:18"
+    },
+    {
+        "ranking": "97",
+        "title": "Mitsubishi (feat. Kizzy)",
+        "artist": "Orochi",
+        "album": "Celebridade",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f3/26/eb/f326eb63-1442-e199-f9bd-bb33bf58fdd2/0.jpg/80x80bb.webp",
+        "length": "3:02"
+    },
+    {
+        "ranking": "98",
+        "title": "Hey Odja",
+        "artist": "Neyna",
+        "album": "Hey Odja - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f6/76/fb/f676fba8-317c-a102-5a1d-52096eba566b/24UMGIM55782.rgb.jpg/80x80bb.webp",
+        "length": "2:47"
+    },
+    {
+        "ranking": "99",
+        "title": "Arigatou",
+        "artist": "Dynamo",
+        "album": "Blindado",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/ff/ad/92ffad60-4782-3936-af28-30f7ce5f2807/8447053161975.jpg/80x80bb.webp",
+        "length": "2:43"
+    },
+    {
+        "ranking": "100",
+        "title": "Don't Let Me Go (feat. Daecolm Holland)",
+        "artist": "Nelson Freitas",
+        "album": "Black Butterfly",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/84/f9/1e/84f91e9f-d7e1-2fa7-23a6-92d3f01a64b4/197190966671.jpg/80x80bb.webp",
+        "length": "3:31"
+    }
+]
