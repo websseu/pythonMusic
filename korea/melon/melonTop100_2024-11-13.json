@@ -710,13 +710,15 @@
         "title": "Super Shy",
         "artist": "NewJeans",
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/112/81/456/11281456_20230706180841_500.jpg/melon/resize/120/quality/80/optimize",
-        "album": "NewJeans 2nd EP 'Get Up'"
+        "album": "NewJeans 2nd EP 'Get Up'",
+        "youtubeID": "ArmDp-zijuc"
     },
     {
         "ranking": "100",
         "title": "MEOW",
         "artist": "MEOVV (미야오)",
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/115/86/554/11586554_20240906095540_500.jpg/melon/resize/120/quality/80/optimize",
-        "album": "MEOW"
+        "album": "MEOW",
+        "youtubeID": "jpLHg-AsQV0"
     }
 ]
