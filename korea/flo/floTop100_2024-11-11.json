@@ -11,21 +11,24 @@
         "title": "Whiplash",
         "artist": "aespa",
         "image": "https://cdn.music-flo.com/image/v2/album/366/014/30/04/430014366_17ff7b7f55d08ac6_s.jpg?1729236571181/dims/resize/140x140/quality/90",
-        "album": "Whiplash - The 5th Mini Album"
+        "album": "Whiplash - The 5th Mini Album",
+        "youtubeID": "jWQx2f-CErU"
     },
     {
         "ranking": "3",
         "title": "POWER",
         "artist": "G-DRAGON",
         "image": "https://cdn.music-flo.com/image/v2/album/647/432/30/04/430432647_180325a46e7e5355_s.jpg?1730268075969/dims/resize/140x140/quality/90",
-        "album": "POWER"
+        "album": "POWER",
+        "youtubeID": "NMjhjrBIrG8"
     },
     {
         "ranking": "4",
         "title": "UP (KARINA Solo)",
         "artist": "aespa",
         "image": "https://cdn.music-flo.com/image/v2/album/013/668/29/04/429668013_17fc5aab16155398_s.jpg?1728356051215/dims/resize/140x140/quality/90",
-        "album": "SYNK : PARALLEL LINE - Special Digital Single"
+        "album": "SYNK : PARALLEL LINE - Special Digital Single",
+        "youtubeID": "Opu_jpm43rQ"
     },
     {
         "ranking": "5",
@@ -46,14 +49,16 @@
         "title": "내 이름 맑음",
         "artist": "QWER",
         "image": "https://cdn.music-flo.com/image/v2/album/963/461/28/04/428461963_17f7bc5a101cc394_s.jpg?1727056079942/dims/resize/140x140/quality/90",
-        "album": "2nd Mini Album 'Algorithm's Blossom'"
+        "album": "2nd Mini Album 'Algorithm's Blossom'",
+        "youtubeID": "AlirzLFEHUI"
     },
     {
         "ranking": "8",
         "title": "Supernova",
         "artist": "aespa",
         "image": "https://cdn.music-flo.com/image/v2/album/322/955/24/04/424955322_66543e41_s.jpg?1716796998732/dims/resize/140x140/quality/90",
-        "album": "Armageddon - The 1st Album"
+        "album": "Armageddon - The 1st Album",
+        "youtubeID": "phuiiNCxRMg"
     },
     {
         "ranking": "9",
@@ -74,7 +79,8 @@
         "title": "내게 사랑이 뭐냐고 물어본다면",
         "artist": "로이킴",
         "image": "https://cdn.music-flo.com/image/v2/album/082/855/29/04/429855082_17fe3da863b9032d_s.jpg?1728887107509/dims/resize/140x140/quality/90",
-        "album": "내게 사랑이 뭐냐고 물어본다면"
+        "album": "내게 사랑이 뭐냐고 물어본다면",
+        "youtubeID": "5ly8tAU-n_w"
     },
     {
         "ranking": "12",
@@ -88,7 +94,8 @@
         "title": "고민중독",
         "artist": "QWER",
         "image": "https://cdn.music-flo.com/image/v2/album/081/584/23/04/423584081_66052d8a_s.jpg?1711615372482/dims/resize/140x140/quality/90",
-        "album": "1st Mini Album 'MANITO'"
+        "album": "1st Mini Album 'MANITO'",
+        "youtubeID": "phsDrsw-tzc"
     },
     {
         "ranking": "14",
@@ -144,7 +151,8 @@
         "title": "Drowning",
         "artist": "WOODZ",
         "image": "https://cdn.music-flo.com/image/v2/album/413/666/11/04/411666413_6448df60_s.jpg?1682497378566/dims/resize/140x140/quality/90",
-        "album": "OO-LI"
+        "album": "OO-LI",
+        "youtubeID": "tiKFuzpX-NA"
     },
     {
         "ranking": "22",
@@ -284,7 +292,8 @@
         "title": "Igloo",
         "artist": "KISS OF LIFE",
         "image": "https://cdn.music-flo.com/image/v2/album/642/490/29/04/429490642_17fe3ea5c2553290_s.jpg?1728888190060/dims/resize/140x140/quality/90",
-        "album": "Lose Yourself"
+        "album": "Lose Yourself",
+        "youtubeID": "toF4ee3n-vo"
     },
     {
         "ranking": "42",
@@ -305,7 +314,8 @@
         "title": "청춘만화",
         "artist": "이무진",
         "image": "https://cdn.music-flo.com/image/v2/album/134/567/29/04/429567134_17fb2ddd57150d57_o.jpg?1728025312378/dims/resize/140x140/quality/90",
-        "album": "만화 (滿花)"
+        "album": "만화 (滿花)",
+        "youtubeID": "qLJq2muxhWc"
     },
     {
         "ranking": "45",
@@ -326,7 +336,8 @@
         "title": "Armageddon",
         "artist": "aespa",
         "image": "https://cdn.music-flo.com/image/v2/album/322/955/24/04/424955322_66543e41_s.jpg?1716796998732/dims/resize/140x140/quality/90",
-        "album": "Armageddon - The 1st Album"
+        "album": "Armageddon - The 1st Album",
+        "youtubeID": "nFYwcndNuOY"
     },
     {
         "ranking": "48",
@@ -340,7 +351,8 @@
         "title": "주저하는 연인들을 위해",
         "artist": "잔나비",
         "image": "https://cdn.music-flo.com/image/album/951/514/02/04/402514951_5c9f7728.jpg?1553954602423/dims/resize/140x140/quality/90",
-        "album": "전설"
+        "album": "전설",
+        "youtubeID": "GpQ222I1ULc"
     },
     {
         "ranking": "50",
@@ -382,7 +394,8 @@
         "title": "Sticky",
         "artist": "KISS OF LIFE",
         "image": "https://cdn.music-flo.com/image/v2/album/941/412/26/04/426412941_667e1ce8_s.jpg?1719540970629/dims/resize/140x140/quality/90",
-        "album": "Sticky"
+        "album": "Sticky",
+        "youtubeID": "IajeQM00yfE"
     },
     {
         "ranking": "56",
@@ -396,14 +409,16 @@
         "title": "인사",
         "artist": "범진",
         "image": "https://cdn.music-flo.com/image/v2/album/649/162/07/04/407162649_656e7432_s.jpg?1701737525812/dims/resize/140x140/quality/90",
-        "album": "인사"
+        "album": "인사",
+        "youtubeID": "bbqr6NkJ88A"
     },
     {
         "ranking": "58",
         "title": "가까운 듯 먼 그대여",
         "artist": "카더가든",
         "image": "https://cdn.music-flo.com/image/v2/album/599/496/06/04/406496599_6125f0dd_o.jpg?1629876445994/dims/resize/140x140/quality/90",
-        "album": "가까운 듯 먼 그대여"
+        "album": "가까운 듯 먼 그대여",
+        "youtubeID": "CAxPgfOqtr8"
     },
     {
         "ranking": "59",
@@ -473,7 +488,8 @@
         "title": "DRIP",
         "artist": "BABYMONSTER",
         "image": "https://cdn.music-flo.com/image/v2/album/858/427/30/04/430427858_1803b1790ff4da9f_s.jpg?1730421815856/dims/resize/140x140/quality/90",
-        "album": "DRIP"
+        "album": "DRIP",
+        "youtubeID": "Zp-Jhuhq0bQ"
     },
     {
         "ranking": "69",
@@ -606,7 +622,8 @@
         "title": "Drama",
         "artist": "aespa",
         "image": "https://cdn.music-flo.com/image/v2/album/970/004/19/04/419004970_654c76ae_s.jpg?1699509936112/dims/resize/140x140/quality/90",
-        "album": "Drama - The 4th Mini Album"
+        "album": "Drama - The 4th Mini Album",
+        "youtubeID": "D8VEhcPeSlc"
     },
     {
         "ranking": "88",

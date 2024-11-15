@@ -11,21 +11,24 @@
         "title": "Whiplash",
         "artist": "aespa",
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/116/20/540/11620540_20241018183208_500.jpg/melon/resize/120/quality/80/optimize",
-        "album": "Whiplash - The 5th Mini Album"
+        "album": "Whiplash - The 5th Mini Album",
+        "youtubeID": "jWQx2f-CErU"
     },
     {
         "ranking": "3",
         "title": "POWER",
         "artist": "G-DRAGON",
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/116/30/124/11630124_20241031100530_500.jpg/melon/resize/120/quality/80/optimize",
-        "album": "POWER"
+        "album": "POWER",
+        "youtubeID": "NMjhjrBIrG8"
     },
     {
         "ranking": "4",
         "title": "UP (KARINA Solo)",
         "artist": "aespa",
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/116/10/170/11610170_20241008143002_500.jpg/melon/resize/120/quality/80/optimize",
-        "album": "SYNK : PARALLEL LINE - Special Digital Single"
+        "album": "SYNK : PARALLEL LINE - Special Digital Single",
+        "youtubeID": "Opu_jpm43rQ"
     },
     {
         "ranking": "5",
@@ -46,7 +49,8 @@
         "title": "내 이름 맑음",
         "artist": "QWER",
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/115/80/909/11580909_20240923131754_500.jpg/melon/resize/120/quality/80/optimize",
-        "album": "2nd Mini Album 'Algorithm's Blossom'"
+        "album": "2nd Mini Album 'Algorithm's Blossom'",
+        "youtubeID": "AlirzLFEHUI"
     },
     {
         "ranking": "8",
@@ -60,14 +64,16 @@
         "title": "내게 사랑이 뭐냐고 물어본다면",
         "artist": "로이킴",
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/116/16/312/11616312_20241015135802_500.jpg/melon/resize/120/quality/80/optimize",
-        "album": "내게 사랑이 뭐냐고 물어본다면"
+        "album": "내게 사랑이 뭐냐고 물어본다면",
+        "youtubeID": "5ly8tAU-n_w"
     },
     {
         "ranking": "10",
         "title": "Supernova",
         "artist": "aespa",
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/114/87/023/11487023_20240527154018_500.jpg/melon/resize/120/quality/80/optimize",
-        "album": "Armageddon - The 1st Album"
+        "album": "Armageddon - The 1st Album",
+        "youtubeID": "phuiiNCxRMg"
     },
     {
         "ranking": "11",
@@ -144,7 +150,8 @@
         "title": "고민중독",
         "artist": "QWER",
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/114/54/681/11454681_20240328174504_500.jpg/melon/resize/120/quality/80/optimize",
-        "album": "1st Mini Album 'MANITO'"
+        "album": "1st Mini Album 'MANITO'",
+        "youtubeID": "phsDrsw-tzc"
     },
     {
         "ranking": "22",
@@ -207,7 +214,8 @@
         "title": "Love wins all",
         "artist": "아이유",
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/114/04/142/11404142_20240220141548_500.jpg/melon/resize/120/quality/80/optimize",
-        "album": "The Winning"
+        "album": "The Winning",
+        "youtubeID": "JleoAppaxi0"
     },
     {
         "ranking": "31",
@@ -242,7 +250,8 @@
         "title": "Drowning",
         "artist": "WOODZ",
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/111/83/506/11183506_20230426141236_500.jpg/melon/resize/120/quality/80/optimize",
-        "album": "OO-LI"
+        "album": "OO-LI",
+        "youtubeID": "tiKFuzpX-NA"
     },
     {
         "ranking": "36",
@@ -302,6 +311,31 @@
     },
     {
         "ranking": "44",
+<<<<<<< HEAD
+        "title": "너의 모든 순간",
+        "artist": "성시경",
+        "image": "https://cdnimg.melon.co.kr/cm/album/images/022/32/505/2232505_500.jpg/melon/resize/120/quality/80/optimize",
+        "album": "별에서 온 그대 OST Part.7"
+    },
+    {
+        "ranking": "45",
+        "title": "무지개",
+        "artist": "임영웅",
+        "image": "https://cdnimg.melon.co.kr/cm2/album/images/109/23/444/10923444_20220502140600_500.jpg/melon/resize/120/quality/80/optimize",
+        "album": "IM HERO"
+    },
+    {
+        "ranking": "46",
+        "title": "Sticky",
+        "artist": "KISS OF LIFE",
+        "image": "https://cdnimg.melon.co.kr/cm2/album/images/115/25/661/11525661_20240628155508_500.jpg/melon/resize/120/quality/80/optimize",
+        "album": "Sticky",
+        "youtubeID": "IajeQM00yfE"
+    },
+    {
+        "ranking": "47",
+=======
+>>>>>>> cedbb795763e4ad557dbb0899c6fd26006d69f16
         "title": "Magnetic",
         "artist": "아일릿(ILLIT)",
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/114/50/069/11450069_20240325110702_500.jpg/melon/resize/120/quality/80/optimize",
@@ -326,7 +360,8 @@
         "title": "주저하는 연인들을 위해",
         "artist": "잔나비",
         "image": "https://cdnimg.melon.co.kr/cm/album/images/102/60/858/10260858_500.jpg/melon/resize/120/quality/80/optimize",
-        "album": "전설"
+        "album": "전설",
+        "youtubeID": "GpQ222I1ULc"
     },
     {
         "ranking": "48",
@@ -372,10 +407,18 @@
     },
     {
         "ranking": "54",
+<<<<<<< HEAD
+        "title": "Armageddon",
+        "artist": "aespa",
+        "image": "https://cdnimg.melon.co.kr/cm2/album/images/114/87/023/11487023_20240527154018_500.jpg/melon/resize/120/quality/80/optimize",
+        "album": "Armageddon - The 1st Album",
+        "youtubeID": "nFYwcndNuOY"
+=======
         "title": "에피소드",
         "artist": "이무진",
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/113/82/987/11382987_20231212165916_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "에피소드"
+>>>>>>> cedbb795763e4ad557dbb0899c6fd26006d69f16
     },
     {
         "ranking": "55",
@@ -385,7 +428,19 @@
         "album": "비의 랩소디"
     },
     {
+<<<<<<< HEAD
+        "ranking": "57",
+        "title": "청춘만화",
+        "artist": "이무진",
+        "image": "https://cdnimg.melon.co.kr/cm2/album/images/116/08/521/11608521_20241004161722_500.jpg/melon/resize/120/quality/80/optimize",
+        "album": "만화 (滿花)",
+        "youtubeID": "qLJq2muxhWc"
+    },
+    {
+        "ranking": "58",
+=======
         "ranking": "56",
+>>>>>>> cedbb795763e4ad557dbb0899c6fd26006d69f16
         "title": "Seven (feat. Latto) - Clean Ver.",
         "artist": "정국",
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/112/86/070/11286070_20230713181059_500.jpg/melon/resize/120/quality/80/optimize",
@@ -442,10 +497,18 @@
     },
     {
         "ranking": "64",
+<<<<<<< HEAD
+        "title": "인사",
+        "artist": "범진",
+        "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/21/699/10821699_20231205103724_500.jpg/melon/resize/120/quality/80/optimize",
+        "album": "인사",
+        "youtubeID": "bbqr6NkJ88A"
+=======
         "title": "Merry PLLIstmas",
         "artist": "PLAVE",
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/114/27/101/11427101_20240223153059_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "ASTERUM : 134-1"
+>>>>>>> cedbb795763e4ad557dbb0899c6fd26006d69f16
     },
     {
         "ranking": "65",
@@ -536,14 +599,24 @@
         "title": "Igloo",
         "artist": "KISS OF LIFE",
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/116/07/747/11607747_20241015110919_500.jpg/melon/resize/120/quality/80/optimize",
-        "album": "Lose Yourself"
+        "album": "Lose Yourself",
+        "youtubeID": "toF4ee3n-vo"
     },
     {
+<<<<<<< HEAD
+        "ranking": "83",
+        "title": "Boom Boom Bass",
+        "artist": "RIIZE",
+        "image": "https://cdnimg.melon.co.kr/cm2/album/images/114/56/179/11456179_20240617152303_500.jpg/melon/resize/120/quality/80/optimize",
+        "album": "RIIZING - The 1st Mini Album",
+        "youtubeID": "78lNnCitcBM"
+=======
         "ranking": "78",
         "title": "취중고백",
         "artist": "김민석",
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/16/959/10816959_20211217144957_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "취중고백"
+>>>>>>> cedbb795763e4ad557dbb0899c6fd26006d69f16
     },
     {
         "ranking": "79",
@@ -606,7 +679,8 @@
         "title": "Drama",
         "artist": "aespa",
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/113/62/544/11362544_20231110142622_500.jpg/melon/resize/120/quality/80/optimize",
-        "album": "Drama - The 4th Mini Album"
+        "album": "Drama - The 4th Mini Album",
+        "youtubeID": "D8VEhcPeSlc"
     },
     {
         "ranking": "88",
@@ -620,7 +694,8 @@
         "title": "Love 119",
         "artist": "RIIZE",
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/113/94/065/11394065_20240104151541_500.jpg/melon/resize/120/quality/80/optimize",
-        "album": "Love 119"
+        "album": "Love 119",
+        "youtubeID": "0TAAUWHo4Ec"
     },
     {
         "ranking": "90",

@@ -11,21 +11,24 @@
         "title": "Whiplash",
         "artist": "aespa",
         "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/694/834/85694834_1729236989658_1_140x140.JPG/dims/resize/Q_80,0",
-        "album": "Whiplash - The 5th Mini Album"
+        "album": "Whiplash - The 5th Mini Album",
+        "youtubeID": "jWQx2f-CErU"
     },
     {
         "ranking": "3",
         "title": "POWER",
         "artist": "G-DRAGON",
         "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/729/971/85729971_1730269317798_1_140x140.JPG/dims/resize/Q_80,0",
-        "album": "POWER"
+        "album": "POWER",
+        "youtubeID": "NMjhjrBIrG8"
     },
     {
         "ranking": "4",
         "title": "UP (KARINA Solo)",
         "artist": "aespa",
         "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/664/591/85664591_1728366690840_1_140x140.JPG/dims/resize/Q_80,0",
-        "album": "SYNK : PARALLEL LINE - Special Digital Single"
+        "album": "SYNK : PARALLEL LINE - Special Digital Single",
+        "youtubeID": "Opu_jpm43rQ"
     },
     {
         "ranking": "5",
@@ -46,7 +49,8 @@
         "title": "내 이름 맑음",
         "artist": "QWER",
         "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/556/176/85556176_1727059041255_1_140x140.JPG/dims/resize/Q_80,0",
-        "album": "2nd Mini Album 'Algorithm's Blossom'"
+        "album": "2nd Mini Album 'Algorithm's Blossom'",
+        "youtubeID": "AlirzLFEHUI"
     },
     {
         "ranking": "8",
@@ -60,7 +64,8 @@
         "title": "내게 사랑이 뭐냐고 물어본다면",
         "artist": "로이킴",
         "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/662/151/85662151_1729042126804_1_140x140.JPG/dims/resize/Q_80,0",
-        "album": "내게 사랑이 뭐냐고 물어본다면"
+        "album": "내게 사랑이 뭐냐고 물어본다면",
+        "youtubeID": "5ly8tAU-n_w"
     },
     {
         "ranking": "10",
@@ -74,14 +79,16 @@
         "title": "Supernova",
         "artist": "aespa",
         "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/165/232/85165232_1716798792825_1_140x140.JPG/dims/resize/Q_80,0",
-        "album": "Armageddon - The 1st Album"
+        "album": "Armageddon - The 1st Album",
+        "youtubeID": "phuiiNCxRMg"
     },
     {
         "ranking": "12",
         "title": "고민중독",
         "artist": "QWER",
         "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/934/155/84934155_1711856063083_1_140x140.JPG/dims/resize/Q_80,0",
-        "album": "1st Mini Album 'MANITO'"
+        "album": "1st Mini Album 'MANITO'",
+        "youtubeID": "phsDrsw-tzc"
     },
     {
         "ranking": "13",
@@ -172,14 +179,16 @@
         "title": "Drowning",
         "artist": "WOODZ",
         "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/570/761/83570761_1682496044865_1_140x140.JPG/dims/resize/Q_80,0",
-        "album": "OO-LI"
+        "album": "OO-LI",
+        "youtubeID": "tiKFuzpX-NA"
     },
     {
         "ranking": "26",
         "title": "청춘만화",
         "artist": "이무진",
         "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/655/130/85655130_1728026830591_1_140x140.JPG/dims/resize/Q_80,0",
-        "album": "만화 (滿花)"
+        "album": "만화 (滿花)",
+        "youtubeID": "qLJq2muxhWc"
     },
     {
         "ranking": "27",
@@ -347,7 +356,8 @@
         "title": "Cruel Summer",
         "artist": "Taylor Swift",
         "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/261/264/81261264_1566536354779_1_140x140.JPG/dims/resize/Q_80,0",
-        "album": "Lover"
+        "album": "Lover",
+        "youtubeID": "ic8j13piAhQ"
     },
     {
         "ranking": "51",
@@ -382,14 +392,16 @@
         "title": "주저하는 연인들을 위해",
         "artist": "잔나비",
         "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/172/042/81172042_1552452730746_1_140x140.JPG/dims/resize/Q_80,0",
-        "album": "전설"
+        "album": "전설",
+        "youtubeID": "GpQ222I1ULc"
     },
     {
         "ranking": "56",
         "title": "Armageddon",
         "artist": "aespa",
         "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/165/232/85165232_1716798792825_1_140x140.JPG/dims/resize/Q_80,0",
-        "album": "Armageddon - The 1st Album"
+        "album": "Armageddon - The 1st Album",
+        "youtubeID": "nFYwcndNuOY"
     },
     {
         "ranking": "57",
@@ -459,7 +471,8 @@
         "title": "Sticky",
         "artist": "KISS OF LIFE",
         "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/369/841/85369841_1719542210893_1_140x140.JPG/dims/resize/Q_80,0",
-        "album": "Sticky"
+        "album": "Sticky",
+        "youtubeID": "IajeQM00yfE"
     },
     {
         "ranking": "67",
@@ -515,7 +528,8 @@
         "title": "Igloo",
         "artist": "KISS OF LIFE",
         "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/650/192/85650192_1728969770669_1_140x140.JPG/dims/resize/Q_80,0",
-        "album": "Lose Yourself"
+        "album": "Lose Yourself",
+        "youtubeID": "toF4ee3n-vo"
     },
     {
         "ranking": "75",
@@ -529,7 +543,8 @@
         "title": "인사",
         "artist": "범진",
         "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/451/947/82451947_1701745934582_1_140x140.JPG/dims/resize/Q_80,0",
-        "album": "인사"
+        "album": "인사",
+        "youtubeID": "bbqr6NkJ88A"
     },
     {
         "ranking": "77",
@@ -585,7 +600,8 @@
         "title": "숲",
         "artist": "최유리",
         "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/923/028/82923028_1661306447379_1_140x140.JPG/dims/resize/Q_80,0",
-        "album": "유영"
+        "album": "유영",
+        "youtubeID": "AOGhUcAdTKk"
     },
     {
         "ranking": "85",
@@ -641,14 +657,16 @@
         "title": "Drama",
         "artist": "aespa",
         "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/472/747/84472747_1699512957643_1_140x140.JPG/dims/resize/Q_80,0",
-        "album": "Drama - The 4th Mini Album"
+        "album": "Drama - The 4th Mini Album",
+        "youtubeID": "D8VEhcPeSlc"
     },
     {
         "ranking": "93",
         "title": "DRIP",
         "artist": "BABYMONSTER",
         "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/729/404/85729404_1730422138405_1_140x140.JPG/dims/resize/Q_80,0",
-        "album": "DRIP"
+        "album": "DRIP",
+        "youtubeID": "Zp-Jhuhq0bQ"
     },
     {
         "ranking": "94",
