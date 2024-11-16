@@ -1,0 +1,802 @@
+[
+    {
+        "ranking": "1",
+        "title": "Voice",
+        "artist": "Nucci",
+        "album": "ZAMENA ZA BOL",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/29/2d/96292d3e-4e70-a2af-ce30-e189bcd92f47/198846515359.jpg/80x80bb.webp",
+        "length": "2:28"
+    },
+    {
+        "ranking": "2",
+        "title": "That’s So True",
+        "artist": "Gracie Abrams",
+        "album": "The Secret of Us (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
+        "length": "2:46"
+    },
+    {
+        "ranking": "3",
+        "title": "HI HI - HA HA (feat. Biba & Devito)",
+        "artist": "Nucci",
+        "album": "ZAMENA ZA BOL",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/29/2d/96292d3e-4e70-a2af-ce30-e189bcd92f47/198846515359.jpg/80x80bb.webp",
+        "length": "3:15"
+    },
+    {
+        "ranking": "4",
+        "title": "Bluza",
+        "artist": "Joker Out",
+        "album": "Bluza - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/57/d4/0c57d456-cfcc-f939-7a37-7b829355916a/24UM1IM00929.rgb.jpg/80x80bb.webp",
+        "length": "3:11"
+    },
+    {
+        "ranking": "5",
+        "title": "Forza",
+        "artist": "Grše",
+        "album": "Forza - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/ec/18/62ec1883-aac6-1a1b-8808-c8a79fab5201/cover.jpg/80x80bb.webp",
+        "length": "2:40"
+    },
+    {
+        "ranking": "6",
+        "title": "Vvs",
+        "artist": "Voyage",
+        "album": "Vvs - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/d8/92/13d892fd-9113-2956-a10a-b827ec2eb571/11676.jpg/80x80bb.webp",
+        "length": "2:45"
+    },
+    {
+        "ranking": "7",
+        "title": "BIRDS OF A FEATHER",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "3:30"
+    },
+    {
+        "ranking": "8",
+        "title": "Bez Koda",
+        "artist": "Jala Brat",
+        "album": "Goat Season (Part Two) - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/12/65/4c/12654c1e-fdd6-e1a3-5401-65748a268ee8/196032898385.jpg/80x80bb.webp",
+        "length": "2:15"
+    },
+    {
+        "ranking": "9",
+        "title": "Ceo Svet",
+        "artist": "Nucci",
+        "album": "ZAMENA ZA BOL",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/29/2d/96292d3e-4e70-a2af-ce30-e189bcd92f47/198846515359.jpg/80x80bb.webp",
+        "length": "2:13"
+    },
+    {
+        "ranking": "10",
+        "title": "Timeless",
+        "artist": "The Weeknd",
+        "album": "Timeless - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
+        "length": "4:16"
+    },
+    {
+        "ranking": "11",
+        "title": "Die With A Smile",
+        "artist": "Lady Gaga",
+        "album": "Die With A Smile - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
+        "length": "4:11"
+    },
+    {
+        "ranking": "12",
+        "title": "Ako Toga Više Neće Biti",
+        "artist": "Joker Out",
+        "album": "Souvenir Pop",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/81/96/55819681-1c67-8010-2632-30110cff67ab/24UM1IM13369.rgb.jpg/80x80bb.webp",
+        "length": "4:08"
+    },
+    {
+        "ranking": "13",
+        "title": "Muzika Za Decu",
+        "artist": "Joker Out",
+        "album": "Souvenir Pop",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/81/96/55819681-1c67-8010-2632-30110cff67ab/24UM1IM13369.rgb.jpg/80x80bb.webp",
+        "length": "3:09"
+    },
+    {
+        "ranking": "14",
+        "title": "APT.",
+        "artist": "ROSÉ",
+        "album": "APT. - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
+        "ranking": "15",
+        "title": "Sonce",
+        "artist": "Joker Out",
+        "album": "Souvenir Pop",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/81/96/55819681-1c67-8010-2632-30110cff67ab/24UM1IM13369.rgb.jpg/80x80bb.webp",
+        "length": "3:00"
+    },
+    {
+        "ranking": "16",
+        "title": "Palme",
+        "artist": "Ano",
+        "album": "Palme - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/75/0b/8b/750b8b2b-be0e-cfc1-cc3c-56ae40f2fc6e/cover_4062851038386.jpg/80x80bb.webp",
+        "length": "2:20"
+    },
+    {
+        "ranking": "17",
+        "title": "Stephanie",
+        "artist": "Joker Out",
+        "album": "Souvenir Pop",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/81/96/55819681-1c67-8010-2632-30110cff67ab/24UM1IM13369.rgb.jpg/80x80bb.webp",
+        "length": "3:13"
+    },
+    {
+        "ranking": "18",
+        "title": "Mesto Duhov",
+        "artist": "Joker Out",
+        "album": "Souvenir Pop",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/81/96/55819681-1c67-8010-2632-30110cff67ab/24UM1IM13369.rgb.jpg/80x80bb.webp",
+        "length": "2:58"
+    },
+    {
+        "ranking": "19",
+        "title": "Audi TT",
+        "artist": "Nucci",
+        "album": "ZAMENA ZA BOL",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/29/2d/96292d3e-4e70-a2af-ce30-e189bcd92f47/198846515359.jpg/80x80bb.webp",
+        "length": "2:32"
+    },
+    {
+        "ranking": "20",
+        "title": "Lips",
+        "artist": "Joker Out",
+        "album": "Souvenir Pop",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/81/96/55819681-1c67-8010-2632-30110cff67ab/24UM1IM13369.rgb.jpg/80x80bb.webp",
+        "length": "3:15"
+    },
+    {
+        "ranking": "21",
+        "title": "Mangio Pasta",
+        "artist": "Peki",
+        "album": "Fortuna",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/6c/07/1d6c0700-5f09-6134-e1d7-f9e8e6bd2032/cover.jpg/80x80bb.webp",
+        "length": "2:50"
+    },
+    {
+        "ranking": "22",
+        "title": "Marija",
+        "artist": "Nucci",
+        "album": "ZAMENA ZA BOL",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/29/2d/96292d3e-4e70-a2af-ce30-e189bcd92f47/198846515359.jpg/80x80bb.webp",
+        "length": "2:27"
+    },
+    {
+        "ranking": "23",
+        "title": "São Paulo",
+        "artist": "The Weeknd",
+        "album": "São Paulo - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/4a/64/934a64d3-2665-72ef-e5b4-29d61fd3707a/24UM1IM21420.rgb.jpg/80x80bb.webp",
+        "length": "5:01"
+    },
+    {
+        "ranking": "24",
+        "title": "Espresso",
+        "artist": "Sabrina Carpenter",
+        "album": "Espresso - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
+        "length": "2:55"
+    },
+    {
+        "ranking": "25",
+        "title": "WILDFLOWER",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "4:21"
+    },
+    {
+        "ranking": "26",
+        "title": "Hollywood (feat. Rasta)",
+        "artist": "Jala Brat",
+        "album": "Goat Season (Part Two) - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/12/65/4c/12654c1e-fdd6-e1a3-5401-65748a268ee8/196032898385.jpg/80x80bb.webp",
+        "length": "2:37"
+    },
+    {
+        "ranking": "27",
+        "title": "The Emptiness Machine",
+        "artist": "LINKIN PARK",
+        "album": "From Zero",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/21/cf/6921cff3-7074-118a-ece2-4012450e6c75/093624839811.jpg/80x80bb.webp",
+        "length": "3:10"
+    },
+    {
+        "ranking": "28",
+        "title": "Tango",
+        "artist": "Voyage",
+        "album": "Tango - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/33/97/4a/33974ab2-b6aa-d899-3658-d493b600010f/9419.jpg/80x80bb.webp",
+        "length": "2:48"
+    },
+    {
+        "ranking": "29",
+        "title": "Djerdan",
+        "artist": "Nucci",
+        "album": "Djerdan - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f8/7e/68/f87e6879-4542-436c-a913-cc5cb3e6e6a7/cover.jpg/80x80bb.webp",
+        "length": "2:43"
+    },
+    {
+        "ranking": "30",
+        "title": "Automatti",
+        "artist": "Nucci",
+        "album": "Automatti - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/39/05/47/390547f1-befd-c25c-ca1b-8123064c867d/9002.jpg/80x80bb.webp",
+        "length": "2:25"
+    },
+    {
+        "ranking": "31",
+        "title": "Šta Bih Ja",
+        "artist": "Joker Out",
+        "album": "Souvenir Pop",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/81/96/55819681-1c67-8010-2632-30110cff67ab/24UM1IM13369.rgb.jpg/80x80bb.webp",
+        "length": "2:40"
+    },
+    {
+        "ranking": "32",
+        "title": "Japan",
+        "artist": "Jala Brat",
+        "album": "Goat Season (Part Two) - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/12/65/4c/12654c1e-fdd6-e1a3-5401-65748a268ee8/196032898385.jpg/80x80bb.webp",
+        "length": "2:38"
+    },
+    {
+        "ranking": "33",
+        "title": "Vagabundo",
+        "artist": "Nucci",
+        "album": "ZAMENA ZA BOL",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/29/2d/96292d3e-4e70-a2af-ce30-e189bcd92f47/198846515359.jpg/80x80bb.webp",
+        "length": "2:40"
+    },
+    {
+        "ranking": "34",
+        "title": "Irina Shayk",
+        "artist": "Buba Corelli",
+        "album": "Irina Shayk - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/71/92/50719229-3285-3653-dd58-a088008ac27a/4062851627801.jpg/80x80bb.webp",
+        "length": "3:26"
+    },
+    {
+        "ranking": "35",
+        "title": "Samo Nju",
+        "artist": "Djexon",
+        "album": "Samo Nju - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/6c/f9/986cf9ba-44b0-43dd-d4aa-ded8c7971faa/11698.jpg/80x80bb.webp",
+        "length": "2:05"
+    },
+    {
+        "ranking": "36",
+        "title": "Everybody's Waiting",
+        "artist": "Joker Out",
+        "album": "Souvenir Pop",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/81/96/55819681-1c67-8010-2632-30110cff67ab/24UM1IM13369.rgb.jpg/80x80bb.webp",
+        "length": "3:49"
+    },
+    {
+        "ranking": "37",
+        "title": "Taste",
+        "artist": "Sabrina Carpenter",
+        "album": "Short n' Sweet",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+        "length": "2:37"
+    },
+    {
+        "ranking": "38",
+        "title": "Ona'e",
+        "artist": "Jala Brat",
+        "album": "Ona'e - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/de/30/b8/de30b8be-ea5d-8590-0712-26d5e13377e3/4061707053405.jpg/80x80bb.webp",
+        "length": "2:31"
+    },
+    {
+        "ranking": "39",
+        "title": "O.D.D.D. (feat. Buba Corelli & Coby)",
+        "artist": "Jala Brat",
+        "album": "99 - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/8c/ae/f6/8caef679-89af-24ac-4299-27db5a1bfe0c/4061707229077.jpg/80x80bb.webp",
+        "length": "2:43"
+    },
+    {
+        "ranking": "40",
+        "title": "Ankaran",
+        "artist": "Hiljson Mandela",
+        "album": "Ankaran - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/83/24/b9/8324b94b-413a-4e97-0e4b-878ad5ff7bc1/cover.jpg/80x80bb.webp",
+        "length": "2:08"
+    },
+    {
+        "ranking": "41",
+        "title": "Good Luck, Babe!",
+        "artist": "Chappell Roan",
+        "album": "Good Luck, Babe! - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/80x80bb.webp",
+        "length": "3:38"
+    },
+    {
+        "ranking": "42",
+        "title": "Carpe Diem",
+        "artist": "Joker Out",
+        "album": "Carpe Diem - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2e/25/17/2e25172e-346e-e03e-2403-1f53c2831e86/23UMGIM09982.rgb.jpg/80x80bb.webp",
+        "length": "2:45"
+    },
+    {
+        "ranking": "43",
+        "title": "Sailor Song",
+        "artist": "Gigi Perez",
+        "album": "Sailor Song - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/d4/96/25d49699-acc0-401f-a7cc-d7697339a474/24UM1IM03751.rgb.jpg/80x80bb.webp",
+        "length": "3:31"
+    },
+    {
+        "ranking": "44",
+        "title": "Two Faced",
+        "artist": "LINKIN PARK",
+        "album": "From Zero",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/21/cf/6921cff3-7074-118a-ece2-4012450e6c75/093624839811.jpg/80x80bb.webp",
+        "length": "3:03"
+    },
+    {
+        "ranking": "45",
+        "title": "Fantazija (feat. Miach)",
+        "artist": "Grše",
+        "album": "Fantazija (feat. Miach) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ef/45/da/ef45dad2-4891-83df-e102-dbb6a7cae9e3/cover.jpg/80x80bb.webp",
+        "length": "2:24"
+    },
+    {
+        "ranking": "46",
+        "title": "Heavy Is the Crown",
+        "artist": "LINKIN PARK",
+        "album": "From Zero",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/21/cf/6921cff3-7074-118a-ece2-4012450e6c75/093624839811.jpg/80x80bb.webp",
+        "length": "2:47"
+    },
+    {
+        "ranking": "47",
+        "title": "Follow You",
+        "artist": "Noizy",
+        "album": "Follow You - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/28/45/f8/2845f8f1-d754-a8d8-69b1-7aecf8c11d01/24UM1IM17511.rgb.jpg/80x80bb.webp",
+        "length": "2:44"
+    },
+    {
+        "ranking": "48",
+        "title": "Svemir (feat. INAS)",
+        "artist": "Devito",
+        "album": "Plava Krv",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e9/65/2b/e9652b11-6705-3fe9-8086-5ef4d28112c1/cover.jpg/80x80bb.webp",
+        "length": "2:45"
+    },
+    {
+        "ranking": "49",
+        "title": "99",
+        "artist": "Jala Brat",
+        "album": "99 - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/8c/ae/f6/8caef679-89af-24ac-4299-27db5a1bfe0c/4061707229077.jpg/80x80bb.webp",
+        "length": "2:53"
+    },
+    {
+        "ranking": "50",
+        "title": "Too Sweet",
+        "artist": "Hozier",
+        "album": "Unreal Unearth: Unaired",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/12/e3/a412e390-51aa-6625-9adc-d502bf1c349f/196872373004.jpg/80x80bb.webp",
+        "length": "4:11"
+    },
+    {
+        "ranking": "51",
+        "title": "A Bar Song (Tipsy)",
+        "artist": "Shaboozey",
+        "album": "Where I've Been, Isn't Where I'm Going",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/b5/bc/97b5bca2-6238-2421-4f0d-1f7a39d5d9d4/197342550925_cover.jpg/80x80bb.webp",
+        "length": "2:51"
+    },
+    {
+        "ranking": "52",
+        "title": "Localo",
+        "artist": "Nucci",
+        "album": "Localo - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/35/ac/ea/35acea9d-9a2c-0bcf-c779-ebfbd803a20c/7183.jpg/80x80bb.webp",
+        "length": "2:07"
+    },
+    {
+        "ranking": "53",
+        "title": "Zove Vienna (feat. Buba Corelli & RAF Camora)",
+        "artist": "Jala Brat",
+        "album": "99 - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/8c/ae/f6/8caef679-89af-24ac-4299-27db5a1bfe0c/4061707229077.jpg/80x80bb.webp",
+        "length": "2:42"
+    },
+    {
+        "ranking": "54",
+        "title": "Padam",
+        "artist": "Jala Brat",
+        "album": "GoodFellas",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/1e/63/dc/1e63dc60-17c8-7771-c392-167418a5a757/4062851406864.jpg/80x80bb.webp",
+        "length": "2:15"
+    },
+    {
+        "ranking": "55",
+        "title": "I Love You, I'm Sorry",
+        "artist": "Gracie Abrams",
+        "album": "The Secret of Us",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/9a/a7/529aa76f-5d60-cd81-9eb0-0eb521de861d/24UMGIM43968.rgb.jpg/80x80bb.webp",
+        "length": "2:37"
+    },
+    {
+        "ranking": "56",
+        "title": "Beautiful Things",
+        "artist": "Benson Boone",
+        "album": "Beautiful Things - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
+        "length": "3:00"
+    },
+    {
+        "ranking": "57",
+        "title": "Preko Linije",
+        "artist": "Nucci",
+        "album": "ZAMENA ZA BOL",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/29/2d/96292d3e-4e70-a2af-ce30-e189bcd92f47/198846515359.jpg/80x80bb.webp",
+        "length": "2:25"
+    },
+    {
+        "ranking": "58",
+        "title": "Over Each Other",
+        "artist": "LINKIN PARK",
+        "album": "From Zero",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/21/cf/6921cff3-7074-118a-ece2-4012450e6c75/093624839811.jpg/80x80bb.webp",
+        "length": "2:50"
+    },
+    {
+        "ranking": "59",
+        "title": "Cut the Bridge",
+        "artist": "LINKIN PARK",
+        "album": "From Zero",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/21/cf/6921cff3-7074-118a-ece2-4012450e6c75/093624839811.jpg/80x80bb.webp",
+        "length": "3:48"
+    },
+    {
+        "ranking": "60",
+        "title": "Mamma Mia",
+        "artist": "Grše",
+        "album": "Mamma Mia - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/27/28/46/2728465b-b119-8645-1c77-cfaa9559df30/cover.jpg/80x80bb.webp",
+        "length": "2:42"
+    },
+    {
+        "ranking": "61",
+        "title": "Delija",
+        "artist": "SENIDAH",
+        "album": "Delija - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/7d/fe/267dfef7-2817-db4f-4252-27ac59463950/cover.jpg/80x80bb.webp",
+        "length": "3:16"
+    },
+    {
+        "ranking": "62",
+        "title": "Please Please Please",
+        "artist": "Sabrina Carpenter",
+        "album": "Short n' Sweet",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+        "length": "3:06"
+    },
+    {
+        "ranking": "63",
+        "title": "Tu Tu Tu (feat. Breskvica)",
+        "artist": "Devito",
+        "album": "Plava Krv",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e9/65/2b/e9652b11-6705-3fe9-8086-5ef4d28112c1/cover.jpg/80x80bb.webp",
+        "length": "2:31"
+    },
+    {
+        "ranking": "64",
+        "title": "Muskarcina",
+        "artist": "Voyage",
+        "album": "Guns N Roses",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/98/f5/92/98f59275-d3b1-a8f4-e16a-927d88769299/11488.jpg/80x80bb.webp",
+        "length": "3:09"
+    },
+    {
+        "ranking": "65",
+        "title": "Vroom",
+        "artist": "Nucci",
+        "album": "Vroom - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/40/54/fc/4054fc5e-282c-3f0a-b026-081f03f3bdcc/3968.jpg/80x80bb.webp",
+        "length": "2:07"
+    },
+    {
+        "ranking": "66",
+        "title": "MHM MHM",
+        "artist": "Nucci",
+        "album": "ZAMENA ZA BOL",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/29/2d/96292d3e-4e70-a2af-ce30-e189bcd92f47/198846515359.jpg/80x80bb.webp",
+        "length": "2:15"
+    },
+    {
+        "ranking": "67",
+        "title": "Viva La Vida",
+        "artist": "Coldplay",
+        "album": "Viva La Vida or Death and All His Friends",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/52/aa/85/52aa851f-15b7-6322-f91f-df84b15b7b19/190295978044.jpg/80x80bb.webp",
+        "length": "4:01"
+    },
+    {
+        "ranking": "68",
+        "title": "Kamikaza",
+        "artist": "Jala Brat",
+        "album": "Kamikaza - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4e/a5/a2/4ea5a2ea-e299-3d28-a3f1-eb49987ecffa/4061707223990.jpg/80x80bb.webp",
+        "length": "2:37"
+    },
+    {
+        "ranking": "69",
+        "title": "FE!N (feat. Playboi Carti)",
+        "artist": "Travis Scott",
+        "album": "UTOPIA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/7d/b0/097db06f-8403-3cf7-7510-139e570ca66b/196871341882.jpg/80x80bb.webp",
+        "length": "3:11"
+    },
+    {
+        "ranking": "70",
+        "title": "Dancing In The Flames",
+        "artist": "The Weeknd",
+        "album": "Dancing In The Flames - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/7e/9f/347e9f54-2d74-820f-a910-68d01f044fcf/24UMGIM95646.rgb.jpg/80x80bb.webp",
+        "length": "3:40"
+    },
+    {
+        "ranking": "71",
+        "title": "Lose Control",
+        "artist": "Teddy Swims",
+        "album": "I've Tried Everything But Therapy (Part 1)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
+        "length": "3:30"
+    },
+    {
+        "ranking": "72",
+        "title": "Omen",
+        "artist": "SENIDAH",
+        "album": "Omen - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/54/bd/ab54bd14-ddbb-7813-edaa-a5611d942534/artwork.jpg/80x80bb.webp",
+        "length": "4:10"
+    },
+    {
+        "ranking": "73",
+        "title": "Omadjijala",
+        "artist": "Devito",
+        "album": "Omadjijala - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/75/a3/5275a301-ed9f-eca7-66a3-747e4f395410/cover.jpg/80x80bb.webp",
+        "length": "2:47"
+    },
+    {
+        "ranking": "74",
+        "title": "Divljam",
+        "artist": "Buba Corelli",
+        "album": "Divljam - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/1e/65/dd1e6573-97c9-d4fb-1e00-55ea3ce4c49a/4062851629645.jpg/80x80bb.webp",
+        "length": "2:58"
+    },
+    {
+        "ranking": "75",
+        "title": "Martini",
+        "artist": "Henny",
+        "album": "Martini - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/08/46/7b/08467bef-8be6-c65c-a077-a4d1027aae8f/7864.jpg/80x80bb.webp",
+        "length": "2:07"
+    },
+    {
+        "ranking": "76",
+        "title": "Oci Plave",
+        "artist": "Nucci",
+        "album": "ZAMENA ZA BOL",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/29/2d/96292d3e-4e70-a2af-ce30-e189bcd92f47/198846515359.jpg/80x80bb.webp",
+        "length": "1:50"
+    },
+    {
+        "ranking": "77",
+        "title": "Roze",
+        "artist": "Jala Brat",
+        "album": "Roze - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/81/b1/3e/81b13e7f-0324-7562-a910-9faa7d984a76/4062851679886.jpg/80x80bb.webp",
+        "length": "3:04"
+    },
+    {
+        "ranking": "78",
+        "title": "200",
+        "artist": "Ano",
+        "album": "200 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/12/55/06/1255069b-d2b6-4262-b88f-daea7fd9a438/cover_4062851021159.jpg/80x80bb.webp",
+        "length": "2:22"
+    },
+    {
+        "ranking": "79",
+        "title": "Gad",
+        "artist": "Voyage",
+        "album": "Gad - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/b9/35/37b9358c-d4ff-6a81-0f85-5c69687c921c/11943.jpg/80x80bb.webp",
+        "length": "2:41"
+    },
+    {
+        "ranking": "80",
+        "title": "Karantin",
+        "artist": "Jala Brat",
+        "album": "Karantin - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/75/34/f9/7534f9fe-e366-854c-7477-b35b9c64da94/4061707351228.jpg/80x80bb.webp",
+        "length": "3:15"
+    },
+    {
+        "ranking": "81",
+        "title": "Beograd Jos Živi",
+        "artist": "Relja",
+        "album": "Beograd Jos Živi - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/90/ea/12/90ea12ab-ffe8-9b36-26a4-b07ca269aa3d/4880.jpg/80x80bb.webp",
+        "length": "3:45"
+    },
+    {
+        "ranking": "82",
+        "title": "Garava (feat. Voyage)",
+        "artist": "Devito",
+        "album": "Plava Krv",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e9/65/2b/e9652b11-6705-3fe9-8086-5ef4d28112c1/cover.jpg/80x80bb.webp",
+        "length": "2:27"
+    },
+    {
+        "ranking": "83",
+        "title": "Tokyo Drift (feat. Mimi Mercedez)",
+        "artist": "Grše",
+        "album": "Tokyo Drift (feat. Mimi Mercedez) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a7/3a/25/a73a25bd-9399-a166-e5c2-cfbc357cf002/cover.jpg/80x80bb.webp",
+        "length": "2:43"
+    },
+    {
+        "ranking": "84",
+        "title": "AMGVSQ7AUDI",
+        "artist": "Rasta",
+        "album": "Don Reggaeton",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b5/c6/5b/b5c65b87-4f18-583b-d99a-346b22cede8b/cover.jpg/80x80bb.webp",
+        "length": "2:50"
+    },
+    {
+        "ranking": "85",
+        "title": "Ko To Tamo",
+        "artist": "Henny",
+        "album": "Ko To Tamo - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a6/11/0b/a6110b7b-0288-28a4-43fe-6bde2ab87010/9787.jpg/80x80bb.webp",
+        "length": "2:37"
+    },
+    {
+        "ranking": "86",
+        "title": "Stargazing",
+        "artist": "Myles Smith",
+        "album": "Stargazing - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/c3/a5/bfc3a56d-a51b-69cb-cdfc-26ee63631cb8/196872051872.jpg/80x80bb.webp",
+        "length": "2:52"
+    },
+    {
+        "ranking": "87",
+        "title": "Casualty",
+        "artist": "LINKIN PARK",
+        "album": "From Zero",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/21/cf/6921cff3-7074-118a-ece2-4012450e6c75/093624839811.jpg/80x80bb.webp",
+        "length": "2:20"
+    },
+    {
+        "ranking": "88",
+        "title": "2 hands",
+        "artist": "Tate McRae",
+        "album": "So Close To What",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/57/69/51/576951b7-121d-68fb-3210-06beaf5ec117/196872648911.jpg/80x80bb.webp",
+        "length": "3:01"
+    },
+    {
+        "ranking": "89",
+        "title": "Luda Za Tobom",
+        "artist": "Lepa Brena",
+        "album": "Najveci Hitovi Grand Produkcije, Vol. 2",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d3/53/89/d35389e9-b698-445c-3ab3-20bb6883de45/1650.jpg/80x80bb.webp",
+        "length": "3:13"
+    },
+    {
+        "ranking": "90",
+        "title": "Pile",
+        "artist": "Ceca",
+        "album": "Idealno losa",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0d/dd/9a/0ddd9af8-c36c-3790-17d2-b7417a148ced/cover.jpg/80x80bb.webp",
+        "length": "4:24"
+    },
+    {
+        "ranking": "91",
+        "title": "The Door",
+        "artist": "Teddy Swims",
+        "album": "I've Tried Everything But Therapy (Part 1)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
+        "length": "3:32"
+    },
+    {
+        "ranking": "92",
+        "title": "All I Want for Christmas Is You",
+        "artist": "Mariah Carey",
+        "album": "Merry Christmas",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/80x80bb.webp",
+        "length": "4:01"
+    },
+    {
+        "ranking": "93",
+        "title": "Baraba",
+        "artist": "Zera",
+        "album": "Baraba - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f3/2e/87/f32e8731-df23-b62b-f67b-265ac6945e80/8049.jpg/80x80bb.webp",
+        "length": "2:18"
+    },
+    {
+        "ranking": "94",
+        "title": "Marina",
+        "artist": "Devito",
+        "album": "Marina - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0d/9a/a2/0d9aa2f7-781a-0ce8-ae85-933f043fa143/cover.jpg/80x80bb.webp",
+        "length": "2:20"
+    },
+    {
+        "ranking": "95",
+        "title": "Juno",
+        "artist": "Sabrina Carpenter",
+        "album": "Short n' Sweet",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+        "length": "3:43"
+    },
+    {
+        "ranking": "96",
+        "title": "Zlatnik",
+        "artist": "Tanja Savic",
+        "album": "Tanja Savic",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/52/0e/2d/520e2d03-2d38-d26f-6d77-c1ddff0ff58d/1443.jpg/80x80bb.webp",
+        "length": "3:41"
+    },
+    {
+        "ranking": "97",
+        "title": "7Ice (feat. Jala Brat & Buba Corelli)",
+        "artist": "Sajfer",
+        "album": "Anima (Part One) - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/59/03/9a/59039abc-61c1-5169-a7e6-b346c276eda9/cover_4062851003759.jpg/80x80bb.webp",
+        "length": "2:22"
+    },
+    {
+        "ranking": "98",
+        "title": "Munja",
+        "artist": "Jala Brat",
+        "album": "Goat Season (Part Two) - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/12/65/4c/12654c1e-fdd6-e1a3-5401-65748a268ee8/196032898385.jpg/80x80bb.webp",
+        "length": "2:09"
+    },
+    {
+        "ranking": "99",
+        "title": "Zamena Za Bol",
+        "artist": "Nucci",
+        "album": "ZAMENA ZA BOL",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/29/2d/96292d3e-4e70-a2af-ce30-e189bcd92f47/198846515359.jpg/80x80bb.webp",
+        "length": "2:28"
+    },
+    {
+        "ranking": "100",
+        "title": "Koji Je Dan Danas",
+        "artist": "Nucci",
+        "album": "ZAMENA ZA BOL",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/29/2d/96292d3e-4e70-a2af-ce30-e189bcd92f47/198846515359.jpg/80x80bb.webp",
+        "length": "2:17"
+    }
+]
