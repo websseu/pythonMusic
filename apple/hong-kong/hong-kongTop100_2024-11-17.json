@@ -1,0 +1,802 @@
+[
+    {
+        "ranking": "1",
+        "title": "APT.",
+        "artist": "ROSÉ",
+        "album": "APT. - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
+        "ranking": "2",
+        "title": "普渡眾生 (《破.地獄》 THE LAST DANCE 電影主題曲)",
+        "artist": "Terence Lam",
+        "album": "普渡眾生 (《破.地獄》 THE LAST DANCE 電影主題曲) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a9/77/15/a977157e-8e2f-793b-f694-d7c85a8ef8c0/754213532253.jpg/80x80bb.webp",
+        "length": "3:56"
+    },
+    {
+        "ranking": "3",
+        "title": "Whiplash",
+        "artist": "aespa",
+        "album": "Whiplash - The 5th Mini Album - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/c1/f5/d5c1f505-f588-775f-df05-c672a8ec22e9/888735949562_Cover.jpg/80x80bb.webp",
+        "length": "3:03"
+    },
+    {
+        "ranking": "4",
+        "title": "Every Single Time",
+        "artist": "Keung To",
+        "album": "Every Single Time - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/e1/65/b7e165df-f6d5-725e-9772-f1adb3d60470/4897004795331.jpg/80x80bb.webp",
+        "length": "3:06"
+    },
+    {
+        "ranking": "5",
+        "title": "好得太過份",
+        "artist": "Keung To",
+        "album": "好得太過份 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ff/af/46/ffaf46e9-c492-c425-446f-877f02af1622/4897004795102.jpg/80x80bb.webp",
+        "length": "2:59"
+    },
+    {
+        "ranking": "6",
+        "title": "DRIP",
+        "artist": "BABYMONSTER",
+        "album": "DRIP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/e1/ef/b9e1ef3a-e3eb-8152-e91b-20aca0fc9ffd/BM_DRIP_Digital-Cover_4000.jpg/80x80bb.webp",
+        "length": "3:00"
+    },
+    {
+        "ranking": "7",
+        "title": "Dear My Friend,",
+        "artist": "Keung To",
+        "album": "Dear My Friend, - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9d/7a/a4/9d7aa4ed-4bc5-9d6d-d99c-1bd57d56bcf8/4897004792224.jpg/80x80bb.webp",
+        "length": "3:52"
+    },
+    {
+        "ranking": "8",
+        "title": "岩巉",
+        "artist": "Keung To",
+        "album": "岩巉 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bf/01/82/bf01824e-bcee-df41-f1bc-dfb4a564932d/4897004794587.jpg/80x80bb.webp",
+        "length": "3:44"
+    },
+    {
+        "ranking": "9",
+        "title": "Die With A Smile",
+        "artist": "Lady Gaga",
+        "album": "Die With A Smile - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
+        "length": "4:11"
+    },
+    {
+        "ranking": "10",
+        "title": "黑玻璃",
+        "artist": "Kaho Hung",
+        "album": "黑玻璃 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/46/2d/d6/462dd6ac-159e-f621-f836-5b34ec2b5b69/5054197946042.jpg/80x80bb.webp",
+        "length": "3:39"
+    },
+    {
+        "ranking": "11",
+        "title": "黑月",
+        "artist": "Keung To",
+        "album": "黑月 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8e/6e/73/8e6e73a5-7064-626c-fe0c-962378c01bb3/4897004794778.jpg/80x80bb.webp",
+        "length": "3:25"
+    },
+    {
+        "ranking": "12",
+        "title": "小心碰頭",
+        "artist": "MC Cheung Tinfu",
+        "album": "小心碰頭 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e9/18/6c/e9186c44-52b2-b0ca-9236-3b2a1c9a0760/5021732465801.jpg/80x80bb.webp",
+        "length": "4:17"
+    },
+    {
+        "ranking": "13",
+        "title": "Mantra",
+        "artist": "JENNIE",
+        "album": "Mantra - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/9a/4c/5d9a4c5f-1c34-1265-0fa5-860dc8f0e802/196872495263.jpg/80x80bb.webp",
+        "length": "2:16"
+    },
+    {
+        "ranking": "14",
+        "title": "記憶棉",
+        "artist": "MC Cheung Tinfu",
+        "album": "記憶棉 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/42/ad/d1/42add162-3a93-3436-7c74-113e4dfc8e64/190296392696.jpg/80x80bb.webp",
+        "length": "4:33"
+    },
+    {
+        "ranking": "15",
+        "title": "緊急聯絡人",
+        "artist": "Gareth.T",
+        "album": "緊急聯絡人 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/29/4f/7a/294f7a2e-2391-3c16-b257-d0176ae0ae73/5054197916472.jpg/80x80bb.webp",
+        "length": "3:42"
+    },
+    {
+        "ranking": "16",
+        "title": "至少做一件離譜的事",
+        "artist": "Kiri T",
+        "album": "至少做一件離譜的事 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/19/0e/40/190e400c-d712-4f40-c4a9-9305d2b0d668/5021732256867.jpg/80x80bb.webp",
+        "length": "3:52"
+    },
+    {
+        "ranking": "17",
+        "title": "永久損毀",
+        "artist": "MC Cheung Tinfu",
+        "album": "永久損毀 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/de/62/73/de62739a-3e2a-e857-1939-1898108e3650/5054197938085.jpg/80x80bb.webp",
+        "length": "3:52"
+    },
+    {
+        "ranking": "18",
+        "title": "抽",
+        "artist": "MC Cheung Tinfu",
+        "album": "抽 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ac/6c/3a/ac6c3acc-bfaf-ac59-8028-085e78290ff8/5054197758188.jpg/80x80bb.webp",
+        "length": "4:02"
+    },
+    {
+        "ranking": "19",
+        "title": "隱形遊樂場 (真想給你見到它)",
+        "artist": "Hins Cheung",
+        "album": "隱形遊樂場 (真想給你見到它) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1a/79/eb/1a79eb17-4d0b-e626-bfc7-c84007f837f2/4895087614235.jpg/80x80bb.webp",
+        "length": "4:03"
+    },
+    {
+        "ranking": "20",
+        "title": "Cherish (My Love)",
+        "artist": "ILLIT",
+        "album": "I'LL LIKE YOU - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e9/20/73/e9207332-1b22-18d0-5d1b-daaf370a4317/198704136962_Cover.jpg/80x80bb.webp",
+        "length": "2:56"
+    },
+    {
+        "ranking": "21",
+        "title": "世一",
+        "artist": "MC Cheung Tinfu",
+        "album": "世一 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/43/92/8a/43928acc-2c01-13a6-f83f-9006f7c850b6/5054197521119.jpg/80x80bb.webp",
+        "length": "4:23"
+    },
+    {
+        "ranking": "22",
+        "title": "青春告別式",
+        "artist": "Hins Cheung",
+        "album": "青春告別式 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5d/f8/81/5df88168-878d-fab1-6134-fa4babb6a092/4895087614495.jpg/80x80bb.webp",
+        "length": "4:16"
+    },
+    {
+        "ranking": "23",
+        "title": "隔牆有耳",
+        "artist": "MC Cheung Tinfu",
+        "album": "TREBLE",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/a5/0f/9b/a50f9b80-db50-3aa8-28a8-b699df4c6f49/5054197979484.jpg/80x80bb.webp",
+        "length": "3:41"
+    },
+    {
+        "ranking": "24",
+        "title": "老派約會之必要",
+        "artist": "MC Cheung Tinfu",
+        "album": "This is MC (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0c/43/7e/0c437e3b-99e5-90af-2b88-dd8badf2b5ad/5054197601798.jpg/80x80bb.webp",
+        "length": "3:43"
+    },
+    {
+        "ranking": "25",
+        "title": "一人之境",
+        "artist": "Terence Lam",
+        "album": "一人之境 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d5/65/ee/d565eeb2-8343-b17b-98c0-a8c5c6f16c10/4895087633670.jpg/80x80bb.webp",
+        "length": "3:16"
+    },
+    {
+        "ranking": "26",
+        "title": "UP (KARINA Solo)",
+        "artist": "aespa",
+        "album": "SYNK : PARALLEL LINE - Special Digital Single - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fd/85/0e/fd850e67-f6e2-c4e9-6ea5-501ca5afccbd/aespa_DS_Synk-PARALLEL_LINE_DC.jpg/80x80bb.webp",
+        "length": "2:46"
+    },
+    {
+        "ranking": "27",
+        "title": "BIRDS OF A FEATHER",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "3:30"
+    },
+    {
+        "ranking": "28",
+        "title": "Let go",
+        "artist": "Nancy Kwai",
+        "album": "Let go - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/82/bc/b782bc4d-3d10-e565-fe71-f5f0e2829295/5021732441058.jpg/80x80bb.webp",
+        "length": "3:50"
+    },
+    {
+        "ranking": "29",
+        "title": "會再見的",
+        "artist": "Jay Fung",
+        "album": "會再見的 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/04/8c/e9/048ce9f2-45ba-17b1-9bfe-49fdf0f5d10d/5021732481719.jpg/80x80bb.webp",
+        "length": "4:30"
+    },
+    {
+        "ranking": "30",
+        "title": "POWER",
+        "artist": "G-DRAGON",
+        "album": "POWER - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/fa/03/36fa0306-b040-b01b-36d3-181256366615/197342805353_cover.jpg/80x80bb.webp",
+        "length": "2:23"
+    },
+    {
+        "ranking": "31",
+        "title": "跟你分擔失落比較快樂",
+        "artist": "Kaho Hung",
+        "album": "跟你分擔失落比較快樂 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b1/25/c5/b125c5f6-c1b1-2a88-e1bd-df8dbbd1e8e1/5021732500939.jpg/80x80bb.webp",
+        "length": "3:10"
+    },
+    {
+        "ranking": "32",
+        "title": "誰能避開戀愛這事情",
+        "artist": "MC Cheung Tinfu",
+        "album": "誰能避開戀愛這事情 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/22/f2/b722f2ef-f4dc-1caf-1546-fc228bde4a60/5021732417725.jpg/80x80bb.webp",
+        "length": "4:22"
+    },
+    {
+        "ranking": "33",
+        "title": "反對無效",
+        "artist": "MC Cheung Tinfu",
+        "album": "反對無效 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c1/3c/88/c13c88a4-2a8c-91d4-7992-8f9fa195e98e/190296640698.jpg/80x80bb.webp",
+        "length": "3:48"
+    },
+    {
+        "ranking": "34",
+        "title": "Espresso",
+        "artist": "Sabrina Carpenter",
+        "album": "Espresso - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
+        "length": "2:55"
+    },
+    {
+        "ranking": "35",
+        "title": "Hey Hey OK!",
+        "artist": "Anson Lo",
+        "album": "Hey Hey OK! - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/e2/37/44e23764-2f78-f8fc-72b6-0e5ad45d5f94/4897004795362.jpg/80x80bb.webp",
+        "length": "3:17"
+    },
+    {
+        "ranking": "36",
+        "title": "Supernova",
+        "artist": "aespa",
+        "album": "Armageddon - The 1st Album",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/7e/e0/507ee09f-ccfd-1e3c-af90-ca5e92b1221b/00888735949869_Cover.jpg/80x80bb.webp",
+        "length": "2:58"
+    },
+    {
+        "ranking": "37",
+        "title": "到底發生過什麼事",
+        "artist": "Dear Jane",
+        "album": "到底發生過什麼事 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/59/7a/3c/597a3c18-5b77-96ed-3fd6-e2628a9d2a4f/5054197360947.jpg/80x80bb.webp",
+        "length": "4:19"
+    },
+    {
+        "ranking": "38",
+        "title": "三生有幸",
+        "artist": "Yan Ting",
+        "album": "三生有幸 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/7b/70/da/7b70da51-ae4a-da0f-f567-e908db18a21b/24UMGIM08695.rgb.jpg/80x80bb.webp",
+        "length": "3:37"
+    },
+    {
+        "ranking": "39",
+        "title": "Step Aside",
+        "artist": "Jay Chou",
+        "album": "Common Jasmine Orange",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/58/8d/6d/588d6d61-fbac-148a-86bd-0030ce076ac1/23UM1IM57281.rgb.jpg/80x80bb.webp",
+        "length": "3:58"
+    },
+    {
+        "ranking": "40",
+        "title": "致我",
+        "artist": "Anson Lo",
+        "album": "致我 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/09/31/42/09314287-e1fc-c3a2-5754-785069c0c39e/4897004795881.jpg/80x80bb.webp",
+        "length": "3:52"
+    },
+    {
+        "ranking": "41",
+        "title": "拜託",
+        "artist": "Kaho Hung",
+        "album": "拜託 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/52/c8/b2/52c8b274-c004-bfdf-9a24-46bc768a0ab4/5021732440723.jpg/80x80bb.webp",
+        "length": "3:55"
+    },
+    {
+        "ranking": "42",
+        "title": "與我無關",
+        "artist": "MC Cheung Tinfu",
+        "album": "與我無關 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/60/81/ec/6081ecb4-6d7d-6fe3-f4fd-b7377cd8a4c0/5054197794391.jpg/80x80bb.webp",
+        "length": "3:25"
+    },
+    {
+        "ranking": "43",
+        "title": "筆友 (電影《我談的那場戀愛》主題曲)",
+        "artist": "MC Cheung Tinfu",
+        "album": "筆友 (電影《我談的那場戀愛》主題曲) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/56/97/17569761-c81d-40f9-b94e-f8ef7b231882/5021732478610.jpg/80x80bb.webp",
+        "length": "4:20"
+    },
+    {
+        "ranking": "44",
+        "title": "0.1秒後的世界",
+        "artist": "Panther Chan",
+        "album": "0.1秒後的世界 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/f0/16/b4f01655-10f0-9d69-ee56-5c142e8987ed/5021732522139.jpg/80x80bb.webp",
+        "length": "4:41"
+    },
+    {
+        "ranking": "45",
+        "title": "歲月如歌",
+        "artist": "Eason Chan",
+        "album": "Live for Today",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/42/56/ce/4256ce96-dae5-cb71-15c8-58a19f5178d9/EEG1090V1-Live_For_Today-.jpg/80x80bb.webp",
+        "length": "3:27"
+    },
+    {
+        "ranking": "46",
+        "title": "陀飛輪",
+        "artist": "Eason Chan",
+        "album": "Y100精選 (Evil版)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/cc/c8/c7/ccc8c7e4-3c9b-6bdb-fcf8-6b1a58897f3a/00602488981910.rgb.jpg/80x80bb.webp",
+        "length": "4:39"
+    },
+    {
+        "ranking": "47",
+        "title": "METANOIA",
+        "artist": "Yan Ting",
+        "album": "METANOIA - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/fc/15/0e/fc150ef8-125e-9fab-73be-e9440886123b/22UMGIM82849.rgb.jpg/80x80bb.webp",
+        "length": "4:09"
+    },
+    {
+        "ranking": "48",
+        "title": "深閨",
+        "artist": "Anson Lo",
+        "album": "深閨 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/41/e8/4441e8af-1af3-19b0-6a93-db44dbf8360b/4897004795119.jpg/80x80bb.webp",
+        "length": "4:22"
+    },
+    {
+        "ranking": "49",
+        "title": "Armageddon",
+        "artist": "aespa",
+        "album": "Armageddon - The 1st Album",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/7e/e0/507ee09f-ccfd-1e3c-af90-ca5e92b1221b/00888735949869_Cover.jpg/80x80bb.webp",
+        "length": "3:16"
+    },
+    {
+        "ranking": "50",
+        "title": "Red Scarf (\"Till We Meet Again\" Movie Theme Song)",
+        "artist": "WeiBird",
+        "album": "Red Scarf (\"Till We Meet Again\" Movie Theme Song) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5b/63/0c/5b630c9d-3b66-d1fa-9c2e-c7ceeac165fb/886449697779.jpg/80x80bb.webp",
+        "length": "4:34"
+    },
+    {
+        "ranking": "51",
+        "title": "Sunny Day",
+        "artist": "Jay Chou",
+        "album": "Yeh, Hwei-Mei",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8c/47/86/8c47862d-e254-8b49-30cf-d1f05ebba05b/23UM1IM56855.rgb.jpg/80x80bb.webp",
+        "length": "4:29"
+    },
+    {
+        "ranking": "52",
+        "title": "以孤獨命名",
+        "artist": "Ian Chan",
+        "album": "以孤獨命名 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/a6/23/54a62309-7d2b-678e-80c7-27b76f1f50d2/4897004795348.jpg/80x80bb.webp",
+        "length": "3:48"
+    },
+    {
+        "ranking": "53",
+        "title": "Magnetic",
+        "artist": "ILLIT",
+        "album": "SUPER REAL ME - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3e/49/1e/3e491e43-4961-21ab-2abe-37fb1c0feb40/196922879227_Cover.jpg/80x80bb.webp",
+        "length": "2:40"
+    },
+    {
+        "ranking": "54",
+        "title": "俏郎君",
+        "artist": "Hins Cheung",
+        "album": "The Brightest Darkness",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e7/73/82/e7738242-e750-335c-2126-e7b064eaa201/4895087637562.jpg/80x80bb.webp",
+        "length": "4:40"
+    },
+    {
+        "ranking": "55",
+        "title": "銀河修理員",
+        "artist": "Dear Jane",
+        "album": "銀河修理員 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/0f/26/33/0f263386-0a41-e112-038b-efb848cb5c31/190295240370.jpg/80x80bb.webp",
+        "length": "3:52"
+    },
+    {
+        "ranking": "56",
+        "title": "傷心的時候別說話",
+        "artist": "Kiri T",
+        "album": "傷心的時候別說話 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f5/94/4a/f5944aed-9104-d6f9-163b-b1a1a9fabd62/5021732475596.jpg/80x80bb.webp",
+        "length": "3:21"
+    },
+    {
+        "ranking": "57",
+        "title": "主角光環",
+        "artist": "Kaho Hung",
+        "album": "主角光環 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a9/fa/b2/a9fab2ad-cdf6-9479-6bb8-dce47e5bb547/190296430961.jpg/80x80bb.webp",
+        "length": "3:43"
+    },
+    {
+        "ranking": "58",
+        "title": "趁你旅行時搬走",
+        "artist": "moon tang",
+        "album": "趁你旅行時搬走 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/24/75/95/247595fe-aa4d-be81-cd7a-e0f374205385/5021732372406.jpg/80x80bb.webp",
+        "length": "3:55"
+    },
+    {
+        "ranking": "59",
+        "title": "國際孤獨等級",
+        "artist": "Gareth.T",
+        "album": "國際孤獨等級 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6b/7a/1e/6b7a1e69-3841-6ca5-462f-1d11d43f44ec/5054197597695.jpg/80x80bb.webp",
+        "length": "3:13"
+    },
+    {
+        "ranking": "60",
+        "title": "MY LIFE",
+        "artist": "Anson Lo",
+        "album": "MY LIFE - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/43/d2/68/43d268f1-9b64-2327-7f90-11ed2c117362/4897004794754.jpg/80x80bb.webp",
+        "length": "3:28"
+    },
+    {
+        "ranking": "61",
+        "title": "No Doubt",
+        "artist": "ENHYPEN",
+        "album": "ROMANCE : UNTOLD -daydream-",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/c8/8c/5fc88cb7-faf5-483a-ea42-ebf112c5f3d7/198704187797_Cover.jpg/80x80bb.webp",
+        "length": "2:47"
+    },
+    {
+        "ranking": "62",
+        "title": "FOREVER",
+        "artist": "BABYMONSTER",
+        "album": "FOREVER - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/2a/86/5b2a8611-2005-2287-1981-9edac10b795b/BABYMONSTER_FORVER.jpg/80x80bb.webp",
+        "length": "3:32"
+    },
+    {
+        "ranking": "63",
+        "title": "葡萄成熟時",
+        "artist": "Eason Chan",
+        "album": "U 87",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/62/52/5c/62525cbe-f9cd-90ee-820e-db3f75d29c80/00602498308905.rgb.jpg/80x80bb.webp",
+        "length": "4:37"
+    },
+    {
+        "ranking": "64",
+        "title": "Idol",
+        "artist": "YOASOBI",
+        "album": "Idol - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3a/17/eb/3a17eb30-eacb-82eb-51df-d1321dbb55bc/197188492205.jpg/80x80bb.webp",
+        "length": "3:33"
+    },
+    {
+        "ranking": "65",
+        "title": "All the Way North",
+        "artist": "Jay Chou",
+        "album": "November's Chopin",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/69/49/61/694961f3-1414-355e-66e4-9649ba13ec55/23UM1IM57770.rgb.jpg/80x80bb.webp",
+        "length": "4:54"
+    },
+    {
+        "ranking": "66",
+        "title": "K歌之王",
+        "artist": "Eason Chan",
+        "album": "Eason Chan (Cantonese Collection)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/69/03/b1/6903b121-cc33-ba9d-1653-af6339425b44/dj.bzpsgdpy.jpg/80x80bb.webp",
+        "length": "3:43"
+    },
+    {
+        "ranking": "67",
+        "title": "時候不早",
+        "artist": "MC Cheung Tinfu",
+        "album": "Have A Good Time - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d8/9f/77/d89f77f9-ce19-e836-7b9e-6c22050afabd/190296322655.jpg/80x80bb.webp",
+        "length": "3:40"
+    },
+    {
+        "ranking": "68",
+        "title": "Qi-Li-Xiang",
+        "artist": "Jay Chou",
+        "album": "Common Jasmine Orange",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/58/8d/6d/588d6d61-fbac-148a-86bd-0030ce076ac1/23UM1IM57281.rgb.jpg/80x80bb.webp",
+        "length": "4:57"
+    },
+    {
+        "ranking": "69",
+        "title": "CLIK CLAK",
+        "artist": "BABYMONSTER",
+        "album": "DRIP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/e1/ef/b9e1ef3a-e3eb-8152-e91b-20aca0fc9ffd/BM_DRIP_Digital-Cover_4000.jpg/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
+        "ranking": "70",
+        "title": "明日明日",
+        "artist": "Dear Jane",
+        "album": "明日明日 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/65/6a/ed/656aed14-cf4f-650b-4c9e-b5d150b52a55/5021732513366.jpg/80x80bb.webp",
+        "length": "4:12"
+    },
+    {
+        "ranking": "71",
+        "title": "漸漸我們",
+        "artist": "Edan Lui",
+        "album": "漸漸我們 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/06/c2/d206c233-7030-af51-d575-7f0f496ab080/4897004795317.jpg/80x80bb.webp",
+        "length": "4:21"
+    },
+    {
+        "ranking": "72",
+        "title": "富士山下",
+        "artist": "Eason Chan",
+        "album": "What's Going On...?",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/44/d3/57/44d35752-0906-6a22-ebc4-32d9553fa0fb/00602517176997.rgb.jpg/80x80bb.webp",
+        "length": "4:19"
+    },
+    {
+        "ranking": "73",
+        "title": "留一天與你喘息",
+        "artist": "Ian Chan",
+        "album": "留一天與你喘息 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/34/45/3834458a-3d96-98f5-6db4-d186a3b3b64e/4897004792460.jpg/80x80bb.webp",
+        "length": "4:18"
+    },
+    {
+        "ranking": "74",
+        "title": "夜に駆ける",
+        "artist": "YOASOBI",
+        "album": "夜に駆ける - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fe/58/79/fe58795c-1628-230a-9ffe-300c04b6627c/194491717186.jpg/80x80bb.webp",
+        "length": "4:21"
+    },
+    {
+        "ranking": "75",
+        "title": "The Promised Love",
+        "artist": "Jay Chou",
+        "album": "Capricorn",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/53/6c/72/536c7219-e177-a912-9322-e1abf70e8733/23UM1IM58828.rgb.jpg/80x80bb.webp",
+        "length": "4:16"
+    },
+    {
+        "ranking": "76",
+        "title": "Drama",
+        "artist": "aespa",
+        "album": "Drama - The 4th Mini Album",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f7/f0/5c/f7f05ce4-e5a4-900d-e087-1dd9668b2b34/888735945939.jpg/80x80bb.webp",
+        "length": "3:34"
+    },
+    {
+        "ranking": "77",
+        "title": "明年今日",
+        "artist": "Eason Chan",
+        "album": "2013 陳奕迅 Music Life 精選",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/1b/fd/52/1bfd52f1-8fe8-9407-d459-0ec38092dca8/eason_cover.jpg/80x80bb.webp",
+        "length": "3:25"
+    },
+    {
+        "ranking": "78",
+        "title": "櫻花樹下",
+        "artist": "Hins Cheung",
+        "album": "P.S. I Love You",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/84/72/78/8472784d-4f63-791d-7b22-aeb4e46ab3b5/00602488997379.rgb.jpg/80x80bb.webp",
+        "length": "4:12"
+    },
+    {
+        "ranking": "79",
+        "title": "任我行",
+        "artist": "Eason Chan",
+        "album": "The Key",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/1c/c0/d3/1cc0d357-4642-a5c6-4ad6-57add94791b3/00602567727873.rgb.jpg/80x80bb.webp",
+        "length": "4:38"
+    },
+    {
+        "ranking": "80",
+        "title": "下一位前度",
+        "artist": "Terence Lam",
+        "album": "下一位前度 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/20/fd/32/20fd3221-b215-a16e-37fe-b42641709d14/190295485375.jpg/80x80bb.webp",
+        "length": "4:35"
+    },
+    {
+        "ranking": "81",
+        "title": "神奇的糊塗魔藥",
+        "artist": "Terence Lam",
+        "album": "神奇的糊塗魔藥 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a5/63/11/a5631175-32ec-f9d8-b77f-b4fd166fa429/4895087620144.jpg/80x80bb.webp",
+        "length": "3:23"
+    },
+    {
+        "ranking": "82",
+        "title": "How Sweet",
+        "artist": "NewJeans",
+        "album": "How Sweet - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/68/ca/bf68ca64-4acd-543f-bc78-455f11f06105/196922889738_Cover.jpg/80x80bb.webp",
+        "length": "3:39"
+    },
+    {
+        "ranking": "83",
+        "title": "賽勒斯的愛",
+        "artist": "Hins Cheung",
+        "album": "賽勒斯的愛 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/15/ca/8a/15ca8a17-e81b-61a5-136a-80f7de9b63e3/4895087623749.jpg/80x80bb.webp",
+        "length": "4:09"
+    },
+    {
+        "ranking": "84",
+        "title": "青春常駐",
+        "artist": "Hins Cheung",
+        "album": "青春常駐 - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/eb/81/82/eb81827c-673b-a696-71cc-091f2a761542/1440x1440.jpg/80x80bb.webp",
+        "length": "4:14"
+    },
+    {
+        "ranking": "85",
+        "title": "凡星 (天星銀行airstar音樂劇場主題曲)",
+        "artist": "Panther Chan",
+        "album": "凡星 (天星銀行airstar音樂劇場主題曲) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f1/ca/e3/f1cae3ba-5c3d-d399-dbd0-03e24afc42ca/190296496769.jpg/80x80bb.webp",
+        "length": "4:44"
+    },
+    {
+        "ranking": "86",
+        "title": "Taste",
+        "artist": "Sabrina Carpenter",
+        "album": "Short n' Sweet",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+        "length": "2:37"
+    },
+    {
+        "ranking": "87",
+        "title": "小心地滑",
+        "artist": "MC Cheung Tinfu",
+        "album": "小心地滑 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/86/37/77/863777e0-3eb7-bcf7-26ad-03e01ad57a4d/5054197147050.jpg/80x80bb.webp",
+        "length": "3:59"
+    },
+    {
+        "ranking": "88",
+        "title": "Silence",
+        "artist": "Jay Chou",
+        "album": "Fantasy",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/14/b9/fa/14b9fa3f-ef0c-01de-3721-93ff740062b5/23UM1IM56711.rgb.jpg/80x80bb.webp",
+        "length": "5:34"
+    },
+    {
+        "ranking": "89",
+        "title": "Gunjou",
+        "artist": "YOASOBI",
+        "album": "Gunjou - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ae/7e/4a/ae7e4a28-fd46-9617-1066-fcbd124303d6/195497105656.jpg/80x80bb.webp",
+        "length": "4:08"
+    },
+    {
+        "ranking": "90",
+        "title": "When you missed me",
+        "artist": "Eric Chou",
+        "album": "When you missed me - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a3/27/79/a3277942-87e4-abe8-b2d5-d1d2839771df/5021732548887.jpg/80x80bb.webp",
+        "length": "4:00"
+    },
+    {
+        "ranking": "91",
+        "title": "沙龍",
+        "artist": "Eason Chan",
+        "album": "H3M (Remastered 2019)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/23/44/45/23444597-a9a1-b288-f6f4-249a454a105f/19UM1IM04341.rgb.jpg/80x80bb.webp",
+        "length": "4:38"
+    },
+    {
+        "ranking": "92",
+        "title": "記得",
+        "artist": "Terence Lam",
+        "album": "MEMENTO - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/88/b2/b8/88b2b879-ec4d-0440-cbb4-d3543f3563e8/cover.jpg/80x80bb.webp",
+        "length": "3:53"
+    },
+    {
+        "ranking": "93",
+        "title": "明明就",
+        "artist": "Jay Chou",
+        "album": "Opus 12",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/48/95/d0/4895d0c4-c8e3-277b-9616-f878bae55c96/23UM1IM59189.rgb.jpg/80x80bb.webp",
+        "length": "4:20"
+    },
+    {
+        "ranking": "94",
+        "title": "Love Confession",
+        "artist": "Jay Chou",
+        "album": "Jay Chou's Bedtime Stories",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/43/d4/1c/43d41cbe-fa45-82f6-e2d5-651c17d97aba/23UM1IM59700.rgb.jpg/80x80bb.webp",
+        "length": "3:35"
+    },
+    {
+        "ranking": "95",
+        "title": "給你幸福 所以幸福",
+        "artist": "Jay Fung",
+        "album": "給你幸福 所以幸福 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2e/e5/09/2ee50933-2977-b37d-c8c8-97af5234afde/5054197881435.jpg/80x80bb.webp",
+        "length": "4:04"
+    },
+    {
+        "ranking": "96",
+        "title": "Ditto",
+        "artist": "NewJeans",
+        "album": "NewJeans 'OMG' - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/48/96/08/4896085e-b550-cb0a-3e5b-1f203521cb82/196922265464_Cover.jpg/80x80bb.webp",
+        "length": "3:05"
+    },
+    {
+        "ranking": "97",
+        "title": "再見 寧靜海",
+        "artist": "Ian Chan",
+        "album": "再見 寧靜海 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/a5/4a/34/a54a344b-ca7f-2c6f-5caa-eade2982c48b/4897004793498.jpg/80x80bb.webp",
+        "length": "4:10"
+    },
+    {
+        "ranking": "98",
+        "title": "能遇見,就很不錯了",
+        "artist": "Firdhaus",
+        "album": "能遇見,就很不錯了 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/35/f1/c6/35f1c6b4-2358-7c25-2d4a-de36ec108019/cover.jpg/80x80bb.webp",
+        "length": "3:49"
+    },
+    {
+        "ranking": "99",
+        "title": "不許你注定一人",
+        "artist": "Dear Jane",
+        "album": "不許你注定一人 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/21/d4/16/21d416b1-995f-64de-14a1-a5cd3bbb5310/825646367009.jpg/80x80bb.webp",
+        "length": "5:03"
+    },
+    {
+        "ranking": "100",
+        "title": "念",
+        "artist": "Panther Chan",
+        "album": "念 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/10/bf/a7/10bfa734-1957-46e3-9f0e-fe0a72bb1991/5054197983047.jpg/80x80bb.webp",
+        "length": "4:48"
+    }
+]

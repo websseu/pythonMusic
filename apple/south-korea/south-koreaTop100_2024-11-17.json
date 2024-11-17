@@ -1,0 +1,802 @@
+[
+    {
+        "ranking": "1",
+        "title": "Whiplash",
+        "artist": "aespa",
+        "album": "Whiplash - The 5th Mini Album - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/c1/f5/d5c1f505-f588-775f-df05-c672a8ec22e9/888735949562_Cover.jpg/80x80bb.webp",
+        "length": "3:03"
+    },
+    {
+        "ranking": "2",
+        "title": "APT.",
+        "artist": "ROSÉ",
+        "album": "APT. - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
+        "ranking": "3",
+        "title": "POWER",
+        "artist": "G-DRAGON",
+        "album": "POWER - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/fa/03/36fa0306-b040-b01b-36d3-181256366615/197342805353_cover.jpg/80x80bb.webp",
+        "length": "2:23"
+    },
+    {
+        "ranking": "4",
+        "title": "UP (KARINA Solo)",
+        "artist": "aespa",
+        "album": "SYNK : PARALLEL LINE - Special Digital Single - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fd/85/0e/fd850e67-f6e2-c4e9-6ea5-501ca5afccbd/aespa_DS_Synk-PARALLEL_LINE_DC.jpg/80x80bb.webp",
+        "length": "2:46"
+    },
+    {
+        "ranking": "5",
+        "title": "Drowning",
+        "artist": "WOODZ",
+        "album": "OO-LI",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/91/0d/07910df6-5ab5-0867-3be5-900cf9d11018/cover_KM0016894_1.jpg/80x80bb.webp",
+        "length": "4:04"
+    },
+    {
+        "ranking": "6",
+        "title": "HAPPY",
+        "artist": "DAY6",
+        "album": "Fourever",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9e/e8/6e/9ee86ed8-4dcf-ac99-e49a-95fb2151b4ac/8809928951515_Cover.jpg/80x80bb.webp",
+        "length": "3:09"
+    },
+    {
+        "ranking": "7",
+        "title": "Igloo",
+        "artist": "KISS OF LIFE",
+        "album": "Lose Yourself",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/70/86/dd70863e-2571-25cd-d1eb-c44a5cdba57f/cover_KM0020274_1.jpg/80x80bb.webp",
+        "length": "2:11"
+    },
+    {
+        "ranking": "8",
+        "title": "Cherish (My Love)",
+        "artist": "ILLIT",
+        "album": "I'LL LIKE YOU - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e9/20/73/e9207332-1b22-18d0-5d1b-daaf370a4317/198704136962_Cover.jpg/80x80bb.webp",
+        "length": "2:56"
+    },
+    {
+        "ranking": "9",
+        "title": "Mantra",
+        "artist": "JENNIE",
+        "album": "Mantra - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/9a/4c/5d9a4c5f-1c34-1265-0fa5-860dc8f0e802/196872495263.jpg/80x80bb.webp",
+        "length": "2:16"
+    },
+    {
+        "ranking": "10",
+        "title": "Every Moment With You",
+        "artist": "JAESSBEE",
+        "album": "Every Moment With You - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2a/d9/e9/2ad9e98a-d0ff-7d40-1d8f-e87e230c8832/cover_KM0020544_1.jpg/80x80bb.webp",
+        "length": "2:52"
+    },
+    {
+        "ranking": "11",
+        "title": "DRIP",
+        "artist": "BABYMONSTER",
+        "album": "DRIP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/e1/ef/b9e1ef3a-e3eb-8152-e91b-20aca0fc9ffd/BM_DRIP_Digital-Cover_4000.jpg/80x80bb.webp",
+        "length": "3:00"
+    },
+    {
+        "ranking": "12",
+        "title": "My Name is Malguem",
+        "artist": "QWER",
+        "album": "2nd Mini Album 'Algorithm's Blossom'",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/15/00/62/150062e8-fd58-5dc2-bfea-f0e502e0957a/cover_KM0020310_1.jpg/80x80bb.webp",
+        "length": "3:08"
+    },
+    {
+        "ranking": "13",
+        "title": "Supernova",
+        "artist": "aespa",
+        "album": "Armageddon - The 1st Album",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/7e/e0/507ee09f-ccfd-1e3c-af90-ca5e92b1221b/00888735949869_Cover.jpg/80x80bb.webp",
+        "length": "2:58"
+    },
+    {
+        "ranking": "14",
+        "title": "Who",
+        "artist": "Jimin",
+        "album": "MUSE",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/80x80bb.webp",
+        "length": "2:50"
+    },
+    {
+        "ranking": "15",
+        "title": "Supersonic",
+        "artist": "fromis_9",
+        "album": "Supersonic - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c9/05/b0/c905b007-01a2-3f53-32e3-f30e5593ff24/198704060052_Cover.jpg/80x80bb.webp",
+        "length": "2:54"
+    },
+    {
+        "ranking": "16",
+        "title": "Welcome to the Show",
+        "artist": "DAY6",
+        "album": "Fourever",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9e/e8/6e/9ee86ed8-4dcf-ac99-e49a-95fb2151b4ac/8809928951515_Cover.jpg/80x80bb.webp",
+        "length": "3:37"
+    },
+    {
+        "ranking": "17",
+        "title": "How Sweet",
+        "artist": "NewJeans",
+        "album": "How Sweet - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/68/ca/bf68ca64-4acd-543f-bc78-455f11f06105/196922889738_Cover.jpg/80x80bb.webp",
+        "length": "3:39"
+    },
+    {
+        "ranking": "18",
+        "title": "Steady",
+        "artist": "NCT WISH",
+        "album": "Steady - The 1st Mini Album",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/6f/ba/b96fba14-1aab-ce7b-5dd9-5f50fdd33dff/dj.lejatqhp.png/80x80bb.webp",
+        "length": "2:59"
+    },
+    {
+        "ranking": "19",
+        "title": "Die With A Smile",
+        "artist": "Lady Gaga",
+        "album": "Die With A Smile - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
+        "length": "4:11"
+    },
+    {
+        "ranking": "20",
+        "title": "Melt Down",
+        "artist": "DAY6",
+        "album": "Band Aid",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fd/d8/f5/fdd8f5b8-5723-3d20-2b6f-6653046e4f05/8809928952529_Cover.jpg/80x80bb.webp",
+        "length": "2:45"
+    },
+    {
+        "ranking": "21",
+        "title": "Congratulations",
+        "artist": "DAY6",
+        "album": "The Day - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a1/7b/78/a17b782e-c4bc-32e4-db3d-ba59ca2f10fd/738676855920_Cover.jpg/80x80bb.webp",
+        "length": "3:49"
+    },
+    {
+        "ranking": "22",
+        "title": "Armageddon",
+        "artist": "aespa",
+        "album": "Armageddon - The 1st Album",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/7e/e0/507ee09f-ccfd-1e3c-af90-ca5e92b1221b/00888735949869_Cover.jpg/80x80bb.webp",
+        "length": "3:16"
+    },
+    {
+        "ranking": "23",
+        "title": "Magnetic",
+        "artist": "ILLIT",
+        "album": "SUPER REAL ME - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3e/49/1e/3e491e43-4961-21ab-2abe-37fb1c0feb40/196922879227_Cover.jpg/80x80bb.webp",
+        "length": "2:40"
+    },
+    {
+        "ranking": "24",
+        "title": "How can I love the heartbreak, you're the one I love",
+        "artist": "AKMU",
+        "album": "SAILING",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e4/a2/80/e4a28015-490b-255a-ff26-aadd6257cfa1/AKMU_DS.jpg/80x80bb.webp",
+        "length": "4:50"
+    },
+    {
+        "ranking": "25",
+        "title": "Closely Far Away",
+        "artist": "CAR, THE GARDEN",
+        "album": "Closely Far Away - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ef/ab/1e/efab1e8c-0efc-1442-0c70-5197ac7e2647/191953137896-4064174.jpg/80x80bb.webp",
+        "length": "3:14"
+    },
+    {
+        "ranking": "26",
+        "title": "Supernatural",
+        "artist": "NewJeans",
+        "album": "Supernatural - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/ce/d6/abced6f6-2b90-c230-eb4b-e146734a3a22/196922907821_Cover.jpg/80x80bb.webp",
+        "length": "3:11"
+    },
+    {
+        "ranking": "27",
+        "title": "Time of Our Life",
+        "artist": "DAY6",
+        "album": "The Book of Us : Gravity - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7c/51/b4/7c51b4a5-a049-ed9c-126f-2eac310060d1/738676857337_Cover.jpg/80x80bb.webp",
+        "length": "3:25"
+    },
+    {
+        "ranking": "28",
+        "title": "MEOW",
+        "artist": "MEOVV",
+        "album": "MEOW - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/7f/b9/9b7fb97f-57fd-0a2e-64de-30cd3a259c71/198704128974_Cover.jpg/80x80bb.webp",
+        "length": "2:52"
+    },
+    {
+        "ranking": "29",
+        "title": "NEMONEMO",
+        "artist": "YENA",
+        "album": "NEMONEMO - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/6b/dc/346bdc50-b35d-955d-9531-993682c294e9/888272140439_Cover.jpg/80x80bb.webp",
+        "length": "2:58"
+    },
+    {
+        "ranking": "30",
+        "title": "If You Ask Me What Love Is",
+        "artist": "Roy Kim",
+        "album": "If You Ask Me What Love Is - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b5/f7/17/b5f7170a-c9fa-35e3-d2a0-94e4cdeb145e/888272141344_Cover.jpg/80x80bb.webp",
+        "length": "3:43"
+    },
+    {
+        "ranking": "31",
+        "title": "Ditto",
+        "artist": "NewJeans",
+        "album": "NewJeans 'OMG' - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/48/96/08/4896085e-b550-cb0a-3e5b-1f203521cb82/196922265464_Cover.jpg/80x80bb.webp",
+        "length": "3:05"
+    },
+    {
+        "ranking": "32",
+        "title": "You Were Beautiful",
+        "artist": "DAY6",
+        "album": "SUNRISE",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bc/56/7c/bc567cda-5ed2-635a-56a4-f088c773624b/738676856729_Cover.jpg/80x80bb.webp",
+        "length": "4:43"
+    },
+    {
+        "ranking": "33",
+        "title": "Hype Boy",
+        "artist": "NewJeans",
+        "album": "NewJeans 1st EP 'New Jeans'",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/80x80bb.webp",
+        "length": "2:59"
+    },
+    {
+        "ranking": "34",
+        "title": "Silently Completely Eternally",
+        "artist": "Nerd Connection",
+        "album": "New Century Masterpiece Cinema",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d1/8a/05/d18a057b-fcd5-7df6-c846-fd6e71f5a8d2/82330555.jpg/80x80bb.webp",
+        "length": "3:09"
+    },
+    {
+        "ranking": "35",
+        "title": "Be Mine",
+        "artist": "Jimin",
+        "album": "MUSE",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/80x80bb.webp",
+        "length": "3:27"
+    },
+    {
+        "ranking": "36",
+        "title": "Girls Never Die",
+        "artist": "tripleS",
+        "album": "<ASSEMBLE24>",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/13/3e/e1133e61-680f-babf-0177-e0fe29903a4d/198391991660.jpg/80x80bb.webp",
+        "length": "3:07"
+    },
+    {
+        "ranking": "37",
+        "title": "Sticky",
+        "artist": "KISS OF LIFE",
+        "album": "Sticky - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9b/00/c7/9b00c7e0-2e78-af06-bcfe-89d7a00e5a6d/cover_KM0019987_1.jpg/80x80bb.webp",
+        "length": "2:37"
+    },
+    {
+        "ranking": "38",
+        "title": "If I have you only (My love)",
+        "artist": "Nerd Connection",
+        "album": "If I have you only (My love) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/66/39/f0/6639f07c-9350-c249-6558-72e4c88ce7fe/cover_KM0018050_1.jpg/80x80bb.webp",
+        "length": "4:10"
+    },
+    {
+        "ranking": "39",
+        "title": "Drama",
+        "artist": "aespa",
+        "album": "Drama - The 4th Mini Album",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f7/f0/5c/f7f05ce4-e5a4-900d-e087-1dd9668b2b34/888735945939.jpg/80x80bb.webp",
+        "length": "3:34"
+    },
+    {
+        "ranking": "40",
+        "title": "Here With Me",
+        "artist": "d4vd",
+        "album": "Here With Me - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/90/ad/38/90ad385f-2dba-8046-99d0-3ee71df77297/22UM1IM07351.rgb.jpg/80x80bb.webp",
+        "length": "4:02"
+    },
+    {
+        "ranking": "41",
+        "title": "BIRDS OF A FEATHER",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "3:30"
+    },
+    {
+        "ranking": "42",
+        "title": "Attention",
+        "artist": "NewJeans",
+        "album": "NewJeans 1st EP 'New Jeans'",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/80x80bb.webp",
+        "length": "3:00"
+    },
+    {
+        "ranking": "43",
+        "title": "Bubble Gum",
+        "artist": "NewJeans",
+        "album": "How Sweet - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/68/ca/bf68ca64-4acd-543f-bc78-455f11f06105/196922889738_Cover.jpg/80x80bb.webp",
+        "length": "3:20"
+    },
+    {
+        "ranking": "44",
+        "title": "No Doubt",
+        "artist": "ENHYPEN",
+        "album": "ROMANCE : UNTOLD -daydream-",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/c8/8c/5fc88cb7-faf5-483a-ea42-ebf112c5f3d7/198704187797_Cover.jpg/80x80bb.webp",
+        "length": "2:47"
+    },
+    {
+        "ranking": "45",
+        "title": "Boom Boom Bass",
+        "artist": "RIIZE",
+        "album": "RIIZING : Epilogue - The 1st Mini Album",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/ba/56/8cba5689-8f1b-d00e-480d-4b2a5f78d9cf/888735948763.jpg/80x80bb.webp",
+        "length": "2:32"
+    },
+    {
+        "ranking": "46",
+        "title": "When I'm With You",
+        "artist": "NCT DREAM",
+        "album": "DREAMSCAPE",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/82/e6/13/82e613db-c2ba-6100-6fc9-f5bdf2361b23/888735949296_Cover.jpg/80x80bb.webp",
+        "length": "3:31"
+    },
+    {
+        "ranking": "47",
+        "title": "odoriko",
+        "artist": "VAUNDY",
+        "album": "replica",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8a/eb/75/8aeb7526-6fe4-a81a-5dce-c5d026e7f036/4547366655728.jpg/80x80bb.webp",
+        "length": "3:49"
+    },
+    {
+        "ranking": "48",
+        "title": "Nice Guy",
+        "artist": "BOYNEXTDOOR",
+        "album": "19.99",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/fe/7a/25fe7a3c-09c5-fedd-418e-42c8d03b115e/198704113956_Cover.jpg/80x80bb.webp",
+        "length": "2:44"
+    },
+    {
+        "ranking": "49",
+        "title": "I'm Firefly",
+        "artist": "Hwang Karam",
+        "album": "I'm Firefly - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/1c/6d/e61c6d78-daa6-e319-78ae-660c4caee9df/cover_KM0020476_1.jpg/80x80bb.webp",
+        "length": "3:35"
+    },
+    {
+        "ranking": "50",
+        "title": "‎Good Night Good Dream",
+        "artist": "Nerd Connection",
+        "album": "‎Good Night Good Dream - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/f9/77/7af977be-cf12-73f4-7534-a54359205405/cover_KM0019696_1.jpg/80x80bb.webp",
+        "length": "4:25"
+    },
+    {
+        "ranking": "51",
+        "title": "Espresso",
+        "artist": "Sabrina Carpenter",
+        "album": "Espresso - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
+        "length": "2:55"
+    },
+    {
+        "ranking": "52",
+        "title": "CRAZY",
+        "artist": "LE SSERAFIM",
+        "album": "CRAZY - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1f/47/3a/1f473a01-7d87-23f5-ee05-3a450cd5537a/198704101359_Cover.jpg/80x80bb.webp",
+        "length": "2:44"
+    },
+    {
+        "ranking": "53",
+        "title": "Untitled, 2014",
+        "artist": "G-DRAGON",
+        "album": "KWON JI YONG - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/08/7d/c9/087dc979-4295-daa3-f22a-3c4f141c7ad0/GD_DS_4000_2.jpg/80x80bb.webp",
+        "length": "3:42"
+    },
+    {
+        "ranking": "54",
+        "title": "Touch",
+        "artist": "KATSEYE",
+        "album": "SIS (Soft Is Strong) - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/fb/6a/08fb6a32-8856-f1f4-148b-8959bff0efb0/24UMGIM67773.rgb.jpg/80x80bb.webp",
+        "length": "2:09"
+    },
+    {
+        "ranking": "55",
+        "title": "T.B.H",
+        "artist": "QWER",
+        "album": "1st Mini Album 'MANITO'",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/75/54/38/75543853-92c7-064c-fe26-2cbf5eecc6d8/cover_KM0019655_1.jpg/80x80bb.webp",
+        "length": "2:55"
+    },
+    {
+        "ranking": "56",
+        "title": "Love wins all",
+        "artist": "IU",
+        "album": "Love wins all - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e3/56/1e/e3561eb5-de12-790d-569b-53fa22e6b491/cover_KM0019422_1.jpg/80x80bb.webp",
+        "length": "4:31"
+    },
+    {
+        "ranking": "57",
+        "title": "OMG (Apple Music Edition)",
+        "artist": "NewJeans",
+        "album": "OMG (Apple Music Edition) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d0/78/92/d07892c1-2770-7e7f-68ba-dc6409750f7a/196922401039_Cover.jpg/80x80bb.webp",
+        "length": "3:32"
+    },
+    {
+        "ranking": "58",
+        "title": "Supernova Love",
+        "artist": "IVE",
+        "album": "Supernova Love - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e9/f4/e6/e9f4e659-5321-9c7e-cd60-02067199d4d9/24UM1IM21583.rgb.jpg/80x80bb.webp",
+        "length": "3:19"
+    },
+    {
+        "ranking": "59",
+        "title": "EVERYTHING",
+        "artist": "The Black Skirts",
+        "album": "TEAM BABY",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/be/ce/5c/bece5cff-2caf-6d8a-9c21-3035537d2a4d/Album_cover_1400X1400.jpg/80x80bb.webp",
+        "length": "4:53"
+    },
+    {
+        "ranking": "60",
+        "title": "ETA",
+        "artist": "NewJeans",
+        "album": "NewJeans 2nd EP 'Get Up'",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/4b/7e/d34b7e1e-af3b-43b6-2949-7a8c652a1bc9/196922462726_Cover.jpg/80x80bb.webp",
+        "length": "2:31"
+    },
+    {
+        "ranking": "61",
+        "title": "SOS",
+        "artist": "FIFTY FIFTY",
+        "album": "Love Tune - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/17/a5/d917a51b-fead-dabd-3189-31ba223d2eff/196872382174.jpg/80x80bb.webp",
+        "length": "3:07"
+    },
+    {
+        "ranking": "62",
+        "title": "Spicy",
+        "artist": "aespa",
+        "album": "MY WORLD - The 3rd Mini Album - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/af/2c/6d/af2c6d62-0ebc-2dff-17b3-8eeb2b3986a0/888735943621.jpg/80x80bb.webp",
+        "length": "3:17"
+    },
+    {
+        "ranking": "63",
+        "title": "Yours",
+        "artist": "Damons year",
+        "album": "Yours - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/da/82/e1/da82e1b2-09d1-f4d1-327d-076b7d539241/yours_cover.jpg/80x80bb.webp",
+        "length": "2:45"
+    },
+    {
+        "ranking": "64",
+        "title": "For Lovers Who Hesitate",
+        "artist": "JANNABI",
+        "album": "Legend",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fc/a9/b2/fca9b2d4-b1ed-92e8-2e5f-1838d77cbce7/cover-_NEW.jpg/80x80bb.webp",
+        "length": "4:25"
+    },
+    {
+        "ranking": "65",
+        "title": "love.",
+        "artist": "wave to earth",
+        "album": "0.1 flaws and all.",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/b6/82/71b6820b-97a2-9968-c5a8-b659103030b1/5054197659843.jpg/80x80bb.webp",
+        "length": "5:07"
+    },
+    {
+        "ranking": "66",
+        "title": "Tick-Tack",
+        "artist": "ILLIT",
+        "album": "I'LL LIKE YOU - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e9/20/73/e9207332-1b22-18d0-5d1b-daaf370a4317/198704136962_Cover.jpg/80x80bb.webp",
+        "length": "2:09"
+    },
+    {
+        "ranking": "67",
+        "title": "All I Want for Christmas Is You",
+        "artist": "Mariah Carey",
+        "album": "Merry Christmas",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/80x80bb.webp",
+        "length": "4:01"
+    },
+    {
+        "ranking": "68",
+        "title": "Still Life",
+        "artist": "BIGBANG",
+        "album": "Still Life - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f6/67/3a/f6673a7c-e2bc-8084-f8b6-523cad1ab277/BIGBANG_Still_Life.jpg/80x80bb.webp",
+        "length": "3:08"
+    },
+    {
+        "ranking": "69",
+        "title": "Forest",
+        "artist": "Choi Yu Ree",
+        "album": "Stroll - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/93/a7/4b/93a74b7c-69be-a9b1-1499-2d2eb0f9c3ed/191953194141.jpg/80x80bb.webp",
+        "length": "3:48"
+    },
+    {
+        "ranking": "70",
+        "title": "Cruel Summer",
+        "artist": "Taylor Swift",
+        "album": "Lover",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/80x80bb.webp",
+        "length": "2:58"
+    },
+    {
+        "ranking": "71",
+        "title": "LAST DANCE",
+        "artist": "BIGBANG",
+        "album": "MADE",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5b/9b/8e/5b9b8ef2-998e-1210-8454-dfebfbf6271c/BB_COVER_IMAGE_4000.jpg/80x80bb.webp",
+        "length": "4:39"
+    },
+    {
+        "ranking": "72",
+        "title": "Small girl (feat. D.O.)",
+        "artist": "Lee Young Ji",
+        "album": "16 Fantasy - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/ff/93/cfff93b5-e7ef-6a28-6786-9f82f79d8117/8804775305474.jpg/80x80bb.webp",
+        "length": "3:09"
+    },
+    {
+        "ranking": "73",
+        "title": "LOVE, MONEY, FAME (feat. DJ Khaled)",
+        "artist": "SEVENTEEN",
+        "album": "SEVENTEEN 12th Mini Album 'SPILL THE FEELS' - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/30/ec/9a30ec28-9484-eaa3-5c5d-3aa7039ce0c1/198704184437_Cover.jpg/80x80bb.webp",
+        "length": "3:06"
+    },
+    {
+        "ranking": "74",
+        "title": "BETELGEUSE",
+        "artist": "Yuuri",
+        "album": "BETELGEUSE - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f1/d5/61/f1d561dc-7fab-68fa-39ac-4440d7a27940/4547366533842.jpg/80x80bb.webp",
+        "length": "3:50"
+    },
+    {
+        "ranking": "75",
+        "title": "The First Snow",
+        "artist": "EXO",
+        "album": "Miracles in December - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ae/ae/5b/aeae5b60-57e1-a742-084c-06e4fcbc6707/asset.jpg/80x80bb.webp",
+        "length": "3:27"
+    },
+    {
+        "ranking": "76",
+        "title": "A Letter",
+        "artist": "BUMJIN",
+        "album": "A Letter - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/04/6c/a3/046ca30f-94e8-bbae-def8-e087a323fa6d/8809856740601.jpg/80x80bb.webp",
+        "length": "3:35"
+    },
+    {
+        "ranking": "77",
+        "title": "Guilty",
+        "artist": "Dynamicduo",
+        "album": "Band of Dynamic Brothers",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ff/34/4f/ff344f3d-31b0-6c99-c28e-f3e241bf0a27/8809603545916_Cover.jpg/80x80bb.webp",
+        "length": "3:44"
+    },
+    {
+        "ranking": "78",
+        "title": "Bye bye my blue",
+        "artist": "Yerin Baek",
+        "album": "Bye bye my blue - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/22/8b/0e/228b0e06-d60c-2ec0-71d4-4078eb04f0c5/738676856453_Cover.jpg/80x80bb.webp",
+        "length": "3:23"
+    },
+    {
+        "ranking": "79",
+        "title": "Vancouver",
+        "artist": "BIG Naughty",
+        "album": "Lovey Dovey - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/25/12/60/25126097-f534-0393-d6a2-3c168a9ea47e/cover_KM0015226_1.jpg/80x80bb.webp",
+        "length": "3:36"
+    },
+    {
+        "ranking": "80",
+        "title": "Love 119",
+        "artist": "RIIZE",
+        "album": "RIIZING : Epilogue - The 1st Mini Album",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/ba/56/8cba5689-8f1b-d00e-480d-4b2a5f78d9cf/888735948763.jpg/80x80bb.webp",
+        "length": "2:53"
+    },
+    {
+        "ranking": "81",
+        "title": "Next Level",
+        "artist": "aespa",
+        "album": "Next Level - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/60/8d/ac/608dacc2-d6d6-462d-26f0-d693e4364751/artwork.jpg/80x80bb.webp",
+        "length": "3:41"
+    },
+    {
+        "ranking": "82",
+        "title": "Lucky Girl Syndrome",
+        "artist": "ILLIT",
+        "album": "SUPER REAL ME - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3e/49/1e/3e491e43-4961-21ab-2abe-37fb1c0feb40/196922879227_Cover.jpg/80x80bb.webp",
+        "length": "2:20"
+    },
+    {
+        "ranking": "83",
+        "title": "거리에서",
+        "artist": "Sung Si Kyung",
+        "album": "The Ballads",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/21/7c/88/217c88ed-80bf-adfa-7cdf-a5c219daf9f7/8809784722939.jpg/80x80bb.webp",
+        "length": "4:39"
+    },
+    {
+        "ranking": "84",
+        "title": "Love me or Leave me",
+        "artist": "DAY6",
+        "album": "The Book of Us : The Demon",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/88/f2/c6/88f2c69a-eec2-5979-77a9-b456846488a4/738676857535_Cover.jpg/80x80bb.webp",
+        "length": "3:42"
+    },
+    {
+        "ranking": "85",
+        "title": "Sudden Shower",
+        "artist": "ECLIPSE",
+        "album": "Lovely Runner, Pt. 1 (Original Soundtrack)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/41/84/09/418409b3-7485-6cc0-9533-584fb0eecfaf/888272132571_Cover.jpg/80x80bb.webp",
+        "length": "3:53"
+    },
+    {
+        "ranking": "86",
+        "title": "Dangerous",
+        "artist": "BOYNEXTDOOR",
+        "album": "19.99",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/fe/7a/25fe7a3c-09c5-fedd-418e-42c8d03b115e/198704113956_Cover.jpg/80x80bb.webp",
+        "length": "2:23"
+    },
+    {
+        "ranking": "87",
+        "title": "Trip (feat. Hannah)",
+        "artist": "Leellamarz",
+        "album": "VIOLINIST",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d2/6f/40/d26f4042-607f-3cef-b70c-8426e9d13e6f/8809603548191_Cover.jpg/80x80bb.webp",
+        "length": "3:54"
+    },
+    {
+        "ranking": "88",
+        "title": "TOMBOY",
+        "artist": "HYUKOH",
+        "album": "23",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/20/de/43/20de43fe-733e-3734-cab9-7bd787411260/Cover_HYUKOH_23.jpg/80x80bb.webp",
+        "length": "4:01"
+    },
+    {
+        "ranking": "89",
+        "title": "Home Sweet Home",
+        "artist": "CAR, THE GARDEN",
+        "album": "APARTMENT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f2/9c/b0/f29cb0b6-ba14-6a2a-4988-c16ea735ff07/8809534468704.jpg/80x80bb.webp",
+        "length": "3:25"
+    },
+    {
+        "ranking": "90",
+        "title": "Earth, Wind & Fire",
+        "artist": "BOYNEXTDOOR",
+        "album": "HOW?",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/38/bf/3e38bf61-7171-1cfc-7dc4-8e74751f2b6b/196922852268_Cover.jpg/80x80bb.webp",
+        "length": "2:59"
+    },
+    {
+        "ranking": "91",
+        "title": "Super Shy",
+        "artist": "NewJeans",
+        "album": "NewJeans 'Super Shy' - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/63/e5/e2/63e5e2e4-829b-924d-a1dc-8058a1d69bd4/196922462702_Cover.jpg/80x80bb.webp",
+        "length": "2:34"
+    },
+    {
+        "ranking": "92",
+        "title": "I Don't Care",
+        "artist": "2NE1",
+        "album": "2NE1 1st Mini Album",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ad/54/17/ad54177e-3f63-2e84-67f0-640627feeb97/8806384562958.jpg/80x80bb.webp",
+        "length": "3:58"
+    },
+    {
+        "ranking": "93",
+        "title": "CROOKED",
+        "artist": "G-DRAGON",
+        "album": "COUP D'ETAT (Korean Ver.)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6f/ea/f0/6feaf05d-1c45-a7ac-479e-f294d0ca4b70/8806197910472.jpg/80x80bb.webp",
+        "length": "3:44"
+    },
+    {
+        "ranking": "94",
+        "title": "See that?",
+        "artist": "NMIXX",
+        "album": "Fe3O4: STICK OUT - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/90/76/09/907609f4-0740-9439-f8c9-61e1ae7e8425/8809928952499_Cover.jpg/80x80bb.webp",
+        "length": "3:02"
+    },
+    {
+        "ranking": "95",
+        "title": "Zombie",
+        "artist": "DAY6",
+        "album": "The Book of Us : The Demon",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/88/f2/c6/88f2c69a-eec2-5979-77a9-b456846488a4/738676857535_Cover.jpg/80x80bb.webp",
+        "length": "3:29"
+    },
+    {
+        "ranking": "96",
+        "title": "Don't Look Back in Anger (Remastered)",
+        "artist": "Oasis",
+        "album": "(What's The Story) Morning Glory? [Deluxe Remastered Edition]",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/34/2e/cb/342ecb17-ef19-816a-4ce5-e60b9ceec161/5051961073164.jpg/80x80bb.webp",
+        "length": "4:49"
+    },
+    {
+        "ranking": "97",
+        "title": "Over The Moon",
+        "artist": "TOMORROW X TOGETHER",
+        "album": "The Star Chapter: SANCTUARY - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4c/3f/b3/4c3fb336-a0bc-740f-d030-2de348b8d1e4/198704166372_Cover.jpg/80x80bb.webp",
+        "length": "2:37"
+    },
+    {
+        "ranking": "98",
+        "title": "seasons",
+        "artist": "wave to earth",
+        "album": "summer flows 0.02 - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1d/b2/a1/1db2a1fe-2327-e014-c7be-82f9eeea4f8d/5054197890017.jpg/80x80bb.webp",
+        "length": "4:15"
+    },
+    {
+        "ranking": "99",
+        "title": "Get Loud",
+        "artist": "KISS OF LIFE",
+        "album": "Lose Yourself",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/70/86/dd70863e-2571-25cd-d1eb-c44a5cdba57f/cover_KM0020274_1.jpg/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
+        "ranking": "100",
+        "title": "Derre",
+        "artist": "BIBI",
+        "album": "Derre - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f0/6e/9c/f06e9c54-debe-ee64-ae18-ca5ed7e1a83d/cover_KM0020590_1.jpg/80x80bb.webp",
+        "length": "2:36"
+    }
+]
