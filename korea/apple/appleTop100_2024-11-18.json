@@ -284,7 +284,8 @@
         "artist": "Nerd Connection",
         "album": "New Century Masterpiece Cinema",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d1/8a/05/d18a057b-fcd5-7df6-c846-fd6e71f5a8d2/82330555.jpg/80x80bb.webp",
-        "length": "3:09"
+        "length": "3:09",
+        "youtubeID": "poXVovjcLXk"
     },
     {
         "ranking": "33",
@@ -409,7 +410,8 @@
         "artist": "NCT DREAM",
         "album": "DREAMSCAPE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/0a/71/cd0a71e6-bae9-dae5-5ead-7e29c15d15dd/888735949296.png/80x80bb.webp",
-        "length": "3:31"
+        "length": "3:31",
+        "youtubeID": "B1qq8IvzSz4"
     },
     {
         "ranking": "47",
@@ -453,7 +455,8 @@
         "artist": "Mariah Carey",
         "album": "Merry Christmas",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/80x80bb.webp",
-        "length": "4:01"
+        "length": "4:01",
+        "youtubeID": "aAkMkVFwAoo"
     },
     {
         "ranking": "52",
@@ -559,7 +562,8 @@
         "artist": "EXO",
         "album": "12월의 기적 - EP",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ae/ae/5b/aeae5b60-57e1-a742-084c-06e4fcbc6707/asset.jpg/80x80bb.webp",
-        "length": "3:27"
+        "length": "3:27",
+        "youtubeID": "h0b4nw7NDhA"
     },
     {
         "ranking": "64",
@@ -701,7 +705,8 @@
         "artist": "BIG Naughty",
         "album": "Lovey Dovey - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/25/12/60/25126097-f534-0393-d6a2-3c168a9ea47e/cover_KM0015226_1.jpg/80x80bb.webp",
-        "length": "3:36"
+        "length": "3:36",
+        "youtubeID": "mev609MxcRE"
     },
     {
         "ranking": "80",
@@ -709,7 +714,8 @@
         "artist": "아일릿",
         "album": "SUPER REAL ME - EP",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3e/49/1e/3e491e43-4961-21ab-2abe-37fb1c0feb40/196922879227_Cover.jpg/80x80bb.webp",
-        "length": "2:20"
+        "length": "2:20",
+        "youtubeID": "UCmgGZbfjmk"
     },
     {
         "ranking": "81",
@@ -885,6 +891,7 @@
         "artist": "Ariana Grande",
         "album": "Santa Tell Me - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/60/c8/2b/60c82b22-cd58-cdcd-5b51-6fad7a8b7055/14UMGIM55455.rgb.jpg/80x80bb.webp",
-        "length": "3:24"
+        "length": "3:24",
+        "youtubeID": "nlR0MkrRklg"
     }
 ]
