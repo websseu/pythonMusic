@@ -1,14 +1,18 @@
 import json
 import os
 import glob
+import re
 
 # 파일 경로 설정
 file1_path = "korea/totalKoreaMusic.json"
 folder_paths = ["korea/apple", "korea/bugs", "korea/flo", "korea/genie", "korea/melon", "korea/vibe"]
 
-# 표준화 함수: 공백 제거 및 소문자 변환
+# 표준화 함수: 공백 제거, 소문자 변환, 특수 문자 제거
 def standardize(text):
-    return text.replace(" ", "").lower() if text else ""
+    if not text:
+        return ""
+    # 공백 제거, 소문자 변환, 특수 문자 제거
+    return re.sub(r"[()&,.\s]+", "", text).lower()
 
 try:
     # 첫 번째 파일 로드
