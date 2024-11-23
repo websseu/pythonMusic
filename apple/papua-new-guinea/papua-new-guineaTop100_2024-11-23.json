@@ -1,0 +1,802 @@
+[
+    {
+        "ranking": "1",
+        "title": "Papare",
+        "artist": "Rickflvir",
+        "album": "Papare - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/05/a0/f605a0ab-5641-bb40-f91a-c70c891120de/artwork.jpg/80x80bb.webp",
+        "length": "4:11"
+    },
+    {
+        "ranking": "2",
+        "title": "Consequences (feat. Tonton Malele)",
+        "artist": "Laku Mic",
+        "album": "Consequences (feat. Tonton Malele) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8c/c9/75/8cc9758e-3da1-a5a2-e221-7441844af606/artwork.jpg/80x80bb.webp",
+        "length": "3:25"
+    },
+    {
+        "ranking": "3",
+        "title": "Dei",
+        "artist": "Kali Tui",
+        "album": "Dei - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/b7/81/37b78175-d1ef-f6a0-3454-acc5bcb52c2e/9656.jpg/80x80bb.webp",
+        "length": "3:07"
+    },
+    {
+        "ranking": "4",
+        "title": "BOTTLE (feat. Poggy Rytez, FoeFoe & Kronos)",
+        "artist": "Brenz",
+        "album": "BOTTLE (feat. Poggy Rytez, FoeFoe & Kronos) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/69/27/dd692753-8fcf-1f8c-b71e-c217d2d14043/artwork.jpg/80x80bb.webp",
+        "length": "3:05"
+    },
+    {
+        "ranking": "5",
+        "title": "Die With A Smile",
+        "artist": "Lady Gaga",
+        "album": "Die With A Smile - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
+        "length": "4:11"
+    },
+    {
+        "ranking": "6",
+        "title": "Marama Dina",
+        "artist": "Marama",
+        "album": "Marama Dina - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/b9/be/afb9beba-f1c1-9f27-02d5-542fe7b80bb2/9532.jpg/80x80bb.webp",
+        "length": "3:21"
+    },
+    {
+        "ranking": "7",
+        "title": "Lauti Au (feat. Lepani)",
+        "artist": "VT1S",
+        "album": "Ka Tolu",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f0/f1/b4/f0f1b4ab-b716-acfe-37a3-4eee636b1e1a/7118.jpg/80x80bb.webp",
+        "length": "3:22"
+    },
+    {
+        "ranking": "8",
+        "title": "KANTE (feat. Fave)",
+        "artist": "Davido",
+        "album": "Timeless",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
+        "length": "3:14"
+    },
+    {
+        "ranking": "9",
+        "title": "Rush",
+        "artist": "Ayra Starr",
+        "album": "19 & Dangerous (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b5/4a/3d/b54a3d1a-f493-7a9b-1807-a73f01709053/5059449090122.png/80x80bb.webp",
+        "length": "3:05"
+    },
+    {
+        "ranking": "10",
+        "title": "Stuck with U",
+        "artist": "Ariana Grande",
+        "album": "Stuck with U - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/56/ee/ec/56eeecfb-a5f3-ced0-fa69-4eda0e474aec/20UMGIM34924.rgb.jpg/80x80bb.webp",
+        "length": "3:48"
+    },
+    {
+        "ranking": "11",
+        "title": "Dukduk (Enb Special)",
+        "artist": "Jarahn",
+        "album": "Dukduk (Enb Special) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/e7/9e/2fe79eac-7863-ecc4-43f6-9e8c05721f35/8213.jpg/80x80bb.webp",
+        "length": "4:01"
+    },
+    {
+        "ranking": "12",
+        "title": "Yumi How (feat. Cammy Bee, Jarahn & Bee Kay)",
+        "artist": "Saii Kay",
+        "album": "Mama",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/8b/42/038b420d-c0a4-ee2b-0abc-f1efa18c31d0/artwork.jpg/80x80bb.webp",
+        "length": "3:55"
+    },
+    {
+        "ranking": "13",
+        "title": "Love on Me (feat. Switch.E.Dalb)",
+        "artist": "Fejoint",
+        "album": "Love on Me (feat. Switch.E.Dalb) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/25/70/a5/2570a523-4076-e2ad-747f-470222919f4c/10.jpg/80x80bb.webp",
+        "length": "3:44"
+    },
+    {
+        "ranking": "14",
+        "title": "Goh Weh Nau (feat. Jarahn & Jnr Kro)",
+        "artist": "Tonton Malele",
+        "album": "Goh Weh Nau (feat. Jarahn & Jnr Kro) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d8/94/97/d89497ad-9153-cd1f-9d07-2df634cfd75d/artwork.jpg/80x80bb.webp",
+        "length": "4:39"
+    },
+    {
+        "ranking": "15",
+        "title": "Baka Baya (feat. Jenieo & Young Davie)",
+        "artist": "Sean Rii",
+        "album": "Baka Baya (feat. Jenieo & Young Davie) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2b/b1/5a/2bb15a0c-e282-c2f0-8a42-3c07b349314c/6739.jpg/80x80bb.webp",
+        "length": "3:56"
+    },
+    {
+        "ranking": "16",
+        "title": "Angel Numbers / Ten Toes",
+        "artist": "Chris Brown",
+        "album": "11:11",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/7b/f5/4c7bf575-5b86-222d-56b2-9637a68bb651/196871463010.jpg/80x80bb.webp",
+        "length": "5:06"
+    },
+    {
+        "ranking": "17",
+        "title": "Go Bek",
+        "artist": "Mavn LKLD",
+        "album": "Go Bek - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3c/89/fd/3c89fd0e-6029-f686-d7fa-91bb256f5edd/8447181641592_cover.jpg/80x80bb.webp",
+        "length": "4:32"
+    },
+    {
+        "ranking": "18",
+        "title": "BIRDS OF A FEATHER",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "3:30"
+    },
+    {
+        "ranking": "19",
+        "title": "Espresso",
+        "artist": "Sabrina Carpenter",
+        "album": "Espresso - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
+        "length": "2:55"
+    },
+    {
+        "ranking": "20",
+        "title": "WILDFLOWER",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "4:21"
+    },
+    {
+        "ranking": "21",
+        "title": "Foreplay",
+        "artist": "Shenseea",
+        "album": "Foreplay - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a3/41/b0/a341b000-a660-f9e3-abb7-58236be1d6c7/20UMGIM03519.rgb.jpg/80x80bb.webp",
+        "length": "2:46"
+    },
+    {
+        "ranking": "22",
+        "title": "APT.",
+        "artist": "ROSÉ",
+        "album": "APT. - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
+        "ranking": "23",
+        "title": "Hanuabada Kekeni (feat. J-Liko)",
+        "artist": "Dezine",
+        "album": "Hanuabada Kekeni (feat. J-Liko) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ef/d3/22/efd3226d-33d4-9a91-9225-45cab6174516/6686.jpg/80x80bb.webp",
+        "length": "3:52"
+    },
+    {
+        "ranking": "24",
+        "title": "Pikinini Niu Ailan (feat. Nene Morus & Jayrex Suisui)",
+        "artist": "Tonton Malele",
+        "album": "Pikinini Niu Ailan (feat. Nene Morus & Jayrex Suisui) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2c/f3/ec/2cf3ec4d-e05f-5904-e5d0-12130e204dcb/artwork.jpg/80x80bb.webp",
+        "length": "3:53"
+    },
+    {
+        "ranking": "25",
+        "title": "Snooze",
+        "artist": "SZA",
+        "album": "SOS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
+        "length": "3:21"
+    },
+    {
+        "ranking": "26",
+        "title": "Uwaho (feat. Dj Dirty Fingerz)",
+        "artist": "Jarahn",
+        "album": "Uwaho (feat. Dj Dirty Fingerz) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f2/f6/4e/f2f64ec8-803d-9906-ea29-8784d70df735/8224.jpg/80x80bb.webp",
+        "length": "3:13"
+    },
+    {
+        "ranking": "27",
+        "title": "Forever (Main Version)",
+        "artist": "Chris Brown",
+        "album": "Forever - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f3/50/06/f350068c-43f2-4510-a3b0-86458da63606/888880600059.jpg/80x80bb.webp",
+        "length": "4:38"
+    },
+    {
+        "ranking": "28",
+        "title": "You Na Me (feat. Nene Morus)",
+        "artist": "Tonton Malele",
+        "album": "Maimai Inc, Vol. 1",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5b/99/5e/5b995efa-a90f-89e2-3dd2-43f3f5157677/artwork.jpg/80x80bb.webp",
+        "length": "4:43"
+    },
+    {
+        "ranking": "29",
+        "title": "Iau Mainge U (feat. O-Four, Saii Kay & Tarvin Toune)",
+        "artist": "Dj Dirty Fingerz",
+        "album": "Iau Mainge U (feat. O-Four, Saii Kay & Tarvin Toune) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/68/96/49689606-2704-ccdf-b461-b5a29527d736/8354.jpg/80x80bb.webp",
+        "length": "3:40"
+    },
+    {
+        "ranking": "30",
+        "title": "Malolo",
+        "artist": "Saii Kay",
+        "album": "Malolo - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e6/bc/14/e6bc14a6-8856-26a6-ba1d-b09082bc132f/artwork.jpg/80x80bb.webp",
+        "length": "4:05"
+    },
+    {
+        "ranking": "31",
+        "title": "Mi Go (feat. Dj Dirty Fingerz)",
+        "artist": "Jarahn",
+        "album": "Simple Mangi (feat. Dj Dirty Fingerz) - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/e1/a1/e0e1a1c6-7de8-5378-e776-00c9fb7fcc9a/9283.jpg/80x80bb.webp",
+        "length": "3:43"
+    },
+    {
+        "ranking": "32",
+        "title": "Unwritten",
+        "artist": "Maoli",
+        "album": "The Breakthrough",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/09/40/90/09409030-39a6-67e4-a6df-8f96e88bb5a9/0.jpg/80x80bb.webp",
+        "length": "3:51"
+    },
+    {
+        "ranking": "33",
+        "title": "Please Please Please",
+        "artist": "Sabrina Carpenter",
+        "album": "Short n' Sweet",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+        "length": "3:06"
+    },
+    {
+        "ranking": "34",
+        "title": "Stargazing",
+        "artist": "Myles Smith",
+        "album": "Stargazing - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/c3/a5/bfc3a56d-a51b-69cb-cdfc-26ee63631cb8/196872051872.jpg/80x80bb.webp",
+        "length": "2:52"
+    },
+    {
+        "ranking": "35",
+        "title": "Malele",
+        "artist": "Liz Vamarasi",
+        "album": "Malele - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7f/e5/70/7fe570f5-f9cd-b64f-e992-f4d4048f300c/8810.jpg/80x80bb.webp",
+        "length": "3:04"
+    },
+    {
+        "ranking": "36",
+        "title": "Delusional",
+        "artist": "Chris Brown",
+        "album": "11:11 (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/5c/c1/2d5cc1a6-86ce-ee16-5985-807f2fffa3cb/196871957267.jpg/80x80bb.webp",
+        "length": "3:37"
+    },
+    {
+        "ranking": "37",
+        "title": "Bed Chem",
+        "artist": "Sabrina Carpenter",
+        "album": "Short n' Sweet",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+        "length": "2:51"
+    },
+    {
+        "ranking": "38",
+        "title": "PUSH 2 START",
+        "artist": "Tyla",
+        "album": "TYLA +",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2a/cc/48/2acc48c7-e092-6b83-ce65-ff80ac6eb51c/196872520118.jpg/80x80bb.webp",
+        "length": "2:36"
+    },
+    {
+        "ranking": "39",
+        "title": "Chu Chu",
+        "artist": "Sean Rii",
+        "album": "Chu Chu - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2a/1f/58/2a1f5812-369c-2b50-c548-52de848c7bff/6740.jpg/80x80bb.webp",
+        "length": "3:36"
+    },
+    {
+        "ranking": "40",
+        "title": "Go Crazy",
+        "artist": "Chris Brown",
+        "album": "Slime & B",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/81/8e/42/818e4201-66ed-9576-3721-2f6e5bb1be70/886448471837.jpg/80x80bb.webp",
+        "length": "2:56"
+    },
+    {
+        "ranking": "41",
+        "title": "Sarere (feat. Nene Morus & DJ Dirty Fingerz)",
+        "artist": "Tonton Malele",
+        "album": "Sarere (feat. Nene Morus & DJ Dirty Fingerz) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/63/bd/4a/63bd4a19-24de-61ba-6f78-3726a68a0e6c/artwork.jpg/80x80bb.webp",
+        "length": "4:03"
+    },
+    {
+        "ranking": "42",
+        "title": "Don't Leave Me (feat. Kugypt)",
+        "artist": "Sean Rii",
+        "album": "Banana Boy - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2a/40/05/2a400583-6b7f-f952-a1f6-5d0817979c93/6766.jpg/80x80bb.webp",
+        "length": "3:12"
+    },
+    {
+        "ranking": "43",
+        "title": "Maris Noh Katigu",
+        "artist": "Tonton Malele",
+        "album": "Maris Noh Katigu - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9a/30/d4/9a30d458-8697-7722-63d8-ca297ddbba1b/artwork.jpg/80x80bb.webp",
+        "length": "3:59"
+    },
+    {
+        "ranking": "44",
+        "title": "Go Back",
+        "artist": "Stagajah",
+        "album": "Go Back - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/50/19/c8/5019c8b7-932c-a4c7-21bf-fc243a3815a3/0.jpg/80x80bb.webp",
+        "length": "3:27"
+    },
+    {
+        "ranking": "45",
+        "title": "East Side (feat. Dj Dirty Fingerz)",
+        "artist": "Tonton Malele",
+        "album": "East Side (feat. Dj Dirty Fingerz) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/6d/b7/f2/6db7f206-3a52-1081-e7e3-47e2ba8ea7a2/artwork.jpg/80x80bb.webp",
+        "length": "3:27"
+    },
+    {
+        "ranking": "46",
+        "title": "Cintaku (feat. Kugypt)",
+        "artist": "Sean Rii",
+        "album": "Cintaku (feat. Kugypt) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f7/90/d1/f790d100-f2d5-983f-9a5c-739feee604e6/6806.jpg/80x80bb.webp",
+        "length": "2:29"
+    },
+    {
+        "ranking": "47",
+        "title": "Tomorrow Comes",
+        "artist": "Sean Rii",
+        "album": "Loyal",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/eb/da/ef/ebdaef16-16bf-afbb-4573-0ed950da8944/6758.jpg/80x80bb.webp",
+        "length": "3:04"
+    },
+    {
+        "ranking": "48",
+        "title": "Mercy",
+        "artist": "Maoli",
+        "album": "Sense of Purpose",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/bd/16/6abd16da-2c04-4e18-c367-7b2d2adc6fa1/0.jpg/80x80bb.webp",
+        "length": "3:14"
+    },
+    {
+        "ranking": "49",
+        "title": "Island Girl",
+        "artist": "Kennyon Brown",
+        "album": "Island Girl - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ba/6d/9a/ba6d9a3b-1f7c-0c96-def4-055c6c58effa/6132.jpg/80x80bb.webp",
+        "length": "2:57"
+    },
+    {
+        "ranking": "50",
+        "title": "Residuals",
+        "artist": "Chris Brown",
+        "album": "11:11 (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/5c/c1/2d5cc1a6-86ce-ee16-5985-807f2fffa3cb/196871957267.jpg/80x80bb.webp",
+        "length": "3:35"
+    },
+    {
+        "ranking": "51",
+        "title": "Hit & Run",
+        "artist": "Shenseea",
+        "album": "Hit & Run (feat. Masicka & Di Genius) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/39/24/b8/3924b8e1-1a90-0d05-a226-9369d07a4c0c/24UMGIM07424.rgb.jpg/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
+        "ranking": "52",
+        "title": "Unlove (feat. Nc Nhaytz)",
+        "artist": "Saii Kay",
+        "album": "Unlove (feat. Nc Nhaytz) - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b4/15/bb/b415bb7f-7e8e-eb65-6c3f-1cf770b356a9/artwork.jpg/80x80bb.webp",
+        "length": "5:19"
+    },
+    {
+        "ranking": "53",
+        "title": "7 rings",
+        "artist": "Ariana Grande",
+        "album": "thank u, next",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e4/06/d3/e406d3d8-2507-e585-c919-60bc5446985c/19UMGIM03689.rgb.jpg/80x80bb.webp",
+        "length": "2:58"
+    },
+    {
+        "ranking": "54",
+        "title": "Every Night Every Morning",
+        "artist": "Maoli",
+        "album": "Maoli Music Overload",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/73/4f/db734ffc-785c-9999-be7c-f0c54458690a/0.jpg/80x80bb.webp",
+        "length": "3:17"
+    },
+    {
+        "ranking": "55",
+        "title": "Needed Me",
+        "artist": "Rihanna",
+        "album": "ANTI (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/11/e9/60/11e9600c-7f3a-424b-1643-97c69f7e8067/16UMGIM03373.rgb.jpg/80x80bb.webp",
+        "length": "3:11"
+    },
+    {
+        "ranking": "56",
+        "title": "Lose Control",
+        "artist": "Teddy Swims",
+        "album": "I've Tried Everything But Therapy (Part 1)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
+        "length": "3:30"
+    },
+    {
+        "ranking": "57",
+        "title": "Geni Kwaimani",
+        "artist": "Onetox",
+        "album": "Another Day",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/51/30/5b/51305b1a-8896-2b4f-e3f2-d96449a3efc9/7460.jpg/80x80bb.webp",
+        "length": "4:09"
+    },
+    {
+        "ranking": "58",
+        "title": "Haluma Radaaz",
+        "artist": "Saii Kay",
+        "album": "Haluma Radaaz - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b3/3c/62/b33c6269-9590-5c5f-9978-da529c183453/artwork.jpg/80x80bb.webp",
+        "length": "4:10"
+    },
+    {
+        "ranking": "59",
+        "title": "Diet Pepsi",
+        "artist": "Addison Rae",
+        "album": "Diet Pepsi - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/ef/7a/01ef7a06-1b48-0460-efbf-983d6a0a37fa/196872309959.jpg/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
+        "ranking": "60",
+        "title": "Timeless",
+        "artist": "The Weeknd",
+        "album": "Timeless - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
+        "length": "4:16"
+    },
+    {
+        "ranking": "61",
+        "title": "Heart Of A Woman",
+        "artist": "Summer Walker",
+        "album": "Heart Of A Woman - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c1/e3/d2/c1e3d24a-765c-4ba0-9fec-69b423512806/24UM1IM13081.rgb.jpg/80x80bb.webp",
+        "length": "2:51"
+    },
+    {
+        "ranking": "62",
+        "title": "Die For You",
+        "artist": "Shenseea",
+        "album": "Never Gets Late Here",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4d/42/ed/4d42edf6-6a14-5e74-9a02-a01fe9bff99c/23UM1IM07501.rgb.jpg/80x80bb.webp",
+        "length": "2:20"
+    },
+    {
+        "ranking": "63",
+        "title": "To'Bonez (feat. Danielle)",
+        "artist": "Uralom Kania",
+        "album": "To'Bonez (feat. Danielle) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/df/2e/c0/df2ec0a1-3ff8-7f79-54ae-d716a653b798/artwork.jpg/80x80bb.webp",
+        "length": "3:30"
+    },
+    {
+        "ranking": "64",
+        "title": "Ice On My Baby",
+        "artist": "Yung Bleu",
+        "album": "Ice On My Baby - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/e8/e1/39/e8e1390d-5dfd-93bf-551a-2d5a01963237/886447055670.jpg/80x80bb.webp",
+        "length": "3:37"
+    },
+    {
+        "ranking": "65",
+        "title": "Flight Queen (feat. Uralom Kania)",
+        "artist": "Saii Kay",
+        "album": "Mama",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/8b/42/038b420d-c0a4-ee2b-0abc-f1efa18c31d0/artwork.jpg/80x80bb.webp",
+        "length": "4:23"
+    },
+    {
+        "ranking": "66",
+        "title": "Controller (Remix)",
+        "artist": "Onesimus",
+        "album": "Controller (Remix) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/58/d4/6f58d46d-bff0-d235-0c0f-b7b2904b3156/751238777850.png/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
+        "ranking": "67",
+        "title": "Better",
+        "artist": "Khalid",
+        "album": "Suncity - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/13/f8/24/13f8244c-03cb-e123-9d7e-927484170344/886447357385.jpg/80x80bb.webp",
+        "length": "3:49"
+    },
+    {
+        "ranking": "68",
+        "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
+        "artist": "Post Malone",
+        "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4b/30/2c/4b302cb6-7a14-5464-4e97-0577e9d0be49/18UMGIM82277.rgb.jpg/80x80bb.webp",
+        "length": "2:38"
+    },
+    {
+        "ranking": "69",
+        "title": "Under the Influence",
+        "artist": "Chris Brown",
+        "album": "Indigo (Extended)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/96/1b/c9/961bc949-7e03-2670-f612-72c34ece6a22/886447924464.jpg/80x80bb.webp",
+        "length": "3:04"
+    },
+    {
+        "ranking": "70",
+        "title": "Come Closer (feat. Konecs, Reggie & Switch. E)",
+        "artist": "Fejoint",
+        "album": "Come Closer (feat. Konecs, Reggie & Switch. E) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/9c/56/f8/9c56f8b8-2679-1d58-8226-37e7dee9a59d/11.jpg/80x80bb.webp",
+        "length": "3:28"
+    },
+    {
+        "ranking": "71",
+        "title": "Leave Before You Love Me",
+        "artist": "Marshmello",
+        "album": "Leave Before You Love Me - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6d/b0/25/6db0252f-6491-1cce-7863-02d7d4c37b91/21UMGIM44955.rgb.jpg/80x80bb.webp",
+        "length": "2:34"
+    },
+    {
+        "ranking": "72",
+        "title": "Love Don't Cost A Dime (Re-Up)",
+        "artist": "Magixx",
+        "album": "Love Don't Cost A Dime (Re-Up) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/8b/b4/e5/8bb4e57e-adc0-5565-5879-38a8197c9406/5059449062921.png/80x80bb.webp",
+        "length": "2:27"
+    },
+    {
+        "ranking": "73",
+        "title": "Girls Like You (feat. Cardi B)",
+        "artist": "Maroon 5",
+        "album": "Red Pill Blues (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3a/70/73/3a707356-886e-5eda-7410-052450a3ab41/17UM1IM31407.rgb.jpg/80x80bb.webp",
+        "length": "3:55"
+    },
+    {
+        "ranking": "74",
+        "title": "Me Wetim You (feat. Jenieo)",
+        "artist": "Sean Rii",
+        "album": "Me Wetim You (feat. Jenieo) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e9/3d/b6/e93db6d5-e441-e851-3273-a3bb6f4af51d/6899.jpg/80x80bb.webp",
+        "length": "3:47"
+    },
+    {
+        "ranking": "75",
+        "title": "Intentions (feat. Quavo)",
+        "artist": "Justin Bieber",
+        "album": "Changes",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/21/4e/d2214ea9-97ff-46ef-ac45-7fca6fb73839/20UMGIM03126.rgb.jpg/80x80bb.webp",
+        "length": "3:32"
+    },
+    {
+        "ranking": "76",
+        "title": "On the Low",
+        "artist": "Burna Boy",
+        "album": "African Giant",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ac/4c/e3/ac4ce34b-c2cd-a057-e049-b0914c51be1a/075679849304.jpg/80x80bb.webp",
+        "length": "3:05"
+    },
+    {
+        "ranking": "77",
+        "title": "Tekem yu lo Makira (feat. J-Liko & Jenieo)",
+        "artist": "Sean Rii",
+        "album": "Tekem yu lo Makira (feat. J-Liko & Jenieo) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d7/3d/f5/d73df54c-1c08-82f5-d2a8-ee67c4c8a9df/6797.jpg/80x80bb.webp",
+        "length": "3:34"
+    },
+    {
+        "ranking": "78",
+        "title": "Rumwane (feat. Jenieo & Trabolsum)",
+        "artist": "Dezine",
+        "album": "Fionah",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6a/4c/2c/6a4c2c94-ee44-a2ac-b5bc-379dd12ff526/6664.jpg/80x80bb.webp",
+        "length": "3:07"
+    },
+    {
+        "ranking": "79",
+        "title": "What Lovers Do (feat. SZA)",
+        "artist": "Maroon 5",
+        "album": "Red Pill Blues (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8a/49/80/8a49806e-e9b6-1025-f4a8-cf51edb4504b/17UM1IM31406.rgb.jpg/80x80bb.webp",
+        "length": "3:19"
+    },
+    {
+        "ranking": "80",
+        "title": "Unforgettable (feat. Swae Lee)",
+        "artist": "French Montana",
+        "album": "Jungle Rules",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2c/35/83/2c3583bb-609d-246f-ff42-acbc726b64d3/886446570396.jpg/80x80bb.webp",
+        "length": "3:53"
+    },
+    {
+        "ranking": "81",
+        "title": "You Tuff Tumas (feat. Alexis)",
+        "artist": "Sean Rii",
+        "album": "You Tuff Tumas (feat. Alexis) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9f/b4/d8/9fb4d88d-b0f8-03a7-3280-ffc9a15556ca/6796.jpg/80x80bb.webp",
+        "length": "3:54"
+    },
+    {
+        "ranking": "82",
+        "title": "Overtime",
+        "artist": "Chris Brown",
+        "album": "Indigo (Extended)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/96/1b/c9/961bc949-7e03-2670-f612-72c34ece6a22/886447924464.jpg/80x80bb.webp",
+        "length": "4:35"
+    },
+    {
+        "ranking": "83",
+        "title": "Jireh (feat. Chandler Moore & Naomi Raine)",
+        "artist": "Elevation Worship",
+        "album": "Old Church Basement",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ac/fb/2e/acfb2e1b-5a2a-6ad2-401f-aeb16df85673/886449130207.jpg/80x80bb.webp",
+        "length": "9:58"
+    },
+    {
+        "ranking": "84",
+        "title": "Perfect",
+        "artist": "Ed Sheeran",
+        "album": "÷ (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
+        "length": "4:23"
+    },
+    {
+        "ranking": "85",
+        "title": "Ena Rukuni Vula (feat. Billy T & Ratu)",
+        "artist": "Tonton Malele",
+        "album": "Ena Rukuni Vula (feat. Billy T & Ratu) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/72/b1/90/72b190f5-2055-7d3a-fa02-b40f7ce6c62a/659783227762_cover.jpg/80x80bb.webp",
+        "length": "4:43"
+    },
+    {
+        "ranking": "86",
+        "title": "Karim Lewa",
+        "artist": "Sean Rii",
+        "album": "Karim Lewa - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/90/4c/03/904c033a-49d2-db88-40eb-23961b520b71/6869.jpg/80x80bb.webp",
+        "length": "3:58"
+    },
+    {
+        "ranking": "87",
+        "title": "Commas",
+        "artist": "Ayra Starr",
+        "album": "The Year I Turned 21",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/b2/de/44b2de15-4e05-77d8-14f3-ec5387ea24ec/24UMGIM51453.rgb.jpg/80x80bb.webp",
+        "length": "2:37"
+    },
+    {
+        "ranking": "88",
+        "title": "Sunset Meri (feat. Dave West)",
+        "artist": "Capehenslow",
+        "album": "Sunset Meri",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ac/aa/26/acaa26d3-3e1c-1dc4-af3d-f6c2275cf39d/artwork.jpg/80x80bb.webp",
+        "length": "3:42"
+    },
+    {
+        "ranking": "89",
+        "title": "Old Thing Back (feat. Ja Rule and Ralph Tresvant)",
+        "artist": "Matoma",
+        "album": "Old Thing Back (feat. Ja Rule and Ralph Tresvant) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/be/76/2d/be762daa-2ac1-f44c-bbea-48ab8e92785c/075679926067.jpg/80x80bb.webp",
+        "length": "5:21"
+    },
+    {
+        "ranking": "90",
+        "title": "Look Misst (feat. Stegga Bwoy & Nasty)",
+        "artist": "Young Davie",
+        "album": "Look Misst (feat. Stegga Bwoy & Nasty) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dd/d6/65/ddd665fe-d903-a19c-623f-df40273846d9/747.jpg/80x80bb.webp",
+        "length": "4:53"
+    },
+    {
+        "ranking": "91",
+        "title": "Nobody Gets Me",
+        "artist": "SZA",
+        "album": "SOS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
+        "length": "3:00"
+    },
+    {
+        "ranking": "92",
+        "title": "New Rules",
+        "artist": "Dua Lipa",
+        "album": "Dua Lipa (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c1/54/2d/c1542d45-c6c2-12ca-7308-6eacd762c562/190295807870.jpg/80x80bb.webp",
+        "length": "3:29"
+    },
+    {
+        "ranking": "93",
+        "title": "Back to Sleep",
+        "artist": "Chris Brown",
+        "album": "Royalty (Deluxe Version)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/0b/4b/6f/0b4b6fc8-8231-dbfd-49d3-a92bb95d0f24/mzm.nsulprvx.jpg/80x80bb.webp",
+        "length": "3:21"
+    },
+    {
+        "ranking": "94",
+        "title": "Selfish",
+        "artist": "Justin Timberlake",
+        "album": "Everything I Thought It Was",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e4/dc/dd/e4dcdd8c-1adb-fee4-d5cf-a1faba79b1b0/196871753425.jpg/80x80bb.webp",
+        "length": "3:49"
+    },
+    {
+        "ranking": "95",
+        "title": "Balamaris (feat. Kronos_StyleKumul)",
+        "artist": "Tonton Malele",
+        "album": "Balamaris (feat. Kronos_StyleKumul) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cf/84/65/cf8465e2-0462-7bb7-e19f-a580e7750ebb/artwork.jpg/80x80bb.webp",
+        "length": "5:06"
+    },
+    {
+        "ranking": "96",
+        "title": "Firestone (feat. Conrad Sewell)",
+        "artist": "Kygo",
+        "album": "Cloud Nine",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b5/69/ad/b569ad82-3ac0-54a8-bafc-baf349491541/0617465690853.jpg/80x80bb.webp",
+        "length": "4:33"
+    },
+    {
+        "ranking": "97",
+        "title": "Kiss It Better",
+        "artist": "Rihanna",
+        "album": "ANTI (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/11/e9/60/11e9600c-7f3a-424b-1643-97c69f7e8067/16UMGIM03373.rgb.jpg/80x80bb.webp",
+        "length": "4:13"
+    },
+    {
+        "ranking": "98",
+        "title": "Love In This Club (feat. Young Jeezy)",
+        "artist": "USHER",
+        "album": "Here I Stand",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/11/2a/4e/112a4ebd-2cae-d2b9-9146-66eb8ed095d1/mzi.rlfesxkp.jpg/80x80bb.webp",
+        "length": "4:19"
+    },
+    {
+        "ranking": "99",
+        "title": "Loyal (feat. Lil Wayne & Tyga)",
+        "artist": "Chris Brown",
+        "album": "X (Expanded Edition)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a3/3a/e3/a33ae3c7-821c-1531-0436-305fcd91f7fe/886444792073.jpg/80x80bb.webp",
+        "length": "4:24"
+    },
+    {
+        "ranking": "100",
+        "title": "Made For Me",
+        "artist": "Muni Long",
+        "album": "Made For Me - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1c/c1/e0/1cc1e064-255c-e1b8-71fa-00cc68a5918e/23UM1IM06665.rgb.jpg/80x80bb.webp",
+        "length": "3:08"
+    }
+]
