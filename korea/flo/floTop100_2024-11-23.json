@@ -33,19 +33,19 @@
     },
     {
         "ranking": "5",
-        "title": "POWER",
-        "artist": "G-DRAGON",
-        "image": "https://cdn.music-flo.com/image/v2/album/647/432/30/04/430432647_180325a46e7e5355_s.jpg?1730268075969/dims/resize/140x140/quality/90",
-        "album": "POWER",
-        "youtubeID": "NMjhjrBIrG8"
-    },
-    {
-        "ranking": "6",
         "title": "나는 반딧불",
         "artist": "황가람",
         "image": "https://cdn.music-flo.com/image/v2/album/365/014/30/04/430014365_17ff7b7f145b3110_s.jpg?1729236569266/dims/resize/140x140/quality/90",
         "album": "나는 반딧불",
         "youtubeID": "x9Jz2OueIGY"
+    },
+    {
+        "ranking": "6",
+        "title": "POWER",
+        "artist": "G-DRAGON",
+        "image": "https://cdn.music-flo.com/image/v2/album/647/432/30/04/430432647_180325a46e7e5355_s.jpg?1730268075969/dims/resize/140x140/quality/90",
+        "album": "POWER",
+        "youtubeID": "NMjhjrBIrG8"
     },
     {
         "ranking": "7",
@@ -113,19 +113,19 @@
     },
     {
         "ranking": "15",
-        "title": "나는 아픈 건 딱 질색이니까",
-        "artist": "(여자)아이들",
-        "image": "https://cdn.music-flo.com/image/v2/album/834/303/21/04/421303834_65b75a24_s.jpg?1706514981658/dims/resize/140x140/quality/90",
-        "album": "2",
-        "youtubeID": "ATK7gAaZTOM"
-    },
-    {
-        "ranking": "16",
         "title": "Drowning",
         "artist": "WOODZ",
         "image": "https://cdn.music-flo.com/image/v2/album/413/666/11/04/411666413_6448df60_s.jpg?1682497378566/dims/resize/140x140/quality/90",
         "album": "OO-LI",
         "youtubeID": "tiKFuzpX-NA"
+    },
+    {
+        "ranking": "16",
+        "title": "나는 아픈 건 딱 질색이니까",
+        "artist": "(여자)아이들",
+        "image": "https://cdn.music-flo.com/image/v2/album/834/303/21/04/421303834_65b75a24_s.jpg?1706514981658/dims/resize/140x140/quality/90",
+        "album": "2",
+        "youtubeID": "ATK7gAaZTOM"
     },
     {
         "ranking": "17",
@@ -137,19 +137,19 @@
     },
     {
         "ranking": "18",
-        "title": "어떻게 이별까지 사랑하겠어, 널 사랑하는 거지",
-        "artist": "AKMU (악뮤)",
-        "image": "https://cdn.music-flo.com/image/album/537/299/03/04/403299537_5d8b03e3.jpg?1569391589964/dims/resize/140x140/quality/90",
-        "album": "항해",
-        "youtubeID": "m3DZsBw5bnE"
-    },
-    {
-        "ranking": "19",
         "title": "사랑은 늘 도망가",
         "artist": "임영웅",
         "image": "https://cdn.music-flo.com/image/v2/album/973/716/06/04/406716973_615eb227_s.jpg?1633595946672/dims/resize/140x140/quality/90",
         "album": "신사와 아가씨 OST Part.2",
         "youtubeID": "LKQ-18LoFQk"
+    },
+    {
+        "ranking": "19",
+        "title": "어떻게 이별까지 사랑하겠어, 널 사랑하는 거지",
+        "artist": "AKMU (악뮤)",
+        "image": "https://cdn.music-flo.com/image/album/537/299/03/04/403299537_5d8b03e3.jpg?1569391589964/dims/resize/140x140/quality/90",
+        "album": "항해",
+        "youtubeID": "m3DZsBw5bnE"
     },
     {
         "ranking": "20",
@@ -161,19 +161,19 @@
     },
     {
         "ranking": "21",
-        "title": "How Sweet",
-        "artist": "NewJeans",
-        "image": "https://cdn.music-flo.com/image/v2/album/164/287/25/04/425287164_664fe8f2_s.jpg?1716513011731/dims/resize/140x140/quality/90",
-        "album": "How Sweet",
-        "youtubeID": "Q3K0TOvTOno"
-    },
-    {
-        "ranking": "22",
         "title": "예뻤어",
         "artist": "DAY6 (데이식스)",
         "image": "https://cdn.music-flo.com/image/album/631/296/02/04/402296631_5c9d4078.jpg?1553809529721/dims/resize/140x140/quality/90",
         "album": "Every DAY6 February",
         "youtubeID": "BS7tz2rAOSA"
+    },
+    {
+        "ranking": "22",
+        "title": "How Sweet",
+        "artist": "NewJeans",
+        "image": "https://cdn.music-flo.com/image/v2/album/164/287/25/04/425287164_664fe8f2_s.jpg?1716513011731/dims/resize/140x140/quality/90",
+        "album": "How Sweet",
+        "youtubeID": "Q3K0TOvTOno"
     },
     {
         "ranking": "23",
@@ -185,14 +185,6 @@
     },
     {
         "ranking": "24",
-        "title": "number one girl",
-        "artist": "로제 (ROSÉ)",
-        "image": "https://cdn.music-flo.com/image/v2/album/741/293/31/04/431293741_180a21e8184e130e_s.jpg?1732234289654/dims/resize/140x140/quality/90",
-        "album": "number one girl",
-        "youtubeID": "pZ1NdE69VTs"
-    },
-    {
-        "ranking": "25",
         "title": "소나기",
         "artist": "이클립스 (ECLIPSE)",
         "image": "https://cdn.music-flo.com/image/v2/album/084/854/23/04/423854084_660f94a0_s.jpg?1712297122430/dims/resize/140x140/quality/90",
@@ -200,15 +192,7 @@
         "youtubeID": "fBB4MaBybyg"
     },
     {
-        "ranking": "26",
-        "title": "첫 만남은 계획대로 되지 않아",
-        "artist": "TWS (투어스)",
-        "image": "https://cdn.music-flo.com/image/v2/album/559/743/20/04/420743559_65aa1cb4_s.jpg?1705647285716/dims/resize/140x140/quality/90",
-        "album": "TWS 1st Mini Album ‘Sparkling Blue’",
-        "youtubeID": "hVAc1Vf2ITU"
-    },
-    {
-        "ranking": "27",
+        "ranking": "25",
         "title": "에피소드",
         "artist": "이무진",
         "image": "https://cdn.music-flo.com/image/v2/album/431/097/20/04/420097431_6577f815_o.jpg?1702361110880/dims/resize/140x140/quality/90",
@@ -216,12 +200,28 @@
         "youtubeID": "PVIf531Dt8E"
     },
     {
-        "ranking": "28",
+        "ranking": "26",
         "title": "네모네모",
         "artist": "YENA (최예나)",
         "image": "https://cdn.music-flo.com/image/v2/album/936/311/29/04/429311936_17f8ba758ca5875c_s.jpg?1727335473579/dims/resize/140x140/quality/90",
         "album": "네모네모",
         "youtubeID": "MPp8hbuZwW0"
+    },
+    {
+        "ranking": "27",
+        "title": "number one girl",
+        "artist": "로제 (ROSÉ)",
+        "image": "https://cdn.music-flo.com/image/v2/album/741/293/31/04/431293741_180a21e8184e130e_s.jpg?1732234289654/dims/resize/140x140/quality/90",
+        "album": "number one girl",
+        "youtubeID": "pZ1NdE69VTs"
+    },
+    {
+        "ranking": "28",
+        "title": "첫 만남은 계획대로 되지 않아",
+        "artist": "TWS (투어스)",
+        "image": "https://cdn.music-flo.com/image/v2/album/559/743/20/04/420743559_65aa1cb4_s.jpg?1705647285716/dims/resize/140x140/quality/90",
+        "album": "TWS 1st Mini Album ‘Sparkling Blue’",
+        "youtubeID": "hVAc1Vf2ITU"
     },
     {
         "ranking": "29",
@@ -241,14 +241,6 @@
     },
     {
         "ranking": "31",
-        "title": "모래 알갱이",
-        "artist": "임영웅",
-        "image": "https://cdn.music-flo.com/image/v2/album/186/422/14/04/414422186_6479c2aa_s.jpg?1685701292004/dims/resize/140x140/quality/90",
-        "album": "모래 알갱이",
-        "youtubeID": "xuexbvO29Gk"
-    },
-    {
-        "ranking": "32",
         "title": "Igloo",
         "artist": "KISS OF LIFE",
         "image": "https://cdn.music-flo.com/image/v2/album/642/490/29/04/429490642_17fe3ea5c2553290_s.jpg?1728888190060/dims/resize/140x140/quality/90",
@@ -256,15 +248,15 @@
         "youtubeID": "toF4ee3n-vo"
     },
     {
-        "ranking": "33",
-        "title": "Letter To Myself",
-        "artist": "태연 (TAEYEON)",
-        "image": "https://cdn.music-flo.com/image/v2/album/778/029/31/04/431029778_18080eef123a2586_s.jpg?1731650479602/dims/resize/140x140/quality/90",
-        "album": "Letter To Myself - The 6th Mini Album",
-        "youtubeID": "wqN1vLPX-no"
+        "ranking": "32",
+        "title": "모래 알갱이",
+        "artist": "임영웅",
+        "image": "https://cdn.music-flo.com/image/v2/album/186/422/14/04/414422186_6479c2aa_s.jpg?1685701292004/dims/resize/140x140/quality/90",
+        "album": "모래 알갱이",
+        "youtubeID": "xuexbvO29Gk"
     },
     {
-        "ranking": "34",
+        "ranking": "33",
         "title": "녹아내려요",
         "artist": "DAY6 (데이식스)",
         "image": "https://cdn.music-flo.com/image/v2/album/538/455/28/04/428455538_17f05d80bdc34a03_s.jpg?1724981467626/dims/resize/140x140/quality/90",
@@ -272,7 +264,7 @@
         "youtubeID": "yss4rIrHl6o"
     },
     {
-        "ranking": "35",
+        "ranking": "34",
         "title": "Love wins all",
         "artist": "아이유 (IU)",
         "image": "https://cdn.music-flo.com/image/v2/album/441/442/21/04/421442441_65d46189_s.jpg?1708417419995/dims/resize/140x140/quality/90",
@@ -280,7 +272,7 @@
         "youtubeID": "JleoAppaxi0"
     },
     {
-        "ranking": "36",
+        "ranking": "35",
         "title": "너와의 모든 지금",
         "artist": "재쓰비 (JAESSBEE)",
         "image": "https://cdn.music-flo.com/image/v2/album/707/752/30/04/430752707_1805e892403cef8d_s.jpg?1731045348320/dims/resize/140x140/quality/90",
@@ -288,15 +280,15 @@
         "youtubeID": "XV0lSvr0huU"
     },
     {
-        "ranking": "37",
-        "title": "해야 (HEYA)",
-        "artist": "IVE (아이브)",
-        "image": "https://cdn.music-flo.com/image/v2/album/509/468/24/04/424468509_662b4ba1_s.jpg?1714113443867/dims/resize/140x140/quality/90",
-        "album": "IVE SWITCH",
-        "youtubeID": "07EzMbVH3QE"
+        "ranking": "36",
+        "title": "Letter To Myself",
+        "artist": "태연 (TAEYEON)",
+        "image": "https://cdn.music-flo.com/image/v2/album/778/029/31/04/431029778_18080eef123a2586_s.jpg?1731650479602/dims/resize/140x140/quality/90",
+        "album": "Letter To Myself - The 6th Mini Album",
+        "youtubeID": "wqN1vLPX-no"
     },
     {
-        "ranking": "38",
+        "ranking": "37",
         "title": "Small girl (feat. 도경수(D.O.))",
         "artist": "이영지",
         "image": "https://cdn.music-flo.com/image/v2/album/938/149/26/04/426149938_6673de0c_s.jpg?1718869524083/dims/resize/140x140/quality/90",
@@ -304,20 +296,28 @@
         "youtubeID": "11iZcYbq_is"
     },
     {
-        "ranking": "39",
-        "title": "Magnetic",
-        "artist": "아일릿(ILLIT)",
-        "image": "https://cdn.music-flo.com/image/v2/album/615/359/23/04/423359615_65fd28d5_s.jpg?1711089879739/dims/resize/140x140/quality/90",
-        "album": "SUPER REAL ME",
-        "youtubeID": "Vk5-c_v4gMU"
+        "ranking": "38",
+        "title": "해야 (HEYA)",
+        "artist": "IVE (아이브)",
+        "image": "https://cdn.music-flo.com/image/v2/album/509/468/24/04/424468509_662b4ba1_s.jpg?1714113443867/dims/resize/140x140/quality/90",
+        "album": "IVE SWITCH",
+        "youtubeID": "07EzMbVH3QE"
     },
     {
-        "ranking": "40",
+        "ranking": "39",
         "title": "Home",
         "artist": "임영웅",
         "image": "https://cdn.music-flo.com/image/v2/album/811/670/24/04/424670811_66347cc1_s.jpg?1714715846144/dims/resize/140x140/quality/90",
         "album": "온기",
         "youtubeID": "r9yPek7FhSQ"
+    },
+    {
+        "ranking": "40",
+        "title": "Magnetic",
+        "artist": "아일릿(ILLIT)",
+        "image": "https://cdn.music-flo.com/image/v2/album/615/359/23/04/423359615_65fd28d5_s.jpg?1711089879739/dims/resize/140x140/quality/90",
+        "album": "SUPER REAL ME",
+        "youtubeID": "Vk5-c_v4gMU"
     },
     {
         "ranking": "41",
@@ -337,14 +337,6 @@
     },
     {
         "ranking": "43",
-        "title": "Armageddon",
-        "artist": "aespa",
-        "image": "https://cdn.music-flo.com/image/v2/album/322/955/24/04/424955322_66543e41_s.jpg?1716796998732/dims/resize/140x140/quality/90",
-        "album": "Armageddon - The 1st Album",
-        "youtubeID": "nFYwcndNuOY"
-    },
-    {
-        "ranking": "44",
         "title": "그대만 있다면 (여름날 우리 X 너드커넥션 (Nerd Connection))",
         "artist": "너드커넥션 (Nerd Connection)",
         "image": "https://cdn.music-flo.com/image/v2/album/727/414/16/04/416414727_64d98aed_s.jpg?1691978480349/dims/resize/140x140/quality/90",
@@ -352,23 +344,15 @@
         "youtubeID": "IMWT6937uUs"
     },
     {
+        "ranking": "44",
+        "title": "Armageddon",
+        "artist": "aespa",
+        "image": "https://cdn.music-flo.com/image/v2/album/322/955/24/04/424955322_66543e41_s.jpg?1716796998732/dims/resize/140x140/quality/90",
+        "album": "Armageddon - The 1st Album",
+        "youtubeID": "nFYwcndNuOY"
+    },
+    {
         "ranking": "45",
-        "title": "DRIP",
-        "artist": "BABYMONSTER",
-        "image": "https://cdn.music-flo.com/image/v2/album/858/427/30/04/430427858_1803b1790ff4da9f_s.jpg?1730421815856/dims/resize/140x140/quality/90",
-        "album": "DRIP",
-        "youtubeID": "Zp-Jhuhq0bQ"
-    },
-    {
-        "ranking": "46",
-        "title": "헤어지자 말해요",
-        "artist": "박재정",
-        "image": "https://cdn.music-flo.com/image/v2/album/838/139/13/04/413139838_643f8487_s.jpg?1681884297340/dims/resize/140x140/quality/90",
-        "album": "1집 Alone",
-        "youtubeID": "EYzgL19wj2g"
-    },
-    {
-        "ranking": "47",
         "title": "온기",
         "artist": "임영웅",
         "image": "https://cdn.music-flo.com/image/v2/album/811/670/24/04/424670811_66347cc1_s.jpg?1714715846144/dims/resize/140x140/quality/90",
@@ -376,7 +360,15 @@
         "youtubeID": "2WGc-5VdoGw"
     },
     {
-        "ranking": "48",
+        "ranking": "46",
+        "title": "DRIP",
+        "artist": "BABYMONSTER",
+        "image": "https://cdn.music-flo.com/image/v2/album/858/427/30/04/430427858_1803b1790ff4da9f_s.jpg?1730421815856/dims/resize/140x140/quality/90",
+        "album": "DRIP",
+        "youtubeID": "Zp-Jhuhq0bQ"
+    },
+    {
+        "ranking": "47",
         "title": "다시 만날 수 있을까",
         "artist": "임영웅",
         "image": "https://cdn.music-flo.com/image/v2/album/827/064/08/04/408064827_626f999f_s.jpg?1651480994126/dims/resize/140x140/quality/90",
@@ -384,15 +376,15 @@
         "youtubeID": "sHqFqWDviBg"
     },
     {
-        "ranking": "49",
-        "title": "너의 모든 순간",
-        "artist": "성시경",
-        "image": "https://cdn.music-flo.com/image/album/938/157/00/04/400157938_5c9f8e8e.jpg?1553960592004/dims/resize/140x140/quality/90",
-        "album": "별에서 온 그대 (SBS 수목드라마) OST - Part.7",
-        "youtubeID": "i2aRMXZR1k0"
+        "ranking": "48",
+        "title": "헤어지자 말해요",
+        "artist": "박재정",
+        "image": "https://cdn.music-flo.com/image/v2/album/838/139/13/04/413139838_643f8487_s.jpg?1681884297340/dims/resize/140x140/quality/90",
+        "album": "1집 Alone",
+        "youtubeID": "EYzgL19wj2g"
     },
     {
-        "ranking": "50",
+        "ranking": "49",
         "title": "무지개",
         "artist": "임영웅",
         "image": "https://cdn.music-flo.com/image/v2/album/827/064/08/04/408064827_626f999f_s.jpg?1651480994126/dims/resize/140x140/quality/90",
@@ -400,31 +392,7 @@
         "youtubeID": "jP2J0qnFtV4"
     },
     {
-        "ranking": "51",
-        "title": "I AM",
-        "artist": "IVE (아이브)",
-        "image": "https://cdn.music-flo.com/image/v2/album/763/481/12/04/412481763_6433cc25_s.jpg?1681116199376/dims/resize/140x140/quality/90",
-        "album": "I've IVE",
-        "youtubeID": "6ZUIwj3FgUY"
-    },
-    {
-        "ranking": "52",
-        "title": "비의 랩소디",
-        "artist": "임재현",
-        "image": "https://cdn.music-flo.com/image/v2/album/346/606/19/04/419606346_6566a7c5_s.jpg?1701226439608/dims/resize/140x140/quality/90",
-        "album": "비의 랩소디",
-        "youtubeID": "xU6FRGi4lHw"
-    },
-    {
-        "ranking": "53",
-        "title": "청춘만화",
-        "artist": "이무진",
-        "image": "https://cdn.music-flo.com/image/v2/album/134/567/29/04/429567134_17fb2ddd57150d57_o.jpg?1728025312378/dims/resize/140x140/quality/90",
-        "album": "만화 (滿花)",
-        "youtubeID": "qLJq2muxhWc"
-    },
-    {
-        "ranking": "54",
+        "ranking": "50",
         "title": "Do or Die",
         "artist": "임영웅",
         "image": "https://cdn.music-flo.com/image/v2/album/565/871/17/04/417871565_651faa5c_s.jpg?1696574047245/dims/resize/140x140/quality/90",
@@ -432,15 +400,39 @@
         "youtubeID": "tJut2wIsC1w"
     },
     {
-        "ranking": "55",
-        "title": "Cherish (My Love)",
-        "artist": "아일릿(ILLIT)",
-        "image": "https://cdn.music-flo.com/image/v2/album/701/012/30/04/430012701_17ff773d7dc790c8_s.jpg?1729231889841/dims/resize/140x140/quality/90",
-        "album": "I’LL LIKE YOU",
-        "youtubeID": "umAoiG-1oh4"
+        "ranking": "51",
+        "title": "비의 랩소디",
+        "artist": "임재현",
+        "image": "https://cdn.music-flo.com/image/v2/album/346/606/19/04/419606346_6566a7c5_s.jpg?1701226439608/dims/resize/140x140/quality/90",
+        "album": "비의 랩소디",
+        "youtubeID": "xU6FRGi4lHw"
     },
     {
-        "ranking": "56",
+        "ranking": "52",
+        "title": "너의 모든 순간",
+        "artist": "성시경",
+        "image": "https://cdn.music-flo.com/image/album/938/157/00/04/400157938_5c9f8e8e.jpg?1553960592004/dims/resize/140x140/quality/90",
+        "album": "별에서 온 그대 (SBS 수목드라마) OST - Part.7",
+        "youtubeID": "i2aRMXZR1k0"
+    },
+    {
+        "ranking": "53",
+        "title": "I AM",
+        "artist": "IVE (아이브)",
+        "image": "https://cdn.music-flo.com/image/v2/album/763/481/12/04/412481763_6433cc25_s.jpg?1681116199376/dims/resize/140x140/quality/90",
+        "album": "I've IVE",
+        "youtubeID": "6ZUIwj3FgUY"
+    },
+    {
+        "ranking": "54",
+        "title": "청춘만화",
+        "artist": "이무진",
+        "image": "https://cdn.music-flo.com/image/v2/album/134/567/29/04/429567134_17fb2ddd57150d57_o.jpg?1728025312378/dims/resize/140x140/quality/90",
+        "album": "만화 (滿花)",
+        "youtubeID": "qLJq2muxhWc"
+    },
+    {
+        "ranking": "55",
         "title": "London Boy",
         "artist": "임영웅",
         "image": "https://cdn.music-flo.com/image/v2/album/656/034/10/04/410034656_636dc223_s.jpg?1668137509431/dims/resize/140x140/quality/90",
@@ -448,7 +440,7 @@
         "youtubeID": "TMfvkhkALbU"
     },
     {
-        "ranking": "57",
+        "ranking": "56",
         "title": "Polaroid",
         "artist": "임영웅",
         "image": "https://cdn.music-flo.com/image/v2/album/656/034/10/04/410034656_636dc223_s.jpg?1668137509431/dims/resize/140x140/quality/90",
@@ -456,15 +448,15 @@
         "youtubeID": "I82pbW2y_cc"
     },
     {
-        "ranking": "58",
-        "title": "Sticky",
-        "artist": "KISS OF LIFE",
-        "image": "https://cdn.music-flo.com/image/v2/album/941/412/26/04/426412941_667e1ce8_s.jpg?1719540970629/dims/resize/140x140/quality/90",
-        "album": "Sticky",
-        "youtubeID": "IajeQM00yfE"
+        "ranking": "57",
+        "title": "Cherish (My Love)",
+        "artist": "아일릿(ILLIT)",
+        "image": "https://cdn.music-flo.com/image/v2/album/701/012/30/04/430012701_17ff773d7dc790c8_s.jpg?1729231889841/dims/resize/140x140/quality/90",
+        "album": "I’LL LIKE YOU",
+        "youtubeID": "umAoiG-1oh4"
     },
     {
-        "ranking": "59",
+        "ranking": "58",
         "title": "인생찬가",
         "artist": "임영웅",
         "image": "https://cdn.music-flo.com/image/v2/album/827/064/08/04/408064827_626f999f_s.jpg?1651480994126/dims/resize/140x140/quality/90",
@@ -472,12 +464,20 @@
         "youtubeID": "DmzTBoUmCOw"
     },
     {
-        "ranking": "60",
+        "ranking": "59",
         "title": "연애편지",
         "artist": "임영웅",
         "image": "https://cdn.music-flo.com/image/v2/album/827/064/08/04/408064827_626f999f_s.jpg?1651480994126/dims/resize/140x140/quality/90",
         "album": "IM HERO",
         "youtubeID": "P2FcQvCbDWg"
+    },
+    {
+        "ranking": "60",
+        "title": "Congratulations",
+        "artist": "DAY6 (데이식스)",
+        "image": "https://cdn.music-flo.com/image/album/764/250/00/04/400250764_5c9d570e.jpg?1553815310942/dims/resize/140x140/quality/90",
+        "album": "The Day",
+        "youtubeID": "x3sFsHrUyLQ"
     },
     {
         "ranking": "61",
@@ -489,11 +489,11 @@
     },
     {
         "ranking": "62",
-        "title": "주저하는 연인들을 위해",
-        "artist": "잔나비",
-        "image": "https://cdn.music-flo.com/image/album/951/514/02/04/402514951_5c9f7728.jpg?1553954602423/dims/resize/140x140/quality/90",
-        "album": "전설",
-        "youtubeID": "GpQ222I1ULc"
+        "title": "Sticky",
+        "artist": "KISS OF LIFE",
+        "image": "https://cdn.music-flo.com/image/v2/album/941/412/26/04/426412941_667e1ce8_s.jpg?1719540970629/dims/resize/140x140/quality/90",
+        "album": "Sticky",
+        "youtubeID": "IajeQM00yfE"
     },
     {
         "ranking": "63",
@@ -505,27 +505,27 @@
     },
     {
         "ranking": "64",
-        "title": "Congratulations",
-        "artist": "DAY6 (데이식스)",
-        "image": "https://cdn.music-flo.com/image/album/764/250/00/04/400250764_5c9d570e.jpg?1553815310942/dims/resize/140x140/quality/90",
-        "album": "The Day",
-        "youtubeID": "x3sFsHrUyLQ"
-    },
-    {
-        "ranking": "65",
-        "title": "Hype Boy",
-        "artist": "NewJeans",
-        "image": "https://cdn.music-flo.com/image/v2/album/847/826/08/04/408826847_62e7289c_s.jpg?1659316382613/dims/resize/140x140/quality/90",
-        "album": "NewJeans 1st EP 'New Jeans'",
-        "youtubeID": "11cta61wi0g"
-    },
-    {
-        "ranking": "66",
         "title": "보금자리",
         "artist": "임영웅",
         "image": "https://cdn.music-flo.com/image/v2/album/827/064/08/04/408064827_626f999f_s.jpg?1651480994126/dims/resize/140x140/quality/90",
         "album": "IM HERO",
         "youtubeID": "NBCa8xbhg-4"
+    },
+    {
+        "ranking": "65",
+        "title": "주저하는 연인들을 위해",
+        "artist": "잔나비",
+        "image": "https://cdn.music-flo.com/image/album/951/514/02/04/402514951_5c9f7728.jpg?1553954602423/dims/resize/140x140/quality/90",
+        "album": "전설",
+        "youtubeID": "GpQ222I1ULc"
+    },
+    {
+        "ranking": "66",
+        "title": "Hype Boy",
+        "artist": "NewJeans",
+        "image": "https://cdn.music-flo.com/image/v2/album/847/826/08/04/408826847_62e7289c_s.jpg?1659316382613/dims/resize/140x140/quality/90",
+        "album": "NewJeans 1st EP 'New Jeans'",
+        "youtubeID": "11cta61wi0g"
     },
     {
         "ranking": "67",
@@ -553,22 +553,14 @@
     },
     {
         "ranking": "70",
-        "title": "Bubble Gum",
-        "artist": "NewJeans",
-        "image": "https://cdn.music-flo.com/image/v2/album/164/287/25/04/425287164_664fe8f2_s.jpg?1716513011731/dims/resize/140x140/quality/90",
-        "album": "How Sweet",
-        "youtubeID": "ft70sAYrFyY"
+        "title": "첫 눈",
+        "artist": "EXO",
+        "image": "https://cdn.music-flo.com/image/album/280/148/00/04/400148280_5c9d05e3.jpg?1553794532524/dims/resize/140x140/quality/90",
+        "album": "겨울 스페셜 앨범 '12월의 기적 (Miracles in December)’",
+        "youtubeID": "h0b4nw7NDhA"
     },
     {
         "ranking": "71",
-        "title": "ETA",
-        "artist": "NewJeans",
-        "image": "https://cdn.music-flo.com/image/v2/album/480/330/15/04/415330480_64a747db_s.jpg?1688684509268/dims/resize/140x140/quality/90",
-        "album": "NewJeans 2nd EP 'Get Up'",
-        "youtubeID": "jOTfBlKSQYY"
-    },
-    {
-        "ranking": "72",
         "title": "심(心)",
         "artist": "DK(디셈버)",
         "image": "https://cdn.music-flo.com/image/v2/album/589/572/11/04/411572589_63ef235b_s.jpg?1676616542644/dims/resize/140x140/quality/90",
@@ -576,20 +568,28 @@
         "youtubeID": "OMjDI2NqQ9M"
     },
     {
+        "ranking": "72",
+        "title": "Bubble Gum",
+        "artist": "NewJeans",
+        "image": "https://cdn.music-flo.com/image/v2/album/164/287/25/04/425287164_664fe8f2_s.jpg?1716513011731/dims/resize/140x140/quality/90",
+        "album": "How Sweet",
+        "youtubeID": "ft70sAYrFyY"
+    },
+    {
         "ranking": "73",
+        "title": "ETA",
+        "artist": "NewJeans",
+        "image": "https://cdn.music-flo.com/image/v2/album/480/330/15/04/415330480_64a747db_s.jpg?1688684509268/dims/resize/140x140/quality/90",
+        "album": "NewJeans 2nd EP 'Get Up'",
+        "youtubeID": "jOTfBlKSQYY"
+    },
+    {
+        "ranking": "74",
         "title": "청혼하지 않을 이유를 못 찾았어",
         "artist": "이무진",
         "image": "https://cdn.music-flo.com/image/v2/album/667/711/23/04/423711667_660a4f18_s.jpg?1711951643443/dims/resize/140x140/quality/90",
         "album": "청혼하지 않을 이유를 못 찾았어",
         "youtubeID": "t37jMbfNTPk"
-    },
-    {
-        "ranking": "74",
-        "title": "SPOT! (feat. JENNIE)",
-        "artist": "지코 (ZICO)",
-        "image": "https://cdn.music-flo.com/image/v2/album/913/459/24/04/424459913_662ae815_o.jpg?1714087958457/dims/resize/140x140/quality/90",
-        "album": "SPOT!",
-        "youtubeID": "xfqBQ2XhBCg"
     },
     {
         "ranking": "75",
@@ -601,19 +601,19 @@
     },
     {
         "ranking": "76",
-        "title": "별별별 (See that?)",
-        "artist": "NMIXX",
-        "image": "https://cdn.music-flo.com/image/v2/album/214/943/27/04/427943214_17eb82f0ef2dc6c8_s.jpg?1723615255091/dims/resize/140x140/quality/90",
-        "album": "Fe3O4: STICK OUT",
-        "youtubeID": "_Q8Jskeps9w"
+        "title": "Pump Up The Volume!",
+        "artist": "PLAVE",
+        "image": "https://cdn.music-flo.com/image/v2/album/287/112/28/04/428112287_17ed468003784bce_s.jpg?1724111750944/dims/resize/140x140/quality/90",
+        "album": "Pump Up The Volume!",
+        "youtubeID": "EYG4ROejmyI"
     },
     {
         "ranking": "77",
-        "title": "첫 눈",
-        "artist": "EXO",
-        "image": "https://cdn.music-flo.com/image/album/280/148/00/04/400148280_5c9d05e3.jpg?1553794532524/dims/resize/140x140/quality/90",
-        "album": "겨울 스페셜 앨범 '12월의 기적 (Miracles in December)’",
-        "youtubeID": "h0b4nw7NDhA"
+        "title": "SPOT! (feat. JENNIE)",
+        "artist": "지코 (ZICO)",
+        "image": "https://cdn.music-flo.com/image/v2/album/913/459/24/04/424459913_662ae815_o.jpg?1714087958457/dims/resize/140x140/quality/90",
+        "album": "SPOT!",
+        "youtubeID": "xfqBQ2XhBCg"
     },
     {
         "ranking": "78",
@@ -625,11 +625,11 @@
     },
     {
         "ranking": "79",
-        "title": "Pump Up The Volume!",
-        "artist": "PLAVE",
-        "image": "https://cdn.music-flo.com/image/v2/album/287/112/28/04/428112287_17ed468003784bce_s.jpg?1724111750944/dims/resize/140x140/quality/90",
-        "album": "Pump Up The Volume!",
-        "youtubeID": "EYG4ROejmyI"
+        "title": "별별별 (See that?)",
+        "artist": "NMIXX",
+        "image": "https://cdn.music-flo.com/image/v2/album/214/943/27/04/427943214_17eb82f0ef2dc6c8_s.jpg?1723615255091/dims/resize/140x140/quality/90",
+        "album": "Fe3O4: STICK OUT",
+        "youtubeID": "_Q8Jskeps9w"
     },
     {
         "ranking": "80",
@@ -641,19 +641,19 @@
     },
     {
         "ranking": "81",
+        "title": "빛이 나는 사람",
+        "artist": "김호중",
+        "image": "https://cdn.music-flo.com/image/v2/album/866/591/08/04/408591866_62ac1021_o.jpg?1655443490886/dims/resize/140x140/quality/90",
+        "album": "빛이 나는 사람",
+        "youtubeID": "j40LslLRNpM"
+    },
+    {
+        "ranking": "82",
         "title": "밤양갱",
         "artist": "비비 (BIBI)",
         "image": "https://cdn.music-flo.com/image/v2/album/961/064/22/04/422064961_65cac7a3_s.jpg?1707788196834/dims/resize/140x140/quality/90",
         "album": "밤양갱",
         "youtubeID": "m9l1sRobl-E"
-    },
-    {
-        "ranking": "82",
-        "title": "To. X",
-        "artist": "태연 (TAEYEON)",
-        "image": "https://cdn.music-flo.com/image/v2/album/664/521/19/04/419521664_6563f291_s.jpg?1701048980194/dims/resize/140x140/quality/90",
-        "album": "To. X - The 5th Mini Album",
-        "youtubeID": "5_n6t9G2TUQ"
     },
     {
         "ranking": "83",
@@ -665,44 +665,29 @@
     },
     {
         "ranking": "84",
-        "title": "사건의 지평선",
-        "artist": "윤하",
-        "image": "https://cdn.music-flo.com/image/v2/album/089/911/07/04/407911089_6243b0f9_s.jpg?1648603387603/dims/resize/140x140/quality/90",
-        "album": "YOUNHA 6th Album Repackage 'END THEORY : Final Edition'",
-        "youtubeID": "BBdC1rl5sKY"
+        "title": "To. X",
+        "artist": "태연 (TAEYEON)",
+        "image": "https://cdn.music-flo.com/image/v2/album/664/521/19/04/419521664_6563f291_s.jpg?1701048980194/dims/resize/140x140/quality/90",
+        "album": "To. X - The 5th Mini Album",
+        "youtubeID": "5_n6t9G2TUQ"
     },
     {
         "ranking": "85",
-        "title": "빛이 나는 사람",
-        "artist": "김호중",
-        "image": "https://cdn.music-flo.com/image/v2/album/866/591/08/04/408591866_62ac1021_o.jpg?1655443490886/dims/resize/140x140/quality/90",
-        "album": "빛이 나는 사람",
-        "youtubeID": "j40LslLRNpM"
-    },
-    {
-        "ranking": "86",
-        "title": "우리 영화",
-        "artist": "PLAVE",
-        "image": "https://cdn.music-flo.com/image/v2/album/192/331/22/04/422331192_65d6eb1a_o.jpg?1708583707224/dims/resize/140x140/quality/90",
-        "album": "ASTERUM : 134-1"
-    },
-    {
-        "ranking": "87",
-        "title": "취중고백",
-        "artist": "김민석",
-        "image": "https://cdn.music-flo.com/image/v2/album/662/145/07/04/407145662_61bc226d_s.jpg?1639719534775/dims/resize/140x140/quality/90",
-        "album": "취중고백",
-        "youtubeID": "VMQl78z1DiY"
-    },
-    {
-        "ranking": "88",
         "title": "그대... 떠나도",
         "artist": "김호중",
         "image": "https://cdn.music-flo.com/image/v2/album/784/783/23/04/423783784_660cf336_s.jpg?1712124727498/dims/resize/140x140/quality/90",
         "album": "A LIFE(세상)"
     },
     {
-        "ranking": "89",
+        "ranking": "86",
+        "title": "Santa Tell Me",
+        "artist": "Ariana Grande",
+        "image": "https://cdn.music-flo.com/image/v2/album/096/825/02/04/402825096_655b7e7a_s.jpg?1700494971021/dims/resize/140x140/quality/90",
+        "album": "Santa Tell Me",
+        "youtubeID": "nlR0MkrRklg"
+    },
+    {
+        "ranking": "87",
         "title": "함께 가 줄래",
         "artist": "김호중",
         "image": "https://cdn.music-flo.com/image/v2/album/784/783/23/04/423783784_660cf336_s.jpg?1712124727498/dims/resize/140x140/quality/90",
@@ -710,15 +695,7 @@
         "youtubeID": "GfNuK6DgdtE"
     },
     {
-        "ranking": "90",
-        "title": "희재",
-        "artist": "성시경",
-        "image": "https://cdn.music-flo.com/image/album/797/593/00/04/400593797_5c9d5cc5.jpg?1553816774520/dims/resize/140x140/quality/90",
-        "album": "국화꽃 향기: 희재 (Scent Of Love)",
-        "youtubeID": "-pPDEayEY4M"
-    },
-    {
-        "ranking": "91",
+        "ranking": "88",
         "title": "쏜살",
         "artist": "김호중",
         "image": "https://cdn.music-flo.com/image/v2/album/784/783/23/04/423783784_660cf336_s.jpg?1712124727498/dims/resize/140x140/quality/90",
@@ -726,7 +703,7 @@
         "youtubeID": "lJEUBqMwxzM"
     },
     {
-        "ranking": "92",
+        "ranking": "89",
         "title": "바람이 부는 날엔",
         "artist": "김호중",
         "image": "https://cdn.music-flo.com/image/v2/album/784/783/23/04/423783784_660cf336_s.jpg?1712124727498/dims/resize/140x140/quality/90",
@@ -734,7 +711,7 @@
         "youtubeID": "kOZ3WPpRXdQ"
     },
     {
-        "ranking": "93",
+        "ranking": "90",
         "title": "봄날에",
         "artist": "김호중",
         "image": "https://cdn.music-flo.com/image/v2/album/784/783/23/04/423783784_660cf336_s.jpg?1712124727498/dims/resize/140x140/quality/90",
@@ -742,19 +719,42 @@
         "youtubeID": "iwwxu1esvuc"
     },
     {
-        "ranking": "94",
+        "ranking": "91",
         "title": "별 헤는 밤",
         "artist": "김호중",
         "image": "https://cdn.music-flo.com/image/v2/album/784/783/23/04/423783784_660cf336_s.jpg?1712124727498/dims/resize/140x140/quality/90",
         "album": "A LIFE(세상)"
     },
     {
+        "ranking": "92",
+        "title": "우리 영화",
+        "artist": "PLAVE",
+        "image": "https://cdn.music-flo.com/image/v2/album/192/331/22/04/422331192_65d6eb1a_o.jpg?1708583707224/dims/resize/140x140/quality/90",
+        "album": "ASTERUM : 134-1"
+    },
+    {
+        "ranking": "93",
+        "title": "사건의 지평선",
+        "artist": "윤하",
+        "image": "https://cdn.music-flo.com/image/v2/album/089/911/07/04/407911089_6243b0f9_s.jpg?1648603387603/dims/resize/140x140/quality/90",
+        "album": "YOUNHA 6th Album Repackage 'END THEORY : Final Edition'",
+        "youtubeID": "BBdC1rl5sKY"
+    },
+    {
+        "ranking": "94",
+        "title": "취중고백",
+        "artist": "김민석",
+        "image": "https://cdn.music-flo.com/image/v2/album/662/145/07/04/407145662_61bc226d_s.jpg?1639719534775/dims/resize/140x140/quality/90",
+        "album": "취중고백",
+        "youtubeID": "VMQl78z1DiY"
+    },
+    {
         "ranking": "95",
-        "title": "Santa Tell Me",
-        "artist": "Ariana Grande",
-        "image": "https://cdn.music-flo.com/image/v2/album/096/825/02/04/402825096_655b7e7a_s.jpg?1700494971021/dims/resize/140x140/quality/90",
-        "album": "Santa Tell Me",
-        "youtubeID": "nlR0MkrRklg"
+        "title": "희재",
+        "artist": "성시경",
+        "image": "https://cdn.music-flo.com/image/album/797/593/00/04/400593797_5c9d5cc5.jpg?1553816774520/dims/resize/140x140/quality/90",
+        "album": "국화꽃 향기: 희재 (Scent Of Love)",
+        "youtubeID": "-pPDEayEY4M"
     },
     {
         "ranking": "96",
@@ -765,6 +765,14 @@
     },
     {
         "ranking": "97",
+        "title": "달랐을까",
+        "artist": "PLAVE",
+        "image": "https://cdn.music-flo.com/image/v2/album/105/739/29/04/429739105_17fcf664f786d163_s.jpg?1728527273012/dims/resize/140x140/quality/90",
+        "album": "나의 해리에게 OST Part.4",
+        "youtubeID": "H1ihgLejC6s"
+    },
+    {
+        "ranking": "98",
         "title": "Love me or Leave me",
         "artist": "DAY6 (데이식스)",
         "image": "https://cdn.music-flo.com/image/album/171/594/04/04/404594171_5eb8ac64.jpg?1589161060208/dims/resize/140x140/quality/90",
@@ -772,20 +780,12 @@
         "youtubeID": "LlFcvjDBSCU"
     },
     {
-        "ranking": "98",
+        "ranking": "99",
         "title": "내가 S면 넌 나의 N이 되어줘",
         "artist": "TWS (투어스)",
         "image": "https://cdn.music-flo.com/image/v2/album/209/643/25/04/425643209_66792761_s.jpg?1719215978041/dims/resize/140x140/quality/90",
         "album": "TWS 2nd Mini Album ‘SUMMER BEAT!’",
         "youtubeID": "NRgZuuwD2WY"
-    },
-    {
-        "ranking": "99",
-        "title": "달랐을까",
-        "artist": "PLAVE",
-        "image": "https://cdn.music-flo.com/image/v2/album/105/739/29/04/429739105_17fcf664f786d163_s.jpg?1728527273012/dims/resize/140x140/quality/90",
-        "album": "나의 해리에게 OST Part.4",
-        "youtubeID": "H1ihgLejC6s"
     },
     {
         "ranking": "100",
