@@ -11,8 +11,9 @@ folder_paths = ["korea/apple", "korea/bugs", "korea/flo", "korea/genie", "korea/
 def standardize(text):
     if not text:
         return ""
-    # 공백 제거, 소문자 변환, 특수 문자 제거
-    return re.sub(r"[()&,.\s]+", "", text).lower()
+    # ()와 그 안의 내용을 제거, 이후 특수 문자와 공백 제거, 소문자 변환
+    text = re.sub(r"\([^)]*\)", "", text)  # ()와 그 안의 내용을 제거
+    return re.sub(r"[&,. ]+", "", text).lower()  # 공백 및 다른 특수 문자 제거
 
 try:
     # 첫 번째 파일 로드
