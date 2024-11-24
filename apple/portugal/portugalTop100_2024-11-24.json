@@ -1,0 +1,802 @@
+[
+    {
+        "ranking": "1",
+        "title": "Interestelar",
+        "artist": "Plutónio",
+        "album": "Interestelar - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/6f/c7/606fc790-537e-d55a-f5a8-17ce0387f585/196872557992.jpg/80x80bb.webp",
+        "length": "3:08"
+    },
+    {
+        "ranking": "2",
+        "title": "wacced out murals",
+        "artist": "Kendrick Lamar",
+        "album": "GNX",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
+        "length": "5:17"
+    },
+    {
+        "ranking": "3",
+        "title": "luther",
+        "artist": "Kendrick Lamar",
+        "album": "GNX",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
+        "length": "2:57"
+    },
+    {
+        "ranking": "4",
+        "title": "squabble up",
+        "artist": "Kendrick Lamar",
+        "album": "GNX",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
+        "length": "2:37"
+    },
+    {
+        "ranking": "5",
+        "title": "Deja Vu",
+        "artist": "Plutónio",
+        "album": "Carta de Alforria",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b2/de/30/b2de3042-b4e2-4c2e-6f2e-056a7a1c2c4e/196872597851.jpg/80x80bb.webp",
+        "length": null
+    },
+    {
+        "ranking": "6",
+        "title": "tv off (feat. Lefty Gunplay)",
+        "artist": "Kendrick Lamar",
+        "album": "GNX",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
+        "length": "3:40"
+    },
+    {
+        "ranking": "7",
+        "title": "man at the garden",
+        "artist": "Kendrick Lamar",
+        "album": "GNX",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
+        "length": "3:53"
+    },
+    {
+        "ranking": "8",
+        "title": "País das Maravilhas",
+        "artist": "Plutónio",
+        "album": "País das Maravilhas - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/b5/42/7db54276-a783-c308-bbc4-c75f5efef89f/196872557923.jpg/80x80bb.webp",
+        "length": "4:05"
+    },
+    {
+        "ranking": "9",
+        "title": "BIRDS OF A FEATHER",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "3:30"
+    },
+    {
+        "ranking": "10",
+        "title": "hey now (feat. Dody6)",
+        "artist": "Kendrick Lamar",
+        "album": "GNX",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
+        "length": "3:37"
+    },
+    {
+        "ranking": "11",
+        "title": "reincarnated",
+        "artist": "Kendrick Lamar",
+        "album": "GNX",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
+        "length": "4:35"
+    },
+    {
+        "ranking": "12",
+        "title": "Die With A Smile",
+        "artist": "Lady Gaga",
+        "album": "Die With A Smile - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
+        "length": "4:11"
+    },
+    {
+        "ranking": "13",
+        "title": "heart pt. 6",
+        "artist": "Kendrick Lamar",
+        "album": "GNX",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
+        "length": "4:52"
+    },
+    {
+        "ranking": "14",
+        "title": "dodger blue (feat. Wallie the Sensei, Roddy Ricch & Siete7x)",
+        "artist": "Kendrick Lamar",
+        "album": "GNX",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
+        "length": "2:11"
+    },
+    {
+        "ranking": "15",
+        "title": "Sala de Audiências",
+        "artist": "Plutónio",
+        "album": "Carta de Alforria",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/10/b8/7310b8d3-3521-ceb7-e4b4-def50bd2565b/196872597929.jpg/80x80bb.webp",
+        "length": null
+    },
+    {
+        "ranking": "16",
+        "title": "peekaboo (feat. AzChike)",
+        "artist": "Kendrick Lamar",
+        "album": "GNX",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
+        "length": "2:35"
+    },
+    {
+        "ranking": "17",
+        "title": "Casa Melhor",
+        "artist": "Plutónio",
+        "album": "Carta de Alforria",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/10/b8/7310b8d3-3521-ceb7-e4b4-def50bd2565b/196872597929.jpg/80x80bb.webp",
+        "length": null
+    },
+    {
+        "ranking": "18",
+        "title": "gloria (feat. SZA)",
+        "artist": "Kendrick Lamar",
+        "album": "GNX",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
+        "length": "4:47"
+    },
+    {
+        "ranking": "19",
+        "title": "gnx (feat. Hitta J3, YoungThreat & Peysoh)",
+        "artist": "Kendrick Lamar",
+        "album": "GNX",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
+        "length": "3:13"
+    },
+    {
+        "ranking": "20",
+        "title": "1000 Bocados",
+        "artist": "Plutónio",
+        "album": "Carta de Alforria",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/10/b8/7310b8d3-3521-ceb7-e4b4-def50bd2565b/196872597929.jpg/80x80bb.webp",
+        "length": null
+    },
+    {
+        "ranking": "21",
+        "title": "Montanha",
+        "artist": "Plutónio",
+        "album": "Carta de Alforria",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/10/b8/7310b8d3-3521-ceb7-e4b4-def50bd2565b/196872597929.jpg/80x80bb.webp",
+        "length": null
+    },
+    {
+        "ranking": "22",
+        "title": "Si Antes Te Hubiera Conocido",
+        "artist": "KAROL G",
+        "album": "Si Antes Te Hubiera Conocido - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/60/94/a060947c-54d8-0fad-c558-eed12600224c/24UMGIM62705.rgb.jpg/80x80bb.webp",
+        "length": "3:15"
+    },
+    {
+        "ranking": "23",
+        "title": "That’s So True",
+        "artist": "Gracie Abrams",
+        "album": "The Secret of Us (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
+        "length": "2:46"
+    },
+    {
+        "ranking": "24",
+        "title": "APT.",
+        "artist": "ROSÉ",
+        "album": "APT. - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
+        "ranking": "25",
+        "title": "Luxemburgo",
+        "artist": "Plutónio",
+        "album": "Luxemburgo - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5f/2d/74/5f2d74b1-50da-1049-3176-30b12cc340ff/196872500530.jpg/80x80bb.webp",
+        "length": "3:31"
+    },
+    {
+        "ranking": "26",
+        "title": "Espresso",
+        "artist": "Sabrina Carpenter",
+        "album": "Espresso - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
+        "length": "2:55"
+    },
+    {
+        "ranking": "27",
+        "title": "Como 1 Rei",
+        "artist": "Plutónio",
+        "album": "Carta de Alforria",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/10/b8/7310b8d3-3521-ceb7-e4b4-def50bd2565b/196872597929.jpg/80x80bb.webp",
+        "length": null
+    },
+    {
+        "ranking": "28",
+        "title": "WILDFLOWER",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "4:21"
+    },
+    {
+        "ranking": "29",
+        "title": "Perguntam Como",
+        "artist": "Plutónio",
+        "album": "Carta de Alforria",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/10/b8/7310b8d3-3521-ceb7-e4b4-def50bd2565b/196872597929.jpg/80x80bb.webp",
+        "length": null
+    },
+    {
+        "ranking": "30",
+        "title": "ESCADA DO PRÉDIO",
+        "artist": "PEDRO SAMPAIO",
+        "album": "ASTRO",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f2/e6/02/f2e6023d-d0dd-8006-d7d7-cddf753bc49f/5021732449290.jpg/80x80bb.webp",
+        "length": "2:17"
+    },
+    {
+        "ranking": "31",
+        "title": "Barbie",
+        "artist": "MC Tuto",
+        "album": "Barbie - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/54/30/3d543015-acf1-3f79-42ba-bc61f471c1fa/cover.jpg/80x80bb.webp",
+        "length": "3:12"
+    },
+    {
+        "ranking": "32",
+        "title": "Mapa Cor de Rosa",
+        "artist": "Plutónio",
+        "album": "Carta de Alforria",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/10/b8/7310b8d3-3521-ceb7-e4b4-def50bd2565b/196872597929.jpg/80x80bb.webp",
+        "length": null
+    },
+    {
+        "ranking": "33",
+        "title": "Timeless",
+        "artist": "The Weeknd",
+        "album": "Timeless - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
+        "length": "4:16"
+    },
+    {
+        "ranking": "34",
+        "title": "6am Em Paris",
+        "artist": "Plutónio",
+        "album": "Carta de Alforria",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/10/b8/7310b8d3-3521-ceb7-e4b4-def50bd2565b/196872597929.jpg/80x80bb.webp",
+        "length": null
+    },
+    {
+        "ranking": "35",
+        "title": "FDP",
+        "artist": "Plutónio",
+        "album": "Carta de Alforria",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/10/b8/7310b8d3-3521-ceb7-e4b4-def50bd2565b/196872597929.jpg/80x80bb.webp",
+        "length": null
+    },
+    {
+        "ranking": "36",
+        "title": "The Emptiness Machine",
+        "artist": "LINKIN PARK",
+        "album": "From Zero",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/21/cf/6921cff3-7074-118a-ece2-4012450e6c75/093624839811.jpg/80x80bb.webp",
+        "length": "3:10"
+    },
+    {
+        "ranking": "37",
+        "title": "Tal e Qual",
+        "artist": "Plutónio",
+        "album": "Carta de Alforria",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/10/b8/7310b8d3-3521-ceb7-e4b4-def50bd2565b/196872597929.jpg/80x80bb.webp",
+        "length": null
+    },
+    {
+        "ranking": "38",
+        "title": "São Paulo",
+        "artist": "The Weeknd",
+        "album": "São Paulo - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/4a/64/934a64d3-2665-72ef-e5b4-29d61fd3707a/24UM1IM21420.rgb.jpg/80x80bb.webp",
+        "length": "5:01"
+    },
+    {
+        "ranking": "39",
+        "title": "Dissabores",
+        "artist": "Plutónio",
+        "album": "Carta de Alforria",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/10/b8/7310b8d3-3521-ceb7-e4b4-def50bd2565b/196872597929.jpg/80x80bb.webp",
+        "length": null
+    },
+    {
+        "ranking": "40",
+        "title": "I Adore You (feat. Daecolm)",
+        "artist": "HUGEL",
+        "album": "I Adore You (feat. Daecolm) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/df/e6/1ddfe6ea-a5f2-2c59-b574-b56ef0379096/24UMGIM74086.rgb.jpg/80x80bb.webp",
+        "length": "3:34"
+    },
+    {
+        "ranking": "41",
+        "title": "Ouro Sobre Azul",
+        "artist": "Plutónio",
+        "album": "Carta de Alforria",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/10/b8/7310b8d3-3521-ceb7-e4b4-def50bd2565b/196872597929.jpg/80x80bb.webp",
+        "length": null
+    },
+    {
+        "ranking": "42",
+        "title": "Taste",
+        "artist": "Sabrina Carpenter",
+        "album": "Short n' Sweet",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+        "length": "2:37"
+    },
+    {
+        "ranking": "43",
+        "title": "Deserto",
+        "artist": "Plutónio",
+        "album": "Carta de Alforria",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/10/b8/7310b8d3-3521-ceb7-e4b4-def50bd2565b/196872597929.jpg/80x80bb.webp",
+        "length": null
+    },
+    {
+        "ranking": "44",
+        "title": "Multiplica",
+        "artist": "Plutónio",
+        "album": "Carta de Alforria",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/10/b8/7310b8d3-3521-ceb7-e4b4-def50bd2565b/196872597929.jpg/80x80bb.webp",
+        "length": null
+    },
+    {
+        "ranking": "45",
+        "title": "Good Luck, Babe!",
+        "artist": "Chappell Roan",
+        "album": "Good Luck, Babe! - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/80x80bb.webp",
+        "length": "3:38"
+    },
+    {
+        "ranking": "46",
+        "title": "Beautiful Things",
+        "artist": "Benson Boone",
+        "album": "Beautiful Things - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
+        "length": "3:00"
+    },
+    {
+        "ranking": "47",
+        "title": "Move",
+        "artist": "Adam Port",
+        "album": "Move - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/84/6d/7b846d83-4d1f-36f4-32e5-6289596980c2/dj.kdflvmhp.jpg/80x80bb.webp",
+        "length": "2:57"
+    },
+    {
+        "ranking": "48",
+        "title": "Bênção",
+        "artist": "Mizzy Miles",
+        "album": "Bênção - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/f4/13/46f41309-d622-714c-cf32-bfb5aa6e6010/196871892094.jpg/80x80bb.webp",
+        "length": "3:25"
+    },
+    {
+        "ranking": "49",
+        "title": "Lose Control",
+        "artist": "Teddy Swims",
+        "album": "I've Tried Everything But Therapy (Part 1)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
+        "length": "3:30"
+    },
+    {
+        "ranking": "50",
+        "title": "Amor De Ganga",
+        "artist": "Miguel Luz",
+        "album": "Amor De Ganga - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/9c/82/fd9c821b-2b5b-7d8f-7321-89667cd18c75/24UM1IM11452.rgb.jpg/80x80bb.webp",
+        "length": "3:26"
+    },
+    {
+        "ranking": "51",
+        "title": "FIM DA NOITE",
+        "artist": "Kappa Jotta",
+        "album": "FIM DA NOITE - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a7/87/3a/a7873a88-ccd2-de43-2cc5-8ad03649722d/196872688818.jpg/80x80bb.webp",
+        "length": "3:34"
+    },
+    {
+        "ranking": "52",
+        "title": "Please Please Please",
+        "artist": "Sabrina Carpenter",
+        "album": "Short n' Sweet",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+        "length": "3:06"
+    },
+    {
+        "ranking": "53",
+        "title": "Menos 1 Nite",
+        "artist": "Plutónio",
+        "album": "Carta de Alforria",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/10/b8/7310b8d3-3521-ceb7-e4b4-def50bd2565b/196872597929.jpg/80x80bb.webp",
+        "length": null
+    },
+    {
+        "ranking": "54",
+        "title": "Sessenta e Nove",
+        "artist": "Plutónio",
+        "album": "Carta de Alforria",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/10/b8/7310b8d3-3521-ceb7-e4b4-def50bd2565b/196872597929.jpg/80x80bb.webp",
+        "length": null
+    },
+    {
+        "ranking": "55",
+        "title": "Too Sweet",
+        "artist": "Hozier",
+        "album": "Unreal Unearth: Unaired",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/12/e3/a412e390-51aa-6625-9adc-d502bf1c349f/196872373004.jpg/80x80bb.webp",
+        "length": "4:11"
+    },
+    {
+        "ranking": "56",
+        "title": "Sailor Song",
+        "artist": "Gigi Perez",
+        "album": "Sailor Song - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/d4/96/25d49699-acc0-401f-a7cc-d7697339a474/24UM1IM03751.rgb.jpg/80x80bb.webp",
+        "length": "3:31"
+    },
+    {
+        "ranking": "57",
+        "title": "Carta de Alforria",
+        "artist": "Plutónio",
+        "album": "Carta de Alforria",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/10/b8/7310b8d3-3521-ceb7-e4b4-def50bd2565b/196872597929.jpg/80x80bb.webp",
+        "length": null
+    },
+    {
+        "ranking": "58",
+        "title": "The Door",
+        "artist": "Teddy Swims",
+        "album": "I've Tried Everything But Therapy (Part 1)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
+        "length": "3:32"
+    },
+    {
+        "ranking": "59",
+        "title": "Só Fé",
+        "artist": "Grelo",
+        "album": "É o Grelo",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/25/43/6a254386-9530-cbdd-0ad1-6efa4ef4e23e/76f8eca1-ec9e-4f5f-99bb-6878c1968846.jpg/80x80bb.webp",
+        "length": "3:23"
+    },
+    {
+        "ranking": "60",
+        "title": "I Love You, I'm Sorry",
+        "artist": "Gracie Abrams",
+        "album": "The Secret of Us",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/9a/a7/529aa76f-5d60-cd81-9eb0-0eb521de861d/24UMGIM43968.rgb.jpg/80x80bb.webp",
+        "length": "2:37"
+    },
+    {
+        "ranking": "61",
+        "title": "A Bar Song (Tipsy)",
+        "artist": "Shaboozey",
+        "album": "Where I've Been, Isn't Where I'm Going",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/b5/bc/97b5bca2-6238-2421-4f0d-1f7a39d5d9d4/197342550925_cover.jpg/80x80bb.webp",
+        "length": "2:51"
+    },
+    {
+        "ranking": "62",
+        "title": "CHIHIRO",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "5:03"
+    },
+    {
+        "ranking": "63",
+        "title": "Salomão",
+        "artist": "Plutónio",
+        "album": "Carta de Alforria",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/10/b8/7310b8d3-3521-ceb7-e4b4-def50bd2565b/196872597929.jpg/80x80bb.webp",
+        "length": null
+    },
+    {
+        "ranking": "64",
+        "title": "Heavy Is the Crown",
+        "artist": "LINKIN PARK",
+        "album": "From Zero",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/21/cf/6921cff3-7074-118a-ece2-4012450e6c75/093624839811.jpg/80x80bb.webp",
+        "length": "2:47"
+    },
+    {
+        "ranking": "65",
+        "title": "Amar Pela Metade",
+        "artist": "Calema",
+        "album": "Amar Pela Metade / Aimer À Moitié - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/a1/49/eea149db-f385-8981-0b82-4a8aece641bc/24UMGIM96558.rgb.jpg/80x80bb.webp",
+        "length": "3:06"
+    },
+    {
+        "ranking": "66",
+        "title": "Stargazing",
+        "artist": "Myles Smith",
+        "album": "Stargazing - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/c3/a5/bfc3a56d-a51b-69cb-cdfc-26ee63631cb8/196872051872.jpg/80x80bb.webp",
+        "length": "2:52"
+    },
+    {
+        "ranking": "67",
+        "title": "Tata",
+        "artist": "Slow J",
+        "album": "Afro Fado",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7a/02/38/7a0238c7-5888-46aa-72c7-8f4236a890de/196871619080.jpg/80x80bb.webp",
+        "length": "2:39"
+    },
+    {
+        "ranking": "68",
+        "title": "Sagrado Profano",
+        "artist": "Luísa Sonza",
+        "album": "Escândalo Íntimo",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/64/33/5c/64335cda-ff96-cf5e-f4d0-d50fb826ae16/196871415392.jpg/80x80bb.webp",
+        "length": "3:16"
+    },
+    {
+        "ranking": "69",
+        "title": "Malvadinho",
+        "artist": "MC LUUKY",
+        "album": "Malvadinho - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/c9/1d/8bc91dfe-d63f-0d3b-fa35-894f94e5b7e6/cover.jpg/80x80bb.webp",
+        "length": "2:00"
+    },
+    {
+        "ranking": "70",
+        "title": "Alô",
+        "artist": "Dillaz",
+        "album": "O Próprio",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/48/02/17480291-f01b-7201-5351-92d6f8425f75/196871830508.jpg/80x80bb.webp",
+        "length": null
+    },
+    {
+        "ranking": "71",
+        "title": "Even",
+        "artist": "Richie Campbell",
+        "album": "IT WILL HURT BOTH WAYS - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/f9/91/abf991c1-6f65-f57b-4a5f-f02cdb6066e6/196872199789.jpg/80x80bb.webp",
+        "length": "3:07"
+    },
+    {
+        "ranking": "72",
+        "title": "Over Each Other",
+        "artist": "LINKIN PARK",
+        "album": "From Zero",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/21/cf/6921cff3-7074-118a-ece2-4012450e6c75/093624839811.jpg/80x80bb.webp",
+        "length": "2:50"
+    },
+    {
+        "ranking": "73",
+        "title": "Bad Dreams",
+        "artist": "Teddy Swims",
+        "album": "Bad Dreams - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/5d/64/cd5d64c2-338b-00c9-52d6-578a0f19d826/054391245908.jpg/80x80bb.webp",
+        "length": "3:04"
+    },
+    {
+        "ranking": "74",
+        "title": "Two Faced",
+        "artist": "LINKIN PARK",
+        "album": "From Zero",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/21/cf/6921cff3-7074-118a-ece2-4012450e6c75/093624839811.jpg/80x80bb.webp",
+        "length": "3:03"
+    },
+    {
+        "ranking": "75",
+        "title": "Bed Chem",
+        "artist": "Sabrina Carpenter",
+        "album": "Short n' Sweet",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+        "length": "2:51"
+    },
+    {
+        "ranking": "76",
+        "title": "Cut the Bridge",
+        "artist": "LINKIN PARK",
+        "album": "From Zero",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/21/cf/6921cff3-7074-118a-ece2-4012450e6c75/093624839811.jpg/80x80bb.webp",
+        "length": "3:48"
+    },
+    {
+        "ranking": "77",
+        "title": "Not Like Us",
+        "artist": "Kendrick Lamar",
+        "album": "Not Like Us - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
+        "length": "4:34"
+    },
+    {
+        "ranking": "78",
+        "title": "Gata Only",
+        "artist": "FloyyMenor",
+        "album": "Gata Only - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ca/4e/0f/ca4e0f11-2cbc-7aec-b2e4-53f5fac7cb0e/198309012715-copy-6dfc57c0.png/80x80bb.webp",
+        "length": "3:42"
+    },
+    {
+        "ranking": "79",
+        "title": "O Teu Cheiro",
+        "artist": "Bispo",
+        "album": "O Teu Cheiro - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/28/1f/98/281f9856-33d4-e108-0b29-71e89d0e014f/24UM1IM10256.rgb.jpg/80x80bb.webp",
+        "length": "2:50"
+    },
+    {
+        "ranking": "80",
+        "title": "LUNCH",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "2:59"
+    },
+    {
+        "ranking": "81",
+        "title": "Dancing In The Flames",
+        "artist": "The Weeknd",
+        "album": "Dancing In The Flames - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/7e/9f/347e9f54-2d74-820f-a910-68d01f044fcf/24UMGIM95646.rgb.jpg/80x80bb.webp",
+        "length": "3:40"
+    },
+    {
+        "ranking": "82",
+        "title": "Crack com Mussilon",
+        "artist": "Matuê",
+        "album": "333",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/14/b5/4a/14b54a4f-eefd-fb47-cf0f-1c4afe252d0f/5034644060613.jpg/80x80bb.webp",
+        "length": "2:34"
+    },
+    {
+        "ranking": "83",
+        "title": "À Toa",
+        "artist": "Chelsea Dinorath",
+        "album": "À Toa - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/3d/5b/623d5bbb-066b-502b-abe8-2fb4487db3e8/0.jpg/80x80bb.webp",
+        "length": "3:06"
+    },
+    {
+        "ranking": "84",
+        "title": "All I Want for Christmas Is You",
+        "artist": "Mariah Carey",
+        "album": "Merry Christmas",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/80x80bb.webp",
+        "length": "4:01"
+    },
+    {
+        "ranking": "85",
+        "title": "Juno",
+        "artist": "Sabrina Carpenter",
+        "album": "Short n' Sweet",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+        "length": "3:43"
+    },
+    {
+        "ranking": "86",
+        "title": "2 hands",
+        "artist": "Tate McRae",
+        "album": "So Close To What",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/57/69/51/576951b7-121d-68fb-3210-06beaf5ec117/196872648911.jpg/80x80bb.webp",
+        "length": "3:01"
+    },
+    {
+        "ranking": "87",
+        "title": "Apocalypse",
+        "artist": "Cigarettes After Sex",
+        "album": "Cigarettes After Sex",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/17/39/2c/17392c47-b74d-4bb7-4817-63ffcf2a07f0/cover.jpg/80x80bb.webp",
+        "length": "4:50"
+    },
+    {
+        "ranking": "88",
+        "title": "FE!N (feat. Playboi Carti)",
+        "artist": "Travis Scott",
+        "album": "UTOPIA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/7d/b0/097db06f-8403-3cf7-7510-139e570ca66b/196871341882.jpg/80x80bb.webp",
+        "length": "3:11"
+    },
+    {
+        "ranking": "89",
+        "title": "Disease",
+        "artist": "Lady Gaga",
+        "album": "Disease - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/2b/dc/c72bdc7a-7014-e5df-a106-583074c0affa/24UM1IM12462.rgb.jpg/80x80bb.webp",
+        "length": "3:49"
+    },
+    {
+        "ranking": "90",
+        "title": "Si No Estás",
+        "artist": "iñigo quintero",
+        "album": "ES SOLO MÚSICA - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/90/1f/64/901f64f4-ccc6-91da-a1f7-5b28662508f9/cover.jpg/80x80bb.webp",
+        "length": "3:04"
+    },
+    {
+        "ranking": "91",
+        "title": "I Had Some Help (feat. Morgan Wallen)",
+        "artist": "Post Malone",
+        "album": "I Had Some Help (feat. Morgan Wallen) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/b7/09/e1b7098f-d6e1-2b18-fd6f-8390110908eb/24UMGIM50612.rgb.jpg/80x80bb.webp",
+        "length": "2:58"
+    },
+    {
+        "ranking": "92",
+        "title": "Stained",
+        "artist": "LINKIN PARK",
+        "album": "From Zero",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/21/cf/6921cff3-7074-118a-ece2-4012450e6c75/093624839811.jpg/80x80bb.webp",
+        "length": "3:05"
+    },
+    {
+        "ranking": "93",
+        "title": "Alibi",
+        "artist": "Sevdaliza",
+        "album": "Alibi - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/78/35/c9783504-7a20-6197-3f32-ad36f6200bc1/87.jpg/80x80bb.webp",
+        "length": "2:41"
+    },
+    {
+        "ranking": "94",
+        "title": "Good Things Go",
+        "artist": "LINKIN PARK",
+        "album": "From Zero",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/21/cf/6921cff3-7074-118a-ece2-4012450e6c75/093624839811.jpg/80x80bb.webp",
+        "length": "3:29"
+    },
+    {
+        "ranking": "95",
+        "title": "Fair Trade (feat. Travis Scott)",
+        "artist": "Drake",
+        "album": "Certified Lover Boy",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/11/36/38/1136384a-eebc-697a-c005-d890e41c0854/21UM1IM07518.rgb.jpg/80x80bb.webp",
+        "length": "4:51"
+    },
+    {
+        "ranking": "96",
+        "title": "Casualty",
+        "artist": "LINKIN PARK",
+        "album": "From Zero",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/21/cf/6921cff3-7074-118a-ece2-4012450e6c75/093624839811.jpg/80x80bb.webp",
+        "length": "2:20"
+    },
+    {
+        "ranking": "97",
+        "title": "Overflow",
+        "artist": "LINKIN PARK",
+        "album": "From Zero",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/21/cf/6921cff3-7074-118a-ece2-4012450e6c75/093624839811.jpg/80x80bb.webp",
+        "length": "3:31"
+    },
+    {
+        "ranking": "98",
+        "title": "Ela não sabe, pois não?",
+        "artist": "Bárbara Tinoco",
+        "album": "Bichinho (para onde vai o amor?)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/a1/0a/38a10a9e-973d-4727-5e03-25964fae407c/artwork.jpg/80x80bb.webp",
+        "length": "3:05"
+    },
+    {
+        "ranking": "99",
+        "title": "Mo Boy",
+        "artist": "Dillaz",
+        "album": "Reflexo",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/12/25/e1/1225e1da-0187-b379-62cd-b9000884dba2/8429006409907.jpg/80x80bb.webp",
+        "length": "3:52"
+    },
+    {
+        "ranking": "100",
+        "title": "Austin (Boots Stop Workin')",
+        "artist": "Dasha",
+        "album": "What Happens Now?",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a3/89/c4/a389c41a-874c-52a6-d374-3d51fe76610a/093624843009.jpg/80x80bb.webp",
+        "length": "2:51"
+    }
+]
