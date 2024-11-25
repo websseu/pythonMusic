@@ -1,0 +1,817 @@
+[
+    {
+        "ranking": "1",
+        "title": "APT.",
+        "artist": "ROSÉ",
+        "album": "APT. - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
+        "length": "2:49",
+        "youtubeID": "ekr2nIex040"
+    },
+    {
+        "ranking": "2",
+        "title": "number one girl",
+        "artist": "ROSÉ",
+        "album": "rosie",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
+        "length": "3:36"
+    },
+    {
+        "ranking": "3",
+        "title": "Whiplash",
+        "artist": "aespa",
+        "album": "Whiplash - The 5th Mini Album - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/c1/f5/d5c1f505-f588-775f-df05-c672a8ec22e9/888735949562_Cover.jpg/80x80bb.webp",
+        "length": "3:03"
+    },
+    {
+        "ranking": "4",
+        "title": "DRIP",
+        "artist": "BABYMONSTER",
+        "album": "DRIP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/e1/ef/b9e1ef3a-e3eb-8152-e91b-20aca0fc9ffd/BM_DRIP_Digital-Cover_4000.jpg/80x80bb.webp",
+        "length": "3:00"
+    },
+    {
+        "ranking": "5",
+        "title": "BIRDS OF A FEATHER",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "3:30",
+        "youtubeID": "V9PVRfjEBTI"
+    },
+    {
+        "ranking": "6",
+        "title": "Die With A Smile",
+        "artist": "Lady Gaga",
+        "album": "Die With A Smile - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
+        "length": "4:11",
+        "youtubeID": "kPa7bsKwL-c"
+    },
+    {
+        "ranking": "7",
+        "title": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+        "artist": "G-DRAGON",
+        "album": "HOME SWEET HOME (feat. TAEYANG & DAESUNG) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/e1/84/a4e1846a-6158-6a43-30c7-0297e891905e/197342826099_cover.jpg/80x80bb.webp",
+        "length": "3:31"
+    },
+    {
+        "ranking": "8",
+        "title": "Mantra",
+        "artist": "JENNIE",
+        "album": "Mantra - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/9a/4c/5d9a4c5f-1c34-1265-0fa5-860dc8f0e802/196872495263.jpg/80x80bb.webp",
+        "length": "2:16"
+    },
+    {
+        "ranking": "9",
+        "title": "Step Aside",
+        "artist": "Jay Chou",
+        "album": "Common Jasmine Orange",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/58/8d/6d/588d6d61-fbac-148a-86bd-0030ce076ac1/23UM1IM57281.rgb.jpg/80x80bb.webp",
+        "length": "3:58"
+    },
+    {
+        "ranking": "10",
+        "title": "Supernova",
+        "artist": "aespa",
+        "album": "Armageddon - The 1st Album",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/7e/e0/507ee09f-ccfd-1e3c-af90-ca5e92b1221b/00888735949869_Cover.jpg/80x80bb.webp",
+        "length": "2:58"
+    },
+    {
+        "ranking": "11",
+        "title": "UP (KARINA Solo)",
+        "artist": "aespa",
+        "album": "SYNK : PARALLEL LINE - Special Digital Single - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fd/85/0e/fd850e67-f6e2-c4e9-6ea5-501ca5afccbd/aespa_DS_Synk-PARALLEL_LINE_DC.jpg/80x80bb.webp",
+        "length": "2:46"
+    },
+    {
+        "ranking": "12",
+        "title": "Espresso",
+        "artist": "Sabrina Carpenter",
+        "album": "Espresso - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
+        "length": "2:55",
+        "youtubeID": "eVli-tstM5E"
+    },
+    {
+        "ranking": "13",
+        "title": "Qi-Li-Xiang",
+        "artist": "Jay Chou",
+        "album": "Common Jasmine Orange",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/58/8d/6d/588d6d61-fbac-148a-86bd-0030ce076ac1/23UM1IM57281.rgb.jpg/80x80bb.webp",
+        "length": "4:57"
+    },
+    {
+        "ranking": "14",
+        "title": "Letter To Myself",
+        "artist": "TAEYEON",
+        "album": "Letter To Myself - The 6th Mini Album - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/98/34/37983445-2448-9446-8556-569b296cea6a/cover.jpg/80x80bb.webp",
+        "length": "3:04"
+    },
+    {
+        "ranking": "15",
+        "title": "Magnetic",
+        "artist": "ILLIT",
+        "album": "SUPER REAL ME - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3e/49/1e/3e491e43-4961-21ab-2abe-37fb1c0feb40/196922879227_Cover.jpg/80x80bb.webp",
+        "length": "2:40"
+    },
+    {
+        "ranking": "16",
+        "title": "Sunny Day",
+        "artist": "Jay Chou",
+        "album": "Yeh, Hwei-Mei",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8c/47/86/8c47862d-e254-8b49-30cf-d1f05ebba05b/23UM1IM56855.rgb.jpg/80x80bb.webp",
+        "length": "4:29"
+    },
+    {
+        "ranking": "17",
+        "title": "Shouldn't Be (feat. a-mei)",
+        "artist": "Jay Chou",
+        "album": "Jay Chou's Bedtime Stories",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/43/d4/1c/43d41cbe-fa45-82f6-e2d5-651c17d97aba/23UM1IM59700.rgb.jpg/80x80bb.webp",
+        "length": "4:51"
+    },
+    {
+        "ranking": "18",
+        "title": "Life Goes On (TV Series \"A Wonderful Journey\" Interlude Song)",
+        "artist": "Kui",
+        "album": "Lover Crooner",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5b/e6/62/5be662cd-0e8e-9cf6-0bea-e2a2a3e48f1b/196871814348.jpg/80x80bb.webp",
+        "length": "3:28"
+    },
+    {
+        "ranking": "19",
+        "title": "Rice Field",
+        "artist": "Jay Chou",
+        "album": "Capricorn",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/53/6c/72/536c7219-e177-a912-9322-e1abf70e8733/23UM1IM58828.rgb.jpg/80x80bb.webp",
+        "length": "3:43"
+    },
+    {
+        "ranking": "20",
+        "title": "How Sweet",
+        "artist": "NewJeans",
+        "album": "How Sweet - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/68/ca/bf68ca64-4acd-543f-bc78-455f11f06105/196922889738_Cover.jpg/80x80bb.webp",
+        "length": "3:39"
+    },
+    {
+        "ranking": "21",
+        "title": "POWER",
+        "artist": "G-DRAGON",
+        "album": "POWER - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/fa/03/36fa0306-b040-b01b-36d3-181256366615/197342805353_cover.jpg/80x80bb.webp",
+        "length": "2:23"
+    },
+    {
+        "ranking": "22",
+        "title": "Rhythm of the Rain",
+        "artist": "Jay Chou",
+        "album": "Aiyo, Not Bad",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e1/61/42/e1614256-60b4-7cd9-809b-11da1506532f/23UM1IM59225.rgb.jpg/80x80bb.webp",
+        "length": "4:39"
+    },
+    {
+        "ranking": "23",
+        "title": "Love Confession",
+        "artist": "Jay Chou",
+        "album": "Jay Chou's Bedtime Stories",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/43/d4/1c/43d41cbe-fa45-82f6-e2d5-651c17d97aba/23UM1IM59700.rgb.jpg/80x80bb.webp",
+        "length": "3:35"
+    },
+    {
+        "ranking": "24",
+        "title": "Cherish (My Love)",
+        "artist": "ILLIT",
+        "album": "I'LL LIKE YOU - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e9/20/73/e9207332-1b22-18d0-5d1b-daaf370a4317/198704136962_Cover.jpg/80x80bb.webp",
+        "length": "2:56"
+    },
+    {
+        "ranking": "25",
+        "title": "在加納共和國離婚",
+        "artist": "Firdhaus",
+        "album": "在加納共和國離婚 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5a/c2/56/5ac25697-86cd-5f1b-acbf-d68afa4d6d23/cover.jpg/80x80bb.webp",
+        "length": "4:21"
+    },
+    {
+        "ranking": "26",
+        "title": "Klaxon",
+        "artist": "(G)I-DLE",
+        "album": "I SWAY - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3f/43/6f/3f436f02-7e09-96d2-5718-6bd9f71dd972/198704037542_Cover.jpg/80x80bb.webp",
+        "length": "2:55"
+    },
+    {
+        "ranking": "27",
+        "title": "Give me the time of a song",
+        "artist": "Jay Chou",
+        "album": "Capricorn",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/53/6c/72/536c7219-e177-a912-9322-e1abf70e8733/23UM1IM58828.rgb.jpg/80x80bb.webp",
+        "length": "4:13"
+    },
+    {
+        "ranking": "28",
+        "title": "Farewell",
+        "artist": "Bestards",
+        "album": "Sunny-side Up",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/26/83/d6/2683d6f6-49a4-ad28-b5ca-b2314e7b78d8/cover.jpg/80x80bb.webp",
+        "length": "4:14"
+    },
+    {
+        "ranking": "29",
+        "title": "Armageddon",
+        "artist": "aespa",
+        "album": "Armageddon - The 1st Album",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/7e/e0/507ee09f-ccfd-1e3c-af90-ca5e92b1221b/00888735949869_Cover.jpg/80x80bb.webp",
+        "length": "3:16"
+    },
+    {
+        "ranking": "30",
+        "title": "The Chaos After You",
+        "artist": "Eric Chou",
+        "album": "The Chaos After You",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e9/7f/5c/e97f5cd3-b170-62d8-5695-57054dcafe54/886446853208.jpg/80x80bb.webp",
+        "length": "4:39"
+    },
+    {
+        "ranking": "31",
+        "title": "No Doubt",
+        "artist": "ENHYPEN",
+        "album": "ROMANCE : UNTOLD -daydream-",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/c8/8c/5fc88cb7-faf5-483a-ea42-ebf112c5f3d7/198704187797_Cover.jpg/80x80bb.webp",
+        "length": "2:47"
+    },
+    {
+        "ranking": "32",
+        "title": "luther",
+        "artist": "Kendrick Lamar",
+        "album": "GNX",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
+        "length": "2:57",
+        "youtubeID": "xS7opkivEbg"
+    },
+    {
+        "ranking": "33",
+        "title": "我会等",
+        "artist": "承桓",
+        "album": "我会等 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5c/33/cd/5c33cded-2fd8-f83c-e959-bb1e0ed89783/cover.jpg/80x80bb.webp",
+        "length": "3:15"
+    },
+    {
+        "ranking": "34",
+        "title": "FOREVER",
+        "artist": "BABYMONSTER",
+        "album": "FOREVER - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/2a/86/5b2a8611-2005-2287-1981-9edac10b795b/BABYMONSTER_FORVER.jpg/80x80bb.webp",
+        "length": "3:32"
+    },
+    {
+        "ranking": "35",
+        "title": "Waiting For You",
+        "artist": "Jay Chou",
+        "album": "Greatest Works Of Art",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c4/92/9c/c4929c9f-b605-7ac3-41c8-9f9091b00741/23UM1IM59704.rgb.jpg/80x80bb.webp",
+        "length": "4:30"
+    },
+    {
+        "ranking": "36",
+        "title": "Won't Cry",
+        "artist": "Jay Chou",
+        "album": "Greatest Works Of Art",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c4/92/9c/c4929c9f-b605-7ac3-41c8-9f9091b00741/23UM1IM59704.rgb.jpg/80x80bb.webp",
+        "length": "3:40"
+    },
+    {
+        "ranking": "37",
+        "title": "Simple Love",
+        "artist": "Jay Chou",
+        "album": "Fantasy",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/14/b9/fa/14b9fa3f-ef0c-01de-3721-93ff740062b5/23UM1IM56711.rgb.jpg/80x80bb.webp",
+        "length": "4:30"
+    },
+    {
+        "ranking": "38",
+        "title": "Hey Girl (Netflix影集《影后》片尾曲)",
+        "artist": "Men Envy Children",
+        "album": "Hey Girl (Netflix影集《影后》片尾曲) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bc/5e/92/bc5e9226-0ebd-8883-08da-3c920d4ef5ef/4710149712400_cover.jpg/80x80bb.webp",
+        "length": "3:50"
+    },
+    {
+        "ranking": "39",
+        "title": "TOXIC",
+        "artist": "MEOVV",
+        "album": "TOXIC - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/20/f9/d4/20f9d425-b5c4-cc34-8c2a-2ee2b7155f32/8800287294121_Cover.jpg/80x80bb.webp",
+        "length": "3:10"
+    },
+    {
+        "ranking": "40",
+        "title": "Drama",
+        "artist": "aespa",
+        "album": "Drama - The 4th Mini Album",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f7/f0/5c/f7f05ce4-e5a4-900d-e087-1dd9668b2b34/888735945939.jpg/80x80bb.webp",
+        "length": "3:34"
+    },
+    {
+        "ranking": "41",
+        "title": "好不容易 (《華燈初上》片尾曲)",
+        "artist": "Accusefive",
+        "album": "好不容易 (《華燈初上》片尾曲) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1f/ee/cb/1feecb69-544d-d246-89cd-cff3120414f5/1..jpg/80x80bb.webp",
+        "length": "4:55"
+    },
+    {
+        "ranking": "42",
+        "title": "LOVE, MONEY, FAME (feat. DJ Khaled)",
+        "artist": "SEVENTEEN",
+        "album": "SEVENTEEN 12th Mini Album 'SPILL THE FEELS' - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/30/ec/9a30ec28-9484-eaa3-5c5d-3aa7039ce0c1/198704184437_Cover.jpg/80x80bb.webp",
+        "length": "3:06"
+    },
+    {
+        "ranking": "43",
+        "title": "披星戴月的想你",
+        "artist": "Accusefive",
+        "album": "我肯定在幾百年前就說過愛你",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/10/ba/77/10ba77f4-47ae-8cb6-2913-cf49b78452b5/1..jpg/80x80bb.webp",
+        "length": "5:49"
+    },
+    {
+        "ranking": "44",
+        "title": "想和你看五月的晚霞",
+        "artist": "Hua Chen",
+        "album": "華與浪漫",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1c/2e/6d/1c2e6db3-1226-7bbd-d4d1-b7ad6e06a617/4711232817897_cover.jpg/80x80bb.webp",
+        "length": "3:53"
+    },
+    {
+        "ranking": "45",
+        "title": "愛人錯過",
+        "artist": "Accusefive",
+        "album": "我肯定在幾百年前就說過愛你",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/10/ba/77/10ba77f4-47ae-8cb6-2913-cf49b78452b5/1..jpg/80x80bb.webp",
+        "length": "4:52"
+    },
+    {
+        "ranking": "46",
+        "title": "Small girl (feat. D.O.)",
+        "artist": "Lee Young Ji",
+        "album": "16 Fantasy - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/ff/93/cfff93b5-e7ef-6a28-6786-9f82f79d8117/8804775305474.jpg/80x80bb.webp",
+        "length": "3:09"
+    },
+    {
+        "ranking": "47",
+        "title": "Best Friend",
+        "artist": "Eric Chou",
+        "album": "Best Friend - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cd/fd/91/cdfd9186-7873-4575-c953-f8186af24a24/5054197684074.jpg/80x80bb.webp",
+        "length": "5:13"
+    },
+    {
+        "ranking": "48",
+        "title": "Queencard",
+        "artist": "(G)I-DLE",
+        "album": "I feel - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/61/82/b5/6182b537-b352-fcfb-c264-bcf79a4508a2/8804775254703_Cover.jpg/80x80bb.webp",
+        "length": "2:41"
+    },
+    {
+        "ranking": "49",
+        "title": "Good Luck, Babe!",
+        "artist": "Chappell Roan",
+        "album": "Good Luck, Babe! - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/80x80bb.webp",
+        "length": "3:38",
+        "youtubeID": "1RKqOmSkGgM"
+    },
+    {
+        "ranking": "50",
+        "title": "從未見過的海 (Netflix 影集《影后》序曲)",
+        "artist": "Accusefive",
+        "album": "從未見過的海 (Netflix 影集《影后》序曲) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/0d/47/190d47aa-dee8-27f7-1307-b01ae4f90b3e/3000.jpg/80x80bb.webp",
+        "length": "5:01"
+    },
+    {
+        "ranking": "51",
+        "title": "十年",
+        "artist": "Eason Chan",
+        "album": "你的陳奕迅國語精選",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/56/e6/66/56e6661d-e570-782f-fbc8-e7b12e38f1a7/EEG3035V1-_-.jpg/80x80bb.webp",
+        "length": "3:25"
+    },
+    {
+        "ranking": "52",
+        "title": "Igloo",
+        "artist": "KISS OF LIFE",
+        "album": "Lose Yourself",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/70/86/dd70863e-2571-25cd-d1eb-c44a5cdba57f/cover_KM0020274_1.jpg/80x80bb.webp",
+        "length": "2:11"
+    },
+    {
+        "ranking": "53",
+        "title": "Love You One More Time",
+        "artist": "EggPlantEgg",
+        "album": "Love You One More Time - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bf/89/4c/bf894c70-af4d-74ab-9ca5-0ce1fe170f68/5054197967405.jpg/80x80bb.webp",
+        "length": "4:38"
+    },
+    {
+        "ranking": "54",
+        "title": "SHEESH",
+        "artist": "BABYMONSTER",
+        "album": "BABYMONS7ER - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fb/68/85/fb68856f-4965-5d30-78ea-fe6bb261f4ff/3000px.jpg/80x80bb.webp",
+        "length": "2:50"
+    },
+    {
+        "ranking": "55",
+        "title": "On The Ground",
+        "artist": "ROSÉ",
+        "album": "R - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c2/a9/23/c2a923ac-b382-e73b-91f4-013a8d5a0600/21UMGIM18155.rgb.jpg/80x80bb.webp",
+        "length": "2:48"
+    },
+    {
+        "ranking": "56",
+        "title": "Beautiful Things",
+        "artist": "Benson Boone",
+        "album": "Beautiful Things - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
+        "length": "3:00",
+        "youtubeID": "Oa_RSwwpPaA"
+    },
+    {
+        "ranking": "57",
+        "title": "Disaster",
+        "artist": "TAEYEON",
+        "album": "Letter To Myself - The 6th Mini Album - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/98/34/37983445-2448-9446-8556-569b296cea6a/cover.jpg/80x80bb.webp",
+        "length": "3:13"
+    },
+    {
+        "ranking": "58",
+        "title": "When you missed me",
+        "artist": "Eric Chou",
+        "album": "When you missed me - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a3/27/79/a3277942-87e4-abe8-b2d5-d1d2839771df/5021732548887.jpg/80x80bb.webp",
+        "length": "4:00"
+    },
+    {
+        "ranking": "59",
+        "title": "Make You Mine",
+        "artist": "Men Envy Children",
+        "album": "Make You Mine - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/1c/8d/a81c8d5e-9445-8406-b13f-a857b1a0130b/4710149712417_cover.jpg/80x80bb.webp",
+        "length": "3:42"
+    },
+    {
+        "ranking": "60",
+        "title": "Taste",
+        "artist": "Sabrina Carpenter",
+        "album": "Short n' Sweet",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+        "length": "2:37",
+        "youtubeID": "KEG7b851Ric"
+    },
+    {
+        "ranking": "61",
+        "title": "Cruel Summer",
+        "artist": "Taylor Swift",
+        "album": "Lover",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/80x80bb.webp",
+        "length": "2:58",
+        "youtubeID": "JLJcHbYSlB8"
+    },
+    {
+        "ranking": "62",
+        "title": "Twilight",
+        "artist": "JJ Lin",
+        "album": "From M.E. To Myself (Experimental Debut Album)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/64/4d/62/644d6263-6518-db86-b5fb-22960ce66804/dj.pjfnccuy.jpg/80x80bb.webp",
+        "length": "4:25"
+    },
+    {
+        "ranking": "63",
+        "title": "A Bar Song (Tipsy)",
+        "artist": "Shaboozey",
+        "album": "Where I've Been, Isn't Where I'm Going",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/b5/bc/97b5bca2-6238-2421-4f0d-1f7a39d5d9d4/197342550925_cover.jpg/80x80bb.webp",
+        "length": "2:51",
+        "youtubeID": "t7bQwwqW-Hc"
+    },
+    {
+        "ranking": "64",
+        "title": "The Dark Plum Sauce",
+        "artist": "Li Ronghao",
+        "album": "Free Soul",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/a4/58/75/a4587565-4551-7778-227b-d8d001dc7efd/5054197465970.jpg/80x80bb.webp",
+        "length": "4:17"
+    },
+    {
+        "ranking": "65",
+        "title": "慢冷",
+        "artist": "Fish Leong",
+        "album": "我好嗎? - 太陽如常升起",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5a/0d/15/5a0d150d-124a-ed96-abaa-98f57e733938/19UMGIM39997.rgb.jpg/80x80bb.webp",
+        "length": "4:49"
+    },
+    {
+        "ranking": "66",
+        "title": "Idol",
+        "artist": "YOASOBI",
+        "album": "Idol - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3a/17/eb/3a17eb30-eacb-82eb-51df-d1321dbb55bc/197188492205.jpg/80x80bb.webp",
+        "length": "3:33"
+    },
+    {
+        "ranking": "67",
+        "title": "Fortnight (feat. Post Malone)",
+        "artist": "Taylor Swift",
+        "album": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/86/59/a486593a-53c9-1c2a-5122-8f25339f7359/24UMGIM44778.rgb.jpg/80x80bb.webp",
+        "length": "3:48",
+        "youtubeID": "q3zqJs7JUCQ"
+    },
+    {
+        "ranking": "68",
+        "title": "What's Wrong",
+        "artist": "Eric Chou",
+        "album": "Freedom - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1c/9f/07/1c9f07cb-1021-34eb-4031-30cc9849ac52/886447503461.jpg/80x80bb.webp",
+        "length": "5:21"
+    },
+    {
+        "ranking": "69",
+        "title": "Maple Leaf",
+        "artist": "Jay Chou",
+        "album": "November's Chopin",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/69/49/61/694961f3-1414-355e-66e4-9649ba13ec55/23UM1IM57770.rgb.jpg/80x80bb.webp",
+        "length": "4:37"
+    },
+    {
+        "ranking": "70",
+        "title": "Without You",
+        "artist": "Osn",
+        "album": "Without You - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/38/b7/d3/38b7d3e4-bc36-996c-6cfd-e376877c6ff9/4710243776186_cover.jpg/80x80bb.webp",
+        "length": "2:55"
+    },
+    {
+        "ranking": "71",
+        "title": "Ditto",
+        "artist": "NewJeans",
+        "album": "NewJeans 'OMG' - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/48/96/08/4896085e-b550-cb0a-3e5b-1f203521cb82/196922265464_Cover.jpg/80x80bb.webp",
+        "length": "3:05"
+    },
+    {
+        "ranking": "72",
+        "title": "泡沫",
+        "artist": "G.E.M.",
+        "album": "Xposed",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/d0/5f/56/d05f568f-cf54-d296-42c5-3a5b8f17f1eb/Cover.jpg/80x80bb.webp",
+        "length": "4:18"
+    },
+    {
+        "ranking": "73",
+        "title": "Please Please Please",
+        "artist": "Sabrina Carpenter",
+        "album": "Short n' Sweet",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+        "length": "3:06",
+        "youtubeID": "cF1Na4AIecM"
+    },
+    {
+        "ranking": "74",
+        "title": "na mo miss you",
+        "artist": "Waa Wei",
+        "album": "na mo miss you - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3f/47/2c/3f472c1e-24b1-06fd-0142-cf85ecb19e5a/cover.jpg/80x80bb.webp",
+        "length": "3:56"
+    },
+    {
+        "ranking": "75",
+        "title": "Red Scarf (\"Till We Meet Again\" Movie Theme Song)",
+        "artist": "WeiBird",
+        "album": "Red Scarf (\"Till We Meet Again\" Movie Theme Song) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5b/63/0c/5b630c9d-3b66-d1fa-9c2e-c7ceeac165fb/886449697779.jpg/80x80bb.webp",
+        "length": "4:34"
+    },
+    {
+        "ranking": "76",
+        "title": "MEOW",
+        "artist": "MEOVV",
+        "album": "MEOW - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/7f/b9/9b7fb97f-57fd-0a2e-64de-30cd3a259c71/198704128974_Cover.jpg/80x80bb.webp",
+        "length": "2:52"
+    },
+    {
+        "ranking": "77",
+        "title": "If You Don't Love Me, It's Fine",
+        "artist": "Jay Chou",
+        "album": "Greatest Works Of Art",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c4/92/9c/c4929c9f-b605-7ac3-41c8-9f9091b00741/23UM1IM59704.rgb.jpg/80x80bb.webp",
+        "length": "4:06"
+    },
+    {
+        "ranking": "78",
+        "title": "Wrong Love",
+        "artist": "Wang Leehom",
+        "album": "Shangri-La",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/be/4a/77/be4a7730-c144-a39e-c7b6-9d26ea0ebff3/1400X1400.jpg/80x80bb.webp",
+        "length": "3:58"
+    },
+    {
+        "ranking": "79",
+        "title": "we can't be friends (wait for your love)",
+        "artist": "Ariana Grande",
+        "album": "eternal sunshine",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/34/fe/a1/34fea184-6d20-3f50-b4ce-5e1501c1c5ab/24UMGIM00198.rgb.jpg/80x80bb.webp",
+        "length": "3:48",
+        "youtubeID": "KNtJGQkC-WI"
+    },
+    {
+        "ranking": "80",
+        "title": "星期五晚上",
+        "artist": "Energy",
+        "album": "星期五晚上 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/23/fd/fe23fdee-13dc-64b3-300c-928eeb460980/3000.png/80x80bb.webp",
+        "length": "3:38"
+    },
+    {
+        "ranking": "81",
+        "title": "我懷念的",
+        "artist": "Yanzi Sun",
+        "album": "逆光",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/39/8e/7d/398e7d64-1877-03ab-17cb-460943429bc0/825646246939.jpg/80x80bb.webp",
+        "length": "4:49"
+    },
+    {
+        "ranking": "82",
+        "title": "Fate",
+        "artist": "(G)I-DLE",
+        "album": "2",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/7f/70/097f7074-eb06-f99e-838c-07c2a04bd834/8804775368240_Cover.jpg/80x80bb.webp",
+        "length": "2:41"
+    },
+    {
+        "ranking": "83",
+        "title": "Nocturne",
+        "artist": "Jay Chou",
+        "album": "November's Chopin",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/69/49/61/694961f3-1414-355e-66e4-9649ba13ec55/23UM1IM57770.rgb.jpg/80x80bb.webp",
+        "length": "3:48"
+    },
+    {
+        "ranking": "84",
+        "title": "You & Me",
+        "artist": "JENNIE",
+        "album": "JENNIE Special Single [You & Me] - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2e/2a/4c/2e2a4c59-62ac-25a3-9d91-5e680b4ba806/23UM1IM15529.rgb.jpg/80x80bb.webp",
+        "length": "2:59"
+    },
+    {
+        "ranking": "85",
+        "title": "她說",
+        "artist": "JJ Lin",
+        "album": "她說",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4f/55/6d/4f556da8-f58c-982d-6dd9-3515d33b354f/mzm.awewpcjt.jpg/80x80bb.webp",
+        "length": "5:18"
+    },
+    {
+        "ranking": "86",
+        "title": "Silence",
+        "artist": "Jay Chou",
+        "album": "Fantasy",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/14/b9/fa/14b9fa3f-ef0c-01de-3721-93ff740062b5/23UM1IM56711.rgb.jpg/80x80bb.webp",
+        "length": "5:34"
+    },
+    {
+        "ranking": "87",
+        "title": "Lose Control",
+        "artist": "Teddy Swims",
+        "album": "I've Tried Everything But Therapy (Part 1)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
+        "length": "3:30",
+        "youtubeID": "9gWIIIr2Asw"
+    },
+    {
+        "ranking": "88",
+        "title": "連名帶姓",
+        "artist": "aMEI",
+        "album": "偷故事的人",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/76/f8/95/76f8954a-4499-16aa-b73e-2df8f206bc2d/17UM1IM52365.rgb.jpg/80x80bb.webp",
+        "length": "5:33"
+    },
+    {
+        "ranking": "89",
+        "title": "I Had Some Help (feat. Morgan Wallen)",
+        "artist": "Post Malone",
+        "album": "I Had Some Help (feat. Morgan Wallen) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/b7/09/e1b7098f-d6e1-2b18-fd6f-8390110908eb/24UMGIM50612.rgb.jpg/80x80bb.webp",
+        "length": "2:58",
+        "youtubeID": "4QIZE708gJ4"
+    },
+    {
+        "ranking": "90",
+        "title": "Chk Chk Boom",
+        "artist": "Stray Kids",
+        "album": "ATE",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/c1/47/24c147fc-cf70-0a4e-3e21-bd9a42617572/8809928952123_Cover.jpg/80x80bb.webp",
+        "length": "2:28"
+    },
+    {
+        "ranking": "91",
+        "title": "CLIK CLAK",
+        "artist": "BABYMONSTER",
+        "album": "DRIP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/e1/ef/b9e1ef3a-e3eb-8152-e91b-20aca0fc9ffd/BM_DRIP_Digital-Cover_4000.jpg/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
+        "ranking": "92",
+        "title": "If Only",
+        "artist": "JJ Lin",
+        "album": "Genesis",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b0/42/6e/b0426e5c-aa39-d28e-c184-fe1e0c7e5efd/dj.xjyxvhya.jpg/80x80bb.webp",
+        "length": "4:58"
+    },
+    {
+        "ranking": "93",
+        "title": "Running Wild",
+        "artist": "Jin",
+        "album": "Happy - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/21/a1/c521a133-2a4d-05da-205f-19093c53cd55/198704169175_Cover.jpg/80x80bb.webp",
+        "length": "2:31"
+    },
+    {
+        "ranking": "94",
+        "title": "Bastards of Love",
+        "artist": "Amazing Show",
+        "album": "Amazing Show",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/7d/65/a17d65e1-b3b3-4567-6d24-b11a21374645/4711508085968.jpg/80x80bb.webp",
+        "length": "3:07"
+    },
+    {
+        "ranking": "95",
+        "title": "Best Friend",
+        "artist": "A-Lin",
+        "album": "LINK",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9d/0c/0e/9d0c0eb2-eb20-d04b-674c-760511409eea/196589007995.jpg/80x80bb.webp",
+        "length": "5:18"
+    },
+    {
+        "ranking": "96",
+        "title": "夜に駆ける",
+        "artist": "YOASOBI",
+        "album": "夜に駆ける - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fe/58/79/fe58795c-1628-230a-9ffe-300c04b6627c/194491717186.jpg/80x80bb.webp",
+        "length": "4:21"
+    },
+    {
+        "ranking": "97",
+        "title": "Gunjou",
+        "artist": "YOASOBI",
+        "album": "Gunjou - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ae/7e/4a/ae7e4a28-fd46-9617-1066-fcbd124303d6/195497105656.jpg/80x80bb.webp",
+        "length": "4:08"
+    },
+    {
+        "ranking": "98",
+        "title": "Blur",
+        "artist": "TAEYEON",
+        "album": "Letter To Myself - The 6th Mini Album - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/98/34/37983445-2448-9446-8556-569b296cea6a/cover.jpg/80x80bb.webp",
+        "length": "3:15"
+    },
+    {
+        "ranking": "99",
+        "title": "Lemon",
+        "artist": "Kenshi Yonezu",
+        "album": "STRAY SHEEP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6b/0f/0b/6b0f0b3d-e842-5ee1-83a8-1b12142a9dfd/dj.bpfbtyiy.jpg/80x80bb.webp",
+        "length": "4:15"
+    },
+    {
+        "ranking": "100",
+        "title": "Fissure",
+        "artist": "Kuljelje",
+        "album": "Someday",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/8b/89/fe/8b89fefc-3263-40fd-ff2b-63a9fdfcca96/4711099690701.jpg/80x80bb.webp",
+        "length": "4:26"
+    }
+]

@@ -1,0 +1,823 @@
+[
+    {
+        "ranking": "1",
+        "title": "Die With A Smile",
+        "artist": "Lady Gaga",
+        "album": "Die With A Smile - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
+        "length": "4:11",
+        "youtubeID": "kPa7bsKwL-c"
+    },
+    {
+        "ranking": "2",
+        "title": "APT.",
+        "artist": "ROSÉ",
+        "album": "APT. - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
+        "length": "2:49",
+        "youtubeID": "ekr2nIex040"
+    },
+    {
+        "ranking": "3",
+        "title": "BIRDS OF A FEATHER",
+        "artist": "Billie Eilish",
+        "album": "HIT ME HARD AND SOFT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "length": "3:30",
+        "youtubeID": "V9PVRfjEBTI"
+    },
+    {
+        "ranking": "4",
+        "title": "number one girl",
+        "artist": "ROSÉ",
+        "album": "rosie",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
+        "length": "3:36"
+    },
+    {
+        "ranking": "5",
+        "title": "Espresso",
+        "artist": "Sabrina Carpenter",
+        "album": "Espresso - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
+        "length": "2:55",
+        "youtubeID": "eVli-tstM5E"
+    },
+    {
+        "ranking": "6",
+        "title": "Yours Ever (feat. คิว Flure)",
+        "artist": "Cocktail",
+        "album": "Yours Ever",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6d/c8/8d/6dc88ddc-79be-bd13-7f20-613be627504d/888332896733.jpg/80x80bb.webp",
+        "length": "4:19"
+    },
+    {
+        "ranking": "7",
+        "title": "ex-change",
+        "artist": "BOWKYLION",
+        "album": "CHERRY",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/f1/9d/13f19d00-84dc-197c-79c4-5038ab9a4e5f/cover.jpg/80x80bb.webp",
+        "length": "4:11"
+    },
+    {
+        "ranking": "8",
+        "title": "Moonlit Floor",
+        "artist": "LISA",
+        "album": "Moonlit Floor (Kiss Me) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/83/fb/7c83fbdf-27c1-39d5-dfb6-b8d6e2cd8dad/196872478501.jpg/80x80bb.webp",
+        "length": "2:35"
+    },
+    {
+        "ranking": "9",
+        "title": "Mantra",
+        "artist": "JENNIE",
+        "album": "Mantra - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/9a/4c/5d9a4c5f-1c34-1265-0fa5-860dc8f0e802/196872495263.jpg/80x80bb.webp",
+        "length": "2:16"
+    },
+    {
+        "ranking": "10",
+        "title": "DAY ONE",
+        "artist": "PUN",
+        "album": "DAY ONE - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/80/47/7380474c-b3a6-3411-bfe9-2ef792c66768/24UMGIM55985.rgb.jpg/80x80bb.webp",
+        "length": "4:32"
+    },
+    {
+        "ranking": "11",
+        "title": "ดอกไม้ที่รอฝน (spring)",
+        "artist": "THE TOYS",
+        "album": "ดอกไม้ที่รอฝน (spring) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/c8/1a/f4c81a4e-5d29-e6c5-771f-cc227203b9f8/cover.jpg/80x80bb.webp",
+        "length": "3:48"
+    },
+    {
+        "ranking": "12",
+        "title": "The Trouble is..ปัญหาของฉัน (From \"หนึ่งในร้อย\")",
+        "artist": "Violette Wautier",
+        "album": "The Trouble is..ปัญหาของฉัน (From \"หนึ่งในร้อย\") - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/68/4c/a2684cf9-4765-f08d-4764-4fb9215c24aa/cover.jpg/80x80bb.webp",
+        "length": "3:10"
+    },
+    {
+        "ranking": "13",
+        "title": "เหมือนวิวาห์ (Rain wedding) [From \"วิมานหนาม\"]",
+        "artist": "Jeff Satur",
+        "album": "เหมือนวิวาห์ (Rain wedding) [From \"วิมานหนาม\"] - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/ad/b9/a0adb977-5b6c-d2c1-9a07-65a9e309b89f/5021732460646.jpg/80x80bb.webp",
+        "length": "4:21"
+    },
+    {
+        "ranking": "14",
+        "title": "11:55",
+        "artist": "Tanu Vannasin",
+        "album": "11:55 - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/df/66/f3/df66f348-30b9-3cad-637c-751aecee060f/cover.jpg/80x80bb.webp",
+        "length": "4:49"
+    },
+    {
+        "ranking": "15",
+        "title": "Saturn",
+        "artist": "SZA",
+        "album": "Saturn - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0f/90/a8/0f90a856-0447-d846-fa7b-b9c937e72310/196871881180.jpg/80x80bb.webp",
+        "length": "3:06"
+    },
+    {
+        "ranking": "16",
+        "title": "Trust Issues",
+        "artist": "imel",
+        "album": "Trust Issues - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/22/8e/38228ecb-ac7e-771b-9ef5-603a659f2601/cover.jpg/80x80bb.webp",
+        "length": "3:11"
+    },
+    {
+        "ranking": "17",
+        "title": "Stuck with U",
+        "artist": "Ariana Grande",
+        "album": "Stuck with U - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/56/ee/ec/56eeecfb-a5f3-ced0-fa69-4eda0e474aec/20UMGIM34924.rgb.jpg/80x80bb.webp",
+        "length": "3:48"
+    },
+    {
+        "ranking": "18",
+        "title": "Please Please Please",
+        "artist": "Sabrina Carpenter",
+        "album": "Short n' Sweet",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+        "length": "3:06",
+        "youtubeID": "cF1Na4AIecM"
+    },
+    {
+        "ranking": "19",
+        "title": "ເພາະຄວາມຮັກ",
+        "artist": "Tanu Vannasin",
+        "album": "ເພາະຄວາມຮັກ - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/17/96/091796da-ffeb-cb54-2ffe-95b9e827eddd/cover.jpg/80x80bb.webp",
+        "length": "5:26"
+    },
+    {
+        "ranking": "20",
+        "title": "Snooze",
+        "artist": "SZA",
+        "album": "SOS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
+        "length": "3:21"
+    },
+    {
+        "ranking": "21",
+        "title": "One Of The Girls",
+        "artist": "The Weeknd",
+        "album": "The Idol Episode 4 (Music from the HBO Original Series) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/db/28/e7/db28e7c3-f53a-76c8-eaa4-d92a22e4f160/23UMGIM72115.rgb.jpg/80x80bb.webp",
+        "length": "4:04"
+    },
+    {
+        "ranking": "22",
+        "title": "Ghost",
+        "artist": "Jeff Satur",
+        "album": "Ghost - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2d/8a/7c/2d8a7c7b-5ebd-6f42-8300-69730a55a2eb/5054197954672.jpg/80x80bb.webp",
+        "length": "3:54"
+    },
+    {
+        "ranking": "23",
+        "title": "Too Sweet",
+        "artist": "Hozier",
+        "album": "Unreal Unearth: Unaired",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/12/e3/a412e390-51aa-6625-9adc-d502bf1c349f/196872373004.jpg/80x80bb.webp",
+        "length": "4:11",
+        "youtubeID": "NTpbbQUBbuo"
+    },
+    {
+        "ranking": "24",
+        "title": "PURE",
+        "artist": "Tanu Vannasin",
+        "album": "PURE - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/21/3b/25/213b2519-eecf-2f19-b07a-1fa9a1f345bf/cover.jpg/80x80bb.webp",
+        "length": "4:55"
+    },
+    {
+        "ranking": "25",
+        "title": "Hope",
+        "artist": "Tanu Vannasin",
+        "album": "Hope - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/43/c1/93/43c19380-3fa8-20e0-9e61-73b084d05911/cover.jpg/80x80bb.webp",
+        "length": "4:48"
+    },
+    {
+        "ranking": "26",
+        "title": "ຝົນ Last (feat. Gomen.)",
+        "artist": "Tanu Vannasin",
+        "album": "ຝົນ Last (feat. Gomen.) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d4/79/74/d4797491-daf3-da30-373c-c693e23197bd/cover.jpg/80x80bb.webp",
+        "length": "4:06"
+    },
+    {
+        "ranking": "27",
+        "title": "Timeless",
+        "artist": "The Weeknd",
+        "album": "Timeless - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
+        "length": "4:16",
+        "youtubeID": "5EpyN_6dqyk"
+    },
+    {
+        "ranking": "28",
+        "title": "DRIP",
+        "artist": "BABYMONSTER",
+        "album": "DRIP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/e1/ef/b9e1ef3a-e3eb-8152-e91b-20aca0fc9ffd/BM_DRIP_Digital-Cover_4000.jpg/80x80bb.webp",
+        "length": "3:00"
+    },
+    {
+        "ranking": "29",
+        "title": "Cruel Summer",
+        "artist": "Taylor Swift",
+        "album": "Lover",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/80x80bb.webp",
+        "length": "2:58",
+        "youtubeID": "JLJcHbYSlB8"
+    },
+    {
+        "ranking": "30",
+        "title": "Lover",
+        "artist": "Taylor Swift",
+        "album": "Lover",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/80x80bb.webp",
+        "length": "3:41",
+        "youtubeID": "-BjZmE2gtdo"
+    },
+    {
+        "ranking": "31",
+        "title": "7 rings",
+        "artist": "Ariana Grande",
+        "album": "thank u, next",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e4/06/d3/e406d3d8-2507-e585-c919-60bc5446985c/19UMGIM03689.rgb.jpg/80x80bb.webp",
+        "length": "2:58"
+    },
+    {
+        "ranking": "32",
+        "title": "we can't be friends (wait for your love)",
+        "artist": "Ariana Grande",
+        "album": "eternal sunshine",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/34/fe/a1/34fea184-6d20-3f50-b4ce-5e1501c1c5ab/24UMGIM00198.rgb.jpg/80x80bb.webp",
+        "length": "3:48",
+        "youtubeID": "KNtJGQkC-WI"
+    },
+    {
+        "ranking": "33",
+        "title": "Agora Hills",
+        "artist": "Doja Cat",
+        "album": "Scarlet",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/97/c7/f2/97c7f256-6db0-a45b-a786-f58dc928c970/196871404495.jpg/80x80bb.webp",
+        "length": "4:25"
+    },
+    {
+        "ranking": "34",
+        "title": "Fortnight (feat. Post Malone)",
+        "artist": "Taylor Swift",
+        "album": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/86/59/a486593a-53c9-1c2a-5122-8f25339f7359/24UMGIM44778.rgb.jpg/80x80bb.webp",
+        "length": "3:48",
+        "youtubeID": "q3zqJs7JUCQ"
+    },
+    {
+        "ranking": "35",
+        "title": "Galaxy Express",
+        "artist": "D Gerrard",
+        "album": "Galaxy Express - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c6/e1/63/c6e1632b-e81b-e67a-a21f-79fb450bf96a/5054197946035.jpg/80x80bb.webp",
+        "length": "4:16"
+    },
+    {
+        "ranking": "36",
+        "title": "Not Like Us",
+        "artist": "Kendrick Lamar",
+        "album": "Not Like Us - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
+        "length": "4:34",
+        "youtubeID": "H58vbez_m4E"
+    },
+    {
+        "ranking": "37",
+        "title": "Proud",
+        "artist": "fellow fellow",
+        "album": "Proud - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/b7/b5/29b7b52a-e195-f254-3620-12964e205087/cover.jpg/80x80bb.webp",
+        "length": "3:45"
+    },
+    {
+        "ranking": "38",
+        "title": "New Woman (feat. ROSALÍA)",
+        "artist": "LISA",
+        "album": "New Woman (feat. ROSALÍA) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7e/df/6a/7edf6a88-5c9d-a230-65f5-48ba91704c7b/196872303827.jpg/80x80bb.webp",
+        "length": "2:59"
+    },
+    {
+        "ranking": "39",
+        "title": "I Just Wanna Know",
+        "artist": "PUN",
+        "album": "PUN",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/38/86/8b388697-fefd-1fa8-04e4-a518c8761442/24UMGIM96529.rgb.jpg/80x80bb.webp",
+        "length": "3:43"
+    },
+    {
+        "ranking": "40",
+        "title": "วันที่นาฬิกาของเราหมุนไปพร้อมกัน",
+        "artist": "No One Else",
+        "album": "วันที่นาฬิกาของเราหมุนไปพร้อมกัน - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f7/33/78/f7337849-0a23-91d1-9445-4bc58265996d/198704100314_Cover.jpg/80x80bb.webp",
+        "length": "3:43"
+    },
+    {
+        "ranking": "41",
+        "title": "อยู่ได้แล้ว (feat. Mirrr)",
+        "artist": "Lipta",
+        "album": "อยู่ได้แล้ว (feat. Mirrr) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/a3/ea/ada3eacc-7107-5880-a4de-b2b645a944a3/cover.jpg/80x80bb.webp",
+        "length": "4:13"
+    },
+    {
+        "ranking": "42",
+        "title": "Aeroplane",
+        "artist": "Tanu Vannasin",
+        "album": "Aeroplane - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/18/49/3c/18493cf2-7ba6-0700-2a5a-10cc48edcbb0/cover.jpg/80x80bb.webp",
+        "length": "5:44"
+    },
+    {
+        "ranking": "43",
+        "title": "Dreamage",
+        "artist": "Tanu Vannasin",
+        "album": "Dreamage - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c6/5a/de/c65adeba-c96c-6e87-5575-64c02caffba4/cover.jpg/80x80bb.webp",
+        "length": "5:52"
+    },
+    {
+        "ranking": "44",
+        "title": "On The Ground",
+        "artist": "ROSÉ",
+        "album": "R - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c2/a9/23/c2a923ac-b382-e73b-91f4-013a8d5a0600/21UMGIM18155.rgb.jpg/80x80bb.webp",
+        "length": "2:48"
+    },
+    {
+        "ranking": "45",
+        "title": "Lay Me Down",
+        "artist": "Sam Smith",
+        "album": "In the Lonely Hour",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/80/74/b6/8074b6bc-387f-6cc9-5ede-92b76396ad5f/13UAEIM58958.rgb.jpg/80x80bb.webp",
+        "length": "4:13"
+    },
+    {
+        "ranking": "46",
+        "title": "จำนน (White Flag)",
+        "artist": "NONT TANONT",
+        "album": "จำนน (White Flag) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/30/b3/b5/30b3b54c-b1ce-e6c4-a0e0-2ec6eee6766b/cover.jpg/80x80bb.webp",
+        "length": "4:09"
+    },
+    {
+        "ranking": "47",
+        "title": "ส่วนต่าง (do it without me)",
+        "artist": "BOWKYLION",
+        "album": "CHERRY",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/f1/9d/13f19d00-84dc-197c-79c4-5038ab9a4e5f/cover.jpg/80x80bb.webp",
+        "length": "3:17"
+    },
+    {
+        "ranking": "48",
+        "title": "Good Luck, Babe!",
+        "artist": "Chappell Roan",
+        "album": "Good Luck, Babe! - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/80x80bb.webp",
+        "length": "3:38",
+        "youtubeID": "1RKqOmSkGgM"
+    },
+    {
+        "ranking": "49",
+        "title": "ความทรงจำ",
+        "artist": "Musketeers",
+        "album": "Left Right and Something",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0d/67/37/0d673744-de94-55ec-e5d5-06b3277620f9/cover.jpg/80x80bb.webp",
+        "length": "4:18"
+    },
+    {
+        "ranking": "50",
+        "title": "MILLION DOLLAR BABY",
+        "artist": "Tommy Richman",
+        "album": "MILLION DOLLAR BABY - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5c/e7/39/5ce73933-8f42-1095-e84b-0caec311f54b/24CRGIM43010.rgb.jpg/80x80bb.webp",
+        "length": "2:35"
+    },
+    {
+        "ranking": "51",
+        "title": "พบรัก",
+        "artist": "Ink Waruntorn",
+        "album": "พบรัก - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/ac/56/9fac56d0-a294-5d5b-e268-18a0ce152bdd/0840410418015.jpg/80x80bb.webp",
+        "length": "3:54"
+    },
+    {
+        "ranking": "52",
+        "title": "Onlyfan",
+        "artist": "The Parkinson",
+        "album": "Onlyfan - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/81/08/248108ab-392f-c578-fddd-469739f29377/198704001956_Cover.jpg/80x80bb.webp",
+        "length": "2:08"
+    },
+    {
+        "ranking": "53",
+        "title": "น้ำหอม",
+        "artist": "Cocktail",
+        "album": "น้ำหอม - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/fd/d7/f4fdd70e-206e-af0f-1ad9-96086ef1bf81/888332895323.jpg/80x80bb.webp",
+        "length": "3:27"
+    },
+    {
+        "ranking": "54",
+        "title": "ผิดตั้งแต่เริ่ม (ชู้รัก)",
+        "artist": "เล็กสเร็น",
+        "album": "ผิดตั้งแต่เริ่ม (ชู้รัก) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/63/ed/50/63ed500a-c033-6b40-9481-183a4570104c/0840410432066.jpg/80x80bb.webp",
+        "length": "3:32"
+    },
+    {
+        "ranking": "55",
+        "title": "ที่เดิม",
+        "artist": "PUN",
+        "album": "PUN",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/38/86/8b388697-fefd-1fa8-04e4-a518c8761442/24UMGIM96529.rgb.jpg/80x80bb.webp",
+        "length": "3:56"
+    },
+    {
+        "ranking": "56",
+        "title": "Love, Maybe",
+        "artist": "BABYMONSTER",
+        "album": "DRIP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/e1/ef/b9e1ef3a-e3eb-8152-e91b-20aca0fc9ffd/BM_DRIP_Digital-Cover_4000.jpg/80x80bb.webp",
+        "length": "3:07"
+    },
+    {
+        "ranking": "57",
+        "title": "ນີ້ແຫຼະຊີວິດ",
+        "artist": "Tanu Vannasin",
+        "album": "Aftergrow",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b0/54/c0/b054c0ab-79e9-97d9-43de-ee575a592bad/cover.jpg/80x80bb.webp",
+        "length": "5:46"
+    },
+    {
+        "ranking": "58",
+        "title": "ຄວາມເຈັບປວດລະຫວ່າງທາງ",
+        "artist": "Tanu Vannasin",
+        "album": "Aftergrow",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b0/54/c0/b054c0ab-79e9-97d9-43de-ee575a592bad/cover.jpg/80x80bb.webp",
+        "length": "4:49"
+    },
+    {
+        "ranking": "59",
+        "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
+        "artist": "Post Malone",
+        "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4b/30/2c/4b302cb6-7a14-5464-4e97-0577e9d0be49/18UMGIM82277.rgb.jpg/80x80bb.webp",
+        "length": "2:38",
+        "youtubeID": "ApXoWvfEYVU"
+    },
+    {
+        "ranking": "60",
+        "title": "Perfect",
+        "artist": "Ed Sheeran",
+        "album": "÷ (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
+        "length": "4:23",
+        "youtubeID": "2Vv-BfVoq4g"
+    },
+    {
+        "ranking": "61",
+        "title": "Die For You",
+        "artist": "Joji",
+        "album": "SMITHEREENS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/db/11/f5/db11f57b-6f54-6cf8-2140-be0fc1a3b495/093624864462.jpg/80x80bb.webp",
+        "length": "3:31"
+    },
+    {
+        "ranking": "62",
+        "title": "Tip Toe",
+        "artist": "HYBS",
+        "album": "Tip Toe - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/79/aa/aa/79aaaa95-f1c2-4409-1e3b-826e77b78d13/cover.jpg/80x80bb.webp",
+        "length": "3:44"
+    },
+    {
+        "ranking": "63",
+        "title": "วันนี้ปีที่แล้ว",
+        "artist": "MEYOU",
+        "album": "วันนี้ปีที่แล้ว - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3f/59/d1/3f59d104-0b5a-9307-e279-8f953f1c03f3/888332224796.jpg/80x80bb.webp",
+        "length": "3:53"
+    },
+    {
+        "ranking": "64",
+        "title": "Water",
+        "artist": "Tyla",
+        "album": "Water - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1e/c9/5b/1ec95bbc-a56f-cbef-070c-ddec9f4fdd3c/196871296205.jpg/80x80bb.webp",
+        "length": "3:20"
+    },
+    {
+        "ranking": "65",
+        "title": "Magnetic",
+        "artist": "ILLIT",
+        "album": "SUPER REAL ME - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3e/49/1e/3e491e43-4961-21ab-2abe-37fb1c0feb40/196922879227_Cover.jpg/80x80bb.webp",
+        "length": "2:40"
+    },
+    {
+        "ranking": "66",
+        "title": "End of Beginning",
+        "artist": "Djo",
+        "album": "DECIDE",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e5/94/31/e59431de-7591-58e6-c4d4-105b6373ad6a/5056494917336_1.jpg/80x80bb.webp",
+        "length": "2:39"
+    },
+    {
+        "ranking": "67",
+        "title": "ตามใจ (Live Session)",
+        "artist": "fellow fellow",
+        "album": "ตามใจ (Live Session) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/3c/00/733c00a8-9423-abcd-e5f4-c6c1ecaea4e4/cover.jpg/80x80bb.webp",
+        "length": "3:24"
+    },
+    {
+        "ranking": "68",
+        "title": "Diet Pepsi",
+        "artist": "Addison Rae",
+        "album": "Diet Pepsi - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/ef/7a/01ef7a06-1b48-0460-efbf-983d6a0a37fa/196872309959.jpg/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
+        "ranking": "69",
+        "title": "Bed Chem",
+        "artist": "Sabrina Carpenter",
+        "album": "Short n' Sweet",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+        "length": "2:51",
+        "youtubeID": "x8VkB8ap_FQ"
+    },
+    {
+        "ranking": "70",
+        "title": "Dancing In The Flames",
+        "artist": "The Weeknd",
+        "album": "Dancing In The Flames - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/7e/9f/347e9f54-2d74-820f-a910-68d01f044fcf/24UMGIM95646.rgb.jpg/80x80bb.webp",
+        "length": "3:40",
+        "youtubeID": "MLlSSJ0z7xM"
+    },
+    {
+        "ranking": "71",
+        "title": "Magic",
+        "artist": "WIM",
+        "album": "NOICE",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2a/36/3b/2a363b7d-4e19-c3bc-0aa7-40a78716ca38/cover.jpg/80x80bb.webp",
+        "length": "3:20"
+    },
+    {
+        "ranking": "72",
+        "title": "ฉันไม่ต้องการตัวเธอในตอนนี้",
+        "artist": "Little John",
+        "album": "ฉันไม่ต้องการตัวเธอในตอนนี้ - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/da/f2/61/daf2615c-e068-a12e-6025-01ae0d4acf10/cover.jpg/80x80bb.webp",
+        "length": "6:05"
+    },
+    {
+        "ranking": "73",
+        "title": "Soft Spot",
+        "artist": "keshi",
+        "album": "Requiem",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a6/a3/20/a6a32054-f43f-12b3-4019-1f201b6c56b2/24UMGIM70300.rgb.jpg/80x80bb.webp",
+        "length": "3:24"
+    },
+    {
+        "ranking": "74",
+        "title": "สาริกาลิ้นทอง (Smooth-talker)",
+        "artist": "Paper Planes",
+        "album": "สาริกาลิ้นทอง (Smooth-talker) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/7b/8f/697b8f3d-7354-28b4-cc89-96c9cc5e4cc6/888332896313.jpg/80x80bb.webp",
+        "length": "4:08"
+    },
+    {
+        "ranking": "75",
+        "title": "CLIK CLAK",
+        "artist": "BABYMONSTER",
+        "album": "DRIP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/e1/ef/b9e1ef3a-e3eb-8152-e91b-20aca0fc9ffd/BM_DRIP_Digital-Cover_4000.jpg/80x80bb.webp",
+        "length": "2:49"
+    },
+    {
+        "ranking": "76",
+        "title": "That’s So True",
+        "artist": "Gracie Abrams",
+        "album": "The Secret of Us (Deluxe)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
+        "length": "2:46",
+        "youtubeID": "K57UcxcvqnM"
+    },
+    {
+        "ranking": "77",
+        "title": "It's ok I'm ok",
+        "artist": "Tate McRae",
+        "album": "It's ok I'm ok - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/61/e6/3e/61e63e45-56a5-f035-edd5-4c6c52e9369d/196872401141.jpg/80x80bb.webp",
+        "length": "2:36",
+        "youtubeID": "Bpaf6Dm9iRc"
+    },
+    {
+        "ranking": "78",
+        "title": "bad",
+        "artist": "wave to earth",
+        "album": "0.1 flaws and all.",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/b6/82/71b6820b-97a2-9968-c5a8-b659103030b1/5054197659843.jpg/80x80bb.webp",
+        "length": "4:23"
+    },
+    {
+        "ranking": "79",
+        "title": "ພາບຈໍາລອງ",
+        "artist": "Tanu Vannasin",
+        "album": "Aftergrow",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b0/54/c0/b054c0ab-79e9-97d9-43de-ee575a592bad/cover.jpg/80x80bb.webp",
+        "length": "3:46"
+    },
+    {
+        "ranking": "80",
+        "title": "คุมเกม",
+        "artist": "marr music team",
+        "album": "คุมเกม - EP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/76/ce/97/76ce9767-cc0f-ea97-e076-61fc5c4829fa/cover.jpg/80x80bb.webp",
+        "length": "2:42"
+    },
+    {
+        "ranking": "81",
+        "title": "Deadline",
+        "artist": "Tanu Vannasin",
+        "album": "Aftergrow",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b0/54/c0/b054c0ab-79e9-97d9-43de-ee575a592bad/cover.jpg/80x80bb.webp",
+        "length": "3:56"
+    },
+    {
+        "ranking": "82",
+        "title": "luther",
+        "artist": "Kendrick Lamar",
+        "album": "GNX",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
+        "length": "2:57",
+        "youtubeID": "xS7opkivEbg"
+    },
+    {
+        "ranking": "83",
+        "title": "Best Part (feat. H.E.R.)",
+        "artist": "Daniel Caesar",
+        "album": "Freudian",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/62/f4/fd/62f4fde2-34a4-7f71-03c7-05d911b93e5a/859722261219_cover.jpg/80x80bb.webp",
+        "length": "3:29"
+    },
+    {
+        "ranking": "84",
+        "title": "drivers license",
+        "artist": "Olivia Rodrigo",
+        "album": "drivers license - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f0/19/d6/f019d61e-6bd3-d936-1214-22b732083ef0/20UM1IM14285.rgb.jpg/80x80bb.webp",
+        "length": "4:02"
+    },
+    {
+        "ranking": "85",
+        "title": "Halley's Comet",
+        "artist": "fellow fellow",
+        "album": "Halley's Comet - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f1/fd/59/f1fd59e5-09ce-dde1-077e-d568ece0cee0/cover.jpg/80x80bb.webp",
+        "length": "3:44"
+    },
+    {
+        "ranking": "86",
+        "title": "I Like You (A Happier Song) [feat. Doja Cat]",
+        "artist": "Post Malone",
+        "album": "Twelve Carat Toothache",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/0d/e8/8b/0de88b7c-bed9-be30-24e2-82d796e7bcf3/22UMGIM49145.rgb.jpg/80x80bb.webp",
+        "length": "3:12"
+    },
+    {
+        "ranking": "87",
+        "title": "ลืมไปแล้วว่าลืมยังไง (Fade)",
+        "artist": "Jeff Satur",
+        "album": "ลืมไปแล้วว่าลืมยังไง (Fade) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/94/fd/69/94fd691b-d908-918a-6e07-e0b2265bca6e/5054197362491.jpg/80x80bb.webp",
+        "length": "4:22"
+    },
+    {
+        "ranking": "88",
+        "title": "คู่ชีวิต",
+        "artist": "Cocktail",
+        "album": "The Lords Of Misery",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/a7/5f/a1a75fae-8e99-b66b-7ed5-f1627dc57f5f/888332045704.jpg/80x80bb.webp",
+        "length": "5:37"
+    },
+    {
+        "ranking": "89",
+        "title": "I'm Not the Only One",
+        "artist": "Sam Smith",
+        "album": "In the Lonely Hour",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/80/74/b6/8074b6bc-387f-6cc9-5ede-92b76396ad5f/13UAEIM58958.rgb.jpg/80x80bb.webp",
+        "length": "3:59"
+    },
+    {
+        "ranking": "90",
+        "title": "Under the Influence",
+        "artist": "Chris Brown",
+        "album": "Indigo (Extended)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/96/1b/c9/961bc949-7e03-2670-f612-72c34ece6a22/886447924464.jpg/80x80bb.webp",
+        "length": "3:04"
+    },
+    {
+        "ranking": "91",
+        "title": "golden hour",
+        "artist": "JVKE",
+        "album": "this is what ____ feels like (Vol. 1-4)",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/1a/7b/8d1a7b44-316f-7c7f-4380-935673fb697a/5056167175650.jpg/80x80bb.webp",
+        "length": "3:29"
+    },
+    {
+        "ranking": "92",
+        "title": "Here With Me",
+        "artist": "d4vd",
+        "album": "Here With Me - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/90/ad/38/90ad385f-2dba-8046-99d0-3ee71df77297/22UM1IM07351.rgb.jpg/80x80bb.webp",
+        "length": "4:02"
+    },
+    {
+        "ranking": "93",
+        "title": "ลบไม่ได้ช่วยให้ลืม (Erase)",
+        "artist": "Ink Waruntorn",
+        "album": "ลบไม่ได้ช่วยให้ลืม (Erase) - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9c/8b/f1/9c8bf14b-849f-81fc-b795-0a1b2a245667/0840102420586.jpg/80x80bb.webp",
+        "length": "3:44"
+    },
+    {
+        "ranking": "94",
+        "title": "HIGHEST IN THE ROOM",
+        "artist": "Travis Scott",
+        "album": "HIGHEST IN THE ROOM - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/30/5f/c4/305fc4b4-155d-8e67-7c7a-8eb35032fbcb/886448042792.jpg/80x80bb.webp",
+        "length": "2:55"
+    },
+    {
+        "ranking": "95",
+        "title": "ปล่อย",
+        "artist": "Pop Pongkool",
+        "album": "ปล่อย - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ad/c7/3c/adc73cf5-afac-ab8c-70f8-1f05e3e7478b/888332039871.jpg/80x80bb.webp",
+        "length": "4:39"
+    },
+    {
+        "ranking": "96",
+        "title": "Super Shy",
+        "artist": "NewJeans",
+        "album": "NewJeans 'Super Shy' - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/63/e5/e2/63e5e2e4-829b-924d-a1dc-8058a1d69bd4/196922462702_Cover.jpg/80x80bb.webp",
+        "length": "2:34"
+    },
+    {
+        "ranking": "97",
+        "title": "เวลาเธอยิ้ม",
+        "artist": "Polycat",
+        "album": "80 Kisses",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/83/11/6f/83116f31-73a4-3df3-6c5f-6658aabbea49/cover.jpg/80x80bb.webp",
+        "length": "3:47"
+    },
+    {
+        "ranking": "98",
+        "title": "ocean eyes",
+        "artist": "Billie Eilish",
+        "album": "dont smile at me",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/02/1d/30/021d3036-5503-3ed3-df00-882f2833a6ae/17UM1IM17026.rgb.jpg/80x80bb.webp",
+        "length": "3:20"
+    },
+    {
+        "ranking": "99",
+        "title": "greedy",
+        "artist": "Tate McRae",
+        "album": "greedy - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/23/07/92/23079247-25be-3098-ef53-78e7d0fe7406/196871341653.jpg/80x80bb.webp",
+        "length": "2:11",
+        "youtubeID": "UTmZqY_arzk"
+    },
+    {
+        "ranking": "100",
+        "title": "Heartwall",
+        "artist": "Mirrr",
+        "album": "Heartwall - Single",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/68/3e/43/683e43eb-a421-749a-5d30-365a2bea034b/cover.jpg/80x80bb.webp",
+        "length": "4:37"
+    }
+]
