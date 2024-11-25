@@ -5,7 +5,8 @@
         "artist": "ROSÉ",
         "album": "APT. - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "length": "2:49"
+        "length": "2:49",
+        "youtubeID": "ekr2nIex040"
     },
     {
         "ranking": "2",
@@ -45,7 +46,8 @@
         "artist": "Billie Eilish",
         "album": "HIT ME HARD AND SOFT",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "length": "3:30"
+        "length": "3:30",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "7",
@@ -53,7 +55,8 @@
         "artist": "Lady Gaga",
         "album": "Die With A Smile - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "length": "4:11"
+        "length": "4:11",
+        "youtubeID": "kPa7bsKwL-c"
     },
     {
         "ranking": "8",
@@ -133,7 +136,8 @@
         "artist": "Sabrina Carpenter",
         "album": "Espresso - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
-        "length": "2:55"
+        "length": "2:55",
+        "youtubeID": "eVli-tstM5E"
     },
     {
         "ranking": "18",
@@ -437,7 +441,8 @@
         "artist": "Chappell Roan",
         "album": "Good Luck, Babe! - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/80x80bb.webp",
-        "length": "3:38"
+        "length": "3:38",
+        "youtubeID": "1RKqOmSkGgM"
     },
     {
         "ranking": "56",
@@ -493,7 +498,8 @@
         "artist": "Taylor Swift",
         "album": "Lover",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/80x80bb.webp",
-        "length": "2:58"
+        "length": "2:58",
+        "youtubeID": "JLJcHbYSlB8"
     },
     {
         "ranking": "63",
@@ -525,7 +531,8 @@
         "artist": "Sabrina Carpenter",
         "album": "Short n' Sweet",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
-        "length": "2:37"
+        "length": "2:37",
+        "youtubeID": "KEG7b851Ric"
     },
     {
         "ranking": "67",
@@ -557,7 +564,8 @@
         "artist": "Dua Lipa",
         "album": "Dua Lipa (Deluxe)",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c1/54/2d/c1542d45-c6c2-12ca-7308-6eacd762c562/190295807870.jpg/80x80bb.webp",
-        "length": "3:29"
+        "length": "3:29",
+        "youtubeID": "k2qgadSvNyU"
     },
     {
         "ranking": "71",
@@ -621,7 +629,8 @@
         "artist": "Benson Boone",
         "album": "Beautiful Things - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
-        "length": "3:00"
+        "length": "3:00",
+        "youtubeID": "Oa_RSwwpPaA"
     },
     {
         "ranking": "79",
@@ -781,7 +790,8 @@
         "artist": "The Kid LAROI",
         "album": "STAY - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e8/eb/cc/e8ebcc8d-6293-6e7f-7cc5-defa2bdbd4bd/886449399895.jpg/80x80bb.webp",
-        "length": "2:21"
+        "length": "2:21",
+        "youtubeID": "kTJczUoc26U"
     },
     {
         "ranking": "99",
@@ -797,6 +807,7 @@
         "artist": "Dua Lipa",
         "album": "Don't Start Now - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/ee/66/41ee66fa-f8dd-7e82-155a-3a1b360dc562/190295322175.jpg/80x80bb.webp",
-        "length": "3:03"
+        "length": "3:03",
+        "youtubeID": "8CLkVWB_Lj8"
     }
 ]

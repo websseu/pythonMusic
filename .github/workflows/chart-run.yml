@@ -43,7 +43,8 @@ jobs:
           python floChart.py
           python vibeChart.py
           python appleGlobalChart.py
-          python addYoutubeID.py
+          python addKoreaYoutubeID.py
+          python addAppleYoutubeID.py
 
       # 5. 생성된 데이터 파일 커밋
       - name: Commit changes

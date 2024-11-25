@@ -13,7 +13,8 @@
         "artist": "Billie Eilish",
         "album": "HIT ME HARD AND SOFT",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "length": "3:30"
+        "length": "3:30",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "3",
@@ -29,7 +30,8 @@
         "artist": "Lady Gaga",
         "album": "Die With A Smile - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "length": "4:11"
+        "length": "4:11",
+        "youtubeID": "kPa7bsKwL-c"
     },
     {
         "ranking": "5",
@@ -37,7 +39,8 @@
         "artist": "Sabrina Carpenter",
         "album": "Espresso - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
-        "length": "2:55"
+        "length": "2:55",
+        "youtubeID": "eVli-tstM5E"
     },
     {
         "ranking": "6",
@@ -85,7 +88,8 @@
         "artist": "Billie Eilish",
         "album": "HIT ME HARD AND SOFT",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "length": "4:21"
+        "length": "4:21",
+        "youtubeID": "l08Zw-RY__Q"
     },
     {
         "ranking": "12",
@@ -93,7 +97,8 @@
         "artist": "The Weeknd",
         "album": "Timeless - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "length": "4:16"
+        "length": "4:16",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "13",
@@ -101,7 +106,8 @@
         "artist": "ROSÉ",
         "album": "APT. - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "length": "2:49"
+        "length": "2:49",
+        "youtubeID": "ekr2nIex040"
     },
     {
         "ranking": "14",
@@ -125,7 +131,8 @@
         "artist": "Sabrina Carpenter",
         "album": "Short n' Sweet",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
-        "length": "3:06"
+        "length": "3:06",
+        "youtubeID": "cF1Na4AIecM"
     },
     {
         "ranking": "17",
@@ -133,7 +140,8 @@
         "artist": "Sabrina Carpenter",
         "album": "Short n' Sweet",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
-        "length": "2:37"
+        "length": "2:37",
+        "youtubeID": "KEG7b851Ric"
     },
     {
         "ranking": "18",
@@ -141,7 +149,8 @@
         "artist": "Sabrina Carpenter",
         "album": "Short n' Sweet",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
-        "length": "2:51"
+        "length": "2:51",
+        "youtubeID": "x8VkB8ap_FQ"
     },
     {
         "ranking": "19",
@@ -269,7 +278,8 @@
         "artist": "The Goo Goo Dolls",
         "album": "Greatest Hits, Vol. One: The Singles",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/b4/0c/98/mzi.vhowcacb.jpg/80x80bb.webp",
-        "length": "4:49"
+        "length": "4:49",
+        "youtubeID": "xK4ZqrLys_k"
     },
     {
         "ranking": "35",
@@ -309,7 +319,8 @@
         "artist": "Myles Smith",
         "album": "Stargazing - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/c3/a5/bfc3a56d-a51b-69cb-cdfc-26ee63631cb8/196872051872.jpg/80x80bb.webp",
-        "length": "2:52"
+        "length": "2:52",
+        "youtubeID": "tKml80alH3Y"
     },
     {
         "ranking": "40",
@@ -341,7 +352,8 @@
         "artist": "Chappell Roan",
         "album": "Good Luck, Babe! - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/80x80bb.webp",
-        "length": "3:38"
+        "length": "3:38",
+        "youtubeID": "1RKqOmSkGgM"
     },
     {
         "ranking": "44",
@@ -645,7 +657,8 @@
         "artist": "Teddy Swims",
         "album": "I've Tried Everything But Therapy (Part 1)",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "length": "3:30"
+        "length": "3:30",
+        "youtubeID": "9gWIIIr2Asw"
     },
     {
         "ranking": "82",
@@ -669,7 +682,8 @@
         "artist": "Hozier",
         "album": "Unreal Unearth: Unaired",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/12/e3/a412e390-51aa-6625-9adc-d502bf1c349f/196872373004.jpg/80x80bb.webp",
-        "length": "4:11"
+        "length": "4:11",
+        "youtubeID": "NTpbbQUBbuo"
     },
     {
         "ranking": "85",
@@ -677,7 +691,8 @@
         "artist": "Kendrick Lamar",
         "album": "Not Like Us - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "length": "4:34"
+        "length": "4:34",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "86",
@@ -701,7 +716,8 @@
         "artist": "Shaboozey",
         "album": "Where I've Been, Isn't Where I'm Going",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/b5/bc/97b5bca2-6238-2421-4f0d-1f7a39d5d9d4/197342550925_cover.jpg/80x80bb.webp",
-        "length": "2:51"
+        "length": "2:51",
+        "youtubeID": "t7bQwwqW-Hc"
     },
     {
         "ranking": "89",

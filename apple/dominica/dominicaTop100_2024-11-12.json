@@ -373,7 +373,8 @@
         "artist": "Billie Eilish",
         "album": "HIT ME HARD AND SOFT",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "length": "4:21"
+        "length": "4:21",
+        "youtubeID": "l08Zw-RY__Q"
     },
     {
         "ranking": "48",
@@ -605,7 +606,8 @@
         "artist": "Kendrick Lamar",
         "album": "Not Like Us - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "length": "4:34"
+        "length": "4:34",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "77",
