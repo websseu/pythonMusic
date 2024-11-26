@@ -3,8 +3,7 @@ from googleapiclient.discovery import build
 import os
 
 # API 키 설정
-# YOUTUBE_API_KEY = 'AIzaSyDY-NgoHIzYgtpSpeXfGuMqsvFx4XoiNQk'
-YOUTUBE_API_KEY = 'AIzaSyDXH12UjWwEep8Qj4LNC2BPp3ZsdxqU_l4'
+YOUTUBE_API_KEY = 'AIzaSyDY-NgoHIzYgtpSpeXfGuMqsvFx4XoiNQk'
 youtube = build('youtube', 'v3', developerKey=YOUTUBE_API_KEY)
 
 def get_youtube_video_id(title, artist):
@@ -36,17 +35,19 @@ def add_youtube_ids_to_json(file_path):
         for entry in data:
             title = entry.get("title")
             artist = entry.get("artist")
+            image = entry.get("image")
             if title and artist:
                 youtube_id = get_youtube_video_id(title, artist)
                 new_entry = {
                     "title": title,
                     "artist": artist,
+                    "image": image,
                     "youtubeID": youtube_id
                 }
                 new_data.append(new_entry)
 
         # 새로운 파일 경로 설정 (상위 폴더에 저장)
-        output_file_path = os.path.join(os.path.dirname(file_path), "../totalAppleMusic.json")
+        output_file_path = os.path.join(os.path.dirname(file_path), "../totalAppleMusic2.json")
         output_file_path = os.path.normpath(output_file_path)
         
         # 파일 저장
@@ -61,7 +62,7 @@ def add_youtube_ids_to_json(file_path):
         return None
 
 # 실행 예제
-output_file = add_youtube_ids_to_json("apple/australia/australiaTop100_2024-11-24.json")
+output_file = add_youtube_ids_to_json("apple/zimbabwe/zimbabweTop100_2024-11-25.json")
 
 if output_file:
     print(f"작업이 완료되었습니다! 결과 파일: {output_file}")

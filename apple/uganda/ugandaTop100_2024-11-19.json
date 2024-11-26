@@ -21,7 +21,8 @@
         "artist": "Davido",
         "album": "Timeless",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
-        "length": "3:14"
+        "length": "3:14",
+        "youtubeID": "3bFPDfWReN0"
     },
     {
         "ranking": "4",
@@ -45,7 +46,8 @@
         "artist": "Mr Pilato",
         "album": "Biri Marung (feat. Sje Konka, Focalistic, DJ Maphorisa, Scotts Maphuma & CowBoii) - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/22/e6/01/22e60183-8ce0-d820-4cd0-3353a8bb1edc/196872635690.jpg/80x80bb.webp",
-        "length": "7:34"
+        "length": "7:34",
+        "youtubeID": "vuPcPPGlwrw"
     },
     {
         "ranking": "7",
@@ -110,7 +112,8 @@
         "artist": "Chandler Moore",
         "album": "Chandler Moore: Live in Los Angeles",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/1e/8b/841e8b1c-ed72-03b7-483e-3c108ca7cff7/198588454435.jpg/80x80bb.webp",
-        "length": "11:25"
+        "length": "11:25",
+        "youtubeID": "85B_DpmMunk"
     },
     {
         "ranking": "15",
@@ -118,7 +121,8 @@
         "artist": "Chris Brown",
         "album": "11:11 (Deluxe)",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/5c/c1/2d5cc1a6-86ce-ee16-5985-807f2fffa3cb/196871957267.jpg/80x80bb.webp",
-        "length": "3:35"
+        "length": "3:35",
+        "youtubeID": "N6i1SeRmKL0"
     },
     {
         "ranking": "16",
@@ -134,7 +138,8 @@
         "artist": "Chris Brown",
         "album": "11:11",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/39/25/4f/39254fd0-e839-c63f-abbe-7423d2c137bf/196871463010.jpg/80x80bb.webp",
-        "length": "5:06"
+        "length": "5:06",
+        "youtubeID": "wWR0VD6qgt8"
     },
     {
         "ranking": "18",
@@ -158,7 +163,8 @@
         "artist": "BoyPee",
         "album": "Ogechi (feat. Davido) [Remix] - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/ce/d9/5eced9f8-8b41-02e1-16b1-b0946739b881/766214751045.png/80x80bb.webp",
-        "length": "3:12"
+        "length": "3:12",
+        "youtubeID": "ukSewaXAC5M"
     },
     {
         "ranking": "21",
@@ -271,7 +277,8 @@
         "artist": "Elevation Worship",
         "album": "Old Church Basement",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ac/fb/2e/acfb2e1b-5a2a-6ad2-401f-aeb16df85673/886449130207.jpg/80x80bb.webp",
-        "length": "9:58"
+        "length": "9:58",
+        "youtubeID": "mC-zw0zCCtg"
     },
     {
         "ranking": "35",
@@ -311,7 +318,8 @@
         "artist": "Chris Brown",
         "album": "Indigo (Extended)",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/96/1b/c9/961bc949-7e03-2670-f612-72c34ece6a22/886447924464.jpg/80x80bb.webp",
-        "length": "3:04"
+        "length": "3:04",
+        "youtubeID": "xy8HNniRsc4"
     },
     {
         "ranking": "40",
@@ -802,6 +810,7 @@
         "artist": "Tyler ICU",
         "album": "Manzi Nte (feat. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Al Xapo) - Single",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e8/a2/51/e8a251ad-f6a1-12a9-ffb4-defc0a1518ca/196872136647.jpg/80x80bb.webp",
-        "length": "7:23"
+        "length": "7:23",
+        "youtubeID": "x5OyzDemLfE"
     }
 ]
