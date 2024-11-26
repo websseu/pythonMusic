@@ -34,17 +34,18 @@ jobs:
       # 4. 스크립트 실행
       - name: Run Apple Korea Chart script
         run: |
-          python appleKoreaChart.py
-          python billboardHotChart.py
-          python billboardGlobalChart.py
-          python melonChart.py
-          python genieChart.py
-          python bugsChart.py
-          python floChart.py
-          python vibeChart.py
-          python appleGlobalChart.py
-          python addKoreaYoutubeID.py
-          python addAppleYoutubeID.py
+          # python appleKoreaChart.py
+          # python billboardHotChart.py
+          # python billboardGlobalChart.py
+          # python melonChart.py
+          # python genieChart.py
+          # python bugsChart.py
+          # python floChart.py
+          # python vibeChart.py
+          # python appleGlobalChart.py
+          # python addKoreaYoutubeID.py
+          # python addAppleYoutubeID.py
+          python spotifyGlobalChart.py
 
       # 5. 생성된 데이터 파일 커밋
       - name: Commit changes
