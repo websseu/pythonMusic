@@ -15,6 +15,20 @@ https://websseu.github.io/pythonMusic/korea/melon/melonTop100_2024-11-06.json
 https://websseu.github.io/pythonMusic/korea/vibe/vibeTop100_2024-11-06.json
 ```
 
+```
+# python appleKoreaChart.py
+# python billboardHotChart.py
+# python billboardGlobalChart.py
+# python melonChart.py
+# python genieChart.py
+# python bugsChart.py
+# python floChart.py
+# python vibeChart.py
+# python appleGlobalChart.py
+# python addKoreaYoutubeID.py
+# python addAppleYoutubeID.py
+```
+
 ## 🇰🇷 한국 노래 챠트 수집하기
 
 애플(apple) 뮤직 코리아 순위 100 : [https://music.apple.com/kr/new](https://music.apple.com/kr/playlist/%EC%98%A4%EB%8A%98%EC%9D%98-top-100-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD/pl.d3d10c32fbc540b38e266367dc8cb00c)  
