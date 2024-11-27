@@ -27,6 +27,7 @@ https://websseu.github.io/pythonMusic/korea/vibe/vibeTop100_2024-11-06.json
 # python appleGlobalChart.py
 # python addKoreaYoutubeID.py
 # python addAppleYoutubeID.py
+# python spotifyGlobalChart.py
 ```
 
 ## 🇰🇷 한국 노래 챠트 수집하기
