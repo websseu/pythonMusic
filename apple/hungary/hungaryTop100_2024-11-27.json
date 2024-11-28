@@ -1,0 +1,702 @@
+[
+    {
+        "ranking": "1",
+        "title": "PANNONIA",
+        "artist": "Desh",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/11/4f/f0114fef-4bef-db9e-6f04-d1b30a6897f5/cover.jpg/80x80bb.webp",
+        "appleID": "pannonia/1756573051"
+    },
+    {
+        "ranking": "2",
+        "title": "EGY/KETTŐ",
+        "artist": "Pogány Induló",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c3/03/99/c303991c-8c06-0a53-0847-c6a1b80721c5/0747973907676_cover.jpg/80x80bb.webp",
+        "appleID": "egykettő/1777089916"
+    },
+    {
+        "ranking": "3",
+        "title": "Die With A Smile",
+        "artist": "Lady Gaga",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
+        "appleID": "die-with-a-smile/1762656732"
+    },
+    {
+        "ranking": "4",
+        "title": "Timeless",
+        "artist": "The Weeknd",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
+        "appleID": "timeless/1770380890"
+    },
+    {
+        "ranking": "5",
+        "title": "Barbi Baba",
+        "artist": "Fehér Krisztián",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/91/84/0891845f-0cc7-aae0-a848-5fcc4d7115f2/cover.jpg/80x80bb.webp",
+        "appleID": "barbi-baba/1781219200"
+    },
+    {
+        "ranking": "6",
+        "title": "Lidokain (feat. ByeAlex és a Slepp)",
+        "artist": "BSW",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/18/23/d7/1823d73a-6c49-9cdc-e818-8f215a9dcd23/cover.jpg/80x80bb.webp",
+        "appleID": "lidokain-feat-byealex-és-a-slepp/1762027374"
+    },
+    {
+        "ranking": "7",
+        "title": "Gyere Kislány (feat. Burai)",
+        "artist": "Fehér Krisztián",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/f3/1e/c8f31efd-ab5a-3a6b-4c6d-63d7be62ce1f/cover.jpg/80x80bb.webp",
+        "appleID": "gyere-kislány-feat-burai/1766681494"
+    },
+    {
+        "ranking": "8",
+        "title": "SUV",
+        "artist": "Desh",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/11/4f/f0114fef-4bef-db9e-6f04-d1b30a6897f5/cover.jpg/80x80bb.webp",
+        "appleID": "suv/1756573054"
+    },
+    {
+        "ranking": "9",
+        "title": "VIDÉKI CSAJSZI",
+        "artist": "T. Danny",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/52/c8/5152c8f7-3c33-b315-748f-be2d404ada88/cover.jpg/80x80bb.webp",
+        "appleID": "vidéki-csajszi/1771830998"
+    },
+    {
+        "ranking": "10",
+        "title": "BAKPAKK",
+        "artist": "Desh",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/9a/08/659a08c0-74b9-6ae4-e136-b8fc50c9e4c4/cover.jpg/80x80bb.webp",
+        "appleID": "bakpakk/1755814354"
+    },
+    {
+        "ranking": "11",
+        "title": "BANDANA",
+        "artist": "KKevin",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/d8/12/62d81236-9fb5-c39d-f179-1e54b8be2ce6/cover.jpg/80x80bb.webp",
+        "appleID": "bandana/1759146242"
+    },
+    {
+        "ranking": "12",
+        "title": "MOKKA",
+        "artist": "Desh",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/11/4f/f0114fef-4bef-db9e-6f04-d1b30a6897f5/cover.jpg/80x80bb.webp",
+        "appleID": "mokka/1756573044"
+    },
+    {
+        "ranking": "13",
+        "title": "díva",
+        "artist": "Dzsúdló",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/94/81/019481a2-5fc4-bdc9-ac1d-41f9f58c2577/cover.jpg/80x80bb.webp",
+        "appleID": "díva/1759414563"
+    },
+    {
+        "ranking": "14",
+        "title": "APT.",
+        "artist": "ROSÉ",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
+        "appleID": "apt/1773452221"
+    },
+    {
+        "ranking": "15",
+        "title": "squabble up",
+        "artist": "Kendrick Lamar",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/28/14/54281424-eece-0935-299d-fdd2ab403f92/24UM1IM28978.rgb.jpg/80x80bb.webp",
+        "appleID": "squabble-up/1781316884"
+    },
+    {
+        "ranking": "16",
+        "title": "tv off (feat. Lefty Gunplay)",
+        "artist": "Kendrick Lamar",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/28/14/54281424-eece-0935-299d-fdd2ab403f92/24UM1IM28978.rgb.jpg/80x80bb.webp",
+        "appleID": "tv-off-feat-lefty-gunplay/1781316952"
+    },
+    {
+        "ranking": "17",
+        "title": "That’s So True",
+        "artist": "Gracie Abrams",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
+        "appleID": "thats-so-true/1773474483"
+    },
+    {
+        "ranking": "18",
+        "title": "BIRDS OF A FEATHER",
+        "artist": "Billie Eilish",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "appleID": "birds-of-a-feather/1739659142"
+    },
+    {
+        "ranking": "19",
+        "title": "Lobby",
+        "artist": "ÉBERKÓMA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d8/cb/50/d8cb5035-3222-05bb-c77f-51ba14d5810e/cover.jpg/80x80bb.webp",
+        "appleID": "lobby/1779276087"
+    },
+    {
+        "ranking": "20",
+        "title": "Ajtó-Ablak",
+        "artist": "Fehér Krisztián",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c3/af/51/c3af51e0-afd5-4ba3-f726-7799b6df4274/cover.jpg/80x80bb.webp",
+        "appleID": "ajtó-ablak/1779276261"
+    },
+    {
+        "ranking": "21",
+        "title": "Pakisztáni/popo",
+        "artist": "Desh",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d4/20/54/d42054eb-fd98-3737-5e65-24e63d9039e6/cover.jpg/80x80bb.webp",
+        "appleID": "pakisztánipopo/1697294508"
+    },
+    {
+        "ranking": "22",
+        "title": "luther",
+        "artist": "Kendrick Lamar",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/28/14/54281424-eece-0935-299d-fdd2ab403f92/24UM1IM28978.rgb.jpg/80x80bb.webp",
+        "appleID": "luther/1781316886"
+    },
+    {
+        "ranking": "23",
+        "title": "PROSECCO",
+        "artist": "KKevin",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/46/37/67/4637678f-6c0a-f287-c058-5a17b10de355/cover.jpg/80x80bb.webp",
+        "appleID": "prosecco/1753740285"
+    },
+    {
+        "ranking": "24",
+        "title": "Rampapapam (feat. Lord Panamo)",
+        "artist": "Desh",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d4/20/54/d42054eb-fd98-3737-5e65-24e63d9039e6/cover.jpg/80x80bb.webp",
+        "appleID": "rampapapam-feat-lord-panamo/1697294280"
+    },
+    {
+        "ranking": "25",
+        "title": "Espresso",
+        "artist": "Sabrina Carpenter",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
+        "appleID": "espresso/1740212434"
+    },
+    {
+        "ranking": "26",
+        "title": "The Door",
+        "artist": "Teddy Swims",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
+        "appleID": "the-door/1691699849"
+    },
+    {
+        "ranking": "27",
+        "title": "SANDELA",
+        "artist": "HENN",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/82/6f/1c826f5b-1f57-d89e-1aa8-db5dc133d013/cover.jpg/80x80bb.webp",
+        "appleID": "sandela/1735967411"
+    },
+    {
+        "ranking": "28",
+        "title": "The Emptiness Machine",
+        "artist": "LINKIN PARK",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/21/cf/6921cff3-7074-118a-ece2-4012450e6c75/093624839811.jpg/80x80bb.webp",
+        "appleID": "the-emptiness-machine/1766137051"
+    },
+    {
+        "ranking": "29",
+        "title": "Rollin'",
+        "artist": "Desh",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0d/f8/ab/0df8ab40-e7ac-2fce-c6de-86259fde8b1d/cover.jpg/80x80bb.webp",
+        "appleID": "rollin/1695906059"
+    },
+    {
+        "ranking": "30",
+        "title": "wacced out murals",
+        "artist": "Kendrick Lamar",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
+        "appleID": "wacced-out-murals/1781270320"
+    },
+    {
+        "ranking": "31",
+        "title": "Oy Lele",
+        "artist": "VZS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c7/ca/c5/c7cac59b-51f5-cdf4-fe57-97b357bbe280/cover.jpg/80x80bb.webp",
+        "appleID": "oy-lele/1772280651"
+    },
+    {
+        "ranking": "32",
+        "title": "C'est la vie",
+        "artist": "ÉBERKÓMA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7f/9b/45/7f9b45d6-9de4-b442-ce93-221e9a062090/cover.jpg/80x80bb.webp",
+        "appleID": "cest-la-vie/1781216141"
+    },
+    {
+        "ranking": "33",
+        "title": "introvertált dal",
+        "artist": "Azahriah",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/94/50/2d/94502db3-e9a3-351b-d97e-1d5a3a0e7239/cover.jpg/80x80bb.webp",
+        "appleID": "introvertált-dal/1671944290"
+    },
+    {
+        "ranking": "34",
+        "title": "Mámor",
+        "artist": "Pogány Induló",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/60/00/54/60005417-d7ff-aa0a-e00f-26a19f318008/0747973884175_cover.jpg/80x80bb.webp",
+        "appleID": "mámor/1728901619"
+    },
+    {
+        "ranking": "35",
+        "title": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
+        "artist": "Stromae",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/cf/11/54cf11ab-ac8b-587c-d98f-ac491277ae97/00198704145971_Cover.jpg/80x80bb.webp",
+        "appleID": "ma-meilleure-ennemie-from-the-series-arcane-league-of-legends/1767032201"
+    },
+    {
+        "ranking": "36",
+        "title": "Strawberry",
+        "artist": "Desh",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e9/75/1f/e9751f4a-d77a-e81a-1783-489ac5d91584/cover.jpg/80x80bb.webp",
+        "appleID": "strawberry/1743731871"
+    },
+    {
+        "ranking": "37",
+        "title": "Papa",
+        "artist": "Desh",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4a/bf/52/4abf5243-9768-5a59-8214-2fc0e0e99132/cover.jpg/80x80bb.webp",
+        "appleID": "papa/1649169624"
+    },
+    {
+        "ranking": "38",
+        "title": "Voodoo Baba",
+        "artist": "Manuel",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/8a/5e/8c8a5e64-8a02-8395-8be3-defcb4d97596/cover.jpg/80x80bb.webp",
+        "appleID": "voodoo-baba/1741516967"
+    },
+    {
+        "ranking": "39",
+        "title": "São Paulo",
+        "artist": "The Weeknd",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/4a/64/934a64d3-2665-72ef-e5b4-29d61fd3707a/24UM1IM21420.rgb.jpg/80x80bb.webp",
+        "appleID": "são-paulo/1776914757"
+    },
+    {
+        "ranking": "40",
+        "title": "Úgy Hiszem",
+        "artist": "Pogány Induló",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/60/00/54/60005417-d7ff-aa0a-e00f-26a19f318008/0747973884175_cover.jpg/80x80bb.webp",
+        "appleID": "úgy-hiszem/1728901610"
+    },
+    {
+        "ranking": "41",
+        "title": "SENKI NEM SZÓL RÁNK",
+        "artist": "Bruno X Spacc",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a6/86/3d/a6863d3a-f540-26f1-69f6-05ed6997edef/cover.jpg/80x80bb.webp",
+        "appleID": "senki-nem-szól-ránk/1774721382"
+    },
+    {
+        "ranking": "42",
+        "title": "3korty",
+        "artist": "Azahriah",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5d/33/26/5d33260b-3982-477c-0adf-b0090f5a09b3/cover.jpg/80x80bb.webp",
+        "appleID": "3korty/1682295650"
+    },
+    {
+        "ranking": "43",
+        "title": "SÍRTÁNC",
+        "artist": "Ekhoe",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/57/5f/d6575f1f-f9b0-3626-97da-22e40beb8dcf/0747973910638_cover.jpg/80x80bb.webp",
+        "appleID": "sírtánc/1780351647"
+    },
+    {
+        "ranking": "44",
+        "title": "hey now (feat. Dody6)",
+        "artist": "Kendrick Lamar",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
+        "appleID": "hey-now-feat-dody6/1781270328"
+    },
+    {
+        "ranking": "45",
+        "title": "Lose Control",
+        "artist": "Teddy Swims",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
+        "appleID": "lose-control/1691699836"
+    },
+    {
+        "ranking": "46",
+        "title": "WILDFLOWER",
+        "artist": "Billie Eilish",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "appleID": "wildflower/1739659144"
+    },
+    {
+        "ranking": "47",
+        "title": "CHOCO MOMMY",
+        "artist": "Desh",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/11/4f/f0114fef-4bef-db9e-6f04-d1b30a6897f5/cover.jpg/80x80bb.webp",
+        "appleID": "choco-mommy/1756573047"
+    },
+    {
+        "ranking": "48",
+        "title": "Nekem ez a fless",
+        "artist": "HENN",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/a2/5e/bea25e9d-7bbe-492e-d4ec-86603251f227/cover.jpg/80x80bb.webp",
+        "appleID": "nekem-ez-a-fless/1770951447"
+    },
+    {
+        "ranking": "49",
+        "title": "reincarnated",
+        "artist": "Kendrick Lamar",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/28/14/54281424-eece-0935-299d-fdd2ab403f92/24UM1IM28978.rgb.jpg/80x80bb.webp",
+        "appleID": "reincarnated/1781316951"
+    },
+    {
+        "ranking": "50",
+        "title": "szosziazi",
+        "artist": "Azahriah",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f4/66/31/f46631af-fbb9-075b-65d0-6ed50b10dd41/cover.jpg/80x80bb.webp",
+        "appleID": "szosziazi/1674686182"
+    },
+    {
+        "ranking": "51",
+        "title": "Székelykapu (feat. Parno Graszt)",
+        "artist": "Pogány Induló",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/60/00/54/60005417-d7ff-aa0a-e00f-26a19f318008/0747973884175_cover.jpg/80x80bb.webp",
+        "appleID": "székelykapu-feat-parno-graszt/1728901623"
+    },
+    {
+        "ranking": "52",
+        "title": "Too Sweet",
+        "artist": "Hozier",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/12/e3/a412e390-51aa-6625-9adc-d502bf1c349f/196872373004.jpg/80x80bb.webp",
+        "appleID": "too-sweet/1763072931"
+    },
+    {
+        "ranking": "53",
+        "title": "SZÍVTIPRÓ",
+        "artist": "T. Danny",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3f/47/2b/3f472bb8-8a5c-6b27-bfec-7e7be8a7b092/cover.jpg/80x80bb.webp",
+        "appleID": "szívtipró/1746516075"
+    },
+    {
+        "ranking": "54",
+        "title": "Heavy Is the Crown",
+        "artist": "LINKIN PARK",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/21/cf/6921cff3-7074-118a-ece2-4012450e6c75/093624839811.jpg/80x80bb.webp",
+        "appleID": "heavy-is-the-crown/1766137053"
+    },
+    {
+        "ranking": "55",
+        "title": "Tiara",
+        "artist": "Manuel",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c7/02/f7/c702f76b-8b8f-5253-9223-645d97e6086a/cover.jpg/80x80bb.webp",
+        "appleID": "tiara/1731350805"
+    },
+    {
+        "ranking": "56",
+        "title": "Last Christmas (Single Version)",
+        "artist": "Wham!",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/eb/4a/f9/eb4af984-fc68-56ab-7b89-1d070c04e1dd/5099765318524.jpg/80x80bb.webp",
+        "appleID": "last-christmas-single-version/202117984"
+    },
+    {
+        "ranking": "57",
+        "title": "EZ AZ ÁRA",
+        "artist": "Moriones",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cb/09/d1/cb09d16d-444e-1818-41ac-9af5c2f1f4e7/5999575531376.jpg/80x80bb.webp",
+        "appleID": "ez-az-ára/1760796655"
+    },
+    {
+        "ranking": "58",
+        "title": "Sailor Song",
+        "artist": "Gigi Perez",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/d4/96/25d49699-acc0-401f-a7cc-d7697339a474/24UM1IM03751.rgb.jpg/80x80bb.webp",
+        "appleID": "sailor-song/1770187510"
+    },
+    {
+        "ranking": "59",
+        "title": "man at the garden",
+        "artist": "Kendrick Lamar",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
+        "appleID": "man-at-the-garden/1781270326"
+    },
+    {
+        "ranking": "60",
+        "title": "Afro Beat",
+        "artist": "Pogány Induló",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0a/80/71/0a8071e8-3f35-6769-e422-fda4fb0e7ec2/0747973883246_cover.jpg/80x80bb.webp",
+        "appleID": "afro-beat/1726939069"
+    },
+    {
+        "ranking": "61",
+        "title": "Kukásautó",
+        "artist": "Desh",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e1/ce/d6/e1ced644-bc1e-fb29-fb75-6588580a3de4/cover.jpg/80x80bb.webp",
+        "appleID": "kukásautó/1597909838"
+    },
+    {
+        "ranking": "62",
+        "title": "heart pt. 6",
+        "artist": "Kendrick Lamar",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
+        "appleID": "heart-pt-6/1781270549"
+    },
+    {
+        "ranking": "63",
+        "title": "All I Want for Christmas Is You",
+        "artist": "Mariah Carey",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/80x80bb.webp",
+        "appleID": "all-i-want-for-christmas-is-you/585972803"
+    },
+    {
+        "ranking": "64",
+        "title": "Mind1",
+        "artist": "Azahriah",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/46/e3/d2/46e3d266-4d15-b7d4-bb6b-0f58e29d8ece/cover.jpg/80x80bb.webp",
+        "appleID": "mind1/1568540403"
+    },
+    {
+        "ranking": "65",
+        "title": "Follow You",
+        "artist": "Noizy",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/28/45/f8/2845f8f1-d754-a8d8-69b1-7aecf8c11d01/24UM1IM17511.rgb.jpg/80x80bb.webp",
+        "appleID": "follow-you/1776618465"
+    },
+    {
+        "ranking": "66",
+        "title": "Gyufa a lángon",
+        "artist": "ÉBERKÓMA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/12/62/b612622a-f27f-1121-a45e-4c8404f1ae91/cover.jpg/80x80bb.webp",
+        "appleID": "gyufa-a-lángon/1780637242"
+    },
+    {
+        "ranking": "67",
+        "title": "Beautiful Things",
+        "artist": "Benson Boone",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
+        "appleID": "beautiful-things/1724488124"
+    },
+    {
+        "ranking": "68",
+        "title": "Várnék",
+        "artist": "Dzsúdló",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/92/fe/10/92fe10d7-0b47-e5e0-8d5b-44f1de347be4/cover.jpg/80x80bb.webp",
+        "appleID": "várnék/1637668527"
+    },
+    {
+        "ranking": "69",
+        "title": "A Bar Song (Tipsy)",
+        "artist": "Shaboozey",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/b5/bc/97b5bca2-6238-2421-4f0d-1f7a39d5d9d4/197342550925_cover.jpg/80x80bb.webp",
+        "appleID": "a-bar-song-tipsy/1737085899"
+    },
+    {
+        "ranking": "70",
+        "title": "Not Like Us",
+        "artist": "Kendrick Lamar",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
+        "appleID": "not-like-us/1744776167"
+    },
+    {
+        "ranking": "71",
+        "title": "Miafasz",
+        "artist": "Azahriah",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/62/af/f8/62aff82c-9196-eac6-c829-614f043ba09d/cover.jpg/80x80bb.webp",
+        "appleID": "miafasz/1624498013"
+    },
+    {
+        "ranking": "72",
+        "title": "Taste",
+        "artist": "Sabrina Carpenter",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+        "appleID": "taste/1750307079"
+    },
+    {
+        "ranking": "73",
+        "title": "Good Luck, Babe!",
+        "artist": "Chappell Roan",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/80x80bb.webp",
+        "appleID": "good-luck-babe/1737497080"
+    },
+    {
+        "ranking": "74",
+        "title": "peekaboo (feat. AzChike)",
+        "artist": "Kendrick Lamar",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
+        "appleID": "peekaboo-feat-azchike/1781270545"
+    },
+    {
+        "ranking": "75",
+        "title": "Two Faced",
+        "artist": "LINKIN PARK",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/21/cf/6921cff3-7074-118a-ece2-4012450e6c75/093624839811.jpg/80x80bb.webp",
+        "appleID": "two-faced/1766137063"
+    },
+    {
+        "ranking": "76",
+        "title": "Stargazing",
+        "artist": "Myles Smith",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/c3/a5/bfc3a56d-a51b-69cb-cdfc-26ee63631cb8/196872051872.jpg/80x80bb.webp",
+        "appleID": "stargazing/1742275653"
+    },
+    {
+        "ranking": "77",
+        "title": "gloria",
+        "artist": "Kendrick Lamar",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
+        "appleID": "gloria/1781270555"
+    },
+    {
+        "ranking": "78",
+        "title": "dodger blue (feat. Wallie the Sensei, Siete7x & Roddy Ricch)",
+        "artist": "Kendrick Lamar",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/28/14/54281424-eece-0935-299d-fdd2ab403f92/24UM1IM28978.rgb.jpg/80x80bb.webp",
+        "appleID": "dodger-blue-feat-wallie-the-sensei-siete7x-roddy-ricch/1781316953"
+    },
+    {
+        "ranking": "79",
+        "title": "CARTIER",
+        "artist": "KKevin",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/46/37/67/4637678f-6c0a-f287-c058-5a17b10de355/cover.jpg/80x80bb.webp",
+        "appleID": "cartier/1753740267"
+    },
+    {
+        "ranking": "80",
+        "title": "Cut the Bridge",
+        "artist": "LINKIN PARK",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/21/cf/6921cff3-7074-118a-ece2-4012450e6c75/093624839811.jpg/80x80bb.webp",
+        "appleID": "cut-the-bridge/1766137052"
+    },
+    {
+        "ranking": "81",
+        "title": "Pullup",
+        "artist": "Azahriah",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/62/af/f8/62aff82c-9196-eac6-c829-614f043ba09d/cover.jpg/80x80bb.webp",
+        "appleID": "pullup/1624498454"
+    },
+    {
+        "ranking": "82",
+        "title": "i like the way you kiss me",
+        "artist": "Artemas",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/1e/ac/b61eaceb-b493-0909-abfe-0930b7e53d9f/810129998306.jpg/80x80bb.webp",
+        "appleID": "i-like-the-way-you-kiss-me/1736426869"
+    },
+    {
+        "ranking": "83",
+        "title": "I Adore You (feat. Daecolm)",
+        "artist": "HUGEL",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/df/e6/1ddfe6ea-a5f2-2c59-b574-b56ef0379096/24UMGIM74086.rgb.jpg/80x80bb.webp",
+        "appleID": "i-adore-you-feat-daecolm/1756335935"
+    },
+    {
+        "ranking": "84",
+        "title": "Over Each Other",
+        "artist": "LINKIN PARK",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/21/cf/6921cff3-7074-118a-ece2-4012450e6c75/093624839811.jpg/80x80bb.webp",
+        "appleID": "over-each-other/1766137055"
+    },
+    {
+        "ranking": "85",
+        "title": "FE!N (feat. Playboi Carti)",
+        "artist": "Travis Scott",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/7d/b0/097db06f-8403-3cf7-7510-139e570ca66b/196871341882.jpg/80x80bb.webp",
+        "appleID": "fen-feat-playboi-carti/1699712651"
+    },
+    {
+        "ranking": "86",
+        "title": "BAGIRA",
+        "artist": "Beton.Hofi",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/61/57/f8/6157f83c-f1ed-04c7-e895-ec413434747b/22UMGIM90366.rgb.jpg/80x80bb.webp",
+        "appleID": "bagira/1639548395"
+    },
+    {
+        "ranking": "87",
+        "title": "The Sound of Silence (CYRIL Remix)",
+        "artist": "Disturbed",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3f/be/33/3fbe339b-6da1-7bdc-1083-0345a1aa40f0/5021732450494.jpg/80x80bb.webp",
+        "appleID": "the-sound-of-silence-cyril-remix/1760378209"
+    },
+    {
+        "ranking": "88",
+        "title": "Snowman",
+        "artist": "Sia",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/85/c3/21/85c32113-1c4c-571c-7602-88f568d8081c/075679861016.jpg/80x80bb.webp",
+        "appleID": "snowman/1440098017"
+    },
+    {
+        "ranking": "89",
+        "title": "Mióta elhagytál (Nem vagyok álmos)",
+        "artist": "BSW",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bd/4e/be/bd4ebef0-fcd1-8ee5-ad94-b66109476269/cover.jpg/80x80bb.webp",
+        "appleID": "mióta-elhagytál-nem-vagyok-álmos/1600501223"
+    },
+    {
+        "ranking": "90",
+        "title": "12+1 (feat. Ekhoe & Ótvar Pestis)",
+        "artist": "Pogány Induló",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0a/80/71/0a8071e8-3f35-6769-e422-fda4fb0e7ec2/0747973883246_cover.jpg/80x80bb.webp",
+        "appleID": "121-feat-ekhoe-ótvar-pestis/1726939075"
+    },
+    {
+        "ranking": "91",
+        "title": "egyszerű",
+        "artist": "Dzsúdló",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/94/81/019481a2-5fc4-bdc9-ac1d-41f9f58c2577/cover.jpg/80x80bb.webp",
+        "appleID": "egyszerű/1759414556"
+    },
+    {
+        "ranking": "92",
+        "title": "four moods",
+        "artist": "Azahriah",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e9/23/d4/e923d475-9d36-2d19-5aaf-1568b1bfae3d/cover.jpg/80x80bb.webp",
+        "appleID": "four-moods/1638705075"
+    },
+    {
+        "ranking": "93",
+        "title": "Topshit (feat. Bruno X Spacc)",
+        "artist": "KKevin",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/a8/e2/64/a8e264e1-517c-2255-faea-1d54dff9c8d0/cover.jpg/80x80bb.webp",
+        "appleID": "topshit-feat-bruno-x-spacc/1651428845"
+    },
+    {
+        "ranking": "94",
+        "title": "Gengetek ellen",
+        "artist": "Pogány Induló",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/60/00/54/60005417-d7ff-aa0a-e00f-26a19f318008/0747973884175_cover.jpg/80x80bb.webp",
+        "appleID": "gengetek-ellen/1728901616"
+    },
+    {
+        "ranking": "95",
+        "title": "Please Please Please",
+        "artist": "Sabrina Carpenter",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+        "appleID": "please-please-please/1750307080"
+    },
+    {
+        "ranking": "96",
+        "title": "gnx (feat. Hitta J3, YoungThreat & Peysoh)",
+        "artist": "Kendrick Lamar",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
+        "appleID": "gnx-feat-hitta-j3-youngthreat-peysoh/1781270554"
+    },
+    {
+        "ranking": "97",
+        "title": "It's Beginning To Look a Lot Like Christmas",
+        "artist": "Michael Bublé",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/37/2d/6e/372d6e16-7a32-91f0-1a03-0f2d9dbe389e/093624942788.jpg/80x80bb.webp",
+        "appleID": "its-beginning-to-look-a-lot-like-christmas/669854831"
+    },
+    {
+        "ranking": "98",
+        "title": "lánc",
+        "artist": "Dzsúdló",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/94/81/019481a2-5fc4-bdc9-ac1d-41f9f58c2577/cover.jpg/80x80bb.webp",
+        "appleID": "lánc/1759414551"
+    },
+    {
+        "ranking": "99",
+        "title": "Good Things Go",
+        "artist": "LINKIN PARK",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/21/cf/6921cff3-7074-118a-ece2-4012450e6c75/093624839811.jpg/80x80bb.webp",
+        "appleID": "good-things-go/1766137066"
+    },
+    {
+        "ranking": "100",
+        "title": "Tisztán iszom",
+        "artist": "Azahriah",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/62/af/f8/62aff82c-9196-eac6-c829-614f043ba09d/cover.jpg/80x80bb.webp",
+        "appleID": "tisztán-iszom/1624497998"
+    }
+]
