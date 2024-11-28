@@ -41,7 +41,7 @@ jobs:
         run: |
           git config --global user.email "webstoryboy@naver.com"
           git config --global user.name "websseu"
-          git add billboard/**/*.json korea/**/*.json apple/**/*.json spotify/**/*.json
+          git add apple/**/*.json global/**/*.json korea/**/*.json spotify/**/*.json youtube/**/*.json
           git commit -m "차트 수집 데이터 업데이트 - $(date +"%Y-%m-%d")" || echo "No changes to commit"
 
       # 6. 변경사항 푸시
