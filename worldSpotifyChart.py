@@ -15,7 +15,8 @@ SPOTIFY_USERNAME = "richclub9@naver.com"
 SPOTIFY_PASSWORD = "Forever8879!s"
 
 # 이틀 전 날짜 계산
-two_days_ago = (datetime.now() - timedelta(days=2)).strftime("%Y-%m-%d")
+# two_days_ago = (datetime.now() - timedelta(days=2)).strftime("%Y-%m-%d")
+two_days_ago = "latest"
 
 # 국가별 URL 설정
 countries = {
