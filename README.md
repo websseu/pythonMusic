@@ -24,12 +24,10 @@ python3 koreaGenieChart.py
 python3 koreaBugsChart.py
 python3 koreaFloChart.py
 python3 koreaVibeChart.py
-
 python3 globalBillboardChart.py
 python3 globalAppleChart.py
 python3 globalYoutubeChart.py
 python3 globalSpotifyChart.py
-
 python3 worldAppleChart.py
 python3 worldYoutubeChart.py
 python3 worldSpotifyChart.py
