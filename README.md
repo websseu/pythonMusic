@@ -32,7 +32,6 @@ python3 worldAppleChart.py
 python3 worldYoutubeChart.py
 python3 worldSpotifyChart.py
 
-
 ```
 
 ## 🇰🇷 한국 뮤직 챠트
