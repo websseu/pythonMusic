@@ -136,7 +136,7 @@ try:
         EC.presence_of_element_located((By.XPATH, "//div[@data-testid='overview-body']"))
     )
     print("차트 페이지로 성공적으로 이동했습니다.")
-    time.sleep(2)
+    time.sleep(5)
 
     # 국가별 데이터 수집
     for country, url in countries.items():

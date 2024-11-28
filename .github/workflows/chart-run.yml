@@ -34,7 +34,9 @@ jobs:
       # 4. 스크립트 실행
       - name: Run Apple Korea Chart script
         run: |
-          python3 globalSpotifyChart.py
+          python3 worldAppleChart.py
+          python3 worldYoutubeChart.py
+          python3 worldSpotifyChart.py
 
       # 5. 생성된 데이터 파일 커밋
       - name: Commit changes
