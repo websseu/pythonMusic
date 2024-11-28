@@ -4,7 +4,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import TimeoutException
-from datetime import datetime
+from datetime import datetime, timedelta
 from bs4 import BeautifulSoup
 import os
 import json
@@ -36,7 +36,7 @@ countries = {
     "costa-rica": f"https://charts.spotify.com/charts/view/regional-cr-daily/{two_days_ago}",
     "czech-republic": f"https://charts.spotify.com/charts/view/regional-cz-daily/{two_days_ago}",
     "denmark": f"https://charts.spotify.com/charts/view/regional-dk-daily/{two_days_ago}",
-    "dominican-republic": f"https://charts.spotify.com/charts/view/regional-do-daily/{two_days_ago}",
+    "dominican Republic": f"https://charts.spotify.com/charts/view/regional-do-daily/{two_days_ago}",
     "ecuador": f"https://charts.spotify.com/charts/view/regional-ec-daily/{two_days_ago}",
     "egypt": f"https://charts.spotify.com/charts/view/regional-eg-daily/{two_days_ago}",
     "el-salvador": f"https://charts.spotify.com/charts/view/regional-sv-daily/{two_days_ago}",
@@ -145,7 +145,7 @@ try:
         try:
             # 국가별 폴더 및 파일 경로 설정
             folder_path = f"spotify/{country}"
-            file_name = f"{folder_path}/{country}Top100_{two_days_ago}.json"
+            file_name = f"{folder_path}/{country}Top100_{current_date}.json"
 
             # 폴더 생성
             os.makedirs(folder_path, exist_ok=True)
@@ -223,7 +223,7 @@ try:
 
             # JSON 파일로 저장
             with open(file_name, "w", encoding="utf-8") as f:
-                json.dump(current_date, f, ensure_ascii=False, indent=4)
+                json.dump(chart_data, f, ensure_ascii=False, indent=4)
 
             print(f"{country} 차트 데이터가 {file_name}에 저장되었습니다.")
 
