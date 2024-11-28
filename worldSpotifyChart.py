@@ -4,7 +4,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import TimeoutException
-from datetime import datetime, timedelta
+from datetime import datetime
 from bs4 import BeautifulSoup
 import os
 import json
@@ -15,7 +15,6 @@ SPOTIFY_USERNAME = "richclub9@naver.com"
 SPOTIFY_PASSWORD = "Forever8879!s"
 
 # 이틀 전 날짜 계산
-# two_days_ago = (datetime.now() - timedelta(days=2)).strftime("%Y-%m-%d")
 current_date = datetime.now().strftime("%Y-%m-%d")
 two_days_ago = "latest"
 

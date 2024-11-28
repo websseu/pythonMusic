@@ -28,13 +28,13 @@ peak = soup.select(".o-chart-results-list-row-container ul > li:nth-child(4) > u
 weeks = soup.select(".o-chart-results-list-row-container ul > li:nth-child(4) > ul > li:nth-child(6) > span")
 
 # 데이터 저장
-rankings = [r.text.strip() for r in ranking]
-titles = [t.text.strip() for t in title]
-artists = [a.text.strip() for a in artist]
-images = [img.get('data-src') or img.get('data-lazy-src') or img.get('src') for img in image]
-prev_positions = [p.text.strip() if p else "N/A" for p in prev]  # 지난주 순위
-peak_positions = [p.text.strip() if p else "N/A" for p in peak]  # 최고 순위
-weeks_on_chart = [w.text.strip() if w else "N/A" for w in weeks]  # 차트 유지 기간
+rankings = [r.text.strip() for r in ranking[:100]]
+titles = [t.text.strip() for t in title[:100]]
+artists = [a.text.strip() for a in artist[:100]]
+images = [img.get('data-src') or img.get('data-lazy-src') or img.get('src') for img in image[:100]]
+prev_positions = [p.text.strip() if p else "N/A" for p in prev[:100]]  # 지난주 순위
+peak_positions = [p.text.strip() if p else "N/A" for p in peak[:100]]  # 최고 순위
+weeks_on_chart = [w.text.strip() if w else "N/A" for w in weeks[:100]]  
 
 # 데이터 프레임 생성
 chart_data = []
