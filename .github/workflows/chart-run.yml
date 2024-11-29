@@ -60,6 +60,34 @@ jobs:
           git add korea/**/*.json
           git commit -m "Melon Chart Updated - $(date +"%Y-%m-%d")" || echo "No changes to commit"
 
+          python3 koreaAppleChart.py
+          git add korea/**/*.json
+          git commit -m "Melon Chart Updated - $(date +"%Y-%m-%d")" || echo "No changes to commit"
+
+          python3 koreaYoutubeChart.py
+          git add korea/**/*.json
+          git commit -m "Melon Chart Updated - $(date +"%Y-%m-%d")" || echo "No changes to commit"
+
+          python3 koreaSpotifyChart.py
+          git add korea/**/*.json
+          git commit -m "Melon Chart Updated - $(date +"%Y-%m-%d")" || echo "No changes to commit"
+
+          python3 globalBillboardChart.py
+          git add global/**/*.json
+          git commit -m "Billboard Chart Updated - $(date +"%Y-%m-%d")" || echo "No changes to commit"
+
+          python3 globalAppleChart.py
+          git add global/**/*.json
+          git commit -m "Apple Chart Updated - $(date +"%Y-%m-%d")" || echo "No changes to commit"
+
+          python3 globalYoutubeChart.py
+          git add global/**/*.json
+          git commit -m "Youtube Chart Updated - $(date +"%Y-%m-%d")" || echo "No changes to commit"
+
+          python3 globalSpotifyChart.py
+          git add global/**/*.json
+          git commit -m "Spotify Chart Updated - $(date +"%Y-%m-%d")" || echo "No changes to commit"
+
       # 6. 변경사항 푸시
       - name: Push changes
         uses: ad-m/github-push-action@master
