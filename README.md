@@ -20,7 +20,6 @@ python3 koreaAppleChart.py
 python3 koreaSpotifyChart.py
 python3 koreaYoutubeChart.py
 python3 koreaMelonChart.py
-
 python3 koreaGenieChart.py
 python3 koreaBugsChart.py
 python3 koreaFloChart.py
@@ -30,9 +29,12 @@ python3 globalBillboardChart.py
 python3 globalAppleChart.py
 python3 globalYoutubeChart.py
 python3 globalSpotifyChart.py
+
 python3 worldAppleChart.py
 python3 worldYoutubeChart.py
 python3 worldSpotifyChart.py
+
+#1 모든 유튜브 파일을 하나로 정리 youtubeChange.json
 
 ```
 
