@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: ["main"]
   schedule:
-    - cron: "0 16 * * *"
+    - cron: "0 22 * * *"
 
 permissions:
   contents: write
@@ -32,31 +32,15 @@ jobs:
           pip install -r requirements.txt || pip install requests beautifulsoup4 lxml pandas selenium webdriver_manager
 
       # 4. 스크립트 실행
-      - name: Run Apple Korea Chart script
+      - name: Run and Commit Melon Korea Chart
         run: |
-          python3 koreaAppleChart.py
-          python3 koreaSpotifyChart.py
-          python3 koreaYoutubeChart.py
           python3 koreaMelonChart.py
           python3 koreaGenieChart.py
           python3 koreaBugsChart.py
           python3 koreaFloChart.py
           python3 koreaVibeChart.py
-          python3 globalBillboardChart.py
-          python3 globalAppleChart.py
-          python3 globalYoutubeChart.py
-          python3 globalSpotifyChart.py
-          python3 worldAppleChart.py 
-          python3 worldYoutubeChart.py
-          python3 worldSpotifyChart.py
-
-      # 5. 생성된 데이터 파일 커밋
-      - name: Commit changes
-        run: |
-          git config --global user.email "webstoryboy@naver.com"
-          git config --global user.name "websseu"
-          git add apple/**/*.json global/**/*.json korea/**/*.json spotify/**/*.json youtube/**/*.json
-          git commit -m "차트 수집 데이터 업데이트 - $(date +"%Y-%m-%d")" || echo "No changes to commit"
+          git add korea/**/*.json
+          git commit -m "Melon Korea Chart Updated - $(date +"%Y-%m-%d")" || echo "No changes to commit"
 
       # 6. 변경사항 푸시
       - name: Push changes

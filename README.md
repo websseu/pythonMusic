@@ -20,10 +20,12 @@ python3 koreaAppleChart.py
 python3 koreaSpotifyChart.py
 python3 koreaYoutubeChart.py
 python3 koreaMelonChart.py
+
 python3 koreaGenieChart.py
 python3 koreaBugsChart.py
 python3 koreaFloChart.py
 python3 koreaVibeChart.py
+
 python3 globalBillboardChart.py
 python3 globalAppleChart.py
 python3 globalYoutubeChart.py

@@ -12,7 +12,7 @@ import time
 
 # Spotify 로그인 정보
 SPOTIFY_USERNAME = "richclub9@naver.com"
-SPOTIFY_PASSWORD = "Forever8879!s"
+SPOTIFY_PASSWORD = "Forever8888!s"
 
 # 오늘 날짜 계산
 today = datetime.now().strftime("%Y-%m-%d")
