@@ -16,25 +16,18 @@ https://websseu.github.io/pythonMusic/korea/vibe/vibeTop100_2024-11-06.json
 ```
 
 ```
-python3 koreaAppleChart.py
-python3 koreaSpotifyChart.py
-python3 koreaYoutubeChart.py
-python3 koreaMelonChart.py
-python3 koreaGenieChart.py
 python3 koreaBugsChart.py
 python3 koreaFloChart.py
+python3 koreaGenieChart.py
+python3 koreaMelonChart.py
 python3 koreaVibeChart.py
-
-python3 globalBillboardChart.py
-python3 globalAppleChart.py
-python3 globalYoutubeChart.py
-python3 globalSpotifyChart.py
 
 python3 worldAppleChart.py
 python3 worldYoutubeChart.py
 python3 worldSpotifyChart.py
 
-#1 모든 유튜브 파일을 하나로 정리 youtubeChange.json
+#1 3개의 아이디를 하나의 아이디로(koreaMusicList.json) 정리 zipKoreaMusicList.json
+#2 한국 노래랑 비교후 3개의 아이디 추가 zipKoreaMusicAdd.json
 
 ```
 

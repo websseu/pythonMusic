@@ -40,6 +40,30 @@ jobs:
       # 5. 스크립트 실행 및 커밋
       - name: Run Scripts and Commit Changes
         run: |
+          python3 koreaGenieChart.py
+          python3 koreaBugsChart.py
+          python3 koreaFloChart.py
+          python3 koreaVibeChart.py
+          python3 koreaMelonChart.py
+          git add korea/**/*.json
+          git commit -m "Melon Chart Updated - $(date +"%Y-%m-%d")" || echo "No changes to commit"
+
+          python3 worldAppleChart.py
+          git add apple/**/*.json
+          git commit -m "Apple Chart Updated - $(date +"%Y-%m-%d")" || echo "No changes to commit"
+
+          python3 worldYoutubeChart.py
+          git add youtube/**/*.json
+          git commit -m "Youtube Chart Updated - $(date +"%Y-%m-%d")" || echo "No changes to commit"
+
+          python3 worldSpotifyChart.py
+          git add spotify/**/*.json
+          git commit -m "Youtube Chart Updated - $(date +"%Y-%m-%d")" || echo "No changes to commit"
+
+          zipKoreaMusicList.py
+          zipKoreaMusicAdd.py
+          git add korea/**/*.json
+          git commit -m "Korea Chart Updated - $(date +"%Y-%m-%d")" || echo "No changes to commit"
 
       # 6. 변경사항 푸시
       - name: Push changes
