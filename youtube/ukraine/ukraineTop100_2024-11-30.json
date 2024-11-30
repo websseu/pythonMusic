@@ -1,0 +1,1008 @@
+[
+    {
+        "ranking": "1",
+        "title": "Врубай",
+        "artist": "Parfeniuk",
+        "image": "https://lh3.googleusercontent.com/QaFO7YMyyFn0WWfgFJiMcDAluN9dDg7QXHg_qHLZVsbleK_PKKl6LPV5oPpocDsoLxRVd2op43piqYo=w180-h180-l90-rj",
+        "prev": "1",
+        "streak": "3",
+        "streams": "1,631,166",
+        "youtubeID": "8M9p8fiJ-o8"
+    },
+    {
+        "ranking": "2",
+        "title": "Акація",
+        "artist": "Chico & Qatoshi & paashee",
+        "image": "https://lh3.googleusercontent.com/T-gqvhKJpgFlb8V_I_8Pj2Uy_swKzVSR9LAHhOJwXhWxRapI4iOmm8nOYcMhrnr4rYg0k2agrdYpdxc=w180-h180-l90-rj",
+        "prev": "53",
+        "streak": "2",
+        "streams": "844,854",
+        "youtubeID": "lJT4rOOLM-E"
+    },
+    {
+        "ranking": "3",
+        "title": "Нагадай",
+        "artist": "Domiy",
+        "image": "https://lh3.googleusercontent.com/L0xn9mxukkfJ8Oim-plZ5_0-zZZl_Q5NwJ6Zn9pOCwpzEIy8KNbtlgzvvM_iNvFefCqWusg13tntkPXwgw=w180-h180-l90-rj",
+        "prev": "2",
+        "streak": "49",
+        "streams": "839,209",
+        "youtubeID": "BWK7veYhX0k"
+    },
+    {
+        "ranking": "4",
+        "title": "Барабан",
+        "artist": "Artem Pivovarov & Klavdia Petrivna",
+        "image": "https://lh3.googleusercontent.com/uHzDemsOfA1c8nnNwPVoy1BMYOh8sp3LCYhVChdxSG682KxJHQBFCXsUJxNnw0MFEwkTggBYkSFSJ_gzgA=w180-h180-l90-rj",
+        "prev": "3",
+        "streak": "31",
+        "streams": "778,270",
+        "youtubeID": "6_g1OBNtCiY"
+    },
+    {
+        "ranking": "5",
+        "title": "Аромат",
+        "artist": "kavabanga Depo kolibri",
+        "image": "https://lh3.googleusercontent.com/0XzH0JTBxntrHv55o_DShvPCLJJx5Gt8T8FXC3tK1zgax4coPbbWK9ktqd9YHdcqNN5kgY9-iOlMvbU=w180-h180-l90-rj",
+        "prev": "5",
+        "streak": "14",
+        "streams": "730,583",
+        "youtubeID": "A2nody1T2g8"
+    },
+    {
+        "ranking": "6",
+        "title": "Не пройде",
+        "artist": "Domiy & SHUMEI",
+        "image": "https://lh3.googleusercontent.com/EwrtUnFXR31OKlnrDWBWf3La_v934-IJiK2NDnnL9Jpg9EYiNBG8U4g5Er7ln579NYK_VwAC8_jKo1U3=w180-h180-l90-rj",
+        "prev": "4",
+        "streak": "4",
+        "streams": "691,232",
+        "youtubeID": "Ow6UYC8eXoI"
+    },
+    {
+        "ranking": "7",
+        "title": "Покохай мене",
+        "artist": "Chico & Qatoshi & 100лиця",
+        "image": "https://lh3.googleusercontent.com/00tWj9IinznCK0XmX5YsTonrZEryHAbseoogRUmj2dV04nyOuEcJjjw327UEciWQp3m56NjVGgqce1h0=w180-h180-l90-rj",
+        "prev": "9",
+        "streak": "54",
+        "streams": "655,252",
+        "youtubeID": "QEJFnsdHdec"
+    },
+    {
+        "ranking": "8",
+        "title": "Не лякай",
+        "artist": "OSTY & Klavdia Petrivna",
+        "image": "https://lh3.googleusercontent.com/Incc2UhNNVwP9UrUIgk_-lBhx95y_pECJ0qrcSliH7yQCm4ERwlOpkega2jIdJxJdMQdxo9ciSzk4Hm0=w180-h180-l90-rj",
+        "prev": "6",
+        "streak": "11",
+        "streams": "646,976",
+        "youtubeID": "_fD2YDPsb8A"
+    },
+    {
+        "ranking": "9",
+        "title": "Асфальт",
+        "artist": "Jakone & Kiliana",
+        "image": "https://lh3.googleusercontent.com/j-FrnmV5CwY3-VVzCz3FQFJuqN-pOQMScgCVZj_2ZW6fg3sy7W3TFmK9bByxY5qRNk8fgkjfiZR7yt8b=w180-h180-l90-rj",
+        "prev": "10",
+        "streak": "21",
+        "streams": "588,053",
+        "youtubeID": "1ll3FvVk6BA"
+    },
+    {
+        "ranking": "10",
+        "title": "Без тебе",
+        "artist": "Максим Бородін & ZLATA OGNEVICH",
+        "image": "https://lh3.googleusercontent.com/IOCQoYgY0XHoP-7AymgZA5nLsY04X4wAe3c3_Kxgl2iDYskUW1K3P4RNzdBuKv41KYl7I0Bbz8wVpr2w=w180-h180-l90-rj",
+        "prev": "8",
+        "streak": "14",
+        "streams": "572,105",
+        "youtubeID": "MzYdzxSiSGU"
+    },
+    {
+        "ranking": "11",
+        "title": "Хочеш",
+        "artist": "DIBROVA & Олена Тополя",
+        "image": "https://lh3.googleusercontent.com/mo7RX2OsiS1T6tG_G39orFS4WCy8NAjo6H2SVOsnCPc22Ae7sgrQbX8Wt4oZ6gSMB2hH7EPah5Fyz4k1JQ=w180-h180-l90-rj",
+        "prev": "7",
+        "streak": "24",
+        "streams": "557,487",
+        "youtubeID": "zU-OlrbZSCs"
+    },
+    {
+        "ranking": "12",
+        "title": "А що?",
+        "artist": "MONATIK",
+        "image": "https://lh3.googleusercontent.com/qBPNx8_jOoZBfxbqin4y0sGgRQR8PkxEOpIzVQ6YmmMd-vu0Yrfem5qID4yImlHFT8PPMsJhE7HcPD0cNg=w180-h180-l90-rj",
+        "prev": "11",
+        "streak": "27",
+        "streams": "515,742",
+        "youtubeID": "3MrTQz8Q-nY"
+    },
+    {
+        "ranking": "13",
+        "title": "APT.",
+        "artist": "ROSÉ & Bruno Mars",
+        "image": "https://lh3.googleusercontent.com/fzTTy3sCa32fBVqafRTKZn_z70NXVxC0jj05kIMgHIOyN4d0I5AudOYuTE4ov7cLiwN5wOpOS8OwZjBuuQ=w180-h180-l90-rj",
+        "prev": "12",
+        "streak": "5",
+        "streams": "504,752",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "5vNRhkKd0yEAg8suGBpjeY"
+    },
+    {
+        "ranking": "14",
+        "title": "Люби мене",
+        "artist": "SKYLERR & Agape",
+        "image": "https://lh3.googleusercontent.com/TFYwTXUR-Y9lSd02Yeh5pvU5U09utR0QEOIGsvXs4oIoHHUJA76QjKRmiXQ2eH9U-HFNYZxnnxN-3l8=w180-h180-l90-rj",
+        "prev": "13",
+        "streak": "22",
+        "streams": "476,131",
+        "youtubeID": "x5e-zxrTOQQ"
+    },
+    {
+        "ranking": "15",
+        "title": "Забий",
+        "artist": "Wellboy & Parfeniuk",
+        "image": "https://lh3.googleusercontent.com/syKwjfDo4_V9ohaPAIaAPmJUoV4MLxwjAUHzYrdI17o7A3PxW6XbuLF1R6zMb-T-huF_srhd2Sg3Sio=w180-h180-l90-rj",
+        "prev": "19",
+        "streak": "40",
+        "streams": "469,109",
+        "youtubeID": "o_rWKD-t-tA"
+    },
+    {
+        "ranking": "16",
+        "title": "На порозі",
+        "artist": "Domiy",
+        "image": "https://lh3.googleusercontent.com/zOHQ0M1XuCIQlepRD4qgT_nCbvCo1SmV_hyN7g0ge07daucPG4yjoHtSW30hHvfYGog_LPXVJMYnZVFaoA=w180-h180-l90-rj",
+        "prev": "15",
+        "streak": "22",
+        "streams": "457,579",
+        "youtubeID": "1yeZf9BdclE"
+    },
+    {
+        "ranking": "17",
+        "title": "Тьотя",
+        "artist": "Шугар",
+        "image": "https://lh3.googleusercontent.com/NLHBVcSEiTDIvhV5LNf0-WcUe3wOf6alVUMFRuzYpcOn6q0WL8OQMptyLLuwhQIdscm7xJGMtymHT8aY=w180-h180-l90-rj",
+        "prev": "21",
+        "streak": "31",
+        "streams": "429,146",
+        "youtubeID": "DFGO4OuvVM0"
+    },
+    {
+        "ranking": "18",
+        "title": "Teresa & Maria",
+        "artist": "alyona alyona & Jerry Heil",
+        "image": "https://lh3.googleusercontent.com/VyDvbPOcEIYL72icqtVvZl6gLvCBCaTCkwiR64mo4KirL_oMCfpYXLED-2JqfooZPfyP4LGmgGg2Tu0=w180-h180-l90-rj",
+        "prev": "20",
+        "streak": "45",
+        "streams": "426,322",
+        "youtubeID": "ZFkuLfA9E_c"
+    },
+    {
+        "ranking": "19",
+        "title": "Обиратиму себе (Live) (feat. iSKra)",
+        "artist": "MÉLOVIN",
+        "image": "https://i.ytimg.com/vi/GylhkKG937c/default.jpg",
+        "prev": "16",
+        "streak": "8",
+        "streams": "422,865",
+        "youtubeID": "GylhkKG937c"
+    },
+    {
+        "ranking": "20",
+        "title": "Де би ти не була (Live)",
+        "artist": "Parfeniuk",
+        "image": "https://i.ytimg.com/vi/piGSBpB7w2k/default.jpg",
+        "prev": "-",
+        "streak": "1",
+        "streams": "414,275",
+        "youtubeID": "piGSBpB7w2k"
+    },
+    {
+        "ranking": "21",
+        "title": "Худи",
+        "artist": "GeeGun & Artik & Asti & NILETTO",
+        "image": "https://lh3.googleusercontent.com/0wvCdypncKE6rKBJjhIUnkiwUrlnVmakMA8uJ3IeRwDXa08ysOJ1nMd1LYlMfqHJp3Nz_UDVyNZUmodlGA=w180-h180-l90-rj",
+        "prev": "23",
+        "streak": "5",
+        "streams": "412,918",
+        "youtubeID": "uiPM4QToPBA"
+    },
+    {
+        "ranking": "22",
+        "title": "Токсік",
+        "artist": "Шугар",
+        "image": "https://i.ytimg.com/vi/XAoQVXpJTiY/default.jpg",
+        "prev": "43",
+        "streak": "5",
+        "streams": "412,332",
+        "youtubeID": "XAoQVXpJTiY"
+    },
+    {
+        "ranking": "23",
+        "title": "Особистий рай",
+        "artist": "Геля Зозуля & Adam",
+        "image": "https://lh3.googleusercontent.com/ITBLEcxMgCsVFh-MZHatlHh1tpUQTs-UeWcRG2Lf7sN_Q9fCIow0uPba6JiWvn5v4gIMwe7iAxva9Pc=w180-h180-l90-rj",
+        "prev": "17",
+        "streak": "9",
+        "streams": "400,567",
+        "youtubeID": "SdvHB5TB4_k"
+    },
+    {
+        "ranking": "24",
+        "title": "Вигадав",
+        "artist": "Voskoboinyk",
+        "image": "https://lh3.googleusercontent.com/ZV2Yv7LiX8H3Z3hH9-rEdyqfBXyhhk7aYauP-FyzHpajFT-toH1IPKAyGuhnDqm3Or_pfBQCPqJVGBI=w180-h180-l90-rj",
+        "prev": "38",
+        "streak": "2",
+        "streams": "384,605",
+        "youtubeID": "C6vMvh1AwY0"
+    },
+    {
+        "ranking": "25",
+        "title": "Ендорфін",
+        "artist": "YAKTAK",
+        "image": "https://lh3.googleusercontent.com/Q_qwo3k6lDV106bIY0D-GbR5aieZxDMNCnu3I2In_Jm94n8A1-3rek19wtsWKqq-0-ThtJvhNqdxJEp0=w180-h180-l90-rj",
+        "prev": "18",
+        "streak": "11",
+        "streams": "375,476",
+        "youtubeID": "7p5hbZi3OKI"
+    },
+    {
+        "ranking": "26",
+        "title": "ТА ТИ ШО",
+        "artist": "Banda UA & DJ BANDOS",
+        "image": "https://lh3.googleusercontent.com/tKAsqBRkBdCXrSnhlqnt3FIHWjc-wY3RZug1JMEw-vUVEoNiBEm_MfGHsnS0BlPkjsfWtLH4ynyu65Xf=w180-h180-l90-rj",
+        "prev": "71",
+        "streak": "12",
+        "streams": "374,058",
+        "youtubeID": "2XMZdDkPA0Q"
+    },
+    {
+        "ranking": "27",
+        "title": "У волоссі осінь",
+        "artist": "Нікіта Кісельов & SKYLERR",
+        "image": "https://lh3.googleusercontent.com/Sjkr09RrOjIo8TXAB49svCIZh2kBbeYX2lxuJ2SZMv99gHxeMiPvWId-fXeTCAkbcqV_Xw_mFhxpJlY=w180-h180-l90-rj",
+        "prev": "14",
+        "streak": "3",
+        "streams": "362,540",
+        "youtubeID": "yLj714b4IBc"
+    },
+    {
+        "ranking": "28",
+        "title": "Як ніколи",
+        "artist": "Okean Elzy",
+        "image": "https://i.ytimg.com/vi/MNkl76IBWhA/default.jpg",
+        "prev": "24",
+        "streak": "7",
+        "streams": "361,603",
+        "youtubeID": "MNkl76IBWhA"
+    },
+    {
+        "ranking": "29",
+        "title": "Про осінь",
+        "artist": "SAMCHUK & Domiy",
+        "image": "https://lh3.googleusercontent.com/COqa-3iiivAYRP7VLY5flPqUzP8vgAyKNkblOzLg-fyJI30CQBKMoAB-eIRTTKiqOXLNolic5VDTPr4=w180-h180-l90-rj",
+        "prev": "22",
+        "streak": "8",
+        "streams": "357,372",
+        "youtubeID": "jwN4B4XNdfE"
+    },
+    {
+        "ranking": "30",
+        "title": "Lose Control (Live)",
+        "artist": "Teddy Swims",
+        "image": "https://lh3.googleusercontent.com/mQKcmGnXO4pebJBfgVC1UWFXN0g1zbvRDZd3brh0FN6iV_Kd2RIC6PZeder5fKiFwMXI5H7luk6oEgI=w180-h180-l90-rj",
+        "prev": "27",
+        "streak": "43",
+        "streams": "343,231",
+        "youtubeID": "GZ3zL7kT6_c"
+    },
+    {
+        "ranking": "31",
+        "title": "Царица",
+        "artist": "ANNA ASTI",
+        "image": "https://lh3.googleusercontent.com/L33qBkMsEtjhUoyk0CgwRxguQKlhhjHKGstUhTP_i-E1KSrwS7WkZmBnVjO665A4WXvjYr60OoR_JY3Pdw=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "54",
+        "streams": "333,626",
+        "youtubeID": "d8-3ffuTTZ8"
+    },
+    {
+        "ranking": "32",
+        "title": "FUNK DO BOUNCE",
+        "artist": "Ariis",
+        "image": "https://i.ytimg.com/vi/mjsJzKry6E0/default.jpg",
+        "prev": "34",
+        "streak": "8",
+        "streams": "328,868",
+        "youtubeID": "mjsJzKry6E0"
+    },
+    {
+        "ranking": "33",
+        "title": "Рана",
+        "artist": "CHEEV",
+        "image": "https://lh3.googleusercontent.com/lcVFVqacALXuB28VJW-EJc9z68bHOTxFVgJ4Z9KvI_WGxcDT8D8-BFAkdSn_ZG085xhWaKrx4U06pDSv=w180-h180-l90-rj",
+        "prev": "25",
+        "streak": "20",
+        "streams": "322,612",
+        "youtubeID": "WvdNltH_J_I"
+    },
+    {
+        "ranking": "34",
+        "title": "Я тобі брехала",
+        "artist": "Klavdia Petrivna",
+        "image": "https://lh3.googleusercontent.com/jHth4j6XRbx39BpTeWrwoWgEI_H5cqS6UWKoGl8-b8wdOi2H3BvRZWg9zoaUbBU2Ced5hd6pgOIX8yB7=w180-h180-l90-rj",
+        "prev": "28",
+        "streak": "41",
+        "streams": "322,541",
+        "youtubeID": "3Rk6jQhLqiM"
+    },
+    {
+        "ranking": "35",
+        "title": "Хартбіт",
+        "artist": "DOROFEEVA",
+        "image": "https://lh3.googleusercontent.com/PYTzbpMs2ZDAsmOs4c7ai74vkjc9CMvGT94es4IpFqky4WgI6Lrd-USYCk3yv5Rd127l-0qdB0ngxpPwJg=w180-h180-l90-rj",
+        "prev": "29",
+        "streak": "23",
+        "streams": "320,455",
+        "youtubeID": "st4myrWc958"
+    },
+    {
+        "ranking": "36",
+        "title": "Дарите женщинам цветы",
+        "artist": "Jazzdauren",
+        "image": "https://lh3.googleusercontent.com/DXSNyJBjflraqRgDoQqH3T-_ONbPAlAjXY-twpygaecYDVqSXElLAACIsId-il29Dl7PNFeai3f1bPft=w180-h180-l90-rj",
+        "prev": "30",
+        "streak": "35",
+        "streams": "314,123",
+        "youtubeID": "u45EgHyKq_U"
+    },
+    {
+        "ranking": "37",
+        "title": "А я все плакала",
+        "artist": "DOROFEEVA & LEBIGA",
+        "image": "https://lh3.googleusercontent.com/PYTzbpMs2ZDAsmOs4c7ai74vkjc9CMvGT94es4IpFqky4WgI6Lrd-USYCk3yv5Rd127l-0qdB0ngxpPwJg=w180-h180-l90-rj",
+        "prev": "26",
+        "streak": "32",
+        "streams": "311,407",
+        "youtubeID": "hkXsoPZVvFE"
+    },
+    {
+        "ranking": "38",
+        "title": "Bad Dreams",
+        "artist": "Teddy Swims",
+        "image": "https://lh3.googleusercontent.com/VvlPuEHeRkYWupV8-UIgJ1LqlwleHFBaHuIvfpnsV-kLX6QcjQe2ysFTawHtuhqilTxSGEkLTxOIqGv5=w180-h180-l90-rj",
+        "prev": "39",
+        "streak": "10",
+        "streams": "308,540",
+        "youtubeID": "Qh8QwVYOSVU"
+    },
+    {
+        "ranking": "39",
+        "title": "Кожен раз",
+        "artist": "TESLENKO",
+        "image": "https://lh3.googleusercontent.com/L5A7PhQ8oPefFdSX1Fx-X_doDqKNeuHnL1zCBncS5jxHRC58O8IoI0SetpQdmlFCn6uzJFgPE6OJVLBk=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "307,004",
+        "youtubeID": "aQYk21UGyWo"
+    },
+    {
+        "ranking": "40",
+        "title": "Тумани",
+        "artist": "Марина і компанія",
+        "image": "https://lh3.googleusercontent.com/iDIcdXzS4SS5QEkbEkJ83l-6mM5jFePaS4xFZmWOC664l5TY_AqdMgN-gLf0p4UIciobx-vV8NoicClN=w180-h180-l90-rj",
+        "prev": "31",
+        "streak": "31",
+        "streams": "301,995",
+        "youtubeID": "VbB2ozv-uhk"
+    },
+    {
+        "ranking": "41",
+        "title": "Тайною",
+        "artist": "Chico & Qatoshi",
+        "image": "https://lh3.googleusercontent.com/2D2gxuMyVHfRa6i2opZhxqKDISOM7_s4-0a-5ljIs5ycjACtmBrLU_SQ5GSSfE1o6AAbRiab_2ZfMP_N=w180-h180-l90-rj",
+        "prev": "32",
+        "streak": "5",
+        "streams": "290,165",
+        "youtubeID": "mGmhmiMe38I"
+    },
+    {
+        "ranking": "42",
+        "title": "The Door",
+        "artist": "Teddy Swims",
+        "image": "https://lh3.googleusercontent.com/FfWlbZ2cfBxKZeyie1tYvGgg7JTn3pKKksot24hlX6YiuQPsyHwGIH0ORIi1LWq-wMPP6hHUJUP3pN0t=w180-h180-l90-rj",
+        "prev": "36",
+        "streak": "14",
+        "streams": "288,652",
+        "youtubeID": "VSXT4a2kRHA"
+    },
+    {
+        "ranking": "43",
+        "title": "Мистецтво",
+        "artist": "ROXOLANA",
+        "image": "https://lh3.googleusercontent.com/M9Qr51B3oTXJXOeWOqEEN3LGcDPuvrU9w5-mPA-QP7cMUu2bJ-19aixtYGnTIGJnjQhEr0qAz_m2aMcQ=w180-h180-l90-rj",
+        "prev": "33",
+        "streak": "2",
+        "streams": "287,998",
+        "youtubeID": "iYUVybRuvcE"
+    },
+    {
+        "ranking": "44",
+        "title": "Не знаю",
+        "artist": "Victoria Niro",
+        "image": "https://lh3.googleusercontent.com/qcWbRD5dbVEBGJSh6DKO4IywqRxh-gJFCLu7FSENH8h54l_ryer4VmWkXLzMY_78knVbOrN68dVUBlwB=w180-h180-l90-rj",
+        "prev": "35",
+        "streak": "27",
+        "streams": "281,281",
+        "youtubeID": "7csxT5PKFJk"
+    },
+    {
+        "ranking": "45",
+        "title": "Небо",
+        "artist": "YAKTAK & CKAYA",
+        "image": "https://lh3.googleusercontent.com/8f5GUOIMGt50YWozKsIBz0N3X8IykjYSNaTREhvsrEZELtaIC18VUjGqFdBrVZXvjb9adANvQrLLrZSr=w180-h180-l90-rj",
+        "prev": "41",
+        "streak": "29",
+        "streams": "271,847",
+        "youtubeID": "SCnCDS5FdMM"
+    },
+    {
+        "ranking": "46",
+        "title": "На пафосі",
+        "artist": "100лиця",
+        "image": "https://lh3.googleusercontent.com/_leU0V976O1FYjuDBdpfUKMv8HDCV8l1jy7ZQhLYvNWTsrQIwhsgi6Va4UOO6nf7lOdaaeUCRaYgSYoO=w180-h180-l90-rj",
+        "prev": "46",
+        "streak": "9",
+        "streams": "264,543",
+        "youtubeID": "IDEoeSyufAQ"
+    },
+    {
+        "ranking": "47",
+        "title": "На нічному небі",
+        "artist": "YAKTAK & Svyatoslav Vakarchuk",
+        "image": "https://lh3.googleusercontent.com/TXiUINUZXUR4gPVJNisyA_7KU6PLxglnZTZd5f5MWGF-L0uhRLo4T3nKpVfGwwYiU31J7Hzg_PEladk=w180-h180-l90-rj",
+        "prev": "40",
+        "streak": "7",
+        "streams": "261,307",
+        "youtubeID": "TTccdFybPUo"
+    },
+    {
+        "ranking": "48",
+        "title": "Взгляни на небо",
+        "artist": "Galibri & Mavik",
+        "image": "https://lh3.googleusercontent.com/4osnk4I0L6rjiSaeUcXNOAEXtRCwLUWryb7uM9FL8t6E1Zu8fol4tu3FUeXFLP26ybEec24M3dBDyzHP_A=w180-h180-l90-rj",
+        "prev": "44",
+        "streak": "27",
+        "streams": "256,831",
+        "youtubeID": "Sxwc6vxA4BY"
+    },
+    {
+        "ranking": "49",
+        "title": "Їде дах",
+        "artist": "Klavdia Petrivna",
+        "image": "https://lh3.googleusercontent.com/UzxEQySIHaAiqV4Ly0-8y1TBO-OUUZEqMvUiuHH8shBnNwTIzJ0Dt5MJhqzHD9zHRiZEld-tvlVlUqT7NQ=w180-h180-l90-rj",
+        "prev": "47",
+        "streak": "16",
+        "streams": "252,815",
+        "youtubeID": "1roiuzbLJ8g"
+    },
+    {
+        "ranking": "50",
+        "title": "ВАВИЛОН",
+        "artist": "YARMAK",
+        "image": "https://lh3.googleusercontent.com/-OixvzTqyMs-6ODnjp0aWk7oSHR5ncGBjdJON9qaCUbMoEBIJpqH-7YjgGsqk4v5CkvHNDdP5RySNC4=w180-h180-l90-rj",
+        "prev": "42",
+        "streak": "36",
+        "streams": "247,487",
+        "youtubeID": "meTzAtXIwuM"
+    },
+    {
+        "ranking": "51",
+        "title": "Я вже не ти",
+        "artist": "Max Barskih",
+        "image": "https://lh3.googleusercontent.com/GctA_Y2ttqSJG5QQK9ny4lpG5H_qJi4GVIA3wwup6F9h8aNH6vIBsSQrT1AKfrugraN-WIREOTTLDpdq=w180-h180-l90-rj",
+        "prev": "49",
+        "streak": "7",
+        "streams": "237,586",
+        "youtubeID": "ire8TJkC0dI"
+    },
+    {
+        "ranking": "52",
+        "title": "DON'T STOP",
+        "artist": "GLXXMSTRIDER",
+        "image": "https://lh3.googleusercontent.com/CPMWM502DW1VRiff5uDGri68GCEv2YB85gp5LcQ2XGe9u8sj78J7vYOTmOKmUqhJFg0BiA3hlLvurZsxAA=w180-h180-l90-rj",
+        "prev": "58",
+        "streak": "6",
+        "streams": "236,453",
+        "youtubeID": "L2lv7QDvBN0"
+    },
+    {
+        "ranking": "53",
+        "title": "Полий своїм вином",
+        "artist": "YAROMIYA",
+        "image": "https://lh3.googleusercontent.com/YfPwLLxuGr67m8lUfXGxDbzR_zkaxNzLOqQoCJUx_fFby1AR2cQ6xOAdDmvcWSUpAX67jUNBcF29Z38=w180-h180-l90-rj",
+        "prev": "50",
+        "streak": "17",
+        "streams": "230,708",
+        "youtubeID": "ZRjc-AWaMoY"
+    },
+    {
+        "ranking": "54",
+        "title": "Die With A Smile",
+        "artist": "Lady Gaga & Bruno Mars",
+        "image": "https://lh3.googleusercontent.com/x5ST0wHIxD__IIxHF1UqUgXP4QW58ouj1EHROC9I5yHIb8cmoNr9rL54RfA-BnYay_eWmmOJfXNuFqmPEA=w180-h180-l90-rj",
+        "prev": "61",
+        "streak": "7",
+        "streams": "228,493",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
+    },
+    {
+        "ranking": "55",
+        "title": "Неверная [ШОУ \"СЕМЬ\"]",
+        "artist": "Max Barskih",
+        "image": "https://lh3.googleusercontent.com/7vgALTIeXfDsKz-IX8hL8hJiG675wur4aQyh0YKuyh2LJzfVPzEY7pLR372MChet7o19zabIaDFYnVPL=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "55",
+        "streams": "223,749",
+        "youtubeID": "HdH3F4kICLw"
+    },
+    {
+        "ranking": "56",
+        "title": "Tuesday (feat. Danelle Sandoval)",
+        "artist": "Burak Yeter",
+        "image": "https://i.ytimg.com/vi/aVDLBQpWefM/default.jpg",
+        "prev": "-",
+        "streak": "30",
+        "streams": "215,689",
+        "youtubeID": "aVDLBQpWefM"
+    },
+    {
+        "ranking": "57",
+        "title": "Дзвони",
+        "artist": "Tina Karol & SHUMEI",
+        "image": "https://lh3.googleusercontent.com/Fmk31QVTpQpavmp9Ftt801QyZ-I5vjp5Ig1ujGC-l6xiXBXupdbmvt0JXGCrh_nvAl4Om365iDoi7ma14A=w180-h180-l90-rj",
+        "prev": "52",
+        "streak": "20",
+        "streams": "215,664",
+        "youtubeID": "2vKIUOnmUAk"
+    },
+    {
+        "ranking": "58",
+        "title": "OKAY BABY",
+        "artist": "Trojan",
+        "image": "https://i.ytimg.com/vi/l2RWmMeKy98/default.jpg",
+        "prev": "-",
+        "streak": "1",
+        "streams": "213,147",
+        "youtubeID": "l2RWmMeKy98"
+    },
+    {
+        "ranking": "59",
+        "title": "Two Faced",
+        "artist": "Linkin Park",
+        "image": "https://lh3.googleusercontent.com/R-yqivSHsR8ZWpKMy2vplo6LEK-c0XVA7SzRRHR0eUYa-Gazo1VnbVnmN1ifymUOuCmW5yxjFlNv-rBv=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "211,183",
+        "youtubeID": "kivUsDGWojU"
+    },
+    {
+        "ranking": "60",
+        "title": "Last Christmas",
+        "artist": "Wham!",
+        "image": "https://lh3.googleusercontent.com/Pz95hD_2FIXOs_PVPdgpO-KqcdOmpsNCFnrS5IBgNJan--EyjjLph4cdRr_9xVeybgbDobaTDdH30Qam=w180-h180-l90-rj",
+        "prev": "89",
+        "streak": "34",
+        "streams": "205,504",
+        "youtubeID": "E8gmARGvPlI"
+    },
+    {
+        "ranking": "61",
+        "title": "Я на Жигулі",
+        "artist": "Volkanov",
+        "image": "https://lh3.googleusercontent.com/KXpq_DkeZxBC06MyWid1YSV8lvGQ1oijYxfNkn5tbsjmC93WDKVax_uNCUx_7gw0YjIaoTtdQQVFOrRI=w180-h180-l90-rj",
+        "prev": "62",
+        "streak": "20",
+        "streams": "203,775",
+        "youtubeID": "ptedNJ1T1cQ"
+    },
+    {
+        "ranking": "62",
+        "title": "Барон",
+        "artist": "Klavdia Petrivna",
+        "image": "https://lh3.googleusercontent.com/NBPKtffPoBO75FBYC1Wp7Xr4ni9S--Z_yAAU90SOB8j-fTJajYsQ53YEtYjWdpTtWPNJmsjm_b2kkmqJ=w180-h180-l90-rj",
+        "prev": "63",
+        "streak": "11",
+        "streams": "201,918",
+        "youtubeID": "wZdWMYjj2Rs"
+    },
+    {
+        "ranking": "63",
+        "title": "Si Ai",
+        "artist": "Tayna",
+        "image": "https://lh3.googleusercontent.com/ssfToi8_XzjAuzNMDwk5uhvTU4TLflblM3G8AFqFA9BMcA1KzrkA110WDivOpCI4B1xmGO7qXbxMTZc=w180-h180-l90-rj",
+        "prev": "55",
+        "streak": "17",
+        "streams": "201,601",
+        "youtubeID": "4bZ-8pg4tbY"
+    },
+    {
+        "ranking": "64",
+        "title": "The Emptiness Machine",
+        "artist": "Linkin Park",
+        "image": "https://lh3.googleusercontent.com/R-yqivSHsR8ZWpKMy2vplo6LEK-c0XVA7SzRRHR0eUYa-Gazo1VnbVnmN1ifymUOuCmW5yxjFlNv-rBv=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "8",
+        "streams": "199,579",
+        "youtubeID": "SRXH9AbT280"
+    },
+    {
+        "ranking": "65",
+        "title": "Даруйте жінкам троянди",
+        "artist": "Mose",
+        "image": "https://lh3.googleusercontent.com/b_dntL1eOrysQRRNXGP26cxBWkjgXaILoRJaxikgjrTNVTxbStqNk-w6A4lIy4KLzhKf_9Zow3-mrUTjSQ=w180-h180-l90-rj",
+        "prev": "75",
+        "streak": "4",
+        "streams": "188,586",
+        "youtubeID": "2i0DMG5opY4"
+    },
+    {
+        "ranking": "66",
+        "title": "Есенин",
+        "artist": "Navai & Mona",
+        "image": "https://lh3.googleusercontent.com/1a5K1Ht9FxewKIVU2tg-BE6LWqVlWYepkV5ApH05aVOo-b1Np3T5gtpBpkj45Bu7TVNEPbpeHwDFbdnJ=w180-h180-l90-rj",
+        "prev": "72",
+        "streak": "4",
+        "streams": "187,005",
+        "youtubeID": "MVHA1o5tgQk"
+    },
+    {
+        "ranking": "67",
+        "title": "Де би де би",
+        "artist": "Drevo",
+        "image": "https://lh3.googleusercontent.com/q2J7RrdemHE0yWTlSdJNaGp9F5-Od7V-fu5lxl9lOlG7XsjwGj8S2wyCKhWWSDwpOdaGNIolBht_NAfu=w180-h180-l90-rj",
+        "prev": "57",
+        "streak": "6",
+        "streams": "186,290",
+        "youtubeID": "BnYLZcLvMUo"
+    },
+    {
+        "ranking": "68",
+        "title": "Lost On You (Live)",
+        "artist": "LP",
+        "image": "https://i.ytimg.com/vi/wDjeBNv6ip0/default.jpg",
+        "prev": "82",
+        "streak": "32",
+        "streams": "183,288",
+        "youtubeID": "wDjeBNv6ip0"
+    },
+    {
+        "ranking": "69",
+        "title": "Я там",
+        "artist": "SKOFKA & SKOF",
+        "image": "https://lh3.googleusercontent.com/nGO6Uvbh-iKpOIpSU00Ime1Blr3LILsNa0afHYnb4W8Olz4dHSvwf3rNyy7SNvEvGoDzUheiayDkqsY=w180-h180-l90-rj",
+        "prev": "68",
+        "streak": "15",
+        "streams": "183,096",
+        "youtubeID": "rTUNnMahSgM"
+    },
+    {
+        "ranking": "70",
+        "title": "Сигма Бой",
+        "artist": "Betsy & Мария Янковская",
+        "image": "https://lh3.googleusercontent.com/NMTrPwrTtaFgiIpdlJ4Nc48bDvjqBZtKRV3p2YVbXFiFxl9qeFZlw_9oNOLjUuFZE3aAOSzThZVPjaFa=w180-h180-l90-rj",
+        "prev": "64",
+        "streak": "6",
+        "streams": "181,297",
+        "youtubeID": "32FVY8U4Xlg"
+    },
+    {
+        "ranking": "71",
+        "title": "ParisLove",
+        "artist": "FORTUNA 812",
+        "image": "https://i.ytimg.com/vi/-q68__Slg-8/default.jpg",
+        "prev": "-",
+        "streak": "1",
+        "streams": "180,821",
+        "youtubeID": "-q68__Slg-8"
+    },
+    {
+        "ranking": "72",
+        "title": "Адская колыбельная",
+        "artist": "Пошлая Молли",
+        "image": "https://lh3.googleusercontent.com/hsA8LSMqBqtSfLnLE-oCSzTs02RyAEEFG_k1_b4eyHMVndgFUFzWI5EwPQvTTreMPCnaDJSGTUFUjqx0=w180-h180-l90-rj",
+        "prev": "67",
+        "streak": "12",
+        "streams": "177,499",
+        "youtubeID": "U-xw6e-62fw"
+    },
+    {
+        "ranking": "73",
+        "title": "Люби меня долго (Remix)",
+        "artist": "Irina Dubtsova & EXNLXDE",
+        "image": "https://lh3.googleusercontent.com/BLWTEtThP3zWEFci4Hf7kgjjMA156PMaFMLlS4n-p1_-jgBSyTutJdzG1Avhnb-t7PNIK-PLlsagW4I=w180-h180-l90-rj",
+        "prev": "70",
+        "streak": "3",
+        "streams": "174,831",
+        "youtubeID": "acCrB_4oZBQ"
+    },
+    {
+        "ranking": "74",
+        "title": "Не знаю",
+        "artist": "Анна Трінчер & CHEEV",
+        "image": "https://lh3.googleusercontent.com/o6oOmYDQ2_YS8XVNyVcNtnziUdNuRBMHzQm_i6SPnRlcJv_cNxJ0FHBBPDSijS3Ul-TdbmrGkzUVP0fQ=w180-h180-l90-rj",
+        "prev": "56",
+        "streak": "6",
+        "streams": "170,860",
+        "youtubeID": "fiZ2nxxGVPM"
+    },
+    {
+        "ranking": "75",
+        "title": "Листопад",
+        "artist": "kavabanga Depo kolibri",
+        "image": "https://lh3.googleusercontent.com/lws4Eg0VyQl0-XpnHWk-RkW-7nPJcIpD8xTZTGM_5tb5U3yTKg_4UA9zmDrljnC_2impxeLnEHyNSGk=w180-h180-l90-rj",
+        "prev": "54",
+        "streak": "3",
+        "streams": "170,125",
+        "youtubeID": "oiZaGX1sb7s"
+    },
+    {
+        "ranking": "76",
+        "title": "Whiplash",
+        "artist": "aespa",
+        "image": "https://lh3.googleusercontent.com/dllcsBk0ltZOeGmlk-MKtmoUFe_8K-ybya7zYXtoGHVzDJ4yEkUz_rzsMGvWtGlXrU3eGZjcntjGNxec=w180-h180-l90-rj",
+        "prev": "60",
+        "streak": "4",
+        "streams": "169,962",
+        "youtubeID": "jWQx2f-CErU",
+        "spotifyID": "7Cnpb1vBbC46RgVyyKLH7p",
+        "appleID": "whiplash/1772214981"
+    },
+    {
+        "ranking": "77",
+        "title": "Доця",
+        "artist": "Dima Prokopov",
+        "image": "https://lh3.googleusercontent.com/SFRTcK0irRV0RlJb1K1hAHhZHx07V1hOY55r9u5sU-u6kyeCoifb2DSQNYw_ipFChizZm67RS3hydRs=w180-h180-l90-rj",
+        "prev": "84",
+        "streak": "2",
+        "streams": "169,620",
+        "youtubeID": "LegU3Bg0Mx8"
+    },
+    {
+        "ranking": "78",
+        "title": "Спальний",
+        "artist": "KRBK & dim.slavyanin & АрХангел",
+        "image": "https://i.ytimg.com/vi/7T7NWhR6RDM/default.jpg",
+        "prev": "-",
+        "streak": "1",
+        "streams": "168,847",
+        "youtubeID": "7T7NWhR6RDM"
+    },
+    {
+        "ranking": "79",
+        "title": "Alibi",
+        "artist": "Sevdaliza & Pabllo Vittar & Yseult",
+        "image": "https://lh3.googleusercontent.com/9vOhwdmWRAkrhhJPjFMqWFImtk1LaORRyW4D1_xD45MWF9Fe5JWZFwzJ5xeEBuPjU3lpXmSlnDXJFFNM2A=w180-h180-l90-rj",
+        "prev": "73",
+        "streak": "19",
+        "streams": "168,357",
+        "youtubeID": "qVqFuokjRMc"
+    },
+    {
+        "ranking": "80",
+        "title": "ВДОМА",
+        "artist": "Antytila",
+        "image": "https://lh3.googleusercontent.com/nXkZnuokDFTZ3evpjhU8xQwoAa-gi0RmqJ5Kuaeucw_C2bZ4wD-PA_JrXvSbZYjGin_Cmpqa11FPlRs=w180-h180-l90-rj",
+        "prev": "79",
+        "streak": "8",
+        "streams": "167,545",
+        "youtubeID": "5cMFArN3HdE"
+    },
+    {
+        "ranking": "81",
+        "title": "Топит",
+        "artist": "ANNA ASTI",
+        "image": "https://i.ytimg.com/vi/6cYfrYngRRI/default.jpg",
+        "prev": "66",
+        "streak": "4",
+        "streams": "165,219",
+        "youtubeID": "6cYfrYngRRI"
+    },
+    {
+        "ranking": "82",
+        "title": "Перламутрові сльози",
+        "artist": "Chico & Qatoshi",
+        "image": "https://lh3.googleusercontent.com/KE6sX8MkrgfOCe3wvoqI4KxLNthKdtgz8En1U7bb5kmjGvzrt9GDhs7AycCo0xOPIBWYkQC7-cQBEKI9=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "5",
+        "streams": "163,975",
+        "youtubeID": "4YbUxs9bZuE"
+    },
+    {
+        "ranking": "83",
+        "title": "По ресторанам (Dj Fat Maxx Remix)",
+        "artist": "Ruslan Nabiyev & Dj Fat Maxx",
+        "image": "https://i.ytimg.com/vi/TXk_lpDIqRY/default.jpg",
+        "prev": "-",
+        "streak": "23",
+        "streams": "162,078",
+        "youtubeID": "TXk_lpDIqRY"
+    },
+    {
+        "ranking": "84",
+        "title": "Голоса",
+        "artist": "Zvonkiy",
+        "image": "https://lh3.googleusercontent.com/w0mVSyoynYRS75FN3TpgiLG7Ow1LIA6MTZ6YMzL_fsgwd6oTBMMbDzMiYB2P8kuelq2efafERF4Hc5c=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "7",
+        "streams": "161,664",
+        "youtubeID": "ES7gg_39OZo"
+    },
+    {
+        "ranking": "85",
+        "title": "Feel so cold",
+        "artist": "Carpetman",
+        "image": "https://i.ytimg.com/vi/okOnzw4l5Xg/default.jpg",
+        "prev": "-",
+        "streak": "2",
+        "streams": "160,197",
+        "youtubeID": "okOnzw4l5Xg"
+    },
+    {
+        "ranking": "86",
+        "title": "BIRDS OF A FEATHER",
+        "artist": "Billie Eilish",
+        "image": "https://lh3.googleusercontent.com/mXJjWX4E6Gpr03CUYl18PdVXlczmoL2Tm-LEBGafIr_8smlHnl8AHniJu0_7Y80e-aeloJxcryQQx0ZJ=w180-h180-l90-rj",
+        "prev": "88",
+        "streak": "8",
+        "streams": "159,296",
+        "youtubeID": "V9PVRfjEBTI",
+        "spotifyID": "6dOtVTDdiauQNBQEDOtlAB",
+        "appleID": "birds-of-a-feather/1739659142"
+    },
+    {
+        "ranking": "87",
+        "title": "Одна на все життя",
+        "artist": "DIBROVA",
+        "image": "https://lh3.googleusercontent.com/kAg2P1EGEttuRq-HM_VZDr9Jdbyc3O0trKvkTFKnZnRDfRRUo1abOu81Xu6nw533VDL7DwF_3-ie1Cc=w180-h180-l90-rj",
+        "prev": "94",
+        "streak": "9",
+        "streams": "158,621",
+        "youtubeID": "leHN1509RAQ"
+    },
+    {
+        "ranking": "88",
+        "title": "Too Sweet",
+        "artist": "Hozier",
+        "image": "https://lh3.googleusercontent.com/XBwSSFEzOgkfXmd3LLWMPrcM3BZL6D3pwYXQFPqgkOfCyaOsABKiKbNnAJMUcv7U_g_AofDvkajg6Mm2Wg=w180-h180-l90-rj",
+        "prev": "76",
+        "streak": "16",
+        "streams": "158,219",
+        "youtubeID": "NTpbbQUBbuo"
+    },
+    {
+        "ranking": "89",
+        "title": "Зорепадами",
+        "artist": "DOVI & STASYA",
+        "image": "https://lh3.googleusercontent.com/ndGRmPObik--K71w7cLZXWXP8qF8Mk_PctrXAnjTiTzj15a5KB8mztK7M8nXtSIIIYlyJeXOyShkPsT4BQ=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "157,021",
+        "youtubeID": "NFEhRMxyTxU"
+    },
+    {
+        "ranking": "90",
+        "title": "Вистоїмо",
+        "artist": "Julik & Kristonko",
+        "image": "https://lh3.googleusercontent.com/O22n8wmhcNdY6jbwBeqN8BL1rbQOSBO1q1neyFM9N8HtCfZdO0HIW4J6JBcbqiRLMwMA5d1ZKoS0MLPb=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "156,847",
+        "youtubeID": "i5Fv5Pmn3jU"
+    },
+    {
+        "ranking": "91",
+        "title": "ШІ",
+        "artist": "KOLA",
+        "image": "https://lh3.googleusercontent.com/CmeYxUS1HXQ6cOPkqdE8DbNeLm0p4hZ5y7wh155VQvr_IeeuEq5pO0oMRl4uAeFeVsiaCrSsMsho7Kdr=w180-h180-l90-rj",
+        "prev": "96",
+        "streak": "8",
+        "streams": "156,775",
+        "youtubeID": "MRtm-gWDzJA"
+    },
+    {
+        "ranking": "92",
+        "title": "На краю",
+        "artist": "Alena Omargalieva",
+        "image": "https://lh3.googleusercontent.com/EB2enNrBf6aG8FcmyPStdnp5iByUN8TpE_53YTUIbXpAWobgd7IvyNmf0GDyg8MfT3PABy9LONhagsM=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "21",
+        "streams": "156,733",
+        "youtubeID": "9uGVh_eZD9o"
+    },
+    {
+        "ranking": "93",
+        "title": "Всесвіт - це ти",
+        "artist": "Anna Rusal",
+        "image": "https://i.ytimg.com/vi/SWY39VHdAQA/default.jpg",
+        "prev": "-",
+        "streak": "1",
+        "streams": "156,155",
+        "youtubeID": "SWY39VHdAQA"
+    },
+    {
+        "ranking": "94",
+        "title": "Heavy Is the Crown",
+        "artist": "Linkin Park",
+        "image": "https://lh3.googleusercontent.com/R-yqivSHsR8ZWpKMy2vplo6LEK-c0XVA7SzRRHR0eUYa-Gazo1VnbVnmN1ifymUOuCmW5yxjFlNv-rBv=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "3",
+        "streams": "155,830",
+        "youtubeID": "5FrhtahQiRc"
+    },
+    {
+        "ranking": "95",
+        "title": "Lose Yourself",
+        "artist": "Eminem",
+        "image": "https://lh3.googleusercontent.com/8aW-ynltCML7Hwi4_XWQykhMaIYeL11W8WxBHyWvcuQABlNaJQf-1CTW_QpEglC8taIi9JDfXH9B-9ob=w180-h180-s-l90-rj",
+        "prev": "92",
+        "streak": "10",
+        "streams": "155,429",
+        "youtubeID": "xFYQQPAOz7Y"
+    },
+    {
+        "ranking": "96",
+        "title": "На даху",
+        "artist": "Parfeniuk",
+        "image": "https://i.ytimg.com/vi/6XXswRVaB0E/default.jpg",
+        "prev": "-",
+        "streak": "16",
+        "streams": "154,285",
+        "youtubeID": "6XXswRVaB0E"
+    },
+    {
+        "ranking": "97",
+        "title": "Де моя любов живе",
+        "artist": "CHEEV",
+        "image": "https://lh3.googleusercontent.com/Ml2S-KBjISft2jdfmOlz9gtH077S59hwHF_t2RWkZtfstp77_VXM07ByB7-tDYdLt6muKHG8_AN78de2Jw=w180-h180-l90-rj",
+        "prev": "93",
+        "streak": "12",
+        "streams": "152,880",
+        "youtubeID": "sUoq_dkYnpo"
+    },
+    {
+        "ranking": "98",
+        "title": "Забуваю",
+        "artist": "100лиця & Domiy",
+        "image": "https://lh3.googleusercontent.com/OvyXeBtvcCa7L-RRnrhm7gJEu-YCRgPaJcgiAFwlFZl1Y6KIGO7NrnY-FykvvlMudnDORrVjnLdnXF4=w180-h180-l90-rj",
+        "prev": "87",
+        "streak": "13",
+        "streams": "151,896",
+        "youtubeID": "U_4Fs7gwxYA"
+    },
+    {
+        "ranking": "99",
+        "title": "Зоряне небо",
+        "artist": "Volkanov",
+        "image": "https://lh3.googleusercontent.com/gDIxcoccag2bld01vl5tpr7-eB_wspOmE0-neCseBGM6CBe3mBKBXDicXX9o4Aq8WutUc2v44Jk_u0E=w180-h180-l90-rj",
+        "prev": "86",
+        "streak": "5",
+        "streams": "150,234",
+        "youtubeID": "CLym9Zk9bd8"
+    },
+    {
+        "ranking": "100",
+        "title": "AURA",
+        "artist": "Ogryzek",
+        "image": "https://i.ytimg.com/vi/7E8CgqNRLS8/default.jpg",
+        "prev": "98",
+        "streak": "7",
+        "streams": "150,023",
+        "youtubeID": "7E8CgqNRLS8"
+    }
+]

@@ -4,7 +4,9 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI",
+        "spotifyID": "6dOtVTDdiauQNBQEDOtlAB"
     },
     {
         "ranking": "2",
@@ -95,7 +97,9 @@
         "title": "Whiplash",
         "artist": "aespa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/c1/f5/d5c1f505-f588-775f-df05-c672a8ec22e9/888735949562_Cover.jpg/80x80bb.webp",
-        "appleID": "whiplash/1772214981"
+        "appleID": "whiplash/1772214981",
+        "youtubeID": "jWQx2f-CErU",
+        "spotifyID": "7Cnpb1vBbC46RgVyyKLH7p"
     },
     {
         "ranking": "15",
@@ -144,7 +148,9 @@
         "title": "DRIP",
         "artist": "BABYMONSTER",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/e1/ef/b9e1ef3a-e3eb-8152-e91b-20aca0fc9ffd/BM_DRIP_Digital-Cover_4000.jpg/80x80bb.webp",
-        "appleID": "drip/1773262055"
+        "appleID": "drip/1773262055",
+        "youtubeID": "Zp-Jhuhq0bQ",
+        "spotifyID": "1MUZitHRpmng5NevrvNx4T"
     },
     {
         "ranking": "22",
@@ -158,7 +164,9 @@
         "title": "Mantra",
         "artist": "JENNIE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/9a/4c/5d9a4c5f-1c34-1265-0fa5-860dc8f0e802/196872495263.jpg/80x80bb.webp",
-        "appleID": "mantra/1772759719"
+        "appleID": "mantra/1772759719",
+        "youtubeID": "bB3-CUMERIU",
+        "spotifyID": "2CspwnypzT7rcWI9RfsoSb"
     },
     {
         "ranking": "24",
@@ -263,7 +271,9 @@
         "title": "Running Wild",
         "artist": "Jin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/21/a1/c521a133-2a4d-05da-205f-19093c53cd55/198704169175_Cover.jpg/80x80bb.webp",
-        "appleID": "running-wild/1772351326"
+        "appleID": "running-wild/1772351326",
+        "youtubeID": "uoHol5Dr_go",
+        "spotifyID": "50zAEIE4B1QqhPjRMK2Xmh"
     },
     {
         "ranking": "39",
@@ -347,7 +357,9 @@
         "title": "Igloo",
         "artist": "KISS OF LIFE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/70/86/dd70863e-2571-25cd-d1eb-c44a5cdba57f/cover_KM0020274_1.jpg/80x80bb.webp",
-        "appleID": "igloo/1773345357"
+        "appleID": "igloo/1773345357",
+        "youtubeID": "toF4ee3n-vo",
+        "spotifyID": "2DbDefRFJ5YOfXCKOeCJJh"
     },
     {
         "ranking": "51",
@@ -592,7 +604,9 @@
         "title": "Supernova",
         "artist": "aespa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/7e/e0/507ee09f-ccfd-1e3c-af90-ca5e92b1221b/00888735949869_Cover.jpg/80x80bb.webp",
-        "appleID": "supernova/1773694544"
+        "appleID": "supernova/1773694544",
+        "youtubeID": "phuiiNCxRMg",
+        "spotifyID": "2JhbSmNAyM9kYiqwa8Tpla"
     },
     {
         "ranking": "86",
@@ -620,7 +634,8 @@
         "title": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
         "artist": "G-DRAGON",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/e1/84/a4e1846a-6158-6a43-30c7-0297e891905e/197342826099_cover.jpg/80x80bb.webp",
-        "appleID": "home-sweet-home-feat-taeyang-daesung/1780635199"
+        "appleID": "home-sweet-home-feat-taeyang-daesung/1780635199",
+        "youtubeID": "fLi0EJfi_vg"
     },
     {
         "ranking": "90",

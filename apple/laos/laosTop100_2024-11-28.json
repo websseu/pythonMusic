@@ -25,7 +25,9 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI",
+        "spotifyID": "6dOtVTDdiauQNBQEDOtlAB"
     },
     {
         "ranking": "5",
@@ -109,7 +111,9 @@
         "title": "Mantra",
         "artist": "JENNIE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/9a/4c/5d9a4c5f-1c34-1265-0fa5-860dc8f0e802/196872495263.jpg/80x80bb.webp",
-        "appleID": "mantra/1772759719"
+        "appleID": "mantra/1772759719",
+        "youtubeID": "bB3-CUMERIU",
+        "spotifyID": "2CspwnypzT7rcWI9RfsoSb"
     },
     {
         "ranking": "17",
@@ -354,7 +358,9 @@
         "title": "DRIP",
         "artist": "BABYMONSTER",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/e1/ef/b9e1ef3a-e3eb-8152-e91b-20aca0fc9ffd/BM_DRIP_Digital-Cover_4000.jpg/80x80bb.webp",
-        "appleID": "drip/1773262055"
+        "appleID": "drip/1773262055",
+        "youtubeID": "Zp-Jhuhq0bQ",
+        "spotifyID": "1MUZitHRpmng5NevrvNx4T"
     },
     {
         "ranking": "52",
@@ -389,7 +395,8 @@
         "title": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
         "artist": "G-DRAGON",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/e1/84/a4e1846a-6158-6a43-30c7-0297e891905e/197342826099_cover.jpg/80x80bb.webp",
-        "appleID": "home-sweet-home-feat-taeyang-daesung/1780635199"
+        "appleID": "home-sweet-home-feat-taeyang-daesung/1780635199",
+        "youtubeID": "fLi0EJfi_vg"
     },
     {
         "ranking": "57",
@@ -697,6 +704,8 @@
         "title": "Magnetic",
         "artist": "ILLIT",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3e/49/1e/3e491e43-4961-21ab-2abe-37fb1c0feb40/196922879227_Cover.jpg/80x80bb.webp",
-        "appleID": "magnetic/1734500896"
+        "appleID": "magnetic/1734500896",
+        "youtubeID": "Vk5-c_v4gMU",
+        "spotifyID": "1aKvZDoLGkNMxoRYgkckZG"
     }
 ]

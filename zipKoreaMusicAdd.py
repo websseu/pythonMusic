@@ -26,9 +26,9 @@ for item in korea_music_list:
 # 업데이트 대상 폴더 목록
 target_folders = [
     'korea',
-    'apple/south-korea',
-    'spotify/south-korea',
-    'youtube/south-korea',  # 추가된 폴더
+    'apple',
+    'spotify',
+    'youtube',
 ]
 
 # 모든 대상 폴더에 대해 처리
