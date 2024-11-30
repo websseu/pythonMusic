@@ -1,502 +1,570 @@
 [
-  {
-    "title": "HOME SWEET HOME",
-    "artist": "G-DRAGON",
-    "appleID": "home-sweet-home-feat-taeyang-daesung/1780635199"
-  },
-  {
-    "title": "Whiplash",
-    "artist": "aespa",
-    "appleID": "whiplash/1772214981"
-  },
-  {
-    "title": "APT.",
-    "artist": "ROSÉ",
-    "appleID": "apt/1771105935"
-  },
-  {
-    "title": "The First Snow",
-    "artist": "EXO",
-    "appleID": "the-first-snow/854908536"
-  },
-  {
-    "title": "POWER",
-    "artist": "G-DRAGON",
-    "appleID": "power/1776670342"
-  },
-  {
-    "title": "number one girl",
-    "artist": "ROSÉ",
-    "appleID": "number-one-girl/1771105923"
-  },
-  {
-    "title": "Drowning",
-    "artist": "WOODZ",
-    "appleID": "drowning/1683448656"
-  },
-  {
-    "title": "Igloo",
-    "artist": "KISS OF LIFE",
-    "appleID": "igloo/1773345357"
-  },
-  {
-    "title": "UP",
-    "artist": "aespa",
-    "appleID": "up-karina-solo/1772223475"
-  },
-  {
-    "title": "Every Moment With You",
-    "artist": "JAESSBEE",
-    "appleID": "every-moment-with-you/1777993498"
-  },
-  {
-    "title": "Letter To Myself",
-    "artist": "TAEYEON",
-    "appleID": "letter-to-myself/1779015075"
-  },
-  {
-    "title": "All I Want for Christmas Is You",
-    "artist": "Mariah Carey",
-    "appleID": "all-i-want-for-christmas-is-you/585972803"
-  },
-  {
-    "title": "HAPPY",
-    "artist": "DAY6",
-    "appleID": "happy/1732319018"
-  },
-  {
-    "title": "DRIP",
-    "artist": "BABYMONSTER",
-    "appleID": "drip/1773262055"
-  },
-  {
-    "title": "Skrr",
-    "artist": "HAON",
-    "appleID": "skrr-feat-giselle/1780254692"
-  },
-  {
-    "title": "Mantra",
-    "artist": "JENNIE",
-    "appleID": "mantra/1772759719"
-  },
-  {
-    "title": "Supernova",
-    "artist": "aespa",
-    "appleID": "supernova/1773694544"
-  },
-  {
-    "title": "Untitled, 2014",
-    "artist": "G-DRAGON",
-    "appleID": "untitled-2014/1246076508"
-  },
-  {
-    "title": "Who",
-    "artist": "Jimin",
-    "appleID": "who/1751773093"
-  },
-  {
-    "title": "Cherish",
-    "artist": "ILLIT",
-    "appleID": "cherish-my-love/1772790089"
-  },
-  {
-    "title": "How Sweet",
-    "artist": "NewJeans",
-    "appleID": "how-sweet/1744448416"
-  },
-  {
-    "title": "Die With A Smile",
-    "artist": "Lady Gaga",
-    "appleID": "die-with-a-smile/1762656732"
-  },
-  {
-    "title": "Welcome to the Show",
-    "artist": "DAY6",
-    "appleID": "welcome-to-the-show/1732319011"
-  },
-  {
-    "title": "Ditto",
-    "artist": "NewJeans",
-    "appleID": "ditto/1659513448"
-  },
-  {
-    "title": "Supersonic",
-    "artist": "fromis_9",
-    "appleID": "supersonic/1760411225"
-  },
-  {
-    "title": "Magnetic",
-    "artist": "ILLIT",
-    "appleID": "magnetic/1734500896"
-  },
-  {
-    "title": "Santa Tell Me",
-    "artist": "Ariana Grande",
-    "appleID": "santa-tell-me/1444319982"
-  },
-  {
-    "title": "Melt Down",
-    "artist": "DAY6",
-    "appleID": "melt-down/1764219756"
-  },
-  {
-    "title": "Wishful Winter",
-    "artist": "NCT WISH",
-    "appleID": "wishful-winter/1781172136"
-  },
-  {
-    "title": "BIRDS OF A FEATHER",
-    "artist": "Billie Eilish",
-    "appleID": "birds-of-a-feather/1739659142"
-  },
-  {
-    "title": "Underneath the Tree",
-    "artist": "Kelly Clarkson",
-    "appleID": "underneath-the-tree/1537216368"
-  },
-  {
-    "title": "Steady",
-    "artist": "NCT WISH",
-    "appleID": "steady/1766692131"
-  },
-  {
-    "title": "My Name is Malguem",
-    "artist": "QWER",
-    "appleID": "my-name-is-malguem/1769572156"
-  },
-  {
-    "title": "Supernatural",
-    "artist": "NewJeans",
-    "appleID": "supernatural/1750576834"
-  },
-  {
-    "title": "Last Christmas",
-    "artist": "Wham!",
-    "appleID": "last-christmas-single-version/202117984"
-  },
-  {
-    "title": "NASA",
-    "artist": "NCT WISH",
-    "appleID": "nasa/1781172298"
-  },
-  {
-    "title": "luther",
-    "artist": "Kendrick Lamar",
-    "appleID": "luther/1781270323"
-  },
-  {
-    "title": "TOXIC",
-    "artist": "MEOVV",
-    "appleID": "toxic/1779250382"
-  },
-  {
-    "title": "Armageddon",
-    "artist": "aespa",
-    "appleID": "armageddon/1773694547"
-  },
-  {
-    "title": "When it snows",
-    "artist": "LEE Mujin",
-    "appleID": "when-it-snows-feat-heize/1598537212"
-  },
-  {
-    "title": "How can I love the heartbreak, you're the one I love",
-    "artist": "AKMU",
-    "appleID": "how-can-i-love-the-heartbreak-youre-the-one-i-love/1480802550"
-  },
-  {
-    "title": "Congratulations",
-    "artist": "DAY6",
-    "appleID": "congratulations/1689197737"
-  },
-  {
-    "title": "Snowman",
-    "artist": "Sia",
-    "appleID": "snowman/1440098017"
-  },
-  {
-    "title": "LAST DANCE",
-    "artist": "BIGBANG",
-    "appleID": "last-dance/1313176078"
-  },
-  {
-    "title": "Still Life",
-    "artist": "BIGBANG",
-    "appleID": "still-life/1616762366"
-  },
-  {
-    "title": "Tick-Tack",
-    "artist": "ILLIT",
-    "appleID": "tick-tack/1772790106"
-  },
-  {
-    "title": "Time of Our Life",
-    "artist": "DAY6",
-    "appleID": "time-of-our-life/1689325541"
-  },
-  {
-    "title": "Here With Me",
-    "artist": "d4vd",
-    "appleID": "here-with-me/1646547919"
-  },
-  {
-    "title": "MEOW",
-    "artist": "MEOVV",
-    "appleID": "meow/1765598000"
-  },
-  {
-    "title": "You Were Beautiful",
-    "artist": "DAY6",
-    "appleID": "you-were-beautiful/1689329128"
-  },
-  {
-    "title": "I'm Firefly",
-    "artist": "Hwang Karam",
-    "appleID": "im-firefly/1773943442"
-  },
-  {
-    "title": "Closely Far Away",
-    "artist": "CAR, THE GARDEN",
-    "appleID": "closely-far-away/1582765830"
-  },
-  {
-    "title": "BANG BANG BANG",
-    "artist": "BIGBANG",
-    "appleID": "bang-bang-bang/1313176083"
-  },
-  {
-    "title": "Espresso",
-    "artist": "Sabrina Carpenter",
-    "appleID": "espresso/1740212434"
-  },
-  {
-    "title": "Nice Guy",
-    "artist": "BOYNEXTDOOR",
-    "appleID": "nice-guy/1765199947"
-  },
-  {
-    "title": "Boom Boom Bass",
-    "artist": "RIIZE",
-    "appleID": "boom-boom-bass/1764373570"
-  },
-  {
-    "title": "If You Ask Me What Love Is",
-    "artist": "Roy Kim",
-    "appleID": "if-you-ask-me-what-love-is/1773218828"
-  },
-  {
-    "title": "It's Beginning To Look a Lot Like Christmas",
-    "artist": "Michael Bublé",
-    "appleID": "its-beginning-to-look-a-lot-like-christmas/669854831"
-  },
-  {
-    "title": "NEMONEMO",
-    "artist": "YENA",
-    "appleID": "nemonemo/1770757802"
-  },
-  {
-    "title": "Hype Boy",
-    "artist": "NewJeans",
-    "appleID": "hype-boy/1635469851"
-  },
-  {
-    "title": "Be Mine",
-    "artist": "Jimin",
-    "appleID": "be-mine/1751773088"
-  },
-  {
-    "title": "Love wins all",
-    "artist": "IU",
-    "appleID": "love-wins-all/1726888402"
-  },
-  {
-    "title": "CROOKED",
-    "artist": "G-DRAGON",
-    "appleID": "crooked/1348187176"
-  },
-  {
-    "title": "Bubble Gum",
-    "artist": "NewJeans",
-    "appleID": "bubble-gum/1744448549"
-  },
-  {
-    "title": "Attention",
-    "artist": "NewJeans",
-    "appleID": "attention/1635469694"
-  },
-  {
-    "title": "Love 119",
-    "artist": "RIIZE",
-    "appleID": "love-119/1764373913"
-  },
-  {
-    "title": "SNOW",
-    "artist": "Zion.T",
-    "appleID": "snow-feat-lee-moon-sae/1320693447"
-  },
-  {
-    "title": "Drama",
-    "artist": "aespa",
-    "appleID": "drama/1715939931"
-  },
-  {
-    "title": "FAR AWAY",
-    "artist": "NCT WISH",
-    "appleID": "far-away/1781172290"
-  },
-  {
-    "title": "If I have you only",
-    "artist": "Nerd Connection",
-    "appleID": "if-i-have-you-only-my-love/1702792482"
-  },
-  {
-    "title": "This Love",
-    "artist": "G-DRAGON",
-    "appleID": "this-love/1330865745"
-  },
-  {
-    "title": "OMG (Apple Music Edition)",
-    "artist": "NewJeans",
-    "appleID": "omg-apple-music-edition/1677134765"
-  },
-  {
-    "title": "IF YOU",
-    "artist": "BIGBANG",
-    "appleID": "if-you/1313176085"
-  },
-  {
-    "title": "T.B.H",
-    "artist": "QWER",
-    "appleID": "tbh/1737366585"
-  },
-  {
-    "title": "EVERYTHING",
-    "artist": "The Black Skirts",
-    "appleID": "everything/1242155576"
-  },
-  {
-    "title": "Silently Completely Eternally",
-    "artist": "Nerd Connection",
-    "appleID": "silently-completely-eternally/1592057298"
-  },
-  {
-    "title": "The Snowman",
-    "artist": "Jung Seung Hwan",
-    "appleID": "the-snowman/1345295576"
-  },
-  {
-    "title": "BODY",
-    "artist": "MEOVV",
-    "appleID": "body/1779250390"
-  },
-  {
-    "title": "Sudden Shower",
-    "artist": "ECLIPSE",
-    "appleID": "sudden-shower/1739750624"
-  },
-  {
-    "title": "odoriko",
-    "artist": "VAUNDY",
-    "appleID": "odoriko/1714599984"
-  },
-  {
-    "title": "Good Night Good Dream",
-    "artist": "Nerd Connection",
-    "appleID": "good-night-good-dream/1738889871"
-  },
-  {
-    "title": "Girls Never Die",
-    "artist": "tripleS",
-    "appleID": "girls-never-die/1743890801"
-  },
-  {
-    "title": "Touchdown",
-    "artist": "NCT WISH",
-    "appleID": "touchdown/1781172293"
-  },
-  {
-    "title": "No Doubt",
-    "artist": "ENHYPEN",
-    "appleID": "no-doubt/1776917125"
-  },
-  {
-    "title": "love.",
-    "artist": "wave to earth",
-    "appleID": "love/1770274550"
-  },
-  {
-    "title": "Sticky",
-    "artist": "KISS OF LIFE",
-    "appleID": "sticky/1753900853"
-  },
-  {
-    "title": "Jingle Bell Rock",
-    "artist": "Bobby Helms",
-    "appleID": "jingle-bell-rock/1358462132"
-  },
-  {
-    "title": "Yours",
-    "artist": "Damons year",
-    "appleID": "yours/1459220445"
-  },
-  {
-    "title": "SOBER",
-    "artist": "BIGBANG",
-    "appleID": "sober/1313176084"
-  },
-  {
-    "title": "Merry Christmas Ahead",
-    "artist": "IU",
-    "appleID": "merry-christmas-ahead-feat-천둥/409076758"
-  },
-  {
-    "title": "IZNA",
-    "artist": "izna",
-    "appleID": "izna/1779444220"
-  },
-  {
-    "title": "plot twist",
-    "artist": "TWS",
-    "appleID": "plot-twist/1723932648"
-  },
-  {
-    "title": "Touch",
-    "artist": "KATSEYE",
-    "appleID": "touch/1753359801"
-  },
-  {
-    "title": "Spicy",
-    "artist": "aespa",
-    "appleID": "spicy/1685400184"
-  },
-  {
-    "title": "P.O.V",
-    "artist": "NCT WISH",
-    "appleID": "pov/1781172299"
-  },
-  {
-    "title": "For Lovers Who Hesitate",
-    "artist": "JANNABI",
-    "appleID": "for-lovers-who-hesitate/1456103133"
-  },
-  {
-    "title": "Blue",
-    "artist": "BIGBANG",
-    "appleID": "blue/1337456890"
-  },
-  {
-    "title": "When I'm With You",
-    "artist": "NCT DREAM",
-    "appleID": "when-im-with-you/1767771692"
-  },
-  {
-    "title": "Small girl (feat. D.O.)",
-    "artist": "Lee Young Ji",
-    "appleID": "small-girl-feat-do/1753178654"
-  },
-  {
-    "title": "Don't Look Back in Anger (Remastered)",
-    "artist": "Oasis",
-    "appleID": "dont-look-back-in-anger-remastered/1525933492"
-  }
+    {
+        "title": "HOME SWEET HOME",
+        "artist": "G-DRAGON",
+        "appleID": "home-sweet-home-feat-taeyang-daesung/1780635199",
+        "youtubeID": "fLi0EJfi_vg"
+    },
+    {
+        "title": "Whiplash",
+        "artist": "aespa",
+        "appleID": "whiplash/1772214981",
+        "youtubeID": "jWQx2f-CErU",
+        "spotifyID": "7Cnpb1vBbC46RgVyyKLH7p"
+    },
+    {
+        "title": "APT.",
+        "artist": "ROSÉ",
+        "appleID": "apt/1771105935"
+    },
+    {
+        "title": "The First Snow",
+        "artist": "EXO",
+        "appleID": "the-first-snow/854908536"
+    },
+    {
+        "title": "POWER",
+        "artist": "G-DRAGON",
+        "appleID": "power/1776670342",
+        "youtubeID": "NMjhjrBIrG8",
+        "spotifyID": "4XsJiRJQAK8TWcZCn0Dxlh"
+    },
+    {
+        "title": "number one girl",
+        "artist": "ROSÉ",
+        "appleID": "number-one-girl/1771105923"
+    },
+    {
+        "title": "Drowning",
+        "artist": "WOODZ",
+        "appleID": "drowning/1683448656",
+        "youtubeID": "tiKFuzpX-NA",
+        "spotifyID": "4xeugB5MqWh0jwvXZPxahq"
+    },
+    {
+        "title": "Igloo",
+        "artist": "KISS OF LIFE",
+        "appleID": "igloo/1773345357",
+        "youtubeID": "toF4ee3n-vo",
+        "spotifyID": "2DbDefRFJ5YOfXCKOeCJJh"
+    },
+    {
+        "title": "UP",
+        "artist": "aespa",
+        "appleID": "up-karina-solo/1772223475"
+    },
+    {
+        "title": "Every Moment With You",
+        "artist": "JAESSBEE",
+        "appleID": "every-moment-with-you/1777993498",
+        "youtubeID": "YLxEK0ZKx9A",
+        "spotifyID": "04HGddGSz9qgxiFJkR7oMy"
+    },
+    {
+        "title": "Letter To Myself",
+        "artist": "TAEYEON",
+        "appleID": "letter-to-myself/1779015075",
+        "youtubeID": "wqN1vLPX-no",
+        "spotifyID": "1Uxr0oBXAZRuLkAz27TkLc"
+    },
+    {
+        "title": "All I Want for Christmas Is You",
+        "artist": "Mariah Carey",
+        "appleID": "all-i-want-for-christmas-is-you/585972803",
+        "youtubeID": "aAkMkVFwAoo",
+        "spotifyID": "0bYg9bo50gSsH3LtXe2SQn"
+    },
+    {
+        "title": "HAPPY",
+        "artist": "DAY6",
+        "appleID": "happy/1732319018",
+        "youtubeID": "sWXGbkM0tBI",
+        "spotifyID": "1k68vKHNQXU5CHqcM7Yp7N"
+    },
+    {
+        "title": "DRIP",
+        "artist": "BABYMONSTER",
+        "appleID": "drip/1773262055",
+        "youtubeID": "Zp-Jhuhq0bQ",
+        "spotifyID": "1MUZitHRpmng5NevrvNx4T"
+    },
+    {
+        "title": "Skrr",
+        "artist": "HAON",
+        "appleID": "skrr-feat-giselle/1780254692"
+    },
+    {
+        "title": "Mantra",
+        "artist": "JENNIE",
+        "appleID": "mantra/1772759719",
+        "youtubeID": "bB3-CUMERIU",
+        "spotifyID": "2CspwnypzT7rcWI9RfsoSb"
+    },
+    {
+        "title": "Supernova",
+        "artist": "aespa",
+        "appleID": "supernova/1773694544",
+        "youtubeID": "phuiiNCxRMg",
+        "spotifyID": "2JhbSmNAyM9kYiqwa8Tpla"
+    },
+    {
+        "title": "Untitled, 2014",
+        "artist": "G-DRAGON",
+        "appleID": "untitled-2014/1246076508"
+    },
+    {
+        "title": "Who",
+        "artist": "Jimin",
+        "appleID": "who/1751773093"
+    },
+    {
+        "title": "Cherish",
+        "artist": "ILLIT",
+        "appleID": "cherish-my-love/1772790089",
+        "youtubeID": "tbDGl7jEazA",
+        "spotifyID": "21LtZQQMQYwVIxc9O9Ygq8"
+    },
+    {
+        "title": "How Sweet",
+        "artist": "NewJeans",
+        "appleID": "how-sweet/1744448416",
+        "youtubeID": "Q3K0TOvTOno",
+        "spotifyID": "38tXZcL1gZRfbqfOG0VMTH"
+    },
+    {
+        "title": "Die With A Smile",
+        "artist": "Lady Gaga",
+        "appleID": "die-with-a-smile/1762656732"
+    },
+    {
+        "title": "Welcome to the Show",
+        "artist": "DAY6",
+        "appleID": "welcome-to-the-show/1732319011",
+        "youtubeID": "RowlrvmyFEk",
+        "spotifyID": "6je5cTal6PyeITNrOzkCoS"
+    },
+    {
+        "title": "Ditto",
+        "artist": "NewJeans",
+        "appleID": "ditto/1659513448"
+    },
+    {
+        "title": "Supersonic",
+        "artist": "fromis_9",
+        "appleID": "supersonic/1760411225",
+        "youtubeID": "0LiQp7y8Wwc",
+        "spotifyID": "6oNLSQX8bcAdbCElZYju3v"
+    },
+    {
+        "title": "Magnetic",
+        "artist": "ILLIT",
+        "appleID": "magnetic/1734500896",
+        "youtubeID": "Vk5-c_v4gMU",
+        "spotifyID": "1aKvZDoLGkNMxoRYgkckZG"
+    },
+    {
+        "title": "Santa Tell Me",
+        "artist": "Ariana Grande",
+        "appleID": "santa-tell-me/1444319982"
+    },
+    {
+        "title": "Melt Down",
+        "artist": "DAY6",
+        "appleID": "melt-down/1764219756"
+    },
+    {
+        "title": "Wishful Winter",
+        "artist": "NCT WISH",
+        "appleID": "wishful-winter/1781172136"
+    },
+    {
+        "title": "BIRDS OF A FEATHER",
+        "artist": "Billie Eilish",
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI",
+        "spotifyID": "6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+        "title": "Underneath the Tree",
+        "artist": "Kelly Clarkson",
+        "appleID": "underneath-the-tree/1537216368"
+    },
+    {
+        "title": "Steady",
+        "artist": "NCT WISH",
+        "appleID": "steady/1766692131"
+    },
+    {
+        "title": "My Name is Malguem",
+        "artist": "QWER",
+        "appleID": "my-name-is-malguem/1769572156"
+    },
+    {
+        "title": "Supernatural",
+        "artist": "NewJeans",
+        "appleID": "supernatural/1750576834",
+        "youtubeID": "ZncbtRo7RXs",
+        "spotifyID": "5ocSQW5sIUIOFojwXEz9Ki"
+    },
+    {
+        "title": "Last Christmas",
+        "artist": "Wham!",
+        "appleID": "last-christmas-single-version/202117984"
+    },
+    {
+        "title": "NASA",
+        "artist": "NCT WISH",
+        "appleID": "nasa/1781172298"
+    },
+    {
+        "title": "luther",
+        "artist": "Kendrick Lamar",
+        "appleID": "luther/1781270323"
+    },
+    {
+        "title": "TOXIC",
+        "artist": "MEOVV",
+        "appleID": "toxic/1779250382",
+        "youtubeID": "8F61FXiYpP0",
+        "spotifyID": "22iBm7pEbvQk4HPrKWOuqQ"
+    },
+    {
+        "title": "Armageddon",
+        "artist": "aespa",
+        "appleID": "armageddon/1773694547",
+        "youtubeID": "nFYwcndNuOY",
+        "spotifyID": "6lAvyeD3Nq43AjyCxZQj54"
+    },
+    {
+        "title": "When it snows",
+        "artist": "LEE Mujin",
+        "appleID": "when-it-snows-feat-heize/1598537212"
+    },
+    {
+        "title": "How can I love the heartbreak, you're the one I love",
+        "artist": "AKMU",
+        "appleID": "how-can-i-love-the-heartbreak-youre-the-one-i-love/1480802550"
+    },
+    {
+        "title": "Congratulations",
+        "artist": "DAY6",
+        "appleID": "congratulations/1689197737",
+        "youtubeID": "x3sFsHrUyLQ",
+        "spotifyID": "13z3GfR6WzmLUDxBHO3amM"
+    },
+    {
+        "title": "Snowman",
+        "artist": "Sia",
+        "appleID": "snowman/1440098017"
+    },
+    {
+        "title": "LAST DANCE",
+        "artist": "BIGBANG",
+        "appleID": "last-dance/1313176078"
+    },
+    {
+        "title": "Still Life",
+        "artist": "BIGBANG",
+        "appleID": "still-life/1616762366"
+    },
+    {
+        "title": "Tick-Tack",
+        "artist": "ILLIT",
+        "appleID": "tick-tack/1772790106",
+        "youtubeID": "-nEGVrzPaiU",
+        "spotifyID": "0znsc67nMhP4X9hjhvoyeP"
+    },
+    {
+        "title": "Time of Our Life",
+        "artist": "DAY6",
+        "appleID": "time-of-our-life/1689325541"
+    },
+    {
+        "title": "Here With Me",
+        "artist": "d4vd",
+        "appleID": "here-with-me/1646547919",
+        "youtubeID": "Ip6cw8gfHHI",
+        "spotifyID": "0dS2u2UFd88TIzDDaZDLvS"
+    },
+    {
+        "title": "MEOW",
+        "artist": "MEOVV",
+        "appleID": "meow/1765598000",
+        "youtubeID": "jpLHg-AsQV0",
+        "spotifyID": "5LlUJ3HHI2dS0xowdMDXC5"
+    },
+    {
+        "title": "You Were Beautiful",
+        "artist": "DAY6",
+        "appleID": "you-were-beautiful/1689329128"
+    },
+    {
+        "title": "I'm Firefly",
+        "artist": "Hwang Karam",
+        "appleID": "im-firefly/1773943442"
+    },
+    {
+        "title": "Closely Far Away",
+        "artist": "CAR, THE GARDEN",
+        "appleID": "closely-far-away/1582765830",
+        "youtubeID": "CAxPgfOqtr8",
+        "spotifyID": "7wLJ4xzxNss5abZ1kXs242"
+    },
+    {
+        "title": "BANG BANG BANG",
+        "artist": "BIGBANG",
+        "appleID": "bang-bang-bang/1313176083"
+    },
+    {
+        "title": "Espresso",
+        "artist": "Sabrina Carpenter",
+        "appleID": "espresso/1740212434"
+    },
+    {
+        "title": "Nice Guy",
+        "artist": "BOYNEXTDOOR",
+        "appleID": "nice-guy/1765199947"
+    },
+    {
+        "title": "Boom Boom Bass",
+        "artist": "RIIZE",
+        "appleID": "boom-boom-bass/1764373570"
+    },
+    {
+        "title": "If You Ask Me What Love Is",
+        "artist": "Roy Kim",
+        "appleID": "if-you-ask-me-what-love-is/1773218828",
+        "youtubeID": "5ly8tAU-n_w"
+    },
+    {
+        "title": "It's Beginning To Look a Lot Like Christmas",
+        "artist": "Michael Bublé",
+        "appleID": "its-beginning-to-look-a-lot-like-christmas/669854831"
+    },
+    {
+        "title": "NEMONEMO",
+        "artist": "YENA",
+        "appleID": "nemonemo/1770757802"
+    },
+    {
+        "title": "Hype Boy",
+        "artist": "NewJeans",
+        "appleID": "hype-boy/1635469851"
+    },
+    {
+        "title": "Be Mine",
+        "artist": "Jimin",
+        "appleID": "be-mine/1751773088"
+    },
+    {
+        "title": "Love wins all",
+        "artist": "IU",
+        "appleID": "love-wins-all/1726888402",
+        "youtubeID": "JleoAppaxi0"
+    },
+    {
+        "title": "CROOKED",
+        "artist": "G-DRAGON",
+        "appleID": "crooked/1348187176",
+        "youtubeID": "RKhsHGfrFmY",
+        "spotifyID": "4EwNWRBWdZ6bgvxRHlZ8OO"
+    },
+    {
+        "title": "Bubble Gum",
+        "artist": "NewJeans",
+        "appleID": "bubble-gum/1744448549",
+        "youtubeID": "ft70sAYrFyY",
+        "spotifyID": "19D8LNpWwIPpi6hs9BG7dq"
+    },
+    {
+        "title": "Attention",
+        "artist": "NewJeans",
+        "appleID": "attention/1635469694"
+    },
+    {
+        "title": "Love 119",
+        "artist": "RIIZE",
+        "appleID": "love-119/1764373913"
+    },
+    {
+        "title": "SNOW",
+        "artist": "Zion.T",
+        "appleID": "snow-feat-lee-moon-sae/1320693447"
+    },
+    {
+        "title": "Drama",
+        "artist": "aespa",
+        "appleID": "drama/1715939931"
+    },
+    {
+        "title": "FAR AWAY",
+        "artist": "NCT WISH",
+        "appleID": "far-away/1781172290"
+    },
+    {
+        "title": "If I have you only",
+        "artist": "Nerd Connection",
+        "appleID": "if-i-have-you-only-my-love/1702792482"
+    },
+    {
+        "title": "This Love",
+        "artist": "G-DRAGON",
+        "appleID": "this-love/1330865745"
+    },
+    {
+        "title": "OMG (Apple Music Edition)",
+        "artist": "NewJeans",
+        "appleID": "omg-apple-music-edition/1677134765"
+    },
+    {
+        "title": "IF YOU",
+        "artist": "BIGBANG",
+        "appleID": "if-you/1313176085"
+    },
+    {
+        "title": "T.B.H",
+        "artist": "QWER",
+        "appleID": "tbh/1737366585"
+    },
+    {
+        "title": "EVERYTHING",
+        "artist": "The Black Skirts",
+        "appleID": "everything/1242155576",
+        "youtubeID": "Aq_gsctWHtQ"
+    },
+    {
+        "title": "Silently Completely Eternally",
+        "artist": "Nerd Connection",
+        "appleID": "silently-completely-eternally/1592057298",
+        "youtubeID": "W25_xvZWKMw"
+    },
+    {
+        "title": "The Snowman",
+        "artist": "Jung Seung Hwan",
+        "appleID": "the-snowman/1345295576"
+    },
+    {
+        "title": "BODY",
+        "artist": "MEOVV",
+        "appleID": "body/1779250390"
+    },
+    {
+        "title": "Sudden Shower",
+        "artist": "ECLIPSE",
+        "appleID": "sudden-shower/1739750624",
+        "youtubeID": "ESWcsKySnNs"
+    },
+    {
+        "title": "odoriko",
+        "artist": "VAUNDY",
+        "appleID": "odoriko/1714599984"
+    },
+    {
+        "title": "Good Night Good Dream",
+        "artist": "Nerd Connection",
+        "appleID": "good-night-good-dream/1738889871"
+    },
+    {
+        "title": "Girls Never Die",
+        "artist": "tripleS",
+        "appleID": "girls-never-die/1743890801",
+        "youtubeID": "2tda_TCjz8w"
+    },
+    {
+        "title": "Touchdown",
+        "artist": "NCT WISH",
+        "appleID": "touchdown/1781172293"
+    },
+    {
+        "title": "No Doubt",
+        "artist": "ENHYPEN",
+        "appleID": "no-doubt/1776917125",
+        "youtubeID": "rDolt3jJRsM"
+    },
+    {
+        "title": "love.",
+        "artist": "wave to earth",
+        "appleID": "love/1770274550"
+    },
+    {
+        "title": "Sticky",
+        "artist": "KISS OF LIFE",
+        "appleID": "sticky/1753900853",
+        "youtubeID": "IajeQM00yfE"
+    },
+    {
+        "title": "Jingle Bell Rock",
+        "artist": "Bobby Helms",
+        "appleID": "jingle-bell-rock/1358462132"
+    },
+    {
+        "title": "Yours",
+        "artist": "Damons year",
+        "appleID": "yours/1459220445",
+        "youtubeID": "VHj6IYA-Dxs"
+    },
+    {
+        "title": "SOBER",
+        "artist": "BIGBANG",
+        "appleID": "sober/1313176084"
+    },
+    {
+        "title": "Merry Christmas Ahead",
+        "artist": "IU",
+        "appleID": "merry-christmas-ahead-feat-천둥/409076758"
+    },
+    {
+        "title": "IZNA",
+        "artist": "izna",
+        "appleID": "izna/1779444220"
+    },
+    {
+        "title": "plot twist",
+        "artist": "TWS",
+        "appleID": "plot-twist/1723932648"
+    },
+    {
+        "title": "Touch",
+        "artist": "KATSEYE",
+        "appleID": "touch/1753359801",
+        "youtubeID": "l9CZykYZkOQ",
+        "spotifyID": "6aJn7Cst74cj4lNIiPRgav"
+    },
+    {
+        "title": "Spicy",
+        "artist": "aespa",
+        "appleID": "spicy/1685400184"
+    },
+    {
+        "title": "P.O.V",
+        "artist": "NCT WISH",
+        "appleID": "pov/1781172299"
+    },
+    {
+        "title": "For Lovers Who Hesitate",
+        "artist": "JANNABI",
+        "appleID": "for-lovers-who-hesitate/1456103133"
+    },
+    {
+        "title": "Blue",
+        "artist": "BIGBANG",
+        "appleID": "blue/1337456890"
+    },
+    {
+        "title": "When I'm With You",
+        "artist": "NCT DREAM",
+        "appleID": "when-im-with-you/1767771692",
+        "youtubeID": "B1qq8IvzSz4"
+    },
+    {
+        "title": "Small girl (feat. D.O.)",
+        "artist": "Lee Young Ji",
+        "appleID": "small-girl-feat-do/1753178654",
+        "youtubeID": "11iZcYbq_is"
+    },
+    {
+        "title": "Don't Look Back in Anger (Remastered)",
+        "artist": "Oasis",
+        "appleID": "dont-look-back-in-anger-remastered/1525933492"
+    }
 ]

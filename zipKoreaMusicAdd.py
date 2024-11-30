@@ -23,27 +23,39 @@ for item in korea_music_list:
         'appleID': item.get('appleID'),
     }
 
-# korea 하위 폴더의 JSON 파일 업데이트
-korea_subfolders = [os.path.join('korea', folder) for folder in os.listdir('korea') if os.path.isdir(os.path.join('korea', folder))]
+# 업데이트 대상 폴더 목록
+target_folders = [
+    'korea',
+    'apple/south-korea',
+    'spotify/south-korea',
+    'youtube/south-korea',  # 추가된 폴더
+]
 
-for folder in korea_subfolders:
-    for file_name in os.listdir(folder):
-        if file_name.endswith('.json'):
-            file_path = os.path.join(folder, file_name)
-            with open(file_path, 'r', encoding='utf-8') as f:
-                data = json.load(f)
+# 모든 대상 폴더에 대해 처리
+for base_folder in target_folders:
+    # 하위 폴더 탐색
+    if not os.path.exists(base_folder):
+        print(f"폴더가 존재하지 않습니다: {base_folder}")
+        continue
+    
+    for root, _, files in os.walk(base_folder):
+        for file_name in files:
+            if file_name.endswith('.json'):
+                file_path = os.path.join(root, file_name)
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
 
-            # 파일 내 항목 업데이트
-            for item in data:
-                title_artist_key = normalize_text(item['title'] + item['artist'])
-                if title_artist_key in id_mapping:
-                    # koreaMusicList.json에서 ID 추가
-                    for key, value in id_mapping[title_artist_key].items():
-                        if value:  # 값이 존재하는 경우만 추가
-                            item[key] = value
-            
-            # 업데이트된 데이터를 JSON 파일에 저장
-            with open(file_path, 'w', encoding='utf-8') as f:
-                json.dump(data, f, ensure_ascii=False, indent=4)
+                # 파일 내 항목 업데이트
+                for item in data:
+                    title_artist_key = normalize_text(item['title'] + item['artist'])
+                    if title_artist_key in id_mapping:
+                        # koreaMusicList.json에서 ID 추가
+                        for key, value in id_mapping[title_artist_key].items():
+                            if value:  # 값이 존재하는 경우만 추가
+                                item[key] = value
+                
+                # 업데이트된 데이터를 JSON 파일에 저장
+                with open(file_path, 'w', encoding='utf-8') as f:
+                    json.dump(data, f, ensure_ascii=False, indent=4)
 
-print("하위 폴더 JSON 파일에 ID 추가 완료!")
+print("모든 대상 폴더의 JSON 파일에 ID 추가 완료!")
