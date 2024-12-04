@@ -48,6 +48,10 @@ jobs:
           git add korea/**/*.json
           git commit -m "Melon Chart Updated - $(date +"%Y-%m-%d")" || echo "No changes to commit"
 
+          python3 worldAppleChart.py
+          git add apple/**/*.json
+          git commit -m "Apple Chart Updated - $(date +"%Y-%m-%d")" || echo "No changes to commit"
+
       # 6. 변경사항 푸시
       - name: Push changes
         uses: ad-m/github-push-action@master
