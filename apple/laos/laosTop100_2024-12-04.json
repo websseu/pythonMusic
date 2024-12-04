@@ -1,59 +1,59 @@
 [
     {
         "ranking": "1",
-        "title": "Die With A Smile",
-        "artist": "Lady Gaga",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
-    },
-    {
-        "ranking": "2",
         "title": "number one girl",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
         "appleID": "number-one-girl/1771105923"
     },
     {
-        "ranking": "3",
-        "title": "BIRDS OF A FEATHER",
-        "artist": "Billie Eilish",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
-    },
-    {
-        "ranking": "4",
-        "title": "APT.",
-        "artist": "ROSÉ",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
-    },
-    {
-        "ranking": "5",
+        "ranking": "2",
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
         "appleID": "luther/1781270323"
     },
     {
-        "ranking": "6",
-        "title": "Espresso",
-        "artist": "Sabrina Carpenter",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
-        "appleID": "espresso/1740212434"
+        "ranking": "3",
+        "title": "Die With A Smile",
+        "artist": "Lady Gaga",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
+        "appleID": "die-with-a-smile/1762656732"
     },
     {
-        "ranking": "7",
+        "ranking": "4",
+        "title": "BIRDS OF A FEATHER",
+        "artist": "Billie Eilish",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "appleID": "birds-of-a-feather/1739659142"
+    },
+    {
+        "ranking": "5",
+        "title": "APT.",
+        "artist": "ROSÉ",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
+        "appleID": "apt/1773452221"
+    },
+    {
+        "ranking": "6",
         "title": "Yours Ever (feat. คิว Flure)",
         "artist": "Cocktail",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6d/c8/8d/6dc88ddc-79be-bd13-7f20-613be627504d/888332896733.jpg/80x80bb.webp",
         "appleID": "yours-ever-feat-คว-flure/1760293787"
     },
     {
+        "ranking": "7",
+        "title": "santa doesn’t know you like i do",
+        "artist": "Sabrina Carpenter",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/c0/20/d3c02098-76d0-e40f-0217-157620f9a6d8/23UM1IM32723.rgb.jpg/80x80bb.webp",
+        "appleID": "santa-doesnt-know-you-like-i-do/1713689513"
+    },
+    {
         "ranking": "8",
-        "title": "The Trouble is..ปัญหาของฉัน (From \"หนึ่งในร้อย\")",
-        "artist": "Violette Wautier",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/68/4c/a2684cf9-4765-f08d-4764-4fb9215c24aa/cover.jpg/80x80bb.webp",
-        "appleID": "the-trouble-isปญหาของฉน-from-หนงในรอย/1767303293"
+        "title": "Moonlit Floor",
+        "artist": "LISA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/83/fb/7c83fbdf-27c1-39d5-dfb6-b8d6e2cd8dad/196872478501.jpg/80x80bb.webp",
+        "appleID": "moonlit-floor/1771466815"
     },
     {
         "ranking": "9",
@@ -64,38 +64,38 @@
     },
     {
         "ranking": "10",
-        "title": "Moonlit Floor",
-        "artist": "LISA",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/83/fb/7c83fbdf-27c1-39d5-dfb6-b8d6e2cd8dad/196872478501.jpg/80x80bb.webp",
-        "appleID": "moonlit-floor/1771466815"
+        "title": "H.S.K.T. (feat. Wonstein)",
+        "artist": "LeeHi",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d9/5a/a9/d95aa943-0e9b-ae75-3157-ab372f5b831a/8809704422604_Cover.jpg/80x80bb.webp",
+        "appleID": "hskt-feat-wonstein/1584615658"
     },
     {
         "ranking": "11",
+        "title": "DAY ONE",
+        "artist": "PUN",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/80/47/7380474c-b3a6-3411-bfe9-2ef792c66768/24UMGIM55985.rgb.jpg/80x80bb.webp",
+        "appleID": "day-one/1748093799"
+    },
+    {
+        "ranking": "12",
+        "title": "Espresso",
+        "artist": "Sabrina Carpenter",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
+        "appleID": "espresso/1740212434"
+    },
+    {
+        "ranking": "13",
         "title": "Mantra",
         "artist": "JENNIE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/9a/4c/5d9a4c5f-1c34-1265-0fa5-860dc8f0e802/196872495263.jpg/80x80bb.webp",
         "appleID": "mantra/1772759719"
     },
     {
-        "ranking": "12",
-        "title": "ดอกไม้ที่รอฝน (spring)",
-        "artist": "THE TOYS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/c8/1a/f4c81a4e-5d29-e6c5-771f-cc227203b9f8/cover.jpg/80x80bb.webp",
-        "appleID": "ดอกไมทรอฝน-spring/1757700178"
-    },
-    {
-        "ranking": "13",
-        "title": "Saturn",
-        "artist": "SZA",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0f/90/a8/0f90a856-0447-d846-fa7b-b9c937e72310/196871881180.jpg/80x80bb.webp",
-        "appleID": "saturn/1732348414"
-    },
-    {
         "ranking": "14",
-        "title": "santa doesn’t know you like i do",
-        "artist": "Sabrina Carpenter",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/c0/20/d3c02098-76d0-e40f-0217-157620f9a6d8/23UM1IM32723.rgb.jpg/80x80bb.webp",
-        "appleID": "santa-doesnt-know-you-like-i-do/1713689513"
+        "title": "ex-change",
+        "artist": "BOWKYLION",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/f1/9d/13f19d00-84dc-197c-79c4-5038ab9a4e5f/cover.jpg/80x80bb.webp",
+        "appleID": "ex-change/1777043263"
     },
     {
         "ranking": "15",
@@ -106,157 +106,157 @@
     },
     {
         "ranking": "16",
-        "title": "DAY ONE",
-        "artist": "PUN",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/80/47/7380474c-b3a6-3411-bfe9-2ef792c66768/24UMGIM55985.rgb.jpg/80x80bb.webp",
-        "appleID": "day-one/1748093799"
+        "title": "The Trouble is..ปัญหาของฉัน (From \"หนึ่งในร้อย\")",
+        "artist": "Violette Wautier",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/68/4c/a2684cf9-4765-f08d-4764-4fb9215c24aa/cover.jpg/80x80bb.webp",
+        "appleID": "the-trouble-isปญหาของฉน-from-หนงในรอย/1767303293"
     },
     {
         "ranking": "17",
-        "title": "ex-change",
-        "artist": "BOWKYLION",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/f1/9d/13f19d00-84dc-197c-79c4-5038ab9a4e5f/cover.jpg/80x80bb.webp",
-        "appleID": "ex-change/1777043263"
-    },
-    {
-        "ranking": "18",
-        "title": "The First Snow",
-        "artist": "EXO",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ae/ae/5b/aeae5b60-57e1-a742-084c-06e4fcbc6707/asset.jpg/80x80bb.webp",
-        "appleID": "the-first-snow/854908536"
-    },
-    {
-        "ranking": "19",
-        "title": "Snooze",
-        "artist": "SZA",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
-        "appleID": "snooze/1657869492"
-    },
-    {
-        "ranking": "20",
-        "title": "One Of The Girls",
-        "artist": "The Weeknd",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/db/28/e7/db28e7c3-f53a-76c8-eaa4-d92a22e4f160/23UMGIM72115.rgb.jpg/80x80bb.webp",
-        "appleID": "one-of-the-girls/1693891139"
-    },
-    {
-        "ranking": "21",
-        "title": "we can't be friends (wait for your love)",
-        "artist": "Ariana Grande",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/34/fe/a1/34fea184-6d20-3f50-b4ce-5e1501c1c5ab/24UMGIM00198.rgb.jpg/80x80bb.webp",
-        "appleID": "we-cant-be-friends-wait-for-your-love/1725878242"
-    },
-    {
-        "ranking": "22",
-        "title": "ไกล",
-        "artist": "Musketeers",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0d/67/37/0d673744-de94-55ec-e5d5-06b3277620f9/cover.jpg/80x80bb.webp",
-        "appleID": "ไกล/1066767071"
-    },
-    {
-        "ranking": "23",
-        "title": "I Just Wanna Know",
-        "artist": "PUN",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/38/86/8b388697-fefd-1fa8-04e4-a518c8761442/24UMGIM96529.rgb.jpg/80x80bb.webp",
-        "appleID": "i-just-wanna-know/1767346201"
-    },
-    {
-        "ranking": "24",
-        "title": "Trust Issues",
-        "artist": "imel",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/22/8e/38228ecb-ac7e-771b-9ef5-603a659f2601/cover.jpg/80x80bb.webp",
-        "appleID": "trust-issues/1777445389"
-    },
-    {
-        "ranking": "25",
-        "title": "อยู่ได้แล้ว (feat. Mirrr)",
-        "artist": "Lipta",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/a3/ea/ada3eacc-7107-5880-a4de-b2b645a944a3/cover.jpg/80x80bb.webp",
-        "appleID": "อยไดแลว-feat-mirrr/1757700564"
-    },
-    {
-        "ranking": "26",
-        "title": "H.S.K.T. (feat. Wonstein)",
-        "artist": "LeeHi",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d9/5a/a9/d95aa943-0e9b-ae75-3157-ab372f5b831a/8809704422604_Cover.jpg/80x80bb.webp",
-        "appleID": "hskt-feat-wonstein/1584615658"
-    },
-    {
-        "ranking": "27",
-        "title": "ใจเป็นนาย กายเป็นบ่าว",
-        "artist": "Lek Ratchamet",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/a2/20/e1a2209f-579e-031d-1a35-bdcb249302ee/888332892780.jpg/80x80bb.webp",
-        "appleID": "ใจเปนนาย-กายเปนบาว/1779325671"
-    },
-    {
-        "ranking": "28",
         "title": "Too Sweet",
         "artist": "Hozier",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/12/e3/a412e390-51aa-6625-9adc-d502bf1c349f/196872373004.jpg/80x80bb.webp",
         "appleID": "too-sweet/1763072931"
     },
     {
-        "ranking": "29",
-        "title": "Taste",
-        "artist": "Sabrina Carpenter",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
-        "appleID": "taste/1750307079"
+        "ranking": "18",
+        "title": "ดอกไม้ที่รอฝน (spring)",
+        "artist": "THE TOYS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/c8/1a/f4c81a4e-5d29-e6c5-771f-cc227203b9f8/cover.jpg/80x80bb.webp",
+        "appleID": "ดอกไมทรอฝน-spring/1757700178"
     },
     {
-        "ranking": "30",
-        "title": "Good Luck, Babe!",
-        "artist": "Chappell Roan",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/80x80bb.webp",
-        "appleID": "good-luck-babe/1737497080"
+        "ranking": "19",
+        "title": "น้ำหอม",
+        "artist": "Cocktail",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/fd/d7/f4fdd70e-206e-af0f-1ad9-96086ef1bf81/888332895323.jpg/80x80bb.webp",
+        "appleID": "นำหอม/1772115028"
     },
     {
-        "ranking": "31",
-        "title": "ฉันไม่ต้องการตัวเธอในตอนนี้",
-        "artist": "Little John",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/da/f2/61/daf2615c-e068-a12e-6025-01ae0d4acf10/cover.jpg/80x80bb.webp",
-        "appleID": "ฉนไมตองการตวเธอในตอนน/1758267433"
-    },
-    {
-        "ranking": "32",
-        "title": "DRIP",
-        "artist": "BABYMONSTER",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/e1/ef/b9e1ef3a-e3eb-8152-e91b-20aca0fc9ffd/BM_DRIP_Digital-Cover_4000.jpg/80x80bb.webp",
-        "appleID": "drip/1773262055"
-    },
-    {
-        "ranking": "33",
-        "title": "ผิดตั้งแต่เริ่ม (ชู้รัก)",
-        "artist": "เล็กสเร็น",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/63/ed/50/63ed500a-c033-6b40-9481-183a4570104c/0840410432066.jpg/80x80bb.webp",
-        "appleID": "ผดตงแตเรม-ชรก/1767325781"
-    },
-    {
-        "ranking": "34",
+        "ranking": "20",
         "title": "ที่เดิม",
         "artist": "PUN",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/38/86/8b388697-fefd-1fa8-04e4-a518c8761442/24UMGIM96529.rgb.jpg/80x80bb.webp",
         "appleID": "ทเดม/1767346217"
     },
     {
-        "ranking": "35",
+        "ranking": "21",
+        "title": "Snooze",
+        "artist": "SZA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
+        "appleID": "snooze/1657869492"
+    },
+    {
+        "ranking": "22",
+        "title": "เหมือนวิวาห์ (Rain wedding) [From \"วิมานหนาม\"]",
+        "artist": "Jeff Satur",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/ad/b9/a0adb977-5b6c-d2c1-9a07-65a9e309b89f/5021732460646.jpg/80x80bb.webp",
+        "appleID": "เหมอนววาห-rain-wedding-from-วมานหนาม/1760721431"
+    },
+    {
+        "ranking": "23",
+        "title": "Taste",
+        "artist": "Sabrina Carpenter",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+        "appleID": "taste/1750307079"
+    },
+    {
+        "ranking": "24",
+        "title": "The First Snow",
+        "artist": "EXO",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ae/ae/5b/aeae5b60-57e1-a742-084c-06e4fcbc6707/asset.jpg/80x80bb.webp",
+        "appleID": "the-first-snow/854908536"
+    },
+    {
+        "ranking": "25",
+        "title": "Bed Chem",
+        "artist": "Sabrina Carpenter",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+        "appleID": "bed-chem/1750307088"
+    },
+    {
+        "ranking": "26",
+        "title": "DRIP",
+        "artist": "BABYMONSTER",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/e1/ef/b9e1ef3a-e3eb-8152-e91b-20aca0fc9ffd/BM_DRIP_Digital-Cover_4000.jpg/80x80bb.webp",
+        "appleID": "drip/1773262055"
+    },
+    {
+        "ranking": "27",
+        "title": "ผิดตั้งแต่เริ่ม (ชู้รัก)",
+        "artist": "เล็กสเร็น",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/e0/47/56e047ff-f84d-f088-77b7-387112c4a1a1/0840410432066.jpg/80x80bb.webp",
+        "appleID": "ผดตงแตเรม-ชรก/1767325781"
+    },
+    {
+        "ranking": "28",
         "title": "Stuck with U",
         "artist": "Ariana Grande",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/56/ee/ec/56eeecfb-a5f3-ced0-fa69-4eda0e474aec/20UMGIM34924.rgb.jpg/80x80bb.webp",
         "appleID": "stuck-with-u/1511562950"
     },
     {
-        "ranking": "36",
-        "title": "Best Part (feat. H.E.R.)",
+        "ranking": "29",
+        "title": "Saturn",
+        "artist": "SZA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0f/90/a8/0f90a856-0447-d846-fa7b-b9c937e72310/196871881180.jpg/80x80bb.webp",
+        "appleID": "saturn/1732348414"
+    },
+    {
+        "ranking": "30",
+        "title": "Timeless",
+        "artist": "The Weeknd",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
+        "appleID": "timeless/1770380890"
+    },
+    {
+        "ranking": "31",
+        "title": "Trust Issues",
+        "artist": "imel",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/22/8e/38228ecb-ac7e-771b-9ef5-603a659f2601/cover.jpg/80x80bb.webp",
+        "appleID": "trust-issues/1777445389"
+    },
+    {
+        "ranking": "32",
+        "title": "อยู่ได้แล้ว (feat. Mirrr)",
+        "artist": "Lipta",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/a3/ea/ada3eacc-7107-5880-a4de-b2b645a944a3/cover.jpg/80x80bb.webp",
+        "appleID": "อยไดแลว-feat-mirrr/1757700564"
+    },
+    {
+        "ranking": "33",
+        "title": "That’s So True",
+        "artist": "Gracie Abrams",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
+        "appleID": "thats-so-true/1773474483"
+    },
+    {
+        "ranking": "34",
+        "title": "ใจเป็นนาย กายเป็นบ่าว",
+        "artist": "Lek Ratchamet",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/a2/20/e1a2209f-579e-031d-1a35-bdcb249302ee/888332892780.jpg/80x80bb.webp",
+        "appleID": "ใจเปนนาย-กายเปนบาว/1779325671"
+    },
+    {
+        "ranking": "35",
+        "title": "Get You (feat. Kali Uchis)",
         "artist": "Daniel Caesar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/62/f4/fd/62f4fde2-34a4-7f71-03c7-05d911b93e5a/859722261219_cover.jpg/80x80bb.webp",
-        "appleID": "best-part-feat-her/1265893532"
+        "appleID": "get-you-feat-kali-uchis/1265893529"
+    },
+    {
+        "ranking": "36",
+        "title": "we can't be friends (wait for your love)",
+        "artist": "Ariana Grande",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/34/fe/a1/34fea184-6d20-3f50-b4ce-5e1501c1c5ab/24UMGIM00198.rgb.jpg/80x80bb.webp",
+        "appleID": "we-cant-be-friends-wait-for-your-love/1725878242"
     },
     {
         "ranking": "37",
-        "title": "New Rules",
-        "artist": "Dua Lipa",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c1/54/2d/c1542d45-c6c2-12ca-7308-6eacd762c562/190295807870.jpg/80x80bb.webp",
-        "appleID": "new-rules/1228739609"
+        "title": "About You",
+        "artist": "The 1975",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ec/35/84/ec35841a-f7d1-71dd-fcb8-38e8f6c62d83/196922101519_Cover.jpg/80x80bb.webp",
+        "appleID": "about-you/1632479847"
     },
     {
         "ranking": "38",
@@ -267,436 +267,436 @@
     },
     {
         "ranking": "39",
-        "title": "Good Days",
-        "artist": "SZA",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ef/09/cf/ef09cf1f-a057-6039-00d3-7b5d14c7eba1/886449006717.jpg/80x80bb.webp",
-        "appleID": "good-days/1546390051"
+        "title": "ไกล",
+        "artist": "Musketeers",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0d/67/37/0d673744-de94-55ec-e5d5-06b3277620f9/cover.jpg/80x80bb.webp",
+        "appleID": "ไกล/1066767071"
     },
     {
         "ranking": "40",
-        "title": "เหมือนวิวาห์ (Rain wedding) [From \"วิมานหนาม\"]",
-        "artist": "Jeff Satur",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/ad/b9/a0adb977-5b6c-d2c1-9a07-65a9e309b89f/5021732460646.jpg/80x80bb.webp",
-        "appleID": "เหมอนววาห-rain-wedding-from-วมานหนาม/1760721431"
-    },
-    {
-        "ranking": "41",
-        "title": "ความทรงจำ",
-        "artist": "Musketeers",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0d/67/37/0d673744-de94-55ec-e5d5-06b3277620f9/cover.jpg/80x80bb.webp",
-        "appleID": "ความทรงจำ/1066766950"
-    },
-    {
-        "ranking": "42",
-        "title": "Timeless",
-        "artist": "The Weeknd",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
-    },
-    {
-        "ranking": "43",
-        "title": "blue",
-        "artist": "yung kai",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/62/62/33626226-0cf3-ff64-3296-b2355de71fac/0748777703419.jpg/80x80bb.webp",
-        "appleID": "blue/1776246888"
-    },
-    {
-        "ranking": "44",
-        "title": "Perfect",
-        "artist": "Ed Sheeran",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
-        "appleID": "perfect/1193701400"
-    },
-    {
-        "ranking": "45",
-        "title": "drivers license",
-        "artist": "Olivia Rodrigo",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f0/19/d6/f019d61e-6bd3-d936-1214-22b732083ef0/20UM1IM14285.rgb.jpg/80x80bb.webp",
-        "appleID": "drivers-license/1545051686"
-    },
-    {
-        "ranking": "46",
-        "title": "Halley's Comet",
-        "artist": "fellow fellow",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f1/fd/59/f1fd59e5-09ce-dde1-077e-d568ece0cee0/cover.jpg/80x80bb.webp",
-        "appleID": "halleys-comet/1701760453"
-    },
-    {
-        "ranking": "47",
-        "title": "Here's Your Perfect",
-        "artist": "Jamie Miller",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/8d/a3/d3/8da3d3bd-cf05-9886-c717-1fac067693cb/075679753960.jpg/80x80bb.webp",
-        "appleID": "heres-your-perfect/1615789022"
-    },
-    {
-        "ranking": "48",
-        "title": "Versace On The Floor",
-        "artist": "Bruno Mars",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e3/47/a0/e347a0cc-87ce-5d05-d560-176c7d48f66e/075679904119.jpg/80x80bb.webp",
-        "appleID": "versace-on-the-floor/1161504045"
-    },
-    {
-        "ranking": "49",
-        "title": "Die For You",
-        "artist": "Joji",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/2a/43/d02a433a-3ab8-9a94-b07d-1dc599b64966/93624864387.jpg/80x80bb.webp",
-        "appleID": "die-for-you/1776748892"
-    },
-    {
-        "ranking": "50",
-        "title": "I'm Not The Only One",
-        "artist": "Sam Smith",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f2/59/8a/f2598a7e-945a-3cb6-24e1-9c3ead873760/15UMGIM50961.rgb.jpg/80x80bb.webp",
-        "appleID": "im-not-the-only-one/1536993857"
-    },
-    {
-        "ranking": "51",
-        "title": "ลบไม่ได้ช่วยให้ลืม (Erase)",
-        "artist": "Ink Waruntorn",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9c/8b/f1/9c8bf14b-849f-81fc-b795-0a1b2a245667/0840102420586.jpg/80x80bb.webp",
-        "appleID": "ลบไมไดชวยใหลม-erase/1521981452"
-    },
-    {
-        "ranking": "52",
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
         "appleID": "not-like-us/1744776167"
     },
     {
-        "ranking": "53",
-        "title": "Money Trees (feat. Jay Rock)",
-        "artist": "Kendrick Lamar",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ac/9e/6a/ac9e6ad5-27a5-baef-0e33-795b2f42c3cf/12UMGIM52990.rgb.jpg/80x80bb.webp",
-        "appleID": "money-trees-feat-jay-rock/1471264099"
-    },
-    {
-        "ranking": "54",
-        "title": "ເພາະຄວາມຮັກ",
-        "artist": "Tanu Vannasin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/17/96/091796da-ffeb-cb54-2ffe-95b9e827eddd/cover.jpg/80x80bb.webp",
-        "appleID": "ເພາະຄວາມຮກ/1715898344"
-    },
-    {
-        "ranking": "55",
-        "title": "Diet Pepsi",
-        "artist": "Addison Rae",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/ef/7a/01ef7a06-1b48-0460-efbf-983d6a0a37fa/196872309959.jpg/80x80bb.webp",
-        "appleID": "diet-pepsi/1760428041"
-    },
-    {
-        "ranking": "56",
-        "title": "Bed Chem",
-        "artist": "Sabrina Carpenter",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
-        "appleID": "bed-chem/1750307088"
-    },
-    {
-        "ranking": "57",
-        "title": "Dancing In The Flames",
-        "artist": "The Weeknd",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/7e/9f/347e9f54-2d74-820f-a910-68d01f044fcf/24UMGIM95646.rgb.jpg/80x80bb.webp",
-        "appleID": "dancing-in-the-flames/1767511513"
-    },
-    {
-        "ranking": "58",
-        "title": "น้ำหอม",
-        "artist": "Cocktail",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/fd/d7/f4fdd70e-206e-af0f-1ad9-96086ef1bf81/888332895323.jpg/80x80bb.webp",
-        "appleID": "นำหอม/1772115028"
-    },
-    {
-        "ranking": "59",
-        "title": "Lover",
-        "artist": "Taylor Swift",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/80x80bb.webp",
-        "appleID": "lover/1468058173"
-    },
-    {
-        "ranking": "60",
-        "title": "positions",
-        "artist": "Ariana Grande",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e5/c0/ce/e5c0ce05-4281-dd8e-6a93-86de7cf45621/20UMGIM94964.rgb.jpg/80x80bb.webp",
-        "appleID": "positions/1537477069"
-    },
-    {
-        "ranking": "61",
-        "title": "deja vu",
-        "artist": "Olivia Rodrigo",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/33/fd/32/33fd32b1-0e43-9b4a-8ed6-19643f23544e/21UMGIM26092.rgb.jpg/80x80bb.webp",
-        "appleID": "deja-vu/1560735548"
-    },
-    {
-        "ranking": "62",
-        "title": "We Don’t Talk Anymore (feat. Selena Gomez)",
-        "artist": "Charlie Puth",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/7e/05/fd/7e05fd3e-597b-db52-5d87-3ed146d2e2bb/mzm.omtrmqdi.jpg/80x80bb.webp",
-        "appleID": "we-dont-talk-anymore-feat-selena-gomez/1031416185"
-    },
-    {
-        "ranking": "63",
-        "title": "รักแรก (First Love) [เพลงประกอบภาพยนตร์ \"รักแรกโคตรลืมยาก My Precious\"]",
-        "artist": "NONT TANONT",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5f/c6/05/5fc6053e-da92-cd0c-c938-e7fa594a7c44/888332215060.jpg/80x80bb.webp",
-        "appleID": "รกแรก-first-love-เพลงประกอบภาพยนตร-รกแรกโคตรลมยาก-my-precious/1687918091"
-    },
-    {
-        "ranking": "64",
-        "title": "Tip Toe",
-        "artist": "HYBS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/79/aa/aa/79aaaa95-f1c2-4409-1e3b-826e77b78d13/cover.jpg/80x80bb.webp",
-        "appleID": "tip-toe/1688539331"
-    },
-    {
-        "ranking": "65",
-        "title": "Lay Me Down",
-        "artist": "Sam Smith",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/80/74/b6/8074b6bc-387f-6cc9-5ede-92b76396ad5f/13UAEIM58958.rgb.jpg/80x80bb.webp",
-        "appleID": "lay-me-down/1440814843"
-    },
-    {
-        "ranking": "66",
-        "title": "Just the Way You Are",
-        "artist": "Bruno Mars",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/98/ae/c2/98aec2e1-3be4-0311-1b44-69348fc87abb/075679956484.jpg/80x80bb.webp",
-        "appleID": "just-the-way-you-are/576670459"
-    },
-    {
-        "ranking": "67",
-        "title": "ได้แต่นึกถึง",
-        "artist": "Only Monday",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2a/25/50/2a255036-6db6-b2a3-eea0-48e03511dec4/2112683901.jpg/80x80bb.webp",
-        "appleID": "ไดแตนกถง/1592085668"
-    },
-    {
-        "ranking": "68",
-        "title": "Heather",
-        "artist": "Conan Gray",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/18/08/a1/1808a1be-b5a9-5e69-583d-b8a357efd760/19UM1IM12338.rgb.jpg/80x80bb.webp",
-        "appleID": "heather/1491987867"
-    },
-    {
-        "ranking": "69",
-        "title": "ฝืนตัวเองไม่เป็น",
-        "artist": "NONT TANONT",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/f1/1b/17f11bb3-4541-8261-8bdb-310e8422cb01/0849480031803.jpg/80x80bb.webp",
-        "appleID": "ฝนตวเองไมเปน/1440556776"
-    },
-    {
-        "ranking": "70",
-        "title": "ทุกความทรงจำ",
-        "artist": "Only Monday",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/36/21/f4/3621f4f6-862e-eb42-37ec-479fdaa21448/16741.jpg/80x80bb.webp",
-        "appleID": "ทกความทรงจำ/1631812144"
-    },
-    {
-        "ranking": "71",
-        "title": "Galaxy Express",
-        "artist": "D Gerrard",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c6/e1/63/c6e1632b-e81b-e67a-a21f-79fb450bf96a/5054197946035.jpg/80x80bb.webp",
-        "appleID": "galaxy-express/1722034250"
-    },
-    {
-        "ranking": "72",
-        "title": "April",
-        "artist": "Only Monday",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f1/2d/11/f12d11b7-790f-b2d0-7fa5-514ad855d75f/888332231015.jpg/80x80bb.webp",
-        "appleID": "april/1708365802"
-    },
-    {
-        "ranking": "73",
-        "title": "Pink + White",
-        "artist": "Frank Ocean",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bb/45/68/bb4568f3-68cd-619d-fbcb-4e179916545d/BlondCover-Final.jpg/80x80bb.webp",
-        "appleID": "pink-white/1146195714"
-    },
-    {
-        "ranking": "74",
+        "ranking": "41",
         "title": "Michi Teyu Ku (Overflowing)",
         "artist": "Fujii Kaze",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d0/f4/ad/d0f4ad92-2a6c-6a02-34c5-d45b93f767d9/24UMGIM15199.rgb.jpg/80x80bb.webp",
         "appleID": "michi-teyu-ku-overflowing/1733130377"
     },
     {
-        "ranking": "75",
-        "title": "Proud",
-        "artist": "fellow fellow",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/b7/b5/29b7b52a-e195-f254-3620-12964e205087/cover.jpg/80x80bb.webp",
-        "appleID": "proud/1754224118"
+        "ranking": "42",
+        "title": "Good Luck, Babe!",
+        "artist": "Chappell Roan",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/80x80bb.webp",
+        "appleID": "good-luck-babe/1737497080"
     },
     {
-        "ranking": "76",
-        "title": "ส่วนต่าง",
-        "artist": "BOWKYLION",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/28/de/f928de13-0305-f2f9-0359-d0328e66f9f2/cover.jpg/80x80bb.webp",
-        "appleID": "สวนตาง/1742503315"
-    },
-    {
-        "ranking": "77",
-        "title": "MILLION DOLLAR BABY",
-        "artist": "Tommy Richman",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5c/e7/39/5ce73933-8f42-1095-e84b-0caec311f54b/24CRGIM43010.rgb.jpg/80x80bb.webp",
-        "appleID": "million-dollar-baby/1749616863"
-    },
-    {
-        "ranking": "78",
+        "ranking": "43",
         "title": "Magic",
         "artist": "WIM",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d8/16/e0/d816e018-75a3-bc6f-d954-98c5e96c5178/cover.jpg/80x80bb.webp",
-        "appleID": "magic/1757808698"
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2a/36/3b/2a363b7d-4e19-c3bc-0aa7-40a78716ca38/cover.jpg/80x80bb.webp",
+        "appleID": "magic/1770773705"
     },
     {
-        "ranking": "79",
-        "title": "WILDFLOWER",
-        "artist": "Billie Eilish",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "ranking": "44",
+        "title": "Down Bad",
+        "artist": "Taylor Swift",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/86/59/a486593a-53c9-1c2a-5122-8f25339f7359/24UMGIM44778.rgb.jpg/80x80bb.webp",
+        "appleID": "down-bad/1742058080"
     },
     {
-        "ranking": "80",
-        "title": "วันที่นาฬิกาของเราหมุนไปพร้อมกัน",
-        "artist": "No One Else",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f7/33/78/f7337849-0a23-91d1-9445-4bc58265996d/198704100314_Cover.jpg/80x80bb.webp",
-        "appleID": "วนทนาฬกาของเราหมนไปพรอมกน/1761781046"
+        "ranking": "45",
+        "title": "One Of The Girls",
+        "artist": "The Weeknd",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/db/28/e7/db28e7c3-f53a-76c8-eaa4-d92a22e4f160/23UMGIM72115.rgb.jpg/80x80bb.webp",
+        "appleID": "one-of-the-girls/1693891139"
     },
     {
-        "ranking": "81",
+        "ranking": "46",
+        "title": "Ghost",
+        "artist": "Jeff Satur",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2d/8a/7c/2d8a7c7b-5ebd-6f42-8300-69730a55a2eb/5054197954672.jpg/80x80bb.webp",
+        "appleID": "ghost/1724685427"
+    },
+    {
+        "ranking": "47",
+        "title": "Tip Toe",
+        "artist": "HYBS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/79/aa/aa/79aaaa95-f1c2-4409-1e3b-826e77b78d13/cover.jpg/80x80bb.webp",
+        "appleID": "tip-toe/1688539331"
+    },
+    {
+        "ranking": "48",
+        "title": "PURE",
+        "artist": "Tanu Vannasin",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/21/3b/25/213b2519-eecf-2f19-b07a-1fa9a1f345bf/cover.jpg/80x80bb.webp",
+        "appleID": "pure/1717359811"
+    },
+    {
+        "ranking": "49",
+        "title": "บานปลาย (Best wishes)",
+        "artist": "BOWKYLION",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d8/cb/3a/d8cb3abf-0d3e-e497-5bd6-026a1ab85574/cover.jpg/80x80bb.webp",
+        "appleID": "บานปลาย-best-wishes/1592427933"
+    },
+    {
+        "ranking": "50",
+        "title": "greedy",
+        "artist": "Tate McRae",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/23/07/92/23079247-25be-3098-ef53-78e7d0fe7406/196871341653.jpg/80x80bb.webp",
+        "appleID": "greedy/1706381103"
+    },
+    {
+        "ranking": "51",
+        "title": "จดจำ",
+        "artist": "Only Monday",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d9/f5/cd/d9f5cd64-4624-307e-3c4c-0ddf6f12057e/888332270946.jpg/80x80bb.webp",
+        "appleID": "จดจำ/1726028179"
+    },
+    {
+        "ranking": "52",
+        "title": "seasons",
+        "artist": "wave to earth",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1d/b2/a1/1db2a1fe-2327-e014-c7be-82f9eeea4f8d/5054197890017.jpg/80x80bb.webp",
+        "appleID": "seasons/1713950834"
+    },
+    {
+        "ranking": "53",
+        "title": "Goodbye",
+        "artist": "PUN",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d9/93/3b/d9933bdc-b841-6f60-6af5-e5e91bb1f4e7/24UMGIM01242.rgb.jpg/80x80bb.webp",
+        "appleID": "goodbye/1725257970"
+    },
+    {
+        "ranking": "54",
+        "title": "ความทรงจำ",
+        "artist": "Musketeers",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0d/67/37/0d673744-de94-55ec-e5d5-06b3277620f9/cover.jpg/80x80bb.webp",
+        "appleID": "ความทรงจำ/1066766950"
+    },
+    {
+        "ranking": "55",
+        "title": "ເພາະຄວາມຮັກ",
+        "artist": "Tanu Vannasin",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/17/96/091796da-ffeb-cb54-2ffe-95b9e827eddd/cover.jpg/80x80bb.webp",
+        "appleID": "ເພາະຄວາມຮກ/1715898344"
+    },
+    {
+        "ranking": "56",
+        "title": "I Just Wanna Know",
+        "artist": "PUN",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/38/86/8b388697-fefd-1fa8-04e4-a518c8761442/24UMGIM96529.rgb.jpg/80x80bb.webp",
+        "appleID": "i-just-wanna-know/1767346201"
+    },
+    {
+        "ranking": "57",
+        "title": "blue",
+        "artist": "yung kai",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/62/62/33626226-0cf3-ff64-3296-b2355de71fac/0748777703419.jpg/80x80bb.webp",
+        "appleID": "blue/1776246888"
+    },
+    {
+        "ranking": "58",
         "title": "Whiplash",
         "artist": "aespa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/c1/f5/d5c1f505-f588-775f-df05-c672a8ec22e9/888735949562_Cover.jpg/80x80bb.webp",
         "appleID": "whiplash/1772214981"
     },
     {
-        "ranking": "82",
-        "title": "That’s So True",
-        "artist": "Gracie Abrams",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
-        "appleID": "thats-so-true/1773474483"
-    },
-    {
-        "ranking": "83",
-        "title": "BABY I'M BACK",
-        "artist": "The Kid LAROI",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/4d/01/c64d014b-67f5-77cd-6b23-67130d1915ad/196872372113.jpg/80x80bb.webp",
-        "appleID": "baby-im-back/1761439496"
-    },
-    {
-        "ranking": "84",
+        "ranking": "59",
         "title": "จื่อบ่",
         "artist": "Kantong Tungngern",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/91/d1/4b/91d14b48-fe3c-7b6f-4d85-c3bab7ca9cf2/888332896115.jpg/80x80bb.webp",
         "appleID": "จอบ/1766330183"
     },
     {
+        "ranking": "60",
+        "title": "Garden",
+        "artist": "Fujii Kaze",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/85/2e/2b/852e2b6c-93ec-806a-95b2-8f5eda2f775c/22UMGIM18886.rgb.jpg/80x80bb.webp",
+        "appleID": "garden/1611482698"
+    },
+    {
+        "ranking": "61",
+        "title": "เดินทางโดยสวัสดิภาพ",
+        "artist": "SARAN",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/52/86/45/5286455b-a557-252c-43a9-653737710f6e/cover.jpg/80x80bb.webp",
+        "appleID": "เดนทางโดยสวสดภาพ/1780575837"
+    },
+    {
+        "ranking": "62",
+        "title": "Perfect",
+        "artist": "Ed Sheeran",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
+        "appleID": "perfect/1193701400"
+    },
+    {
+        "ranking": "63",
+        "title": "drivers license",
+        "artist": "Olivia Rodrigo",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f0/19/d6/f019d61e-6bd3-d936-1214-22b732083ef0/20UM1IM14285.rgb.jpg/80x80bb.webp",
+        "appleID": "drivers-license/1545051686"
+    },
+    {
+        "ranking": "64",
+        "title": "Halley's Comet",
+        "artist": "fellow fellow",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f1/fd/59/f1fd59e5-09ce-dde1-077e-d568ece0cee0/cover.jpg/80x80bb.webp",
+        "appleID": "halleys-comet/1701760453"
+    },
+    {
+        "ranking": "65",
+        "title": "thank u, next",
+        "artist": "Ariana Grande",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e4/06/d3/e406d3d8-2507-e585-c919-60bc5446985c/19UMGIM03689.rgb.jpg/80x80bb.webp",
+        "appleID": "thank-u-next/1450330686"
+    },
+    {
+        "ranking": "66",
+        "title": "Here's Your Perfect",
+        "artist": "Jamie Miller",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/8d/a3/d3/8da3d3bd-cf05-9886-c717-1fac067693cb/075679753960.jpg/80x80bb.webp",
+        "appleID": "heres-your-perfect/1615789022"
+    },
+    {
+        "ranking": "67",
+        "title": "Versace On The Floor",
+        "artist": "Bruno Mars",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e3/47/a0/e347a0cc-87ce-5d05-d560-176c7d48f66e/075679904119.jpg/80x80bb.webp",
+        "appleID": "versace-on-the-floor/1161504045"
+    },
+    {
+        "ranking": "68",
+        "title": "We Don’t Talk Anymore (feat. Selena Gomez)",
+        "artist": "Charlie Puth",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/7e/05/fd/7e05fd3e-597b-db52-5d87-3ed146d2e2bb/mzm.omtrmqdi.jpg/80x80bb.webp",
+        "appleID": "we-dont-talk-anymore-feat-selena-gomez/1031416185"
+    },
+    {
+        "ranking": "69",
+        "title": "คู่ชีวิต",
+        "artist": "Cocktail",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/a7/5f/a1a75fae-8e99-b66b-7ed5-f1627dc57f5f/888332045704.jpg/80x80bb.webp",
+        "appleID": "คชวต/916738120"
+    },
+    {
+        "ranking": "70",
+        "title": "I'm Not The Only One",
+        "artist": "Sam Smith",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f2/59/8a/f2598a7e-945a-3cb6-24e1-9c3ead873760/15UMGIM50961.rgb.jpg/80x80bb.webp",
+        "appleID": "im-not-the-only-one/1536993857"
+    },
+    {
+        "ranking": "71",
+        "title": "New Rules",
+        "artist": "Dua Lipa",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c1/54/2d/c1542d45-c6c2-12ca-7308-6eacd762c562/190295807870.jpg/80x80bb.webp",
+        "appleID": "new-rules/1228739609"
+    },
+    {
+        "ranking": "72",
+        "title": "ไม่เป็นรอง",
+        "artist": "Cocktail",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/2a/d1/28/2ad12878-c6ea-596d-712c-ea4698511d9a/2213463301.jpg/80x80bb.webp",
+        "appleID": "ไมเปนรอง/1640220445"
+    },
+    {
+        "ranking": "73",
+        "title": "Lay Me Down",
+        "artist": "Sam Smith",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/80/74/b6/8074b6bc-387f-6cc9-5ede-92b76396ad5f/13UAEIM58958.rgb.jpg/80x80bb.webp",
+        "appleID": "lay-me-down/1440814843"
+    },
+    {
+        "ranking": "74",
+        "title": "Heather",
+        "artist": "Conan Gray",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/18/08/a1/1808a1be-b5a9-5e69-583d-b8a357efd760/19UM1IM12338.rgb.jpg/80x80bb.webp",
+        "appleID": "heather/1491987867"
+    },
+    {
+        "ranking": "75",
+        "title": "Agora Hills",
+        "artist": "Doja Cat",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/97/c7/f2/97c7f256-6db0-a45b-a786-f58dc928c970/196871404495.jpg/80x80bb.webp",
+        "appleID": "agora-hills/1704922308"
+    },
+    {
+        "ranking": "76",
+        "title": "ทางของฝุ่น",
+        "artist": "Atom Chanakan",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6b/19/ac/6b19ac2b-5224-fad4-7e18-cb3b1892a175/12686_1.jpg/80x80bb.webp",
+        "appleID": "ทางของฝน/1318647474"
+    },
+    {
+        "ranking": "77",
+        "title": "Good Days",
+        "artist": "SZA",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ef/09/cf/ef09cf1f-a057-6039-00d3-7b5d14c7eba1/886449006717.jpg/80x80bb.webp",
+        "appleID": "good-days/1546390051"
+    },
+    {
+        "ranking": "78",
+        "title": "เธอ",
+        "artist": "Cocktail",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/a7/5f/a1a75fae-8e99-b66b-7ed5-f1627dc57f5f/888332045704.jpg/80x80bb.webp",
+        "appleID": "เธอ/916738121"
+    },
+    {
+        "ranking": "79",
+        "title": "ONLY",
+        "artist": "LeeHi",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d9/5a/a9/d95aa943-0e9b-ae75-3157-ab372f5b831a/8809704422604_Cover.jpg/80x80bb.webp",
+        "appleID": "only/1584615664"
+    },
+    {
+        "ranking": "80",
+        "title": "เธอทำให้ฉันเสียใจ",
+        "artist": "Cocktail",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/f4/31/b0f4316c-a0b2-338d-1a02-712995af809b/888332000864.jpg/80x80bb.webp",
+        "appleID": "เธอทำใหฉนเสยใจ/705719148"
+    },
+    {
+        "ranking": "81",
+        "title": "intro (end of the world)",
+        "artist": "Ariana Grande",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/34/fe/a1/34fea184-6d20-3f50-b4ce-5e1501c1c5ab/24UMGIM00198.rgb.jpg/80x80bb.webp",
+        "appleID": "intro-end-of-the-world/1725877946"
+    },
+    {
+        "ranking": "82",
+        "title": "Snow On The Beach (feat. Lana Del Rey)",
+        "artist": "Taylor Swift",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/59/13/5c/59135ccc-8425-415c-7f89-8aeada60088e/22UM1IM22440.rgb.jpg/80x80bb.webp",
+        "appleID": "snow-on-the-beach-feat-lana-del-rey/1650841728"
+    },
+    {
+        "ranking": "83",
+        "title": "Always",
+        "artist": "Daniel Caesar",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/e3/8e/36e38e7e-94ec-dbcd-f23c-0890e1a9518f/22UM1IM44821.rgb.jpg/80x80bb.webp",
+        "appleID": "always/1681323048"
+    },
+    {
+        "ranking": "84",
+        "title": "ทุกนาทีที่สวยงาม",
+        "artist": "NONT TANONT",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5e/2b/94/5e2b94f0-77f5-62e3-8f3c-d5e76405b8bc/cover.jpg/80x80bb.webp",
+        "appleID": "ทกนาททสวยงาม/1635895631"
+    },
+    {
         "ranking": "85",
-        "title": "40 Hz - Binaural Beats",
-        "artist": "Miracle Healing Tones REM",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/d1/31/c8d1312e-9776-b34c-6bf5-3401be2731cc/918f8825-c47f-4fa4-9632-0c830b75853e.jpg/80x80bb.webp",
-        "appleID": "40-hz-binaural-beats/1742692214"
+        "title": "End of Beginning",
+        "artist": "Djo",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e5/94/31/e59431de-7591-58e6-c4d4-105b6373ad6a/5056494917336_1.jpg/80x80bb.webp",
+        "appleID": "end-of-beginning/1632448108"
     },
     {
         "ranking": "86",
-        "title": "40 Hz - Genius Brain Frequency",
-        "artist": "Miracle Healing Tones REM",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/d1/31/c8d1312e-9776-b34c-6bf5-3401be2731cc/918f8825-c47f-4fa4-9632-0c830b75853e.jpg/80x80bb.webp",
-        "appleID": "40-hz-genius-brain-frequency/1742692213"
+        "title": "Proud",
+        "artist": "fellow fellow",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/b7/b5/29b7b52a-e195-f254-3620-12964e205087/cover.jpg/80x80bb.webp",
+        "appleID": "proud/1754224118"
     },
     {
         "ranking": "87",
-        "title": "40 Hz - Tone to Help you Learning",
-        "artist": "Miracle Healing Tones REM",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/d1/31/c8d1312e-9776-b34c-6bf5-3401be2731cc/918f8825-c47f-4fa4-9632-0c830b75853e.jpg/80x80bb.webp",
-        "appleID": "40-hz-tone-to-help-you-learning/1742692208"
+        "title": "MILLION DOLLAR BABY",
+        "artist": "Tommy Richman",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5c/e7/39/5ce73933-8f42-1095-e84b-0caec311f54b/24CRGIM43010.rgb.jpg/80x80bb.webp",
+        "appleID": "million-dollar-baby/1749616863"
     },
     {
         "ranking": "88",
-        "title": "40 Hz - Concentration",
-        "artist": "Miracle Healing Tones REM",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/d1/31/c8d1312e-9776-b34c-6bf5-3401be2731cc/918f8825-c47f-4fa4-9632-0c830b75853e.jpg/80x80bb.webp",
-        "appleID": "40-hz-concentration/1742692211"
+        "title": "จางหาย",
+        "artist": "Goy Arachaporn",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/90/84/b9908434-50d9-40e9-e57b-a6cbffdfeea0/cover.jpg/80x80bb.webp",
+        "appleID": "จางหาย/1740878511"
     },
     {
         "ranking": "89",
-        "title": "40 Hz - Reduce Stress Level",
-        "artist": "Miracle Healing Tones REM",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/d1/31/c8d1312e-9776-b34c-6bf5-3401be2731cc/918f8825-c47f-4fa4-9632-0c830b75853e.jpg/80x80bb.webp",
-        "appleID": "40-hz-reduce-stress-level/1742692216"
+        "title": "ฉันไม่ต้องการตัวเธอในตอนนี้",
+        "artist": "Little John",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/da/f2/61/daf2615c-e068-a12e-6025-01ae0d4acf10/cover.jpg/80x80bb.webp",
+        "appleID": "ฉนไมตองการตวเธอในตอนน/1758267433"
     },
     {
         "ranking": "90",
-        "title": "40 Hz - Improve Your Mood",
-        "artist": "Miracle Healing Tones REM",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/d1/31/c8d1312e-9776-b34c-6bf5-3401be2731cc/918f8825-c47f-4fa4-9632-0c830b75853e.jpg/80x80bb.webp",
-        "appleID": "40-hz-improve-your-mood/1742692217"
+        "title": "Guilty as Sin?",
+        "artist": "Taylor Swift",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/86/59/a486593a-53c9-1c2a-5122-8f25339f7359/24UMGIM44778.rgb.jpg/80x80bb.webp",
+        "appleID": "guilty-as-sin/1742058097"
     },
     {
         "ranking": "91",
-        "title": "40 Hz - Accelerated Learning",
-        "artist": "Miracle Healing Tones REM",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/d1/31/c8d1312e-9776-b34c-6bf5-3401be2731cc/918f8825-c47f-4fa4-9632-0c830b75853e.jpg/80x80bb.webp",
-        "appleID": "40-hz-accelerated-learning/1742692209"
+        "title": "วันที่นาฬิกาของเราหมุนไปพร้อมกัน",
+        "artist": "No One Else",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f7/33/78/f7337849-0a23-91d1-9445-4bc58265996d/198704100314_Cover.jpg/80x80bb.webp",
+        "appleID": "วนทนาฬกาของเราหมนไปพรอมกน/1761781046"
     },
     {
         "ranking": "92",
-        "title": "tv off (feat. Lefty Gunplay)",
-        "artist": "Kendrick Lamar",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "tv-off-feat-lefty-gunplay/1781270540"
+        "title": "Aeroplane",
+        "artist": "Tanu Vannasin",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/18/49/3c/18493cf2-7ba6-0700-2a5a-10cc48edcbb0/cover.jpg/80x80bb.webp",
+        "appleID": "aeroplane/1633868799"
     },
     {
         "ranking": "93",
+        "title": "supernatural",
+        "artist": "Ariana Grande",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/34/fe/a1/34fea184-6d20-3f50-b4ce-5e1501c1c5ab/24UMGIM00198.rgb.jpg/80x80bb.webp",
+        "appleID": "supernatural/1725877965"
+    },
+    {
+        "ranking": "94",
+        "title": "Juno",
+        "artist": "Sabrina Carpenter",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+        "appleID": "juno/1750307372"
+    },
+    {
+        "ranking": "95",
+        "title": "It's ok I'm ok",
+        "artist": "Tate McRae",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/61/e6/3e/61e63e45-56a5-f035-edd5-4c6c52e9369d/196872401141.jpg/80x80bb.webp",
+        "appleID": "its-ok-im-ok/1766776983"
+    },
+    {
+        "ranking": "96",
+        "title": "I Love You, I'm Sorry",
+        "artist": "Gracie Abrams",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/9a/a7/529aa76f-5d60-cd81-9eb0-0eb521de861d/24UMGIM43968.rgb.jpg/80x80bb.webp",
+        "appleID": "i-love-you-im-sorry/1743054747"
+    },
+    {
+        "ranking": "97",
+        "title": "São Paulo",
+        "artist": "The Weeknd",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/4a/64/934a64d3-2665-72ef-e5b4-29d61fd3707a/24UM1IM21420.rgb.jpg/80x80bb.webp",
+        "appleID": "são-paulo/1776914757"
+    },
+    {
+        "ranking": "98",
         "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
         "artist": "Post Malone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4b/30/2c/4b302cb6-7a14-5464-4e97-0577e9d0be49/18UMGIM82277.rgb.jpg/80x80bb.webp",
         "appleID": "sunflower-spider-man-into-the-spider-verse/1445949267"
     },
     {
-        "ranking": "94",
-        "title": "Intentions (feat. Quavo)",
-        "artist": "Justin Bieber",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/21/4e/d2214ea9-97ff-46ef-ac45-7fca6fb73839/20UMGIM03126.rgb.jpg/80x80bb.webp",
-        "appleID": "intentions-feat-quavo/1496639586"
-    },
-    {
-        "ranking": "95",
-        "title": "Circles",
-        "artist": "Post Malone",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7b/1b/1b/7b1b1b0b-7ce2-b223-f9e0-8e36abe51877/19UMGIM78325.rgb.jpg/80x80bb.webp",
-        "appleID": "circles/1477880561"
-    },
-    {
-        "ranking": "96",
-        "title": "คิด(แต่ไม่)ถึง (Same Page?)",
-        "artist": "Tilly Birds",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/42/ff/36/42ff36da-d3db-d7b4-f35f-41cc20713f18/2009292401.jpg/80x80bb.webp",
-        "appleID": "คดแตไมถง-same-page/1499607899"
-    },
-    {
-        "ranking": "97",
-        "title": "HEARTBREAK ANNIVERSARY",
-        "artist": "GIVĒON",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/79/2a/75/792a75c1-1898-cb68-6988-123ade03d546/886448298816.jpg/80x80bb.webp",
-        "appleID": "heartbreak-anniversary/1499127838"
-    },
-    {
-        "ranking": "98",
-        "title": "Leave The Door Open",
-        "artist": "Silk Sonic",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c5/33/dc/c533dc8e-2baa-94f9-22be-e6e28945f932/075679754134.jpg/80x80bb.webp",
-        "appleID": "leave-the-door-open/1612867242"
-    },
-    {
         "ranking": "99",
-        "title": "ฝนตกไหม",
-        "artist": "Three Man Down",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ed/5c/ad/ed5cad9e-3f3d-340c-47cd-51fb61d6bd76/1909240101.jpg/80x80bb.webp",
-        "appleID": "ฝนตกไหม/1486758547"
+        "title": "Lover",
+        "artist": "Taylor Swift",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/80x80bb.webp",
+        "appleID": "lover/1468058173"
     },
     {
         "ranking": "100",
-        "title": "thank u, next",
-        "artist": "Ariana Grande",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e4/06/d3/e406d3d8-2507-e585-c919-60bc5446985c/19UMGIM03689.rgb.jpg/80x80bb.webp",
-        "appleID": "thank-u-next/1450330686"
+        "title": "Best Part (feat. H.E.R.)",
+        "artist": "Daniel Caesar",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/62/f4/fd/62f4fde2-34a4-7f71-03c7-05d911b93e5a/859722261219_cover.jpg/80x80bb.webp",
+        "appleID": "best-part-feat-her/1265893532"
     }
 ]

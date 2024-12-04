@@ -15,17 +15,17 @@
     },
     {
         "ranking": "3",
-        "title": "PROBATION",
-        "artist": "Gazo",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7e/cd/60/7ecd6037-c833-3b0d-c638-d734e3b06c22/196872607345.jpg/80x80bb.webp",
-        "appleID": "probation/1776875282"
-    },
-    {
-        "ranking": "4",
         "title": "CARTIER SANTOS",
         "artist": "SDM",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/46/95/64469515-0230-b26c-69cf-5db61f5ea879/24UMGIM72197.rgb.jpg/80x80bb.webp",
         "appleID": "cartier-santos/1757803302"
+    },
+    {
+        "ranking": "4",
+        "title": "PROBATION",
+        "artist": "Gazo",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7e/cd/60/7ecd6037-c833-3b0d-c638-d734e3b06c22/196872607345.jpg/80x80bb.webp",
+        "appleID": "probation/1776875282"
     },
     {
         "ranking": "5",
@@ -43,192 +43,192 @@
     },
     {
         "ranking": "7",
-        "title": "TOKI",
-        "artist": "Gazo",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/5e/2a/015e2a71-e1bf-bd50-02ae-06e03bea3ff9/196872618525.jpg/80x80bb.webp",
-        "appleID": "toki/1780777844"
-    },
-    {
-        "ranking": "8",
         "title": "POUR ELLE",
         "artist": "SDM",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/46/95/64469515-0230-b26c-69cf-5db61f5ea879/24UMGIM72197.rgb.jpg/80x80bb.webp",
         "appleID": "pour-elle/1757803290"
     },
     {
-        "ranking": "9",
-        "title": "WEMBY (feat. Offset)",
-        "artist": "Gazo",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/5e/2a/015e2a71-e1bf-bd50-02ae-06e03bea3ff9/196872618525.jpg/80x80bb.webp",
-        "appleID": "wemby-feat-offset/1780778121"
-    },
-    {
-        "ranking": "10",
-        "title": "BIRTHDAY (feat. Jul)",
-        "artist": "Gazo",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/5e/2a/015e2a71-e1bf-bd50-02ae-06e03bea3ff9/196872618525.jpg/80x80bb.webp",
-        "appleID": "birthday-feat-jul/1780778122"
-    },
-    {
-        "ranking": "11",
+        "ranking": "8",
         "title": "Collabo",
         "artist": "Ninho",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/9a/cc/149accc7-965e-043a-666a-50ea360bab61/5021732509574.jpg/80x80bb.webp",
         "appleID": "collabo/1773821191"
     },
     {
-        "ranking": "12",
+        "ranking": "9",
         "title": "Ça parle mal",
         "artist": "Bouss",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9e/c9/be/9ec9be96-5b08-980d-5918-7834bc558323/cover.jpg/80x80bb.webp",
         "appleID": "ça-parle-mal/1751725260"
     },
     {
-        "ranking": "13",
-        "title": "LA BELLE ET LA BÊTE",
+        "ranking": "10",
+        "title": "TOKI",
         "artist": "Gazo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/5e/2a/015e2a71-e1bf-bd50-02ae-06e03bea3ff9/196872618525.jpg/80x80bb.webp",
-        "appleID": "la-belle-et-la-bête/1780777847"
+        "appleID": "toki/1780777844"
     },
     {
-        "ranking": "14",
+        "ranking": "11",
+        "title": "WEMBY (feat. Offset)",
+        "artist": "Gazo",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/5e/2a/015e2a71-e1bf-bd50-02ae-06e03bea3ff9/196872618525.jpg/80x80bb.webp",
+        "appleID": "wemby-feat-offset/1780778121"
+    },
+    {
+        "ranking": "12",
         "title": "Angela",
         "artist": "Bouss",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/10/2f/cd102f76-3cce-326b-9424-911ad3bff588/cover.jpg/80x80bb.webp",
         "appleID": "angela/1779576117"
     },
     {
-        "ranking": "15",
-        "title": "ENCORE PLUS FORT ELLE AIME ÇA",
+        "ranking": "13",
+        "title": "BIRTHDAY (feat. Jul)",
         "artist": "Gazo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/5e/2a/015e2a71-e1bf-bd50-02ae-06e03bea3ff9/196872618525.jpg/80x80bb.webp",
-        "appleID": "encore-plus-fort-elle-aime-ça/1780777846"
+        "appleID": "birthday-feat-jul/1780778122"
     },
     {
-        "ranking": "16",
-        "title": "FIESTA (feat. Morad)",
-        "artist": "Gazo",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/5e/2a/015e2a71-e1bf-bd50-02ae-06e03bea3ff9/196872618525.jpg/80x80bb.webp",
-        "appleID": "fiesta-feat-morad/1780778125"
-    },
-    {
-        "ranking": "17",
+        "ranking": "14",
         "title": "KONGOLESE SOUS BBL",
         "artist": "Theodora",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6e/72/23/6e72239a-a2d5-8e30-3cbd-2eaae9fcc2fc/24UM1IM03894.rgb.jpg/80x80bb.webp",
         "appleID": "kongolese-sous-bbl/1769644345"
     },
     {
-        "ranking": "18",
-        "title": "OPTIMALE (feat. Orelsan)",
-        "artist": "Gazo",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/5e/2a/015e2a71-e1bf-bd50-02ae-06e03bea3ff9/196872618525.jpg/80x80bb.webp",
-        "appleID": "optimale-feat-orelsan/1780778126"
-    },
-    {
-        "ranking": "19",
-        "title": "WAYANS",
-        "artist": "Gazo",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/5e/2a/015e2a71-e1bf-bd50-02ae-06e03bea3ff9/196872618525.jpg/80x80bb.webp",
-        "appleID": "wayans/1780778128"
-    },
-    {
-        "ranking": "20",
+        "ranking": "15",
         "title": "Un jour, je l'aurai",
         "artist": "Jul",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9c/66/ec/9c66ecd7-f04c-6dea-82c5-fdc216b7dcef/cover.jpg/80x80bb.webp",
         "appleID": "un-jour-je-laurai/1779497880"
     },
     {
-        "ranking": "21",
+        "ranking": "16",
         "title": "Boulot (feat. SDM)",
         "artist": "KeBlack",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/8d/21/7c8d215d-7016-3daf-80bf-37a290e2274a/cover.jpg/80x80bb.webp",
         "appleID": "boulot-feat-sdm/1779280400"
     },
     {
-        "ranking": "22",
-        "title": "SOIS PAS TIMIDE",
-        "artist": "GIMS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/45/19/714519f5-40a6-b81a-d099-56512c4e4914/cover.jpg/80x80bb.webp",
-        "appleID": "sois-pas-timide/1757643303"
-    },
-    {
-        "ranking": "23",
+        "ranking": "17",
         "title": "La pluie",
         "artist": "SCH",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/09/ec/b009ec04-d42a-d0a2-4f5d-1db4e800098a/5021732530165.jpg/80x80bb.webp",
         "appleID": "la-pluie/1775954632"
     },
     {
-        "ranking": "24",
-        "title": "SELELE (feat. Fally Ipupa)",
+        "ranking": "18",
+        "title": "LA BELLE ET LA BÊTE",
         "artist": "Gazo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/5e/2a/015e2a71-e1bf-bd50-02ae-06e03bea3ff9/196872618525.jpg/80x80bb.webp",
-        "appleID": "selele-feat-fally-ipupa/1780777848"
+        "appleID": "la-belle-et-la-bête/1780777847"
     },
     {
-        "ranking": "25",
-        "title": "POP (feat. La Mano 1.9)",
+        "ranking": "19",
+        "title": "FIESTA (feat. Morad)",
         "artist": "Gazo",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f5/9c/e2/f59ce256-0c1f-b75c-53f4-bf47567af287/196872534153.jpg/80x80bb.webp",
-        "appleID": "pop-feat-la-mano-19/1773796080"
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/5e/2a/015e2a71-e1bf-bd50-02ae-06e03bea3ff9/196872618525.jpg/80x80bb.webp",
+        "appleID": "fiesta-feat-morad/1780778125"
     },
     {
-        "ranking": "26",
+        "ranking": "20",
+        "title": "SOIS PAS TIMIDE",
+        "artist": "GIMS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/45/19/714519f5-40a6-b81a-d099-56512c4e4914/cover.jpg/80x80bb.webp",
+        "appleID": "sois-pas-timide/1757643303"
+    },
+    {
+        "ranking": "21",
         "title": "Pétunias",
         "artist": "Werenoi",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/9b/05/c89b0549-bea5-4c63-6faa-57a6e3fc1f7a/cover.jpg/80x80bb.webp",
         "appleID": "pétunias/1771385253"
     },
     {
-        "ranking": "27",
-        "title": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
-        "artist": "Stromae",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/cf/11/54cf11ab-ac8b-587c-d98f-ac491277ae97/00198704145971_Cover.jpg/80x80bb.webp",
-        "appleID": "ma-meilleure-ennemie-from-the-series-arcane-league-of-legends/1767032201"
+        "ranking": "22",
+        "title": "ENCORE PLUS FORT ELLE AIME ÇA",
+        "artist": "Gazo",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/5e/2a/015e2a71-e1bf-bd50-02ae-06e03bea3ff9/196872618525.jpg/80x80bb.webp",
+        "appleID": "encore-plus-fort-elle-aime-ça/1780777846"
     },
     {
-        "ranking": "28",
+        "ranking": "23",
+        "title": "WAYANS",
+        "artist": "Gazo",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/5e/2a/015e2a71-e1bf-bd50-02ae-06e03bea3ff9/196872618525.jpg/80x80bb.webp",
+        "appleID": "wayans/1780778128"
+    },
+    {
+        "ranking": "24",
+        "title": "OPTIMALE (feat. Orelsan)",
+        "artist": "Gazo",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/5e/2a/015e2a71-e1bf-bd50-02ae-06e03bea3ff9/196872618525.jpg/80x80bb.webp",
+        "appleID": "optimale-feat-orelsan/1780778126"
+    },
+    {
+        "ranking": "25",
         "title": "D BLOCK AFRIQUE",
         "artist": "Dinos",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/c6/d9/fdc6d976-2b55-defd-0f30-8c6bbe6c24b5/cover.jpg/80x80bb.webp",
         "appleID": "d-block-afrique/1779541670"
     },
     {
-        "ranking": "29",
-        "title": "SPIDER",
-        "artist": "GIMS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/82/df/6782df30-18ea-9803-e2d3-a1d66a040f08/cover.jpg/80x80bb.webp",
-        "appleID": "spider/1744575457"
-    },
-    {
-        "ranking": "30",
+        "ranking": "26",
         "title": "Sous la lune",
         "artist": "Jul",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/7f/06/c5/7f06c536-a0e2-b9b9-ac42-201a0c7b8291/cover.jpg/80x80bb.webp",
         "appleID": "sous-la-lune/1665673612"
     },
     {
-        "ranking": "31",
-        "title": "iLUV",
-        "artist": "Gazo",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/5e/2a/015e2a71-e1bf-bd50-02ae-06e03bea3ff9/196872618525.jpg/80x80bb.webp",
-        "appleID": "iluv/1780778133"
+        "ranking": "27",
+        "title": "SPIDER",
+        "artist": "GIMS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/82/df/6782df30-18ea-9803-e2d3-a1d66a040f08/cover.jpg/80x80bb.webp",
+        "appleID": "spider/1744575457"
     },
     {
-        "ranking": "32",
+        "ranking": "28",
+        "title": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
+        "artist": "Stromae",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/cf/11/54cf11ab-ac8b-587c-d98f-ac491277ae97/00198704145971_Cover.jpg/80x80bb.webp",
+        "appleID": "ma-meilleure-ennemie-from-the-series-arcane-league-of-legends/1767032201"
+    },
+    {
+        "ranking": "29",
+        "title": "POP (feat. La Mano 1.9)",
+        "artist": "Gazo",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f5/9c/e2/f59ce256-0c1f-b75c-53f4-bf47567af287/196872534153.jpg/80x80bb.webp",
+        "appleID": "pop-feat-la-mano-19/1773796080"
+    },
+    {
+        "ranking": "30",
+        "title": "SELELE (feat. Fally Ipupa)",
+        "artist": "Gazo",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/5e/2a/015e2a71-e1bf-bd50-02ae-06e03bea3ff9/196872618525.jpg/80x80bb.webp",
+        "appleID": "selele-feat-fally-ipupa/1780777848"
+    },
+    {
+        "ranking": "31",
         "title": "Minimum ça",
         "artist": "Dr. Yaro",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a7/ba/f8/a7baf8ed-265f-a88c-5fa5-74f13861b5e8/859792094922.jpg/80x80bb.webp",
         "appleID": "minimum-ça/1773286871"
     },
     {
+        "ranking": "32",
+        "title": "TOKA",
+        "artist": "SDM",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/46/95/64469515-0230-b26c-69cf-5db61f5ea879/24UMGIM72197.rgb.jpg/80x80bb.webp",
+        "appleID": "toka/1757803472"
+    },
+    {
         "ranking": "33",
-        "title": "1 Minute",
-        "artist": "Lynda",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/98/44/14/984414e5-4f15-332f-eb71-5ce94d4761ae/24UM1IM29149.rgb.jpg/80x80bb.webp",
-        "appleID": "1-minute/1779964851"
+        "title": "Coco",
+        "artist": "Ninho",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/ac/86/96ac86cd-459e-d601-6eae-9cc29abedfc3/5021732433527.jpg/80x80bb.webp",
+        "appleID": "coco/1755595701"
     },
     {
         "ranking": "34",
@@ -239,24 +239,24 @@
     },
     {
         "ranking": "35",
-        "title": "SEVICE",
+        "title": "iLUV",
         "artist": "Gazo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/5e/2a/015e2a71-e1bf-bd50-02ae-06e03bea3ff9/196872618525.jpg/80x80bb.webp",
-        "appleID": "sevice/1780778131"
+        "appleID": "iluv/1780778133"
     },
     {
         "ranking": "36",
-        "title": "TOKA",
-        "artist": "SDM",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/46/95/64469515-0230-b26c-69cf-5db61f5ea879/24UMGIM72197.rgb.jpg/80x80bb.webp",
-        "appleID": "toka/1757803472"
+        "title": "MISS LILY'S",
+        "artist": "Dinos",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/c6/d9/fdc6d976-2b55-defd-0f30-8c6bbe6c24b5/cover.jpg/80x80bb.webp",
+        "appleID": "miss-lilys/1779541679"
     },
     {
         "ranking": "37",
-        "title": "Coco",
-        "artist": "Ninho",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/ac/86/96ac86cd-459e-d601-6eae-9cc29abedfc3/5021732433527.jpg/80x80bb.webp",
-        "appleID": "coco/1755595701"
+        "title": "1 Minute",
+        "artist": "Lynda",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/98/44/14/984414e5-4f15-332f-eb71-5ce94d4761ae/24UM1IM29149.rgb.jpg/80x80bb.webp",
+        "appleID": "1-minute/1779964851"
     },
     {
         "ranking": "38",
@@ -267,10 +267,10 @@
     },
     {
         "ranking": "39",
-        "title": "MISS LILY'S",
-        "artist": "Dinos",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/c6/d9/fdc6d976-2b55-defd-0f30-8c6bbe6c24b5/cover.jpg/80x80bb.webp",
-        "appleID": "miss-lilys/1779541679"
+        "title": "SEVICE",
+        "artist": "Gazo",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/5e/2a/015e2a71-e1bf-bd50-02ae-06e03bea3ff9/196872618525.jpg/80x80bb.webp",
+        "appleID": "sevice/1780778131"
     },
     {
         "ranking": "40",
@@ -281,24 +281,24 @@
     },
     {
         "ranking": "41",
-        "title": "Die With A Smile",
-        "artist": "Lady Gaga",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
-    },
-    {
-        "ranking": "42",
         "title": "LA MELO EST DANS LA BOUNCE",
         "artist": "Genezio",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0a/23/33/0a2333e4-53a8-1fa4-acb0-7c8bf806c91f/cover.jpg/80x80bb.webp",
         "appleID": "la-melo-est-dans-la-bounce/1778191851"
     },
     {
+        "ranking": "42",
+        "title": "Die With A Smile",
+        "artist": "Lady Gaga",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
+        "appleID": "die-with-a-smile/1762656732"
+    },
+    {
         "ranking": "43",
-        "title": "BIRDS OF A FEATHER",
-        "artist": "Billie Eilish",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "title": "Il pleut des balles (feat. SDM)",
+        "artist": "Jul",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/db/3d/33db3d03-7776-6c5c-c0c2-f0c6893f81ee/cover.jpg/80x80bb.webp",
+        "appleID": "il-pleut-des-balles-feat-sdm/1749948531"
     },
     {
         "ranking": "44",
@@ -309,10 +309,10 @@
     },
     {
         "ranking": "45",
-        "title": "Il pleut des balles (feat. SDM)",
-        "artist": "Jul",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/db/3d/33db3d03-7776-6c5c-c0c2-f0c6893f81ee/cover.jpg/80x80bb.webp",
-        "appleID": "il-pleut-des-balles-feat-sdm/1749948531"
+        "title": "Dolce Camara",
+        "artist": "Booba",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/08/cf/c9/08cfc9e9-fb3c-03cd-c6ef-45a64aba953c/24UMGIM11836.rgb.jpg/80x80bb.webp",
+        "appleID": "dolce-camara/1729545250"
     },
     {
         "ranking": "46",
@@ -323,24 +323,24 @@
     },
     {
         "ranking": "47",
-        "title": "Dolce Camara",
-        "artist": "Booba",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/08/cf/c9/08cfc9e9-fb3c-03cd-c6ef-45a64aba953c/24UMGIM11836.rgb.jpg/80x80bb.webp",
-        "appleID": "dolce-camara/1729545250"
+        "title": "BIRDS OF A FEATHER",
+        "artist": "Billie Eilish",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "appleID": "birds-of-a-feather/1739659142"
     },
     {
         "ranking": "48",
-        "title": "Et si j'échoue ?",
-        "artist": "Bouss",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/10/2f/cd102f76-3cce-326b-9424-911ad3bff588/cover.jpg/80x80bb.webp",
-        "appleID": "et-si-jéchoue-/1779575443"
-    },
-    {
-        "ranking": "49",
         "title": "MANON B",
         "artist": "Tiakola",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/90/4f/27/904f27e6-cd74-cb9d-c9a9-8d7ad562a6cf/5021732476425.jpg/80x80bb.webp",
         "appleID": "manon-b/1764936550"
+    },
+    {
+        "ranking": "49",
+        "title": "Menace fantôme",
+        "artist": "VEN1",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/c0/c3/c9c0c351-4745-ea72-298d-d63437fdc138/5034644284996.jpg/80x80bb.webp",
+        "appleID": "menace-fantôme/1780359432"
     },
     {
         "ranking": "50",
@@ -351,157 +351,157 @@
     },
     {
         "ranking": "51",
-        "title": "EL GEMANO",
-        "artist": "Genezio",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/d3/60/73d360c3-34e6-508d-e3c9-33870c68e9ec/cover.jpg/80x80bb.webp",
-        "appleID": "el-gemano/1758380840"
-    },
-    {
-        "ranking": "52",
-        "title": "Menace fantôme",
-        "artist": "VEN1",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/c0/c3/c9c0c351-4745-ea72-298d-d63437fdc138/5034644284996.jpg/80x80bb.webp",
-        "appleID": "menace-fantôme/1780359432"
-    },
-    {
-        "ranking": "53",
-        "title": "PONA NINI",
-        "artist": "Tiakola",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/aa/fa/97aafa92-339c-685f-4750-eae886de5c04/5021732479280.jpg/80x80bb.webp",
-        "appleID": "pona-nini/1766323045"
-    },
-    {
-        "ranking": "54",
         "title": "Jefe",
         "artist": "Ninho",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5d/b4/53/5db45349-6035-32c8-1faf-0c7e47d62d22/190296368370.jpg/80x80bb.webp",
         "appleID": "jefe/1597121344"
     },
     {
-        "ranking": "55",
-        "title": "GAÙCHO",
-        "artist": "Dinos",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/c6/d9/fdc6d976-2b55-defd-0f30-8c6bbe6c24b5/cover.jpg/80x80bb.webp",
-        "appleID": "gaùcho/1779541675"
-    },
-    {
-        "ranking": "56",
+        "ranking": "52",
         "title": "VVS",
         "artist": "Ninho",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5d/b4/53/5db45349-6035-32c8-1faf-0c7e47d62d22/190296368370.jpg/80x80bb.webp",
         "appleID": "vvs/1597121648"
     },
     {
-        "ranking": "57",
-        "title": "Boucan (feat. Franglish)",
-        "artist": "KeBlack",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/bb/8a/48bb8a9f-cf75-7e76-622d-b662d1ee3c9a/cover.jpg/80x80bb.webp",
-        "appleID": "boucan-feat-franglish/1742512277"
+        "ranking": "53",
+        "title": "EL GEMANO",
+        "artist": "Genezio",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/d3/60/73d360c3-34e6-508d-e3c9-33870c68e9ec/cover.jpg/80x80bb.webp",
+        "appleID": "el-gemano/1758380840"
     },
     {
-        "ranking": "58",
-        "title": "Waribana",
-        "artist": "Ninho",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/9a/cc/149accc7-965e-043a-666a-50ea360bab61/5021732509574.jpg/80x80bb.webp",
-        "appleID": "waribana/1773821193"
-    },
-    {
-        "ranking": "59",
-        "title": "Oh qu'elle est belle (feat. Dystinct)",
-        "artist": "Jul",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/74/6b/1d/746b1d95-e103-32a4-a3d0-e00b37acec8b/cover.jpg/80x80bb.webp",
-        "appleID": "oh-quelle-est-belle-feat-dystinct/1725805782"
-    },
-    {
-        "ranking": "60",
-        "title": "All I Want for Christmas Is You",
-        "artist": "Mariah Carey",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/80x80bb.webp",
-        "appleID": "all-i-want-for-christmas-is-you/585972803"
-    },
-    {
-        "ranking": "61",
+        "ranking": "54",
         "title": "J'fais plaisir à la zone (feat. SDM)",
         "artist": "Jul",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/44/87/f3/4487f3c5-14ba-a9ae-1341-a2567cb58065/cover.jpg/80x80bb.webp",
         "appleID": "jfais-plaisir-à-la-zone-feat-sdm/1719591445"
     },
     {
-        "ranking": "62",
-        "title": "Ils se demandent",
-        "artist": "Denden",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8e/40/71/8e407167-fa0a-de65-d33e-29a580b43f28/859796589387_cover.jpg/80x80bb.webp",
-        "appleID": "ils-se-demandent/1777183215"
+        "ranking": "55",
+        "title": "Oh qu'elle est belle (feat. Dystinct)",
+        "artist": "Jul",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/74/6b/1d/746b1d95-e103-32a4-a3d0-e00b37acec8b/cover.jpg/80x80bb.webp",
+        "appleID": "oh-quelle-est-belle-feat-dystinct/1725805782"
     },
     {
-        "ranking": "63",
+        "ranking": "56",
+        "title": "PONA NINI",
+        "artist": "Tiakola",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/aa/fa/97aafa92-339c-685f-4750-eae886de5c04/5021732479280.jpg/80x80bb.webp",
+        "appleID": "pona-nini/1766323045"
+    },
+    {
+        "ranking": "57",
+        "title": "Et si j'échoue ?",
+        "artist": "Bouss",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/10/2f/cd102f76-3cce-326b-9424-911ad3bff588/cover.jpg/80x80bb.webp",
+        "appleID": "et-si-jéchoue-/1779575443"
+    },
+    {
+        "ranking": "58",
+        "title": "GAÙCHO",
+        "artist": "Dinos",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/c6/d9/fdc6d976-2b55-defd-0f30-8c6bbe6c24b5/cover.jpg/80x80bb.webp",
+        "appleID": "gaùcho/1779541675"
+    },
+    {
+        "ranking": "59",
+        "title": "Waribana",
+        "artist": "Ninho",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/9a/cc/149accc7-965e-043a-666a-50ea360bab61/5021732509574.jpg/80x80bb.webp",
+        "appleID": "waribana/1773821193"
+    },
+    {
+        "ranking": "60",
+        "title": "Boucan (feat. Franglish)",
+        "artist": "KeBlack",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/bb/8a/48bb8a9f-cf75-7e76-622d-b662d1ee3c9a/cover.jpg/80x80bb.webp",
+        "appleID": "boucan-feat-franglish/1742512277"
+    },
+    {
+        "ranking": "61",
         "title": "Sur paname",
         "artist": "Ninho",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/fd/3e/95/fd3e95f3-3210-3668-87e7-6810c69bbdd6/5060766767222_cover.jpg/80x80bb.webp",
         "appleID": "sur-paname/1537133461"
     },
     {
-        "ranking": "64",
-        "title": "Dans ma bulle",
-        "artist": "Bouss",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/10/2f/cd102f76-3cce-326b-9424-911ad3bff588/cover.jpg/80x80bb.webp",
-        "appleID": "dans-ma-bulle/1779575724"
-    },
-    {
-        "ranking": "65",
+        "ranking": "62",
         "title": "De l'autre côté (feat. Nekfeu)",
         "artist": "Ninho",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/6c/c7/3b/6cc73bbb-563b-2dc9-4c9b-5880eac6bf73/190295820558.jpg/80x80bb.webp",
         "appleID": "de-lautre-côté-feat-nekfeu/1302388764"
     },
     {
-        "ranking": "66",
+        "ranking": "63",
         "title": "Dis-moi que tu m'aimes",
         "artist": "Ninho",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2e/31/63/2e316368-53ec-7021-fa5f-719cc36de925/190295937270.jpg/80x80bb.webp",
         "appleID": "dis-moi-que-tu-maimes/320366644"
     },
     {
-        "ranking": "67",
-        "title": "300",
-        "artist": "La Fouine",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/08/27/7c08277f-7afe-41c5-0eca-5afb81bc29de/cover.jpg/80x80bb.webp",
-        "appleID": "300/1778078894"
-    },
-    {
-        "ranking": "68",
+        "ranking": "64",
         "title": "Hakayet",
         "artist": "VEN1",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/d2/db/01d2dba7-e4d6-83f3-0332-ea4511dab88c/859780494628.jpg/80x80bb.webp",
         "appleID": "hakayet/1752006057"
     },
     {
-        "ranking": "69",
-        "title": "Félicité",
-        "artist": "Bouss",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/10/2f/cd102f76-3cce-326b-9424-911ad3bff588/cover.jpg/80x80bb.webp",
-        "appleID": "félicité/1779575448"
+        "ranking": "65",
+        "title": "Ils se demandent",
+        "artist": "Denden",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8e/40/71/8e407167-fa0a-de65-d33e-29a580b43f28/859796589387_cover.jpg/80x80bb.webp",
+        "appleID": "ils-se-demandent/1777183215"
     },
     {
-        "ranking": "70",
-        "title": "Alibi",
-        "artist": "Sevdaliza",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/78/35/c9783504-7a20-6197-3f32-ad36f6200bc1/87.jpg/80x80bb.webp",
-        "appleID": "alibi/1770823958"
+        "ranking": "66",
+        "title": "300",
+        "artist": "La Fouine",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/08/27/7c08277f-7afe-41c5-0eca-5afb81bc29de/cover.jpg/80x80bb.webp",
+        "appleID": "300/1778078894"
     },
     {
-        "ranking": "71",
-        "title": "Mauvais garçon",
-        "artist": "Helena",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/55/db/c955db44-9775-785a-87b2-165c784741a2/196872648607.jpg/80x80bb.webp",
-        "appleID": "mauvais-garçon/1778697561"
-    },
-    {
-        "ranking": "72",
+        "ranking": "67",
         "title": "Bolide allemand",
         "artist": "SDM",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/05/a6/ea/05a6ea7d-2410-df14-0a05-4321293f1cf1/22UM1IM22865.rgb.jpg/80x80bb.webp",
         "appleID": "bolide-allemand/1661142357"
+    },
+    {
+        "ranking": "68",
+        "title": "Dans ma bulle",
+        "artist": "Bouss",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/10/2f/cd102f76-3cce-326b-9424-911ad3bff588/cover.jpg/80x80bb.webp",
+        "appleID": "dans-ma-bulle/1779575724"
+    },
+    {
+        "ranking": "69",
+        "title": "Pyramide (feat. Damso)",
+        "artist": "Werenoi",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/9b/05/c89b0549-bea5-4c63-6faa-57a6e3fc1f7a/cover.jpg/80x80bb.webp",
+        "appleID": "pyramide-feat-damso/1771383805"
+    },
+    {
+        "ranking": "70",
+        "title": "Vanilla",
+        "artist": "VEN1",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/be/c5/fbbec512-672e-bb64-d6ca-db6f9a5d4545/198830952894.jpg/80x80bb.webp",
+        "appleID": "vanilla/1763869703"
+    },
+    {
+        "ranking": "71",
+        "title": "CORDILLÈRE",
+        "artist": "Maes",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b8/f7/74/b8f774ef-af6c-d22f-8907-6cb1107bee11/24UMGIM67419.rgb.jpg/80x80bb.webp",
+        "appleID": "cordillère/1755591664"
+    },
+    {
+        "ranking": "72",
+        "title": "Alibi",
+        "artist": "Sevdaliza",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/78/35/c9783504-7a20-6197-3f32-ad36f6200bc1/87.jpg/80x80bb.webp",
+        "appleID": "alibi/1770823958"
     },
     {
         "ranking": "73",
@@ -512,31 +512,31 @@
     },
     {
         "ranking": "74",
-        "title": "Pyramide (feat. Damso)",
-        "artist": "Werenoi",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/9b/05/c89b0549-bea5-4c63-6faa-57a6e3fc1f7a/cover.jpg/80x80bb.webp",
-        "appleID": "pyramide-feat-damso/1771383805"
+        "title": "Mauvais garçon",
+        "artist": "Helena",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/55/db/c955db44-9775-785a-87b2-165c784741a2/196872648607.jpg/80x80bb.webp",
+        "appleID": "mauvais-garçon/1778697561"
     },
     {
         "ranking": "75",
-        "title": "Vanilla",
-        "artist": "VEN1",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/be/c5/fbbec512-672e-bb64-d6ca-db6f9a5d4545/198830952894.jpg/80x80bb.webp",
-        "appleID": "vanilla/1763869703"
+        "title": "All I Want for Christmas Is You",
+        "artist": "Mariah Carey",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/80x80bb.webp",
+        "appleID": "all-i-want-for-christmas-is-you/585972803"
     },
     {
         "ranking": "76",
-        "title": "CORDILLÈRE",
-        "artist": "Maes",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b8/f7/74/b8f774ef-af6c-d22f-8907-6cb1107bee11/24UMGIM67419.rgb.jpg/80x80bb.webp",
-        "appleID": "cordillère/1755591664"
+        "title": "J'oublie tout",
+        "artist": "Jul",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/52/1b/66/521b6644-19b6-2c93-e484-ac815d3ec027/3700187655792.jpg/80x80bb.webp",
+        "appleID": "joublie-tout/799176215"
     },
     {
         "ranking": "77",
-        "title": "Nightcall",
-        "artist": "Kavinsky",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/de/e1/61/dee16173-c361-9d23-9fbe-9ef3ad1daa46/24UM1IM00411.rgb.jpg/80x80bb.webp",
-        "appleID": "nightcall/1768051778"
+        "title": "J’crois qu’ils ont pas compris",
+        "artist": "Leto",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/35/af/15/35af1501-44d5-4334-4f43-622e0262e070/5021732437006.jpg/80x80bb.webp",
+        "appleID": "jcrois-quils-ont-pas-compris/1756506061"
     },
     {
         "ranking": "78",
@@ -547,31 +547,31 @@
     },
     {
         "ranking": "79",
-        "title": "Chaud",
-        "artist": "Bouss",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/10/2f/cd102f76-3cce-326b-9424-911ad3bff588/cover.jpg/80x80bb.webp",
-        "appleID": "chaud/1779575445"
-    },
-    {
-        "ranking": "80",
-        "title": "J’crois qu’ils ont pas compris",
-        "artist": "Leto",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/35/af/15/35af1501-44d5-4334-4f43-622e0262e070/5021732437006.jpg/80x80bb.webp",
-        "appleID": "jcrois-quils-ont-pas-compris/1756506061"
-    },
-    {
-        "ranking": "81",
-        "title": "J'oublie tout",
-        "artist": "Jul",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/52/1b/66/521b6644-19b6-2c93-e484-ac815d3ec027/3700187655792.jpg/80x80bb.webp",
-        "appleID": "joublie-tout/799176215"
-    },
-    {
-        "ranking": "82",
         "title": "Gata Only",
         "artist": "FloyyMenor",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ca/4e/0f/ca4e0f11-2cbc-7aec-b2e4-53f5fac7cb0e/198309012715-copy-6dfc57c0.png/80x80bb.webp",
         "appleID": "gata-only/1727813561"
+    },
+    {
+        "ranking": "80",
+        "title": "Stigmates",
+        "artist": "SCH",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/09/ec/b009ec04-d42a-d0a2-4f5d-1db4e800098a/5021732530165.jpg/80x80bb.webp",
+        "appleID": "stigmates/1775954138"
+    },
+    {
+        "ranking": "81",
+        "title": "No lo sé",
+        "artist": "Lacrim",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/21/c6/41/21c641e9-eb24-7d75-1d02-ac3a67d70502/196872595604.jpg/80x80bb.webp",
+        "appleID": "no-lo-sé/1775935674"
+    },
+    {
+        "ranking": "82",
+        "title": "Jungle",
+        "artist": "Ninho",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/9a/cc/149accc7-965e-043a-666a-50ea360bab61/5021732509574.jpg/80x80bb.webp",
+        "appleID": "jungle/1773820997"
     },
     {
         "ranking": "83",
@@ -582,17 +582,17 @@
     },
     {
         "ranking": "84",
-        "title": "No lo sé",
-        "artist": "Lacrim",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/21/c6/41/21c641e9-eb24-7d75-1d02-ac3a67d70502/196872595604.jpg/80x80bb.webp",
-        "appleID": "no-lo-sé/1775935674"
+        "title": "Nightcall",
+        "artist": "Kavinsky",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/de/e1/61/dee16173-c361-9d23-9fbe-9ef3ad1daa46/24UM1IM00411.rgb.jpg/80x80bb.webp",
+        "appleID": "nightcall/1768051778"
     },
     {
         "ranking": "85",
-        "title": "Jungle",
-        "artist": "Ninho",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/9a/cc/149accc7-965e-043a-666a-50ea360bab61/5021732509574.jpg/80x80bb.webp",
-        "appleID": "jungle/1773820997"
+        "title": "Félicité",
+        "artist": "Bouss",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/10/2f/cd102f76-3cce-326b-9424-911ad3bff588/cover.jpg/80x80bb.webp",
+        "appleID": "félicité/1779575448"
     },
     {
         "ranking": "86",
@@ -603,100 +603,100 @@
     },
     {
         "ranking": "87",
-        "title": "Meuda",
-        "artist": "Tiakola",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4d/83/55/4d835585-8eb5-d3cf-341a-1266a5cd0b55/196589070982.jpg/80x80bb.webp",
-        "appleID": "meuda/1621517615"
-    },
-    {
-        "ranking": "88",
-        "title": "Le Plan",
-        "artist": "JRK 19",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ff/56/c6/ff56c671-17d1-74df-43ec-9734e9bf3e64/5021732555991.jpg/80x80bb.webp",
-        "appleID": "le-plan/1780900941"
-    },
-    {
-        "ranking": "89",
-        "title": "Stigmates",
-        "artist": "SCH",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/09/ec/b009ec04-d42a-d0a2-4f5d-1db4e800098a/5021732530165.jpg/80x80bb.webp",
-        "appleID": "stigmates/1775954138"
-    },
-    {
-        "ranking": "90",
-        "title": "Terminal 2F",
-        "artist": "GIMS",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/db/33/bfdb330a-7486-9536-9f1f-e4e6d13c6fa5/cover.jpg/80x80bb.webp",
-        "appleID": "terminal-2f/1762393290"
-    },
-    {
-        "ranking": "91",
-        "title": "MAMI WATA",
-        "artist": "Gazo",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1c/10/59/1c105953-8e25-a202-81b1-a745806beb59/196871589017.jpg/80x80bb.webp",
-        "appleID": "mami-wata/1718256873"
-    },
-    {
-        "ranking": "92",
         "title": "J'ai tout su",
         "artist": "Jul",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/95/87/af/9587aff4-2ad6-422d-0cba-9e6bf4759304/cover.jpg/80x80bb.webp",
         "appleID": "jai-tout-su/1666538899"
     },
     {
-        "ranking": "93",
-        "title": "STACKS",
-        "artist": "Dinos",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/05/d8/26/05d82634-a52b-8fab-f727-a3c9fc456221/cover.jpg/80x80bb.webp",
-        "appleID": "stacks/1779522104"
+        "ranking": "88",
+        "title": "Meuda",
+        "artist": "Tiakola",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4d/83/55/4d835585-8eb5-d3cf-341a-1266a5cd0b55/196589070982.jpg/80x80bb.webp",
+        "appleID": "meuda/1621517615"
     },
     {
-        "ranking": "94",
-        "title": "Petit génie (feat. Abou Debeing & Lossa)",
-        "artist": "Jungeli",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/20/e1/4f/20e14f1c-8747-de2b-2f10-471c09739a86/23UM1IM19925.rgb.jpg/80x80bb.webp",
-        "appleID": "petit-génie-feat-abou-debeing-lossa/1715057700"
+        "ranking": "89",
+        "title": "MAMI WATA",
+        "artist": "Gazo",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1c/10/59/1c105953-8e25-a202-81b1-a745806beb59/196871589017.jpg/80x80bb.webp",
+        "appleID": "mami-wata/1718256873"
     },
     {
-        "ranking": "95",
-        "title": "luther",
-        "artist": "Kendrick Lamar",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
-    },
-    {
-        "ranking": "96",
-        "title": "Un vœu",
-        "artist": "Bouss",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/10/2f/cd102f76-3cce-326b-9424-911ad3bff588/cover.jpg/80x80bb.webp",
-        "appleID": "un-vœu/1779575725"
-    },
-    {
-        "ranking": "97",
+        "ranking": "90",
         "title": "Tu connais",
         "artist": "Werenoi",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0e/08/86/0e0886d9-8d0b-1f89-43c6-3a00f6572d25/dj.qqadwfea.jpg/80x80bb.webp",
         "appleID": "tu-connais/1707807608"
     },
     {
-        "ranking": "98",
-        "title": "Last Christmas (Single Version)",
-        "artist": "Wham!",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/eb/4a/f9/eb4af984-fc68-56ab-7b89-1d070c04e1dd/5099765318524.jpg/80x80bb.webp",
-        "appleID": "last-christmas-single-version/202117984"
+        "ranking": "91",
+        "title": "Terminal 2F",
+        "artist": "GIMS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/db/33/bfdb330a-7486-9536-9f1f-e4e6d13c6fa5/cover.jpg/80x80bb.webp",
+        "appleID": "terminal-2f/1762393290"
     },
     {
-        "ranking": "99",
-        "title": "WILDFLOWER",
-        "artist": "Billie Eilish",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "ranking": "92",
+        "title": "Chaud",
+        "artist": "Bouss",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/10/2f/cd102f76-3cce-326b-9424-911ad3bff588/cover.jpg/80x80bb.webp",
+        "appleID": "chaud/1779575445"
     },
     {
-        "ranking": "100",
+        "ranking": "93",
+        "title": "Le Plan",
+        "artist": "JRK 19",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ff/56/c6/ff56c671-17d1-74df-43ec-9734e9bf3e64/5021732555991.jpg/80x80bb.webp",
+        "appleID": "le-plan/1780900941"
+    },
+    {
+        "ranking": "94",
         "title": "C63",
         "artist": "Werenoi",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/e6/57/93e6578c-90e6-ebff-4c77-3511b2fcdd2a/cover.jpg/80x80bb.webp",
         "appleID": "c63/1773773430"
+    },
+    {
+        "ranking": "95",
+        "title": "Petit génie (feat. Abou Debeing & Lossa)",
+        "artist": "Jungeli",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/20/e1/4f/20e14f1c-8747-de2b-2f10-471c09739a86/23UM1IM19925.rgb.jpg/80x80bb.webp",
+        "appleID": "petit-génie-feat-abou-debeing-lossa/1715057700"
+    },
+    {
+        "ranking": "96",
+        "title": "Ghetto Star",
+        "artist": "Ninho",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/9a/cc/149accc7-965e-043a-666a-50ea360bab61/5021732509574.jpg/80x80bb.webp",
+        "appleID": "ghetto-star/1773821188"
+    },
+    {
+        "ranking": "97",
+        "title": "luther",
+        "artist": "Kendrick Lamar",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
+        "appleID": "luther/1781270323"
+    },
+    {
+        "ranking": "98",
+        "title": "STACKS",
+        "artist": "Dinos",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/c6/d9/fdc6d976-2b55-defd-0f30-8c6bbe6c24b5/cover.jpg/80x80bb.webp",
+        "appleID": "stacks/1779541604"
+    },
+    {
+        "ranking": "99",
+        "title": "G.A.N.G",
+        "artist": "Tiakola",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/aa/fa/97aafa92-339c-685f-4750-eae886de5c04/5021732479280.jpg/80x80bb.webp",
+        "appleID": "gang/1766323048"
+    },
+    {
+        "ranking": "100",
+        "title": "Laisse-moi tranquille.",
+        "artist": "Damso",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/82/dc/aa82dcea-5d03-1de1-74ee-50fe74690fd1/5034644184210.jpg/80x80bb.webp",
+        "appleID": "laisse-moi-tranquille/1778748579"
     }
 ]

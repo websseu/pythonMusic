@@ -43,38 +43,38 @@
     },
     {
         "ranking": "7",
-        "title": "Die With A Smile",
-        "artist": "Lady Gaga",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
-    },
-    {
-        "ranking": "8",
         "title": "POWER",
         "artist": "G-DRAGON",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/fa/03/36fa0306-b040-b01b-36d3-181256366615/197342805353_cover.jpg/80x80bb.webp",
         "appleID": "power/1776670342"
     },
     {
-        "ranking": "9",
-        "title": "BIRDS OF A FEATHER",
-        "artist": "Billie Eilish",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "ranking": "8",
+        "title": "Die With A Smile",
+        "artist": "Lady Gaga",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
+        "appleID": "die-with-a-smile/1762656732"
     },
     {
-        "ranking": "10",
+        "ranking": "9",
         "title": "Supernova",
         "artist": "aespa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/7e/e0/507ee09f-ccfd-1e3c-af90-ca5e92b1221b/00888735949869_Cover.jpg/80x80bb.webp",
         "appleID": "supernova/1773694544"
     },
     {
-        "ranking": "11",
+        "ranking": "10",
         "title": "Step Aside",
         "artist": "Jay Chou",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/58/8d/6d/588d6d61-fbac-148a-86bd-0030ce076ac1/23UM1IM57281.rgb.jpg/80x80bb.webp",
         "appleID": "step-aside/1721450047"
+    },
+    {
+        "ranking": "11",
+        "title": "BIRDS OF A FEATHER",
+        "artist": "Billie Eilish",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "appleID": "birds-of-a-feather/1739659142"
     },
     {
         "ranking": "12",
@@ -155,45 +155,45 @@
     },
     {
         "ranking": "23",
-        "title": "Espresso",
-        "artist": "Sabrina Carpenter",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
-        "appleID": "espresso/1740212434"
-    },
-    {
-        "ranking": "24",
         "title": "Rhythm of the Rain",
         "artist": "Jay Chou",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e1/61/42/e1614256-60b4-7cd9-809b-11da1506532f/23UM1IM59225.rgb.jpg/80x80bb.webp",
         "appleID": "rhythm-of-the-rain/1721458367"
     },
     {
+        "ranking": "24",
+        "title": "Espresso",
+        "artist": "Sabrina Carpenter",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
+        "appleID": "espresso/1740212434"
+    },
+    {
         "ranking": "25",
-        "title": "Letter To Myself",
-        "artist": "TAEYEON",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/98/34/37983445-2448-9446-8556-569b296cea6a/cover.jpg/80x80bb.webp",
-        "appleID": "letter-to-myself/1779015075"
-    },
-    {
-        "ranking": "26",
-        "title": "Farewell",
-        "artist": "Bestards",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/26/83/d6/2683d6f6-49a4-ad28-b5ca-b2314e7b78d8/cover.jpg/80x80bb.webp",
-        "appleID": "farewell/1712228426"
-    },
-    {
-        "ranking": "27",
         "title": "Armageddon",
         "artist": "aespa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/7e/e0/507ee09f-ccfd-1e3c-af90-ca5e92b1221b/00888735949869_Cover.jpg/80x80bb.webp",
         "appleID": "armageddon/1773694547"
     },
     {
-        "ranking": "28",
+        "ranking": "26",
         "title": "Give me the time of a song",
         "artist": "Jay Chou",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/53/6c/72/536c7219-e177-a912-9322-e1abf70e8733/23UM1IM58828.rgb.jpg/80x80bb.webp",
         "appleID": "give-me-the-time-of-a-song/1721460700"
+    },
+    {
+        "ranking": "27",
+        "title": "Farewell",
+        "artist": "Bestards",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/26/83/d6/2683d6f6-49a4-ad28-b5ca-b2314e7b78d8/cover.jpg/80x80bb.webp",
+        "appleID": "farewell/1712228426"
+    },
+    {
+        "ranking": "28",
+        "title": "Letter To Myself",
+        "artist": "TAEYEON",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/98/34/37983445-2448-9446-8556-569b296cea6a/cover.jpg/80x80bb.webp",
+        "appleID": "letter-to-myself/1779015075"
     },
     {
         "ranking": "29",
@@ -204,10 +204,10 @@
     },
     {
         "ranking": "30",
-        "title": "從未見過的海 (Netflix 影集《影后》序曲)",
-        "artist": "Accusefive",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/0d/47/190d47aa-dee8-27f7-1307-b01ae4f90b3e/3000.jpg/80x80bb.webp",
-        "appleID": "從未見過的海netflix-影集影后序曲/1777785487"
+        "title": "Simple Love",
+        "artist": "Jay Chou",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/14/b9/fa/14b9fa3f-ef0c-01de-3721-93ff740062b5/23UM1IM56711.rgb.jpg/80x80bb.webp",
+        "appleID": "simple-love/1721454239"
     },
     {
         "ranking": "31",
@@ -218,10 +218,10 @@
     },
     {
         "ranking": "32",
-        "title": "Simple Love",
-        "artist": "Jay Chou",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/14/b9/fa/14b9fa3f-ef0c-01de-3721-93ff740062b5/23UM1IM56711.rgb.jpg/80x80bb.webp",
-        "appleID": "simple-love/1721454239"
+        "title": "從未見過的海 (Netflix 影集《影后》序曲)",
+        "artist": "Accusefive",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/0d/47/190d47aa-dee8-27f7-1307-b01ae4f90b3e/3000.jpg/80x80bb.webp",
+        "appleID": "從未見過的海netflix-影集影后序曲/1777785487"
     },
     {
         "ranking": "33",
@@ -253,10 +253,10 @@
     },
     {
         "ranking": "37",
-        "title": "FOREVER",
-        "artist": "BABYMONSTER",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/2a/86/5b2a8611-2005-2287-1981-9edac10b795b/BABYMONSTER_FORVER.jpg/80x80bb.webp",
-        "appleID": "forever/1753210716"
+        "title": "Drama",
+        "artist": "aespa",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f7/f0/5c/f7f05ce4-e5a4-900d-e087-1dd9668b2b34/888735945939.jpg/80x80bb.webp",
+        "appleID": "drama/1715939931"
     },
     {
         "ranking": "38",
@@ -267,24 +267,24 @@
     },
     {
         "ranking": "39",
-        "title": "Drama",
-        "artist": "aespa",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f7/f0/5c/f7f05ce4-e5a4-900d-e087-1dd9668b2b34/888735945939.jpg/80x80bb.webp",
-        "appleID": "drama/1715939931"
-    },
-    {
-        "ranking": "40",
-        "title": "Make You Mine",
-        "artist": "Men Envy Children",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/1c/8d/a81c8d5e-9445-8406-b13f-a857b1a0130b/4710149712417_cover.jpg/80x80bb.webp",
-        "appleID": "make-you-mine/1779645828"
-    },
-    {
-        "ranking": "41",
         "title": "Untitled, 2014",
         "artist": "G-DRAGON",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/08/7d/c9/087dc979-4295-daa3-f22a-3c4f141c7ad0/GD_DS_4000_2.jpg/80x80bb.webp",
         "appleID": "untitled-2014/1246076508"
+    },
+    {
+        "ranking": "40",
+        "title": "FOREVER",
+        "artist": "BABYMONSTER",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/2a/86/5b2a8611-2005-2287-1981-9edac10b795b/BABYMONSTER_FORVER.jpg/80x80bb.webp",
+        "appleID": "forever/1753210716"
+    },
+    {
+        "ranking": "41",
+        "title": "Make You Mine",
+        "artist": "Men Envy Children",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/1c/8d/a81c8d5e-9445-8406-b13f-a857b1a0130b/4710149712417_cover.jpg/80x80bb.webp",
+        "appleID": "make-you-mine/1779645828"
     },
     {
         "ranking": "42",
@@ -302,17 +302,17 @@
     },
     {
         "ranking": "44",
+        "title": "想和你看五月的晚霞",
+        "artist": "Hua Chen",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1c/2e/6d/1c2e6db3-1226-7bbd-d4d1-b7ad6e06a617/4711232817897_cover.jpg/80x80bb.webp",
+        "appleID": "想和你看五月的晚霞/1643825896"
+    },
+    {
+        "ranking": "45",
         "title": "Ditto",
         "artist": "NewJeans",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/48/96/08/4896085e-b550-cb0a-3e5b-1f203521cb82/196922265464_Cover.jpg/80x80bb.webp",
         "appleID": "ditto/1659513448"
-    },
-    {
-        "ranking": "45",
-        "title": "Queencard",
-        "artist": "(G)I-DLE",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/61/82/b5/6182b537-b352-fcfb-c264-bcf79a4508a2/8804775254703_Cover.jpg/80x80bb.webp",
-        "appleID": "queencard/1684674427"
     },
     {
         "ranking": "46",
@@ -323,24 +323,24 @@
     },
     {
         "ranking": "47",
+        "title": "Queencard",
+        "artist": "(G)I-DLE",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/61/82/b5/6182b537-b352-fcfb-c264-bcf79a4508a2/8804775254703_Cover.jpg/80x80bb.webp",
+        "appleID": "queencard/1684674427"
+    },
+    {
+        "ranking": "48",
+        "title": "Fate",
+        "artist": "(G)I-DLE",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/7f/70/097f7074-eb06-f99e-838c-07c2a04bd834/8804775368240_Cover.jpg/80x80bb.webp",
+        "appleID": "fate/1725272213"
+    },
+    {
+        "ranking": "49",
         "title": "披星戴月的想你",
         "artist": "Accusefive",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/10/ba/77/10ba77f4-47ae-8cb6-2913-cf49b78452b5/1..jpg/80x80bb.webp",
         "appleID": "披星戴月的想你/1546062815"
-    },
-    {
-        "ranking": "48",
-        "title": "When you missed me",
-        "artist": "Eric Chou",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a3/27/79/a3277942-87e4-abe8-b2d5-d1d2839771df/5021732548887.jpg/80x80bb.webp",
-        "appleID": "when-you-missed-me/1779221973"
-    },
-    {
-        "ranking": "49",
-        "title": "想和你看五月的晚霞",
-        "artist": "Hua Chen",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1c/2e/6d/1c2e6db3-1226-7bbd-d4d1-b7ad6e06a617/4711232817897_cover.jpg/80x80bb.webp",
-        "appleID": "想和你看五月的晚霞/1643825896"
     },
     {
         "ranking": "50",
@@ -351,17 +351,17 @@
     },
     {
         "ranking": "51",
-        "title": "Fate",
-        "artist": "(G)I-DLE",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/7f/70/097f7074-eb06-f99e-838c-07c2a04bd834/8804775368240_Cover.jpg/80x80bb.webp",
-        "appleID": "fate/1725272213"
-    },
-    {
-        "ranking": "52",
         "title": "No Doubt",
         "artist": "ENHYPEN",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/c8/8c/5fc88cb7-faf5-483a-ea42-ebf112c5f3d7/198704187797_Cover.jpg/80x80bb.webp",
         "appleID": "no-doubt/1776917125"
+    },
+    {
+        "ranking": "52",
+        "title": "When you missed me",
+        "artist": "Eric Chou",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a3/27/79/a3277942-87e4-abe8-b2d5-d1d2839771df/5021732548887.jpg/80x80bb.webp",
+        "appleID": "when-you-missed-me/1779221973"
     },
     {
         "ranking": "53",
@@ -372,38 +372,38 @@
     },
     {
         "ranking": "54",
-        "title": "十年",
-        "artist": "Eason Chan",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/56/e6/66/56e6661d-e570-782f-fbc8-e7b12e38f1a7/EEG3035V1-_-.jpg/80x80bb.webp",
-        "appleID": "十年/542922095"
-    },
-    {
-        "ranking": "55",
         "title": "LOVE, MONEY, FAME (feat. DJ Khaled)",
         "artist": "SEVENTEEN",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/30/ec/9a30ec28-9484-eaa3-5c5d-3aa7039ce0c1/198704184437_Cover.jpg/80x80bb.webp",
         "appleID": "love-money-fame-feat-dj-khaled/1772142757"
     },
     {
-        "ranking": "56",
+        "ranking": "55",
         "title": "What's Wrong",
         "artist": "Eric Chou",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1c/9f/07/1c9f07cb-1021-34eb-4031-30cc9849ac52/886447503461.jpg/80x80bb.webp",
         "appleID": "whats-wrong/1448253831"
     },
     {
+        "ranking": "56",
+        "title": "十年",
+        "artist": "Eason Chan",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/56/e6/66/56e6661d-e570-782f-fbc8-e7b12e38f1a7/EEG3035V1-_-.jpg/80x80bb.webp",
+        "appleID": "十年/542922095"
+    },
+    {
         "ranking": "57",
+        "title": "Cruel Summer",
+        "artist": "Taylor Swift",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/80x80bb.webp",
+        "appleID": "cruel-summer/1468058171"
+    },
+    {
+        "ranking": "58",
         "title": "Love You One More Time",
         "artist": "EggPlantEgg",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bf/89/4c/bf894c70-af4d-74ab-9ca5-0ce1fe170f68/5054197967405.jpg/80x80bb.webp",
         "appleID": "love-you-one-more-time/1726970401"
-    },
-    {
-        "ranking": "58",
-        "title": "慢冷",
-        "artist": "Fish Leong",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5a/0d/15/5a0d150d-124a-ed96-abaa-98f57e733938/19UMGIM39997.rgb.jpg/80x80bb.webp",
-        "appleID": "慢冷/1462400556"
     },
     {
         "ranking": "59",
@@ -414,45 +414,45 @@
     },
     {
         "ranking": "60",
-        "title": "Cruel Summer",
-        "artist": "Taylor Swift",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/80x80bb.webp",
-        "appleID": "cruel-summer/1468058171"
+        "title": "慢冷",
+        "artist": "Fish Leong",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5a/0d/15/5a0d150d-124a-ed96-abaa-98f57e733938/19UMGIM39997.rgb.jpg/80x80bb.webp",
+        "appleID": "慢冷/1462400556"
     },
     {
         "ranking": "61",
-        "title": "Bastards of Love",
-        "artist": "Amazing Show",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/7d/65/a17d65e1-b3b3-4567-6d24-b11a21374645/4711508085968.jpg/80x80bb.webp",
-        "appleID": "bastards-of-love/1770003012"
-    },
-    {
-        "ranking": "62",
-        "title": "The Dark Plum Sauce",
-        "artist": "Li Ronghao",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/a4/58/75/a4587565-4551-7778-227b-d8d001dc7efd/5054197465970.jpg/80x80bb.webp",
-        "appleID": "the-dark-plum-sauce/1655821629"
-    },
-    {
-        "ranking": "63",
-        "title": "Hey Girl (Netflix影集《影后》片尾曲)",
-        "artist": "Men Envy Children",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bc/5e/92/bc5e9226-0ebd-8883-08da-3c920d4ef5ef/4710149712400_cover.jpg/80x80bb.webp",
-        "appleID": "hey-girl-netflix影集影后片尾曲/1778690796"
-    },
-    {
-        "ranking": "64",
         "title": "Twilight",
         "artist": "JJ Lin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/64/4d/62/644d6263-6518-db86-b5fb-22960ce66804/dj.pjfnccuy.jpg/80x80bb.webp",
         "appleID": "twilight/1062156032"
     },
     {
-        "ranking": "65",
+        "ranking": "62",
         "title": "If You Don't Love Me, It's Fine",
         "artist": "Jay Chou",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c4/92/9c/c4929c9f-b605-7ac3-41c8-9f9091b00741/23UM1IM59704.rgb.jpg/80x80bb.webp",
         "appleID": "if-you-dont-love-me-its-fine/1721454747"
+    },
+    {
+        "ranking": "63",
+        "title": "Bastards of Love",
+        "artist": "Amazing Show",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/7d/65/a17d65e1-b3b3-4567-6d24-b11a21374645/4711508085968.jpg/80x80bb.webp",
+        "appleID": "bastards-of-love/1770003012"
+    },
+    {
+        "ranking": "64",
+        "title": "Maple Leaf",
+        "artist": "Jay Chou",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/69/49/61/694961f3-1414-355e-66e4-9649ba13ec55/23UM1IM57770.rgb.jpg/80x80bb.webp",
+        "appleID": "maple-leaf/1721454117"
+    },
+    {
+        "ranking": "65",
+        "title": "The Dark Plum Sauce",
+        "artist": "Li Ronghao",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/a4/58/75/a4587565-4551-7778-227b-d8d001dc7efd/5054197465970.jpg/80x80bb.webp",
+        "appleID": "the-dark-plum-sauce/1655821629"
     },
     {
         "ranking": "66",
@@ -463,17 +463,17 @@
     },
     {
         "ranking": "67",
-        "title": "Maple Leaf",
+        "title": "Nocturne",
         "artist": "Jay Chou",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/69/49/61/694961f3-1414-355e-66e4-9649ba13ec55/23UM1IM57770.rgb.jpg/80x80bb.webp",
-        "appleID": "maple-leaf/1721454117"
+        "appleID": "nocturne/1721454108"
     },
     {
         "ranking": "68",
-        "title": "泡沫",
-        "artist": "G.E.M.",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/d0/5f/56/d05f568f-cf54-d296-42c5-3a5b8f17f1eb/Cover.jpg/80x80bb.webp",
-        "appleID": "泡沫/539454717"
+        "title": "Hey Girl (Netflix影集《影后》片尾曲)",
+        "artist": "Men Envy Children",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bc/5e/92/bc5e9226-0ebd-8883-08da-3c920d4ef5ef/4710149712400_cover.jpg/80x80bb.webp",
+        "appleID": "hey-girl-netflix影集影后片尾曲/1778690796"
     },
     {
         "ranking": "69",
@@ -484,17 +484,17 @@
     },
     {
         "ranking": "70",
-        "title": "Nocturne",
-        "artist": "Jay Chou",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/69/49/61/694961f3-1414-355e-66e4-9649ba13ec55/23UM1IM57770.rgb.jpg/80x80bb.webp",
-        "appleID": "nocturne/1721454108"
+        "title": "泡沫",
+        "artist": "G.E.M.",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/d0/5f/56/d05f568f-cf54-d296-42c5-3a5b8f17f1eb/Cover.jpg/80x80bb.webp",
+        "appleID": "泡沫/539454717"
     },
     {
         "ranking": "71",
-        "title": "Taste",
-        "artist": "Sabrina Carpenter",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
-        "appleID": "taste/1750307079"
+        "title": "Silence",
+        "artist": "Jay Chou",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/14/b9/fa/14b9fa3f-ef0c-01de-3721-93ff740062b5/23UM1IM56711.rgb.jpg/80x80bb.webp",
+        "appleID": "silence/1721454553"
     },
     {
         "ranking": "72",
@@ -505,31 +505,31 @@
     },
     {
         "ranking": "73",
-        "title": "Silence",
-        "artist": "Jay Chou",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/14/b9/fa/14b9fa3f-ef0c-01de-3721-93ff740062b5/23UM1IM56711.rgb.jpg/80x80bb.webp",
-        "appleID": "silence/1721454553"
+        "title": "我懷念的",
+        "artist": "Yanzi Sun",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/39/8e/7d/398e7d64-1877-03ab-17cb-460943429bc0/825646246939.jpg/80x80bb.webp",
+        "appleID": "我懷念的/905226305"
     },
     {
         "ranking": "74",
-        "title": "Hype Boy",
-        "artist": "NewJeans",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/80x80bb.webp",
-        "appleID": "hype-boy/1635469851"
-    },
-    {
-        "ranking": "75",
         "title": "連名帶姓",
         "artist": "aMEI",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/76/f8/95/76f8954a-4499-16aa-b73e-2df8f206bc2d/17UM1IM52365.rgb.jpg/80x80bb.webp",
         "appleID": "連名帶姓/1442992509"
     },
     {
+        "ranking": "75",
+        "title": "Taste",
+        "artist": "Sabrina Carpenter",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
+        "appleID": "taste/1750307079"
+    },
+    {
         "ranking": "76",
-        "title": "我懷念的",
-        "artist": "Yanzi Sun",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/39/8e/7d/398e7d64-1877-03ab-17cb-460943429bc0/825646246939.jpg/80x80bb.webp",
-        "appleID": "我懷念的/905226305"
+        "title": "Hype Boy",
+        "artist": "NewJeans",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/80x80bb.webp",
+        "appleID": "hype-boy/1635469851"
     },
     {
         "ranking": "77",
@@ -540,17 +540,17 @@
     },
     {
         "ranking": "78",
-        "title": "Wrong Love",
-        "artist": "Wang Leehom",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/be/4a/77/be4a7730-c144-a39e-c7b6-9d26ea0ebff3/1400X1400.jpg/80x80bb.webp",
-        "appleID": "wrong-love/1134344911"
+        "title": "If Only",
+        "artist": "JJ Lin",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b0/42/6e/b0426e5c-aa39-d28e-c184-fe1e0c7e5efd/dj.xjyxvhya.jpg/80x80bb.webp",
+        "appleID": "if-only/945738655"
     },
     {
         "ranking": "79",
-        "title": "You & Me",
-        "artist": "JENNIE",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2e/2a/4c/2e2a4c59-62ac-25a3-9d91-5e680b4ba806/23UM1IM15529.rgb.jpg/80x80bb.webp",
-        "appleID": "you-me/1710020675"
+        "title": "Chk Chk Boom",
+        "artist": "Stray Kids",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/c1/47/24c147fc-cf70-0a4e-3e21-bd9a42617572/8809928952123_Cover.jpg/80x80bb.webp",
+        "appleID": "chk-chk-boom/1752739619"
     },
     {
         "ranking": "80",
@@ -561,66 +561,66 @@
     },
     {
         "ranking": "81",
-        "title": "Good Luck, Babe!",
-        "artist": "Chappell Roan",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/80x80bb.webp",
-        "appleID": "good-luck-babe/1737497080"
-    },
-    {
-        "ranking": "82",
         "title": "Fissure",
         "artist": "Kuljelje",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/8b/89/fe/8b89fefc-3263-40fd-ff2b-63a9fdfcca96/4711099690701.jpg/80x80bb.webp",
         "appleID": "fissure/1632587457"
     },
     {
+        "ranking": "82",
+        "title": "Wrong Love",
+        "artist": "Wang Leehom",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/be/4a/77/be4a7730-c144-a39e-c7b6-9d26ea0ebff3/1400X1400.jpg/80x80bb.webp",
+        "appleID": "wrong-love/1134344911"
+    },
+    {
         "ranking": "83",
-        "title": "Chk Chk Boom",
-        "artist": "Stray Kids",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/c1/47/24c147fc-cf70-0a4e-3e21-bd9a42617572/8809928952123_Cover.jpg/80x80bb.webp",
-        "appleID": "chk-chk-boom/1752739619"
+        "title": "You & Me",
+        "artist": "JENNIE",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2e/2a/4c/2e2a4c59-62ac-25a3-9d91-5e680b4ba806/23UM1IM15529.rgb.jpg/80x80bb.webp",
+        "appleID": "you-me/1710020675"
     },
     {
         "ranking": "84",
-        "title": "Best Friend",
-        "artist": "A-Lin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9d/0c/0e/9d0c0eb2-eb20-d04b-674c-760511409eea/196589007995.jpg/80x80bb.webp",
-        "appleID": "best-friend/1616484709"
-    },
-    {
-        "ranking": "85",
-        "title": "If Only",
-        "artist": "JJ Lin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b0/42/6e/b0426e5c-aa39-d28e-c184-fe1e0c7e5efd/dj.xjyxvhya.jpg/80x80bb.webp",
-        "appleID": "if-only/945738655"
-    },
-    {
-        "ranking": "86",
         "title": "IF YOU",
         "artist": "BIGBANG",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5b/9b/8e/5b9b8ef2-998e-1210-8454-dfebfbf6271c/BB_COVER_IMAGE_4000.jpg/80x80bb.webp",
         "appleID": "if-you/1313176085"
     },
     {
-        "ranking": "87",
-        "title": "OMG (Apple Music Edition)",
+        "ranking": "85",
+        "title": "Supernatural",
         "artist": "NewJeans",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d0/78/92/d07892c1-2770-7e7f-68ba-dc6409750f7a/196922401039_Cover.jpg/80x80bb.webp",
-        "appleID": "omg-apple-music-edition/1677134765"
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/ce/d6/abced6f6-2b90-c230-eb4b-e146734a3a22/196922907821_Cover.jpg/80x80bb.webp",
+        "appleID": "supernatural/1750576834"
     },
     {
-        "ranking": "88",
+        "ranking": "86",
+        "title": "Best Friend",
+        "artist": "A-Lin",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9d/0c/0e/9d0c0eb2-eb20-d04b-674c-760511409eea/196589007995.jpg/80x80bb.webp",
+        "appleID": "best-friend/1616484709"
+    },
+    {
+        "ranking": "87",
         "title": "MEOW",
         "artist": "MEOVV",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/7f/b9/9b7fb97f-57fd-0a2e-64de-30cd3a259c71/198704128974_Cover.jpg/80x80bb.webp",
         "appleID": "meow/1765598000"
     },
     {
+        "ranking": "88",
+        "title": "Lemon",
+        "artist": "Kenshi Yonezu",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6b/0f/0b/6b0f0b3d-e842-5ee1-83a8-1b12142a9dfd/dj.bpfbtyiy.jpg/80x80bb.webp",
+        "appleID": "lemon/1538265741"
+    },
+    {
         "ranking": "89",
-        "title": "TOXIC",
-        "artist": "MEOVV",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/20/f9/d4/20f9d425-b5c4-cc34-8c2a-2ee2b7155f32/8800287294121_Cover.jpg/80x80bb.webp",
-        "appleID": "toxic/1779250382"
+        "title": "OMG (Apple Music Edition)",
+        "artist": "NewJeans",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d0/78/92/d07892c1-2770-7e7f-68ba-dc6409750f7a/196922401039_Cover.jpg/80x80bb.webp",
+        "appleID": "omg-apple-music-edition/1677134765"
     },
     {
         "ranking": "90",
@@ -631,38 +631,38 @@
     },
     {
         "ranking": "91",
-        "title": "Supernatural",
-        "artist": "NewJeans",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/ce/d6/abced6f6-2b90-c230-eb4b-e146734a3a22/196922907821_Cover.jpg/80x80bb.webp",
-        "appleID": "supernatural/1750576834"
-    },
-    {
-        "ranking": "92",
-        "title": "Lemon",
-        "artist": "Kenshi Yonezu",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6b/0f/0b/6b0f0b3d-e842-5ee1-83a8-1b12142a9dfd/dj.bpfbtyiy.jpg/80x80bb.webp",
-        "appleID": "lemon/1538265741"
-    },
-    {
-        "ranking": "93",
         "title": "You Better Not Think About Me",
         "artist": "Hebe Tien",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/81/a2/8f/81a28f90-7d3e-305b-0c3e-88b2aa6b32f4/4716220194806.jpg/80x80bb.webp",
         "appleID": "you-better-not-think-about-me/780523277"
     },
     {
-        "ranking": "94",
+        "ranking": "92",
         "title": "Shape of You",
         "artist": "Ed Sheeran",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
         "appleID": "shape-of-you/1193701392"
     },
     {
+        "ranking": "93",
+        "title": "Good Luck, Babe!",
+        "artist": "Chappell Roan",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/80x80bb.webp",
+        "appleID": "good-luck-babe/1737497080"
+    },
+    {
+        "ranking": "94",
+        "title": "TOXIC",
+        "artist": "MEOVV",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/20/f9/d4/20f9d425-b5c4-cc34-8c2a-2ee2b7155f32/8800287294121_Cover.jpg/80x80bb.webp",
+        "appleID": "toxic/1779250382"
+    },
+    {
         "ranking": "95",
-        "title": "我們沒開始",
-        "artist": "Eric Chou",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/2d/72/d22d72cc-28bd-c0c7-514f-66bc993e5343/5021732556080.jpg/80x80bb.webp",
-        "appleID": "我們沒開始/1781226935"
+        "title": "Spicy",
+        "artist": "aespa",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/af/2c/6d/af2c6d62-0ebc-2dff-17b3-8eeb2b3986a0/888735943621.jpg/80x80bb.webp",
+        "appleID": "spicy/1685400184"
     },
     {
         "ranking": "96",
@@ -673,30 +673,30 @@
     },
     {
         "ranking": "97",
-        "title": "Spicy",
-        "artist": "aespa",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/af/2c/6d/af2c6d62-0ebc-2dff-17b3-8eeb2b3986a0/888735943621.jpg/80x80bb.webp",
-        "appleID": "spicy/1685400184"
+        "title": "Blue and White Porcelain",
+        "artist": "Jay Chou",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f7/2c/9f/f72c9fc6-c4dc-d6a0-4386-0478b09cb797/23UM1IM58609.rgb.jpg/80x80bb.webp",
+        "appleID": "blue-and-white-porcelain/1721455873"
     },
     {
         "ranking": "98",
-        "title": "Beautiful Things",
-        "artist": "Benson Boone",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
-        "appleID": "beautiful-things/1724488124"
-    },
-    {
-        "ranking": "99",
-        "title": "星期五晚上",
-        "artist": "Energy",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/23/fd/fe23fdee-13dc-64b3-300c-928eeb460980/3000.png/80x80bb.webp",
-        "appleID": "星期五晚上/1740269226"
-    },
-    {
-        "ranking": "100",
         "title": "夜に駆ける",
         "artist": "YOASOBI",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fe/58/79/fe58795c-1628-230a-9ffe-300c04b6627c/194491717186.jpg/80x80bb.webp",
         "appleID": "夜に駆ける/1490256995"
+    },
+    {
+        "ranking": "99",
+        "title": "我們沒開始",
+        "artist": "Eric Chou",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/2d/72/d22d72cc-28bd-c0c7-514f-66bc993e5343/5021732556080.jpg/80x80bb.webp",
+        "appleID": "我們沒開始/1781226935"
+    },
+    {
+        "ranking": "100",
+        "title": "Seven (Explicit Ver.)",
+        "artist": "Jung Kook",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f2/54/08/f254081d-c7e2-6cd6-f7c5-dedb56fd95bd/196922710582_Cover.jpg/80x80bb.webp",
+        "appleID": "seven-explicit-ver/1715412325"
     }
 ]
