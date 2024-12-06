@@ -1,0 +1,1002 @@
+[
+    {
+        "ranking": "1",
+        "title": "TATTOO (En Vivo)",
+        "artist": "La Única Tropical",
+        "image": "https://lh3.googleusercontent.com/Xl1n9wKP6u1LvXMxxh_EWUSBz6DnT7gX2W0JmF6Bc_Q_JQt6JPtlPB0yxWSKfZ1GGLKL3iVMyHvFoCeH9Q=w180-h180-l90-rj",
+        "prev": "1",
+        "streak": "8",
+        "streams": "4,427,146",
+        "youtubeID": "vxxfcaoNJ8E"
+    },
+    {
+        "ranking": "2",
+        "title": "Mix Dina: Todo Empezó / Que Lindos Son Tus Ojos (En Vivo)",
+        "artist": "Corazón Serrano & Dina paucar",
+        "image": "https://lh3.googleusercontent.com/IfEuyB6S81RHMLo0NCu1jE0iM8iAGmV72hEZUu0CvUxb3T0OQ3P7Jx1F383GgIpvoJBG6sONE2pI6RBK=w180-h180-l90-rj",
+        "prev": "12",
+        "streak": "2",
+        "streams": "2,738,608",
+        "youtubeID": "7_cN0uQApYU"
+    },
+    {
+        "ranking": "3",
+        "title": "PARTIDO EN DOS",
+        "artist": "La Única Tropical",
+        "image": "https://lh3.googleusercontent.com/EcfxnAZqzVqIOropX8tC8pLLLAqphvyIzet9_cFoaHRx5ru4wKyXDSQ4xSPwWsIEnrGRZsQUFfco98vl=w180-h180-l90-rj",
+        "prev": "2",
+        "streak": "39",
+        "streams": "2,616,629",
+        "youtubeID": "Y2Vnjmb2gFs"
+    },
+    {
+        "ranking": "4",
+        "title": "APT.",
+        "artist": "ROSÉ & Bruno Mars",
+        "image": "https://lh3.googleusercontent.com/notDXHngiDUGxcfGSLuD6TyQN3UnyBXJ1QfkhlckPs5Ji49ehTtZur5HS3Bea5NTRc6_cx3ij4pA9N_5GA=w180-h180-l90-rj",
+        "prev": "5",
+        "streak": "6",
+        "streams": "2,313,566",
+        "youtubeID": "ekr2nIex040"
+    },
+    {
+        "ranking": "5",
+        "title": "Die With A Smile",
+        "artist": "Lady Gaga & Bruno Mars",
+        "image": "https://lh3.googleusercontent.com/x5ST0wHIxD__IIxHF1UqUgXP4QW58ouj1EHROC9I5yHIb8cmoNr9rL54RfA-BnYay_eWmmOJfXNuFqmPEA=w180-h180-l90-rj",
+        "prev": "3",
+        "streak": "15",
+        "streams": "2,298,985",
+        "youtubeID": "kPa7bsKwL-c"
+    },
+    {
+        "ranking": "6",
+        "title": "Si Antes Te Hubiera Conocido",
+        "artist": "KAROL G",
+        "image": "https://lh3.googleusercontent.com/AiGCQxoGJqC-Fku09iZA1Rh33C-xkceGEEof8Jd-zlpDXMDh8BZphvkL6FS2TYd1uDtMHA63o2BUSIHq=w180-h180-l90-rj",
+        "prev": "4",
+        "streak": "23",
+        "streams": "2,104,580",
+        "youtubeID": "QCZZwZQ4qNs"
+    },
+    {
+        "ranking": "7",
+        "title": "SI NO ES CONTIGO",
+        "artist": "Cris Mj",
+        "image": "https://lh3.googleusercontent.com/LQlM2zctw3N-MgnlcIPqoy27EcNSoioBxxo5AN1h3UK5RqWstgOzb8-wShGSH3tlIusFmoi7KCMwzQC_0A=w180-h180-l90-rj",
+        "prev": "8",
+        "streak": "27",
+        "streams": "1,486,599",
+        "youtubeID": "vX1fgqKXSsk"
+    },
+    {
+        "ranking": "8",
+        "title": "Khé?",
+        "artist": "Rauw Alejandro & Romeo Santos",
+        "image": "https://lh3.googleusercontent.com/eDSdtWJ2jGDLRrLDXzmL0OfecJTFrAUnyh_-4bT92VzmQ8iCbsZKQtjw7B4jz5uot-Uu6b6dJ0sfrBlf=w180-h180-l90-rj",
+        "prev": "20",
+        "streak": "2",
+        "streams": "1,439,453",
+        "youtubeID": "7SNycTMOF74"
+    },
+    {
+        "ranking": "9",
+        "title": "No Sufriré Por Nadie (En Vivo)",
+        "artist": "Corazón Serrano & Grupo BerEn",
+        "image": "https://lh3.googleusercontent.com/N9xdsCUCZHl-wqxsazQ4iwMyTV2C8WT5noRB_YxdOPohGCxJD0ho_Avez1Xff9vsHeyTDvY-5dvUCuLA=w180-h180-l90-rj",
+        "prev": "6",
+        "streak": "36",
+        "streams": "1,401,939",
+        "youtubeID": "6HbR5SBWXsA"
+    },
+    {
+        "ranking": "10",
+        "title": "Dile Dile Dile",
+        "artist": "Residente & Ricky Martin & Bad Bunny",
+        "image": "https://i.ytimg.com/vi/rHQgBZIacK4/default.jpg",
+        "prev": "7",
+        "streak": "29",
+        "streams": "1,183,818",
+        "youtubeID": "rHQgBZIacK4"
+    },
+    {
+        "ranking": "11",
+        "title": "Tu Boda",
+        "artist": "Óscar Maydon & Fuerza Regida",
+        "image": "https://lh3.googleusercontent.com/f2kcXal8gVSSh80MQHaKaMeyGBdLFR9K8GgkaMZQyNCkMtWwqCuotTcsqNvSdYBoU0rL33_e52Ust3YV9Q=w180-h180-l90-rj",
+        "prev": "9",
+        "streak": "6",
+        "streams": "1,182,018",
+        "youtubeID": "_ymicn0_GYc"
+    },
+    {
+        "ranking": "12",
+        "title": "LUNA",
+        "artist": "Feid & ATL Jacob",
+        "image": "https://lh3.googleusercontent.com/MzDDz4pGJS1ExeCepXu9mmq3zPTW3t0lDeZyHCZ9mwrqptdt8EYq7tQi8KKiGipS9cw-1pob3j0eYP2S=w180-h180-l90-rj",
+        "prev": "13",
+        "streak": "52",
+        "streams": "1,143,556",
+        "youtubeID": "x2oUajHp8pg"
+    },
+    {
+        "ranking": "13",
+        "title": "Soltera",
+        "artist": "Shakira",
+        "image": "https://lh3.googleusercontent.com/0zQPpAS9G1hDygaL30Q3WG2P-tGY3kMkRt4NT3hyg7-82rXXjF_5hz1Mw3_jMEnLgPvLBEcnuNXk-aB6=w180-h180-l90-rj",
+        "prev": "10",
+        "streak": "9",
+        "streams": "1,112,699",
+        "youtubeID": "oBofuVYDoG4"
+    },
+    {
+        "ranking": "14",
+        "title": "SE ME OLVIDA",
+        "artist": "Maisak & Feid",
+        "image": "https://lh3.googleusercontent.com/ossX38-b-JVxyZqJ-snxBAacnTCLKxu0UoXAE_Z0hSqLDw9xw8dDuUYamwN_gWHtBOcuTUZ3EDjQQ2KIRw=w180-h180-l90-rj",
+        "prev": "15",
+        "streak": "14",
+        "streams": "1,099,602",
+        "youtubeID": "ROgcM9-N9jM"
+    },
+    {
+        "ranking": "15",
+        "title": "¿Cómo Pasó?",
+        "artist": "Ela Taubert",
+        "image": "https://lh3.googleusercontent.com/Vm5gpR_xQKbiCeCvfZTcDbZPmryAE1NFFZ7NQaOO08b-X_iwTHoJnO_ye6BR4W9gTW-ypVpHuNt7PUWA9Q=w180-h180-l90-rj",
+        "prev": "16",
+        "streak": "23",
+        "streams": "1,095,816",
+        "youtubeID": "GAr9kdZjbu4"
+    },
+    {
+        "ranking": "16",
+        "title": "Mix Cholito: Márchate / Te Espero En El Cielo / Cholito",
+        "artist": "Corazón Serrano",
+        "image": "https://lh3.googleusercontent.com/iKZlL7w7yzPvufRQIaLBwU4OJd4at3L7tR3-N1IiiK6aeboZTxDwA0dKFkvkEB9XDVJThpA9L_cQ8gocaw=w180-h180-l90-rj",
+        "prev": "14",
+        "streak": "15",
+        "streams": "976,452",
+        "youtubeID": "ENGIRRiobdk"
+    },
+    {
+        "ranking": "17",
+        "title": "+57 (feat. Ovy On The Drums, J Balvin, Maluma, Ryan Castro & Blessd)",
+        "artist": "KAROL G & Feid & DFZM",
+        "image": "https://lh3.googleusercontent.com/WsUDbeGSZzIPi67D5rMzJ6O9492OIwZU9O-67P6xqrwZkFTKSOhlxvez9jCeA9nDxMkkfDaqgugeC8eVhA=w180-h180-l90-rj",
+        "prev": "11",
+        "streak": "3",
+        "streams": "967,728",
+        "youtubeID": "5r5UePOgMQU"
+    },
+    {
+        "ranking": "18",
+        "title": "Gata Only",
+        "artist": "FloyyMenor & Cris Mj",
+        "image": "https://lh3.googleusercontent.com/diUI1hB3OleAoXadcG_L7xN3F3jEb-gpe6YsouyFpQXAdbInTHa3kmshHMVOJfCfS0Akjnqviq7lWds=w180-h180-l90-rj",
+        "prev": "19",
+        "streak": "43",
+        "streams": "843,633",
+        "youtubeID": "-r687V8yqKY"
+    },
+    {
+        "ranking": "19",
+        "title": "Tomar para Olvidar (Versión con Ernesto Pimentel)",
+        "artist": "Armonía 10 & Ernesto Pimentel",
+        "image": "https://lh3.googleusercontent.com/A3Al6PcizrU3uqR4p4jm-Pu3UBHlh2WUZZExXqaU20ldxqciR-KjrkSk5eVlnWLyc5ERw6x7Ez3-ryU=w180-h180-l90-rj",
+        "prev": "17",
+        "streak": "33",
+        "streams": "829,585",
+        "youtubeID": "yNu43n65rEQ"
+    },
+    {
+        "ranking": "20",
+        "title": "WYA REMIX RED (feat. Jay Wheeler & iZaak)",
+        "artist": "J Abdiel & De La Rose & Yan Block",
+        "image": "https://lh3.googleusercontent.com/tubpfV9bnAearnrZdeRLgY0R7bBxfXjqAj-Cv2q8YtHEh5-WTXnZ2MAGA9GbJCPI8I07jZdBuxkkFX0g=w180-h180-l90-rj",
+        "prev": "18",
+        "streak": "29",
+        "streams": "814,575",
+        "youtubeID": "g5Ow-kFPtLI"
+    },
+    {
+        "ranking": "21",
+        "title": "Los Menores Ya Crecimos",
+        "artist": "Yerzy & Louis Producer",
+        "image": "https://lh3.googleusercontent.com/DxBXKuUxnEDY8pShE5f0TmBf5ZbdDiR38iqV5k8uYAunrV2qtXlbo4vAhBgRNU1byB3Zn6BIdEGaU8Y=w180-h180-l90-rj",
+        "prev": "60",
+        "streak": "2",
+        "streams": "793,514",
+        "youtubeID": "PF8LGbmM5v4"
+    },
+    {
+        "ranking": "22",
+        "title": "Dutty Love (feat. Natti Natasha)",
+        "artist": "Don Omar",
+        "image": "https://i.ytimg.com/vi/x622Sqjub-s/default.jpg",
+        "prev": "29",
+        "streak": "31",
+        "streams": "728,575",
+        "youtubeID": "x622Sqjub-s"
+    },
+    {
+        "ranking": "23",
+        "title": "UWAIE",
+        "artist": "Kapo",
+        "image": "https://lh3.googleusercontent.com/MBFfcA5FPQuAX8x4ae480bcUWS1uKiFk1GmhK27IR24BWavdlNlynChCbRlW8jwQGytsgneD0njb2zVpMA=w180-h180-l90-rj",
+        "prev": "23",
+        "streak": "15",
+        "streams": "720,196",
+        "youtubeID": "spbagny8OjM"
+    },
+    {
+        "ranking": "24",
+        "title": "No Eres Único",
+        "artist": "Corazón Serrano",
+        "image": "https://lh3.googleusercontent.com/iKZlL7w7yzPvufRQIaLBwU4OJd4at3L7tR3-N1IiiK6aeboZTxDwA0dKFkvkEB9XDVJThpA9L_cQ8gocaw=w180-h180-l90-rj",
+        "prev": "26",
+        "streak": "24",
+        "streams": "716,330",
+        "youtubeID": "LVce-8YhEGs"
+    },
+    {
+        "ranking": "25",
+        "title": "Mi Mundo Sin Ella",
+        "artist": "Walther Lozada y Orquesta & Armonía 10",
+        "image": "https://lh3.googleusercontent.com/6wrDSm5zlOZgOG9f_wWBdFeKgnrN4933roFFws9auQXn1ZGsGCNC-I2yNPunyfIgTVwlJZbKLxiNGPOxrw=w180-h180-l90-rj",
+        "prev": "28",
+        "streak": "44",
+        "streams": "699,413",
+        "youtubeID": "6x4Gk5Fw-Js"
+    },
+    {
+        "ranking": "26",
+        "title": "Ohnana (Remix) (feat. Farruko & Nicky Jam)",
+        "artist": "Kapo & Maluma & Ryan Castro",
+        "image": "https://lh3.googleusercontent.com/GA4PPK1MlNOGljhJG3dcaLgullc3XMFHVHowsPUhv_lcKKAxoIjL2V64cZUoum1md-zCIKUn23Lsz5k=w180-h180-l90-rj",
+        "prev": "24",
+        "streak": "22",
+        "streams": "695,497",
+        "youtubeID": "lmDfmilZ4Xo"
+    },
+    {
+        "ranking": "27",
+        "title": "QUE VAS HACER HOY?",
+        "artist": "DE LA ROSE & Omar Courtz",
+        "image": "https://lh3.googleusercontent.com/xGZFBAYha4wjuPZoY_vZTNDFg8ouyBcQWa1-yuW-Poso2p7kKO6oemtD5LixCSTJlPhOZVI523lziUYZdw=w180-h180-l90-rj",
+        "prev": "21",
+        "streak": "9",
+        "streams": "691,594",
+        "youtubeID": "Lu8u_SEjt1Y"
+    },
+    {
+        "ranking": "28",
+        "title": "Ella No Supo Querer",
+        "artist": "La Bella Luz",
+        "image": "https://lh3.googleusercontent.com/dL61BLXNXXRpxfAKdkEGbLd4RGkh7zL-Xj-rYaxWf-qtaCL9ElABb6RI6swUtWfSJETWoUodrnInYetE=w180-h180-l90-rj",
+        "prev": "22",
+        "streak": "16",
+        "streams": "680,279",
+        "youtubeID": "X9maPOu2VRI"
+    },
+    {
+        "ranking": "29",
+        "title": "Cosas Pendientes",
+        "artist": "Maluma",
+        "image": "https://lh3.googleusercontent.com/SvJ_EDqs57WjamvfNf5q5Miod0mvEIK33kiM9WTcnSnVs-J49EGUKwuG8LmLHN7u3P3mJ2UU5Gi42SO1=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "670,281",
+        "youtubeID": "6vPhcRew8hA"
+    },
+    {
+        "ranking": "30",
+        "title": "Mírame",
+        "artist": "Blessd & Ovy On The Drums",
+        "image": "https://lh3.googleusercontent.com/KD331Lm7ffzdhOvWH1lGkDO7FY2MsOCfJkQ_UjHvvX_UQCH9Llz4ZOAEezf5ppO8ZLnsU-sv_i8eXb5b=w180-h180-l90-rj",
+        "prev": "30",
+        "streak": "25",
+        "streams": "656,345",
+        "youtubeID": "zcw8NlHljF4"
+    },
+    {
+        "ranking": "31",
+        "title": "Vuelve A Mi Lado (En Vivo)",
+        "artist": "Corazón Serrano & Armonía 10",
+        "image": "https://lh3.googleusercontent.com/1GbTerOA-8EFmlQZnVIYGgqI0ImVPPK1aTnvzBDJgZ-ieWULGovUrLbfljX-uzWFEx4JzqLWcYrTJLMFSg=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "641,073",
+        "youtubeID": "Y3089qOD5ok"
+    },
+    {
+        "ranking": "32",
+        "title": "Disjockey",
+        "artist": "La Bella Luz",
+        "image": "https://lh3.googleusercontent.com/28suwYPPMbGgG7aD3DU77GHa6efOQ0wAi_38ISjMKGZHc96BNJTwI2mLF-bWN421-MKE9aKnRG4sxU6hTQ=w180-h180-l90-rj",
+        "prev": "27",
+        "streak": "29",
+        "streams": "627,387",
+        "youtubeID": "LHLXsjc8q3k"
+    },
+    {
+        "ranking": "33",
+        "title": "En Otra Vida",
+        "artist": "Yami Safdie & Lasso",
+        "image": "https://lh3.googleusercontent.com/aqJNfQgOCEsSPtcPDE9kjou8AcxYF5UbClfoXCk5oL4cysHbcOHgy52FMNeC5ObftLYBrNW3zngZcbxtxg=w180-h180-l90-rj",
+        "prev": "33",
+        "streak": "6",
+        "streams": "594,845",
+        "youtubeID": "A2aixdFINOQ"
+    },
+    {
+        "ranking": "34",
+        "title": "SORRY 4 THAT MUCH",
+        "artist": "Feid",
+        "image": "https://lh3.googleusercontent.com/4A9i0NwGAp-Ara6cm-5tQzoAqUHLrquVnbE4pZNunBUkau2I2hzrT8gyTE8fHGJHGUh5vnzMvtfaEUE4=w180-h180-l90-rj",
+        "prev": "44",
+        "streak": "25",
+        "streams": "587,771",
+        "youtubeID": "Q2ftMmazZCU"
+    },
+    {
+        "ranking": "35",
+        "title": "Que Bello/Enamorada y Herida",
+        "artist": "Son del Duke",
+        "image": "https://lh3.googleusercontent.com/1vf9bBajm1bU2VAANJiC1a7PQF62-g-T-now0rC1VIEOHJ_WdJevSPxcWAhNEtqx_A9JLlONLnVd1jyf=w180-h180-l90-rj",
+        "prev": "50",
+        "streak": "5",
+        "streams": "580,583",
+        "youtubeID": "WCRTdpTfoB0"
+    },
+    {
+        "ranking": "36",
+        "title": "DEPORTIVO",
+        "artist": "Blessd & Anuel AA & Ovy On The Drums",
+        "image": "https://lh3.googleusercontent.com/bo9F-r-x6RbTCrwokwLtDipHNP4HnW2Ud7ZCKDgc9YY_z0ixoTpIpEhe0Ag-Ry3TbV8bPNQM7k3zLDU=w180-h180-l90-rj",
+        "prev": "39",
+        "streak": "2",
+        "streams": "577,861",
+        "youtubeID": "vf2N-7AUHB4"
+    },
+    {
+        "ranking": "37",
+        "title": "Camino A España (Remasterizado)",
+        "artist": "Corazón Serrano",
+        "image": "https://lh3.googleusercontent.com/k-HwR6rj9wCXpnkNwrRbosYy3XEjXJTHm-37b8tiFhQaq7knP95D2uU7QRGiAMrizRgu_zJ86IDOY9wR=w180-h180-l90-rj",
+        "prev": "31",
+        "streak": "15",
+        "streams": "573,523",
+        "youtubeID": "sSGJywWepjE"
+    },
+    {
+        "ranking": "38",
+        "title": "fantasmas",
+        "artist": "HUMBE",
+        "image": "https://lh3.googleusercontent.com/q_EpahOt1CID5Un-l_d9-XW_lwKrW2CXtXsPX7TFeV9qhzE5DMcV_6K3hZJazEcRYgLJSBdIZMcY3EWt=w180-h180-l90-rj",
+        "prev": "35",
+        "streak": "52",
+        "streams": "568,542",
+        "youtubeID": "e2c8NkNY41U"
+    },
+    {
+        "ranking": "39",
+        "title": "Orion",
+        "artist": "Boza & Elena Rose",
+        "image": "https://lh3.googleusercontent.com/iiQYmUhkDET8_0OHQ0uDP1KrZ0eJi1kriRp9e3JNIjvagP_9hSS5kO3yoUz7EzG5v-a59n4HkkEso_dcMQ=w180-h180-l90-rj",
+        "prev": "34",
+        "streak": "25",
+        "streams": "562,632",
+        "youtubeID": "fAFiHTyCioI"
+    },
+    {
+        "ranking": "40",
+        "title": "POR EL CONTRARIO (feat. Leonardo Aguilar & Ángela Aguilar)",
+        "artist": "Becky G",
+        "image": "https://i.ytimg.com/vi/8c7KOGxeY3w/default.jpg",
+        "prev": "-",
+        "streak": "38",
+        "streams": "555,362",
+        "youtubeID": "8c7KOGxeY3w"
+    },
+    {
+        "ranking": "41",
+        "title": "Pégate",
+        "artist": "Standly",
+        "image": "https://lh3.googleusercontent.com/ZpTsAvRFWhV-GR-LhDpaj6bLlyEcExXoVGl0eQe7Bk-IIBsnq-41-SpaQHoZko2tJO6TfutzAmzYaJXgqg=w180-h180-l90-rj",
+        "prev": "65",
+        "streak": "31",
+        "streams": "543,801",
+        "youtubeID": "vANNEX7ShIs"
+    },
+    {
+        "ranking": "42",
+        "title": "Pendejerete (Cumbia)",
+        "artist": "Leslie Shaw & Armonía 10",
+        "image": "https://lh3.googleusercontent.com/oMLUt2AtswCYq1WzDVgBMxrusxZDIN94yYmVfmZed3rUhh0Xl2qSfJlSNHWkgnljLWWOyH9pTAoMOQbG=w180-h180-l90-rj",
+        "prev": "37",
+        "streak": "22",
+        "streams": "540,844",
+        "youtubeID": "ZI4CRak9_yk"
+    },
+    {
+        "ranking": "43",
+        "title": "Una Foto (Remix) (feat. Emilia)",
+        "artist": "Mesita & Nicki Nicole & Tiago PZK",
+        "image": "https://lh3.googleusercontent.com/1iCjNPnwWQRym6Os57VSFFB0ddg6w4BQ3Plhxy0q1kH4uZ4KRll_BTzcUbJ5q9Y9s0jEXLmX3hV-bjbj=w180-h180-l90-rj",
+        "prev": "36",
+        "streak": "47",
+        "streams": "536,185",
+        "youtubeID": "LWdAMW_4Yq0"
+    },
+    {
+        "ranking": "44",
+        "title": "Cervecero",
+        "artist": "Pamela Franco & Christian Cuevas",
+        "image": "https://i.ytimg.com/vi/0VHR9GY1b5c/default.jpg",
+        "prev": "25",
+        "streak": "3",
+        "streams": "523,657",
+        "youtubeID": "0VHR9GY1b5c"
+    },
+    {
+        "ranking": "45",
+        "title": "Corazón Serrano - Mix Vico - Recuerdos Del Corazón Vol.2",
+        "artist": "Corazón Serrano",
+        "image": "https://lh3.googleusercontent.com/iKZlL7w7yzPvufRQIaLBwU4OJd4at3L7tR3-N1IiiK6aeboZTxDwA0dKFkvkEB9XDVJThpA9L_cQ8gocaw=w180-h180-l90-rj",
+        "prev": "48",
+        "streak": "15",
+        "streams": "509,572",
+        "youtubeID": "LGRb3oI6wn0"
+    },
+    {
+        "ranking": "46",
+        "title": "BIRDS OF A FEATHER",
+        "artist": "Billie Eilish",
+        "image": "https://lh3.googleusercontent.com/mXJjWX4E6Gpr03CUYl18PdVXlczmoL2Tm-LEBGafIr_8smlHnl8AHniJu0_7Y80e-aeloJxcryQQx0ZJ=w180-h180-l90-rj",
+        "prev": "38",
+        "streak": "17",
+        "streams": "506,097",
+        "youtubeID": "V9PVRfjEBTI"
+    },
+    {
+        "ranking": "47",
+        "title": "Se Fue",
+        "artist": "Rauw Alejandro & Laura Pausini",
+        "image": "https://lh3.googleusercontent.com/eDSdtWJ2jGDLRrLDXzmL0OfecJTFrAUnyh_-4bT92VzmQ8iCbsZKQtjw7B4jz5uot-Uu6b6dJ0sfrBlf=w180-h180-l90-rj",
+        "prev": "32",
+        "streak": "2",
+        "streams": "502,820",
+        "youtubeID": "X2Fil9BTUEM"
+    },
+    {
+        "ranking": "48",
+        "title": "PELIGROSA",
+        "artist": "FloyyMenor",
+        "image": "https://lh3.googleusercontent.com/JcCuTKKNheAohWnRHA2Olev-blKo2R4v43q65O3dmgNzt1uqD9mAzEpjwvrvTmACrR7C7WgJsIegEhRB=w180-h180-l90-rj",
+        "prev": "41",
+        "streak": "16",
+        "streams": "500,540",
+        "youtubeID": "LW5oQl0CxdQ"
+    },
+    {
+        "ranking": "49",
+        "title": "SAL DE MI VIDA",
+        "artist": "La Única Tropical",
+        "image": "https://lh3.googleusercontent.com/zEDpqVOmeKhlFbbKDku5fZ_x5Z7U4ni5t30vK61AfG5D7uDCw6Qm28W_XhvB6ILiNMh_95ifkMQVYreD=w180-h180-l90-rj",
+        "prev": "40",
+        "streak": "30",
+        "streams": "489,272",
+        "youtubeID": "mOovtC7dwnU"
+    },
+    {
+        "ranking": "50",
+        "title": "Somewhere Only We Know",
+        "artist": "Keane",
+        "image": "https://lh3.googleusercontent.com/sz-rN_DL2vZODkWsB7gNoN1dywTtxNSmkiLFiRB9o8o9Al-Aa5prKaizitpydTI7tVkQa2QwWFchteVc=w180-h180-s-l90-rj",
+        "prev": "-",
+        "streak": "31",
+        "streams": "485,569",
+        "youtubeID": "Oextk-If8HQ"
+    },
+    {
+        "ranking": "51",
+        "title": "Tú Con Él",
+        "artist": "Rauw Alejandro",
+        "image": "https://lh3.googleusercontent.com/eDSdtWJ2jGDLRrLDXzmL0OfecJTFrAUnyh_-4bT92VzmQ8iCbsZKQtjw7B4jz5uot-Uu6b6dJ0sfrBlf=w180-h180-l90-rj",
+        "prev": "47",
+        "streak": "2",
+        "streams": "478,528",
+        "youtubeID": "NC4wwAtyBA8"
+    },
+    {
+        "ranking": "52",
+        "title": "Bye Bye Bye",
+        "artist": "*NSYNC",
+        "image": "https://lh3.googleusercontent.com/WgTgMgIxFlodDnXO3GKEtmE4vWfjmOkGl8EKyzgfojv4PAE5ebA_EPf-yWrrqzRP1Ht6R38I7NWFAorz=w180-h180-l90-rj",
+        "prev": "43",
+        "streak": "18",
+        "streams": "461,917",
+        "youtubeID": "Eo-KmOd3i7s"
+    },
+    {
+        "ranking": "53",
+        "title": "HAY NIVELES",
+        "artist": "Leslie Shaw & Marisol & La Mágia del Norte",
+        "image": "https://lh3.googleusercontent.com/T6HQ5z0-ZNv0eYbuvL3DYFnHypHjJ2l7TKS0l_nShUCY3AogPVeVoIvAywP7IZ7jxKJX7hCP-ndYXfSdyA=w180-h180-l90-rj",
+        "prev": "42",
+        "streak": "17",
+        "streams": "455,605",
+        "youtubeID": "lwzoBYH2eXA"
+    },
+    {
+        "ranking": "54",
+        "title": "DEGENERE (feat. Benny Blanco)",
+        "artist": "Myke Towers",
+        "image": "https://lh3.googleusercontent.com/98snKi1IDqTdel7azt61qKGzHqscsdLY0tddZ0wQqvDqP9-dWgPnsLp4qtotNWUD02MeJzJbce_Kzv-K=w180-h180-l90-rj",
+        "prev": "45",
+        "streak": "6",
+        "streams": "443,235",
+        "youtubeID": "jg4mZak7wzQ"
+    },
+    {
+        "ranking": "55",
+        "title": "Ma Meilleure Ennemie",
+        "artist": "Stromae & Pomme",
+        "image": "https://lh3.googleusercontent.com/AYcl_X1V-eF8utaaVUlgmY-ibcQwE2BsY0RW6TdbZ5qAK8UNUfA5xaNiERyCHv2PpsXNh_L3hPZkmdM=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "435,426",
+        "youtubeID": "1F3OGIFnW1k"
+    },
+    {
+        "ranking": "56",
+        "title": "Después De La 1",
+        "artist": "Cris Mj & FloyyMenor",
+        "image": "https://lh3.googleusercontent.com/q64kSSmrduIqLSj_nq1_6w_1U6jfSxVwc9hZo0ObZLmUrMnZsF69c0BYn8IMAYDgVFSTC1PvsY3gelM=w180-h180-l90-rj",
+        "prev": "51",
+        "streak": "11",
+        "streams": "432,940",
+        "youtubeID": "2tnYogbWwmY"
+    },
+    {
+        "ranking": "57",
+        "title": "Esclava (Remix) (feat. Anonimus, Almighty & Anuel AA)",
+        "artist": "Bryant Myers",
+        "image": "https://lh3.googleusercontent.com/sMnpsN2oJIJxGn75z3J3cp6-eLiCNVvtKQyy9Gd7OLGlLj6UbSgd6J-j5Q7_TWHuXnySoDxSfKRh0qbsDw=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "22",
+        "streams": "418,536",
+        "youtubeID": "wohwc9MQt6A"
+    },
+    {
+        "ranking": "58",
+        "title": "Otra Vez (feat. J Balvin)",
+        "artist": "Zion & Lennox",
+        "image": "https://lh3.googleusercontent.com/S9cmfk0ryy3X62Tq6rrfF_T-GqblQLySI0bjR6WxVpnfJ5uGfsBLwaYt_bmTXGysK-v6MtaRAqO-tc4=w180-h180-l90-rj",
+        "prev": "59",
+        "streak": "30",
+        "streams": "414,875",
+        "youtubeID": "6R5i6wQCOCQ"
+    },
+    {
+        "ranking": "59",
+        "title": "Qué Pasaría...",
+        "artist": "Rauw Alejandro & Bad Bunny",
+        "image": "https://lh3.googleusercontent.com/eDSdtWJ2jGDLRrLDXzmL0OfecJTFrAUnyh_-4bT92VzmQ8iCbsZKQtjw7B4jz5uot-Uu6b6dJ0sfrBlf=w180-h180-l90-rj",
+        "prev": "49",
+        "streak": "2",
+        "streams": "410,974",
+        "youtubeID": "g08y_x83d5E"
+    },
+    {
+        "ranking": "60",
+        "title": "Tu Con El",
+        "artist": "Frankie Ruíz",
+        "image": "https://i.ytimg.com/vi/OesXvuWhDnw/default.jpg",
+        "prev": "62",
+        "streak": "40",
+        "streams": "404,701",
+        "youtubeID": "OesXvuWhDnw"
+    },
+    {
+        "ranking": "61",
+        "title": "Créeme",
+        "artist": "KAROL G & Maluma",
+        "image": "https://lh3.googleusercontent.com/6nd0FE1ujr43AByxQFGVWB9DDDzHeMZiiAHGvl4xeU9tNTEUGRDTAwJINx1z2QOujBInhyv4elXoX-4=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "58",
+        "streams": "384,587",
+        "youtubeID": "sDKnKzYyx5c"
+    },
+    {
+        "ranking": "62",
+        "title": "Hasta Aquí Llegué",
+        "artist": "Nanpa Básico & Beéle",
+        "image": "https://lh3.googleusercontent.com/Pn8L03l9gpG-KfMdEPEjSZ_1WpKnjaYc1cAGQQLkK2QUNV__Tt0cx82hCLHZdX2xnuuCLhlPnQFg2qeU=w180-h180-l90-rj",
+        "prev": "57",
+        "streak": "19",
+        "streams": "378,592",
+        "youtubeID": "kt1Edu0dbvY"
+    },
+    {
+        "ranking": "63",
+        "title": "Mix Ada: Llorando Tu Partida / Todo Lo Aprendí De Ti / Te Arrepentirás (En Vivo)",
+        "artist": "Corazón Serrano",
+        "image": "https://lh3.googleusercontent.com/mXXDsN-Rv_3daiiK6fxVdUcPyZRRTVF9XSW9Wi14VbFUebMak6zzA6Ezd66elMX2b3Rqb1YyXr8faCM=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "7",
+        "streams": "369,674",
+        "youtubeID": "FsDaT53Gr2c"
+    },
+    {
+        "ranking": "64",
+        "title": "ALFA",
+        "artist": "Fede Vigevani & Club Misterio",
+        "image": "https://lh3.googleusercontent.com/qmYwYCR_9JbXScF1UxZUnIb_iYOl2-LD00UrrOIk-6FacBh0YOTN2Bn0_f3R8L-ZzZiy6BbwK6WOwaYO=w180-h180-l90-rj",
+        "prev": "54",
+        "streak": "5",
+        "streams": "366,468",
+        "youtubeID": "xtjPUAsfkVc"
+    },
+    {
+        "ranking": "65",
+        "title": "Amor Ilegal(Live)",
+        "artist": "La Única Tropical",
+        "image": "https://i.ytimg.com/vi/B63W4FmDYqo/default.jpg",
+        "prev": "58",
+        "streak": "8",
+        "streams": "356,907",
+        "youtubeID": "B63W4FmDYqo"
+    },
+    {
+        "ranking": "66",
+        "title": "Amor De Tres (En Vivo)",
+        "artist": "Corazón Serrano & Yahaira Plasencia",
+        "image": "https://lh3.googleusercontent.com/wbhgqGNIUcsZMYyrLVtWKel2OTQ8xKtSSUOA9I4F2lYz5y6qsPsORUn9h3eCufAe8TloHj6lW70az9zk=w180-h180-l90-rj",
+        "prev": "63",
+        "streak": "2",
+        "streams": "354,585",
+        "youtubeID": "G_T8TebBT5I"
+    },
+    {
+        "ranking": "67",
+        "title": "Ven Devórame Otra Vez",
+        "artist": "Lalo Rodríguez",
+        "image": "https://i.ytimg.com/vi/p_mwt_V3rtQ/default.jpg",
+        "prev": "64",
+        "streak": "4",
+        "streams": "353,585",
+        "youtubeID": "p_mwt_V3rtQ"
+    },
+    {
+        "ranking": "68",
+        "title": "Sigues Con Él",
+        "artist": "Arcángel & Sech",
+        "image": "https://lh3.googleusercontent.com/I2RC7DTW25WW7_4Irho9J3RN91UP0Ijux8q61zfqBuVG7-DCZrkDwNnTRuiTnSEJ1gUioXtxvLRFiZF6=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "46",
+        "streams": "347,267",
+        "youtubeID": "VRUjdlCynU0"
+    },
+    {
+        "ranking": "69",
+        "title": "Beso Al Aire (feat. América Sierra & Smoky) (feat. América Sierra & Smoky)",
+        "artist": "3BallMTY",
+        "image": "https://lh3.googleusercontent.com/OM99R2K9XciAqXhpag_g-xJj_fdERpkPtU9Yhi5RA0waWTj9VKSZvZSeCzoB1r1jYKUT9fPwkwf5avm0Eg=w180-h180-l90-rj",
+        "prev": "66",
+        "streak": "9",
+        "streams": "331,556",
+        "youtubeID": "BjLKhuTu5ac"
+    },
+    {
+        "ranking": "70",
+        "title": "Simplemente amigos",
+        "artist": "Pamela Franco",
+        "image": "https://i.ytimg.com/vi/ovCoKOmDddA/default.jpg",
+        "prev": "56",
+        "streak": "13",
+        "streams": "331,425",
+        "youtubeID": "ovCoKOmDddA"
+    },
+    {
+        "ranking": "71",
+        "title": "La Pregunta",
+        "artist": "J Alvarez",
+        "image": "https://lh3.googleusercontent.com/Qdp7-qtykxolxFsw5uTrhHpv746a0F4AqMQelPRSCH0_OlEJRsVhSiATo2EBonLFN3ATEOCS5v5E5xG1=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "27",
+        "streams": "328,474",
+        "youtubeID": "Sr2D5YwJKCk"
+    },
+    {
+        "ranking": "72",
+        "title": "Te Encontre",
+        "artist": "El Vega Life",
+        "image": "https://lh3.googleusercontent.com/tMO2n6X36bGHMMS90YBiJeXMCcJOShB-vUK6grbKUEcqsI6WqccXPNW0iwhldVHkSyTFmUbnA8nYEEI=w180-h180-l90-rj",
+        "prev": "67",
+        "streak": "42",
+        "streams": "328,454",
+        "youtubeID": "8g3KHA8ROiA"
+    },
+    {
+        "ranking": "73",
+        "title": "PARRANDA #9 (Live)",
+        "artist": "Armonía 10",
+        "image": "https://i.ytimg.com/vi/Qtb65xjwQ0w/default.jpg",
+        "prev": "72",
+        "streak": "2",
+        "streams": "317,708",
+        "youtubeID": "Qtb65xjwQ0w"
+    },
+    {
+        "ranking": "74",
+        "title": "No Me Mientas",
+        "artist": "Yerzy",
+        "image": "https://i.ytimg.com/vi/FvBh0ssra8w/default.jpg",
+        "prev": "-",
+        "streak": "1",
+        "streams": "316,414",
+        "youtubeID": "FvBh0ssra8w"
+    },
+    {
+        "ranking": "75",
+        "title": "All I Want for Christmas Is You",
+        "artist": "Mariah Carey",
+        "image": "https://lh3.googleusercontent.com/p2KexwmjEYAxWpU8YDL5ZO-BcH1Qnr51nznrX04W-5a16aKWCAwCaEgzwP7cMrCjJhmlJvuxilrCXU0=w180-h180-l90-rj",
+        "prev": "92",
+        "streak": "22",
+        "streams": "315,628",
+        "youtubeID": "aAkMkVFwAoo"
+    },
+    {
+        "ranking": "76",
+        "title": "Devuélveme A Mi Chica",
+        "artist": "Hombres G",
+        "image": "https://lh3.googleusercontent.com/JO2d37titFmGVcl4Yu84SfPLV4yH4tXpcv1NmnM8oTsCRHfn0Sr1TeTp3fN-OFakFSJFc_gBUtEdVdHo=w180-h180-s-l90-rj",
+        "prev": "71",
+        "streak": "27",
+        "streams": "315,124",
+        "youtubeID": "26jj4pNhxO0"
+    },
+    {
+        "ranking": "77",
+        "title": "Flor Pálida",
+        "artist": "Marc Anthony",
+        "image": "https://lh3.googleusercontent.com/wRwHIk-1cuAAwJql_eJksVQxY7B3mrH9AiZGiRrG5VCAEr686NGyHclX-R_fA2UDgGEgO3Npcm2u20A=w180-h180-s-l90-rj",
+        "prev": "-",
+        "streak": "27",
+        "streams": "313,046",
+        "youtubeID": "3VmoZrxXbmg"
+    },
+    {
+        "ranking": "78",
+        "title": "Bing Bong",
+        "artist": "Yailin la Mas Viral & Puyalo Pantera",
+        "image": "https://lh3.googleusercontent.com/IL8z5ROh13MhVa1J5Ur9wWzC7BoqvDvZGFdDKMNz-qQnQIh5jYQYQB8wbmwmpdZeIxoOacb3Y97Tlix-=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "311,274",
+        "youtubeID": "YpoUzo-CflQ"
+    },
+    {
+        "ranking": "79",
+        "title": "Labios Compartidos",
+        "artist": "Maná",
+        "image": "https://lh3.googleusercontent.com/yXVG3DWiXYvJJH9D25Bh6hWTjgeEFFu_HwdOaTYMtnJEtdnEUP6XY374mAqdR0HxJrS9Bhmj77-tuaMnpg=w180-h180-l90-rj",
+        "prev": "78",
+        "streak": "10",
+        "streams": "311,087",
+        "youtubeID": "1IgOZaQqB58"
+    },
+    {
+        "ranking": "80",
+        "title": "Yandel 150",
+        "artist": "Yandel & Feid",
+        "image": "https://lh3.googleusercontent.com/9fakE8c0rHbrt80Py_WT_dJrvhfjvbiNIMk_60XRudxln20P7ud_fSWQ4-pI-L7oldHlf05KRyda1LTq=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "52",
+        "streams": "300,394",
+        "youtubeID": "WHejvUhX6rk"
+    },
+    {
+        "ranking": "81",
+        "title": "Una Lady Como Tú",
+        "artist": "Manuel Turizo",
+        "image": "https://lh3.googleusercontent.com/swGiXS1J_ruHapfHrPMRoisoV0VlvswMCgETQjXpyoWoiw4SQCT_IUXz2CPGcwveKReme2n14pX9aIEE=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "51",
+        "streams": "299,580",
+        "youtubeID": "VYtJAuoZxcc"
+    },
+    {
+        "ranking": "82",
+        "title": "Dile la Verdad (feat. Pamela Franco)",
+        "artist": "Brunella Torpoco",
+        "image": "https://lh3.googleusercontent.com/abDILkwKu0XFFJmcNSF-dE49CrXg4CKWnlKhTCwn0WLJdk8VW6UXuThHQ5otH7s55FtVXPkt9_Ugtnru=w180-h180-l90-rj",
+        "prev": "53",
+        "streak": "8",
+        "streams": "298,152",
+        "youtubeID": "yXgrO1nH4Gk"
+    },
+    {
+        "ranking": "83",
+        "title": "Mix Bella Luz (No Te Olvidaré / Porque Te Marchaste / Conmuévete)",
+        "artist": "La Bella Luz",
+        "image": "https://lh3.googleusercontent.com/FGU3KVhBU4RjBke6k1itAR7oquLrELlx1YkbMIscp4I8PukCjb3RNuTSMbD1sCMNvT9xPpj55jarTnI0=w180-h180-l90-rj",
+        "prev": "70",
+        "streak": "2",
+        "streams": "297,229",
+        "youtubeID": "XmJzZVZkIV4"
+    },
+    {
+        "ranking": "84",
+        "title": "Ayer Me LLamó Mi Ex (feat. Lenny Santos)",
+        "artist": "KHEA",
+        "image": "https://lh3.googleusercontent.com/cNjtBhiZCvn3uN51T7ln8ZUmFU2KHrkMI32o-a-jMYDovCCCLheK9qF8jUhG4tI1c0VXq4CfHVLaGLQ=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "35",
+        "streams": "297,203",
+        "youtubeID": "svSqD1ZBZiY"
+    },
+    {
+        "ranking": "85",
+        "title": "Tacones Rojos",
+        "artist": "Sebastián Yatra",
+        "image": "https://lh3.googleusercontent.com/wknyb5nhcSqrBHTG2vMFmvJsF5QGspf2RREyUXWEQ_xelop8BJVQT2sQjGX7TC6s3AVLHtpQbF8OLhTU=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "55",
+        "streams": "296,665",
+        "youtubeID": "Qz9gmiLBVFA"
+    },
+    {
+        "ranking": "86",
+        "title": "Que Locura Enamorarme De Ti",
+        "artist": "Eddie Santiago",
+        "image": "https://i.ytimg.com/vi/5EkAaZaRFXg/default.jpg",
+        "prev": "-",
+        "streak": "22",
+        "streams": "295,015",
+        "youtubeID": "5EkAaZaRFXg"
+    },
+    {
+        "ranking": "87",
+        "title": "Márchate (En Vivo)",
+        "artist": "Carlos Miguel y Orquesta",
+        "image": "https://lh3.googleusercontent.com/7ZuBsrK6CxUAhWRgNmB4gbXduPqriUnWdFlucJHqq8IRh6ghyhSSDysEKUYBXzyrIBYFK6LNhM60N0o=w180-h180-l90-rj",
+        "prev": "76",
+        "streak": "13",
+        "streams": "292,547",
+        "youtubeID": "q3pJBL-9M7k"
+    },
+    {
+        "ranking": "88",
+        "title": "Tattoo (Spanish Version)",
+        "artist": "Kevz",
+        "image": "https://lh3.googleusercontent.com/YT-Se_uXDXUoNacYbesR2wQjtbY5edUlXRkWKcfY0Mr574Glyxo3bov_IfikOZXL9B39ClI9t64jqQKc=w180-h180-l90-rj",
+        "prev": "75",
+        "streak": "4",
+        "streams": "288,251",
+        "youtubeID": "8N-DvRAspzo"
+    },
+    {
+        "ranking": "89",
+        "title": "Siempre Sere",
+        "artist": "Tito Rojas",
+        "image": "https://lh3.googleusercontent.com/FrKINb53QmNQduMLffGw0sswfsKTaK2ayc1HKL9Se02vOyn2Jxa4IlmaXx6v4PzU0L_SkhoAVRc9XVF4=w180-h180-l90-rj",
+        "prev": "79",
+        "streak": "5",
+        "streams": "286,771",
+        "youtubeID": "Mq3LwKa_lYg"
+    },
+    {
+        "ranking": "90",
+        "title": "El Perdedor",
+        "artist": "Maluma",
+        "image": "https://lh3.googleusercontent.com/SJStMXdd624UiIan1T-y5NkvYR00Cbkcrp-vAqARa7fyTLr4XM37Pc5x4AIIeDjEuGVrs3qqVgJC7E1K=w180-h180-l90-rj",
+        "prev": "77",
+        "streak": "49",
+        "streams": "286,024",
+        "youtubeID": "PJniSb91tvo"
+    },
+    {
+        "ranking": "91",
+        "title": "PERDIDOS",
+        "artist": "La Única Tropical",
+        "image": "https://lh3.googleusercontent.com/8NmWFWI5t23ETnCrRyGerFWslx2nAZbBtD5qDFrLbYYv6Ptv1WwR2TFVA3i0zzht-Q-1iurOznKMV0w=w180-h180-l90-rj",
+        "prev": "68",
+        "streak": "5",
+        "streams": "282,855",
+        "youtubeID": "wuqIDxqlgnY"
+    },
+    {
+        "ranking": "92",
+        "title": "Frente al Mar",
+        "artist": "Beéle",
+        "image": "https://lh3.googleusercontent.com/F4UGVf9NSKIOQ7Dccpf8jbP0tqgflm2f2juWYufZgYpNnuSiyjU0_X6mDKy6dYFNN3HX1kMvx20s2rw=w180-h180-l90-rj",
+        "prev": "74",
+        "streak": "9",
+        "streams": "276,480",
+        "youtubeID": "IryOLXtyTRU"
+    },
+    {
+        "ranking": "93",
+        "title": "Piensas en mí",
+        "artist": "Nicky Jam",
+        "image": "https://i.ytimg.com/vi/pnEHsUWFuNM/default.jpg",
+        "prev": "73",
+        "streak": "4",
+        "streams": "276,008",
+        "youtubeID": "pnEHsUWFuNM"
+    },
+    {
+        "ranking": "94",
+        "title": "Fuiste Tú (feat. Gaby Moreno)",
+        "artist": "Ricardo Arjona",
+        "image": "https://lh3.googleusercontent.com/_G3WhKadX1hYAPcx4P3cNGhkkKs2wJusK3bP_QLJeBMtGb2L0ccbRa-JdlnVy1Qd8Pj_Q6mVq109hGam=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "24",
+        "streams": "273,341",
+        "youtubeID": "I9cCPQVPv8o"
+    },
+    {
+        "ranking": "95",
+        "title": "Everybody's Changing",
+        "artist": "Keane",
+        "image": "https://lh3.googleusercontent.com/4yY1-AhEdAxJHpoJ08l-4hMnIceJc2dfWWlsePwZWFUiVk3PthJ9AFC9Das_v51SoZAS2gAf9btdrBQ=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "271,280",
+        "youtubeID": "RSNmgE6L8AU"
+    },
+    {
+        "ranking": "96",
+        "title": "Quedate Junto a Mi",
+        "artist": "R.K.M & Ken-Y",
+        "image": "https://i.ytimg.com/vi/yhFU1fvbsWI/default.jpg",
+        "prev": "97",
+        "streak": "21",
+        "streams": "271,178",
+        "youtubeID": "yhFU1fvbsWI"
+    },
+    {
+        "ranking": "97",
+        "title": "La Cita",
+        "artist": "Galy Galiano",
+        "image": "https://lh3.googleusercontent.com/Imd6kbcsB5nSg3sCIllUTWUEhm_dR4MvHkYAqJMciRS-U4YRV_sHkaOTqZwrOidpLhaSjFcDVCEhHEnf6A=w180-h180-l90-rj",
+        "prev": "85",
+        "streak": "2",
+        "streams": "268,463",
+        "youtubeID": "FNjXnRJROtQ"
+    },
+    {
+        "ranking": "98",
+        "title": "Aquel Nap ZzZz",
+        "artist": "Rauw Alejandro",
+        "image": "https://lh3.googleusercontent.com/PGZvpR1LqIYvJd9g_CB0n_3EDumnPAA4kDo7vUqLhQ5vkrwwaNsEkc6jnsmx-ZwPenhnDmNq3Tvt_urCiA=w180-h180-l90-rj",
+        "prev": "95",
+        "streak": "36",
+        "streams": "266,676",
+        "youtubeID": "St6d4QK8GIU"
+    },
+    {
+        "ranking": "99",
+        "title": "Amar De Nuevo",
+        "artist": "Rauw Alejandro",
+        "image": "https://lh3.googleusercontent.com/eDSdtWJ2jGDLRrLDXzmL0OfecJTFrAUnyh_-4bT92VzmQ8iCbsZKQtjw7B4jz5uot-Uu6b6dJ0sfrBlf=w180-h180-l90-rj",
+        "prev": "86",
+        "streak": "2",
+        "streams": "265,241",
+        "youtubeID": "bumSM2ZcmRo"
+    },
+    {
+        "ranking": "100",
+        "title": "Abrázame",
+        "artist": "Ángela Aguilar & Felipe Botello y El Sonoro Rugir",
+        "image": "https://lh3.googleusercontent.com/y5YZ-qAvDPPf_p8mCqWkmMJRbevk7xEQjiPe_HCi26dE3jrZVuQoih9PL2uJFo2wtGbPuRffm45W_-Tr=w180-h180-l90-rj",
+        "prev": "93",
+        "streak": "8",
+        "streams": "265,223",
+        "youtubeID": "SDopQqrG85E"
+    }
+]
