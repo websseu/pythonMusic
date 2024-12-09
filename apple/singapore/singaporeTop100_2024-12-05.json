@@ -18,14 +18,17 @@
         "title": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
         "artist": "G-DRAGON",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/e1/84/a4e1846a-6158-6a43-30c7-0297e891905e/197342826099_cover.jpg/80x80bb.webp",
-        "appleID": "home-sweet-home-feat-taeyang-daesung/1780635199"
+        "appleID": "home-sweet-home-feat-taeyang-daesung/1780635199",
+        "youtubeID": "fLi0EJfi_vg"
     },
     {
         "ranking": "4",
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI",
+        "spotifyID": "6dOtVTDdiauQNBQEDOtlAB"
     },
     {
         "ranking": "5",
@@ -53,21 +56,27 @@
         "title": "Mantra",
         "artist": "JENNIE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/9a/4c/5d9a4c5f-1c34-1265-0fa5-860dc8f0e802/196872495263.jpg/80x80bb.webp",
-        "appleID": "mantra/1772759719"
+        "appleID": "mantra/1772759719",
+        "youtubeID": "bB3-CUMERIU",
+        "spotifyID": "2CspwnypzT7rcWI9RfsoSb"
     },
     {
         "ranking": "9",
         "title": "Whiplash",
         "artist": "aespa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/c1/f5/d5c1f505-f588-775f-df05-c672a8ec22e9/888735949562_Cover.jpg/80x80bb.webp",
-        "appleID": "whiplash/1772214981"
+        "appleID": "whiplash/1772214981",
+        "youtubeID": "jWQx2f-CErU",
+        "spotifyID": "7Cnpb1vBbC46RgVyyKLH7p"
     },
     {
         "ranking": "10",
         "title": "POWER",
         "artist": "G-DRAGON",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/fa/03/36fa0306-b040-b01b-36d3-181256366615/197342805353_cover.jpg/80x80bb.webp",
-        "appleID": "power/1776670342"
+        "appleID": "power/1776670342",
+        "youtubeID": "NMjhjrBIrG8",
+        "spotifyID": "4XsJiRJQAK8TWcZCn0Dxlh"
     },
     {
         "ranking": "11",
@@ -81,7 +90,9 @@
         "title": "DRIP",
         "artist": "BABYMONSTER",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/e1/ef/b9e1ef3a-e3eb-8152-e91b-20aca0fc9ffd/BM_DRIP_Digital-Cover_4000.jpg/80x80bb.webp",
-        "appleID": "drip/1773262055"
+        "appleID": "drip/1773262055",
+        "youtubeID": "Zp-Jhuhq0bQ",
+        "spotifyID": "1MUZitHRpmng5NevrvNx4T"
     },
     {
         "ranking": "13",
@@ -95,7 +106,9 @@
         "title": "All I Want for Christmas Is You",
         "artist": "Mariah Carey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/80x80bb.webp",
-        "appleID": "all-i-want-for-christmas-is-you/585972803"
+        "appleID": "all-i-want-for-christmas-is-you/585972803",
+        "youtubeID": "aAkMkVFwAoo",
+        "spotifyID": "0bYg9bo50gSsH3LtXe2SQn"
     },
     {
         "ranking": "15",
@@ -214,7 +227,9 @@
         "title": "Magnetic",
         "artist": "ILLIT",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3e/49/1e/3e491e43-4961-21ab-2abe-37fb1c0feb40/196922879227_Cover.jpg/80x80bb.webp",
-        "appleID": "magnetic/1734500896"
+        "appleID": "magnetic/1734500896",
+        "youtubeID": "Vk5-c_v4gMU",
+        "spotifyID": "1aKvZDoLGkNMxoRYgkckZG"
     },
     {
         "ranking": "32",
@@ -228,7 +243,9 @@
         "title": "Supernova",
         "artist": "aespa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/7e/e0/507ee09f-ccfd-1e3c-af90-ca5e92b1221b/00888735949869_Cover.jpg/80x80bb.webp",
-        "appleID": "supernova/1773694544"
+        "appleID": "supernova/1773694544",
+        "youtubeID": "phuiiNCxRMg",
+        "spotifyID": "2JhbSmNAyM9kYiqwa8Tpla"
     },
     {
         "ranking": "34",
@@ -242,7 +259,9 @@
         "title": "Running Wild",
         "artist": "Jin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/21/a1/c521a133-2a4d-05da-205f-19093c53cd55/198704169175_Cover.jpg/80x80bb.webp",
-        "appleID": "running-wild/1772351326"
+        "appleID": "running-wild/1772351326",
+        "youtubeID": "uoHol5Dr_go",
+        "spotifyID": "50zAEIE4B1QqhPjRMK2Xmh"
     },
     {
         "ranking": "36",
@@ -305,7 +324,9 @@
         "title": "Igloo",
         "artist": "KISS OF LIFE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/70/86/dd70863e-2571-25cd-d1eb-c44a5cdba57f/cover_KM0020274_1.jpg/80x80bb.webp",
-        "appleID": "igloo/1773345357"
+        "appleID": "igloo/1773345357",
+        "youtubeID": "toF4ee3n-vo",
+        "spotifyID": "2DbDefRFJ5YOfXCKOeCJJh"
     },
     {
         "ranking": "45",
@@ -340,7 +361,8 @@
         "title": "Beautiful Things",
         "artist": "Benson Boone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
-        "appleID": "beautiful-things/1724488124"
+        "appleID": "beautiful-things/1724488124",
+        "youtubeID": "Oa_RSwwpPaA"
     },
     {
         "ranking": "50",
@@ -417,7 +439,9 @@
         "title": "Touch",
         "artist": "KATSEYE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/fb/6a/08fb6a32-8856-f1f4-148b-8959bff0efb0/24UMGIM67773.rgb.jpg/80x80bb.webp",
-        "appleID": "touch/1753359801"
+        "appleID": "touch/1753359801",
+        "youtubeID": "l9CZykYZkOQ",
+        "spotifyID": "6aJn7Cst74cj4lNIiPRgav"
     },
     {
         "ranking": "61",
@@ -459,7 +483,9 @@
         "title": "Cherish (My Love)",
         "artist": "ILLIT",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e9/20/73/e9207332-1b22-18d0-5d1b-daaf370a4317/198704136962_Cover.jpg/80x80bb.webp",
-        "appleID": "cherish-my-love/1772790089"
+        "appleID": "cherish-my-love/1772790089",
+        "youtubeID": "tbDGl7jEazA",
+        "spotifyID": "21LtZQQMQYwVIxc9O9Ygq8"
     },
     {
         "ranking": "67",
@@ -501,7 +527,9 @@
         "title": "Armageddon",
         "artist": "aespa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/7e/e0/507ee09f-ccfd-1e3c-af90-ca5e92b1221b/00888735949869_Cover.jpg/80x80bb.webp",
-        "appleID": "armageddon/1773694547"
+        "appleID": "armageddon/1773694547",
+        "youtubeID": "nFYwcndNuOY",
+        "spotifyID": "6lAvyeD3Nq43AjyCxZQj54"
     },
     {
         "ranking": "73",
@@ -550,7 +578,9 @@
         "title": "How Sweet",
         "artist": "NewJeans",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/68/ca/bf68ca64-4acd-543f-bc78-455f11f06105/196922889738_Cover.jpg/80x80bb.webp",
-        "appleID": "how-sweet/1744448416"
+        "appleID": "how-sweet/1744448416",
+        "youtubeID": "Q3K0TOvTOno",
+        "spotifyID": "38tXZcL1gZRfbqfOG0VMTH"
     },
     {
         "ranking": "80",
@@ -606,7 +636,8 @@
         "title": "No Doubt",
         "artist": "ENHYPEN",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/c8/8c/5fc88cb7-faf5-483a-ea42-ebf112c5f3d7/198704187797_Cover.jpg/80x80bb.webp",
-        "appleID": "no-doubt/1776917125"
+        "appleID": "no-doubt/1776917125",
+        "youtubeID": "rDolt3jJRsM"
     },
     {
         "ranking": "88",

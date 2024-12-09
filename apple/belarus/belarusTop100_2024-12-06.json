@@ -81,7 +81,9 @@
         "title": "Running Wild",
         "artist": "Jin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/21/a1/c521a133-2a4d-05da-205f-19093c53cd55/198704169175_Cover.jpg/80x80bb.webp",
-        "appleID": "running-wild/1772351326"
+        "appleID": "running-wild/1772351326",
+        "youtubeID": "uoHol5Dr_go",
+        "spotifyID": "50zAEIE4B1QqhPjRMK2Xmh"
     },
     {
         "ranking": "13",
@@ -291,7 +293,8 @@
         "title": "Beautiful Things",
         "artist": "Benson Boone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/ee/92/f2ee9219-370a-9b2a-5061-93dd1f8a530b/5059460307407.jpg/80x80bb.webp",
-        "appleID": "beautiful-things/1751265643"
+        "appleID": "beautiful-things/1751265643",
+        "youtubeID": "Oa_RSwwpPaA"
     },
     {
         "ranking": "43",
@@ -459,7 +462,9 @@
         "title": "All I Want for Christmas Is You",
         "artist": "Mariah Carey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/80x80bb.webp",
-        "appleID": "all-i-want-for-christmas-is-you/585972803"
+        "appleID": "all-i-want-for-christmas-is-you/585972803",
+        "youtubeID": "aAkMkVFwAoo",
+        "spotifyID": "0bYg9bo50gSsH3LtXe2SQn"
     },
     {
         "ranking": "67",

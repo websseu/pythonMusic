@@ -7,7 +7,8 @@
         "prev": "1",
         "streak": "6",
         "streams": "261,092",
-        "youtubeID": "ekr2nIex040"
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "5vNRhkKd0yEAg8suGBpjeY"
     },
     {
         "ranking": "2",
@@ -17,7 +18,8 @@
         "prev": "2",
         "streak": "15",
         "streams": "150,542",
-        "youtubeID": "kPa7bsKwL-c"
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "3",
@@ -77,7 +79,9 @@
         "prev": "8",
         "streak": "28",
         "streams": "59,939",
-        "youtubeID": "V9PVRfjEBTI"
+        "youtubeID": "V9PVRfjEBTI",
+        "spotifyID": "6dOtVTDdiauQNBQEDOtlAB",
+        "appleID": "birds-of-a-feather/1739659142"
     },
     {
         "ranking": "9",
@@ -117,7 +121,9 @@
         "prev": "16",
         "streak": "62",
         "streams": "52,023",
-        "youtubeID": "aAkMkVFwAoo"
+        "youtubeID": "aAkMkVFwAoo",
+        "spotifyID": "0bYg9bo50gSsH3LtXe2SQn",
+        "appleID": "all-i-want-for-christmas-is-you/585972803"
     },
     {
         "ranking": "13",
@@ -767,7 +773,9 @@
         "prev": "85",
         "streak": "12",
         "streams": "18,406",
-        "youtubeID": "l9CZykYZkOQ"
+        "youtubeID": "l9CZykYZkOQ",
+        "spotifyID": "6aJn7Cst74cj4lNIiPRgav",
+        "appleID": "touch/1753359801"
     },
     {
         "ranking": "78",
@@ -997,6 +1005,8 @@
         "prev": "84",
         "streak": "7",
         "streams": "16,469",
-        "youtubeID": "bB3-CUMERIU"
+        "youtubeID": "bB3-CUMERIU",
+        "spotifyID": "2CspwnypzT7rcWI9RfsoSb",
+        "appleID": "mantra/1772759719"
     }
 ]
