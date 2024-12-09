@@ -15,17 +15,17 @@
     },
     {
         "ranking": "3",
-        "title": "gervonta",
-        "artist": "Peso Pluma",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/39/ed/a6/39eda6fa-33fc-76da-238e-454c5ad8b73c/199066114025.jpg/80x80bb.webp",
-        "appleID": "gervonta/1783250950"
-    },
-    {
-        "ranking": "4",
         "title": "ROSONES",
         "artist": "Tito Double P",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/75/0d/30750d8c-20c7-5c80-f9be-97b7fd6fcfc5/199066153628.jpg/80x80bb.webp",
         "appleID": "rosones/1783211314"
+    },
+    {
+        "ranking": "4",
+        "title": "gervonta",
+        "artist": "Peso Pluma",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/39/ed/a6/39eda6fa-33fc-76da-238e-454c5ad8b73c/199066114025.jpg/80x80bb.webp",
+        "appleID": "gervonta/1783250950"
     },
     {
         "ranking": "5",
@@ -36,24 +36,24 @@
     },
     {
         "ranking": "6",
+        "title": "NADIE",
+        "artist": "Tito Double P",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/38/66/b0/3866b02e-a123-7077-d752-84673080f717/198846892177.jpg/80x80bb.webp",
+        "appleID": "nadie/1779387617"
+    },
+    {
+        "ranking": "7",
         "title": "EL LOKERÓN",
         "artist": "Tito Double P",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/b1/c5/d6b1c5e2-104d-c427-465e-fea8dfe663d4/198588874653.jpg/80x80bb.webp",
         "appleID": "el-lokerón/1761412372"
     },
     {
-        "ranking": "7",
+        "ranking": "8",
         "title": "DOS DÍAS",
         "artist": "Tito Double P",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/b1/c5/d6b1c5e2-104d-c427-465e-fea8dfe663d4/198588874653.jpg/80x80bb.webp",
         "appleID": "dos-días/1761412603"
-    },
-    {
-        "ranking": "8",
-        "title": "NADIE",
-        "artist": "Tito Double P",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/38/66/b0/3866b02e-a123-7077-d752-84673080f717/198846892177.jpg/80x80bb.webp",
-        "appleID": "nadie/1779387617"
     },
     {
         "ranking": "9",
@@ -106,17 +106,17 @@
     },
     {
         "ranking": "16",
-        "title": "LA PATRULLA",
-        "artist": "Peso Pluma",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/e9/65/3de9651e-fe11-0525-7eee-762861af1152/198391808319.jpg/80x80bb.webp",
-        "appleID": "la-patrulla/1748015823"
-    },
-    {
-        "ranking": "17",
         "title": "HOLLYWOOD",
         "artist": "Peso Pluma",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/e9/65/3de9651e-fe11-0525-7eee-762861af1152/198391808319.jpg/80x80bb.webp",
         "appleID": "hollywood/1748016028"
+    },
+    {
+        "ranking": "17",
+        "title": "LA PATRULLA",
+        "artist": "Peso Pluma",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/e9/65/3de9651e-fe11-0525-7eee-762861af1152/198391808319.jpg/80x80bb.webp",
+        "appleID": "la-patrulla/1748015823"
     },
     {
         "ranking": "18",
@@ -197,17 +197,17 @@
     },
     {
         "ranking": "29",
-        "title": "Si No Quieres No",
-        "artist": "Luis R Conriquez",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a4/f9/58/a4f95869-c2cc-0615-237f-7e2a45ede2c3/1963621990404_cover.jpg/80x80bb.webp",
-        "appleID": "si-no-quieres-no/1733069730"
-    },
-    {
-        "ranking": "30",
         "title": "TÚ NAME",
         "artist": "Fuerza Regida",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2e/39/db/2e39db39-bf85-df59-c4c5-22391beeacf8/196871825177.jpg/80x80bb.webp",
         "appleID": "tú-name/1728939096"
+    },
+    {
+        "ranking": "30",
+        "title": "Si No Quieres No",
+        "artist": "Luis R Conriquez",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a4/f9/58/a4f95869-c2cc-0615-237f-7e2a45ede2c3/1963621990404_cover.jpg/80x80bb.webp",
+        "appleID": "si-no-quieres-no/1733069730"
     },
     {
         "ranking": "31",
@@ -225,17 +225,17 @@
     },
     {
         "ranking": "33",
-        "title": "Qué Onda",
-        "artist": "Calle 24",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2c/32/72/2c327216-8562-911a-f6e8-5c268f55afd6/717340552815_cover.jpg/80x80bb.webp",
-        "appleID": "qué-onda/1705125233"
-    },
-    {
-        "ranking": "34",
         "title": "LADY GAGA",
         "artist": "Peso Pluma",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a7/72/77/a77277f4-9b2e-0890-4707-31c1ac394c66/197189111396.jpg/80x80bb.webp",
         "appleID": "lady-gaga/1694412892"
+    },
+    {
+        "ranking": "34",
+        "title": "Qué Onda",
+        "artist": "Calle 24",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2c/32/72/2c327216-8562-911a-f6e8-5c268f55afd6/717340552815_cover.jpg/80x80bb.webp",
+        "appleID": "qué-onda/1705125233"
     },
     {
         "ranking": "35",
@@ -246,94 +246,94 @@
     },
     {
         "ranking": "36",
-        "title": "Sabor Fresa",
-        "artist": "Fuerza Regida",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/61/ec/d1/61ecd1d4-c2fe-a6f9-d181-da202f896172/196871251211.jpg/80x80bb.webp",
-        "appleID": "sabor-fresa/1693489585"
-    },
-    {
-        "ranking": "37",
         "title": "BLANCA ROSITA Y MARÍA",
         "artist": "Tito Double P",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/b1/c5/d6b1c5e2-104d-c427-465e-fea8dfe663d4/198588874653.jpg/80x80bb.webp",
         "appleID": "blanca-rosita-y-maría/1761412882"
     },
     {
+        "ranking": "37",
+        "title": "Sabor Fresa",
+        "artist": "Fuerza Regida",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/61/ec/d1/61ecd1d4-c2fe-a6f9-d181-da202f896172/196871251211.jpg/80x80bb.webp",
+        "appleID": "sabor-fresa/1693489585"
+    },
+    {
         "ranking": "38",
-        "title": "Más Altas Que Bajadas",
-        "artist": "Natanael Cano",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/15/a6/ac/15a6ac39-7d03-d487-a20f-97c7edaeba08/5054197720758.jpg/80x80bb.webp",
-        "appleID": "más-altas-que-bajadas/1694995919"
+        "title": "BYE",
+        "artist": "Peso Pluma",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a7/72/77/a77277f4-9b2e-0890-4707-31c1ac394c66/197189111396.jpg/80x80bb.webp",
+        "appleID": "bye/1694413080"
     },
     {
         "ranking": "39",
-        "title": "Si Antes Te Hubiera Conocido",
-        "artist": "KAROL G",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/60/94/a060947c-54d8-0fad-c558-eed12600224c/24UMGIM62705.rgb.jpg/80x80bb.webp",
-        "appleID": "si-antes-te-hubiera-conocido/1752031539"
-    },
-    {
-        "ranking": "40",
-        "title": "Giza",
-        "artist": "Natanael Cano",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/2c/7c/c12c7cc4-e418-2184-2366-79be69cf8af5/5021732424730.jpg/80x80bb.webp",
-        "appleID": "giza/1754250710"
-    },
-    {
-        "ranking": "41",
-        "title": "Se Fue",
-        "artist": "Rauw Alejandro",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "se-fue/1775463295"
-    },
-    {
-        "ranking": "42",
         "title": "TÚ SI",
         "artist": "Tito Double P",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/b1/c5/d6b1c5e2-104d-c427-465e-fea8dfe663d4/198588874653.jpg/80x80bb.webp",
         "appleID": "tú-si/1761413171"
     },
     {
-        "ranking": "43",
-        "title": "Tú Con Él",
-        "artist": "Rauw Alejandro",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "tú-con-él/1775462856"
+        "ranking": "40",
+        "title": "Más Altas Que Bajadas",
+        "artist": "Natanael Cano",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/15/a6/ac/15a6ac39-7d03-d487-a20f-97c7edaeba08/5054197720758.jpg/80x80bb.webp",
+        "appleID": "más-altas-que-bajadas/1694995919"
     },
     {
-        "ranking": "44",
-        "title": "Moscow Mule",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
-        "appleID": "moscow-mule/1622045625"
-    },
-    {
-        "ranking": "45",
+        "ranking": "41",
         "title": "BARBIEZ",
         "artist": "Fuerza Regida",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/21/e3/b7/21e3b74f-571b-07ce-567b-a2aa8274c7b2/196871548922.jpg/80x80bb.webp",
         "appleID": "barbiez/1712364013"
     },
     {
+        "ranking": "42",
+        "title": "Giza",
+        "artist": "Natanael Cano",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/2c/7c/c12c7cc4-e418-2184-2366-79be69cf8af5/5021732424730.jpg/80x80bb.webp",
+        "appleID": "giza/1754250710"
+    },
+    {
+        "ranking": "43",
+        "title": "Si Antes Te Hubiera Conocido",
+        "artist": "KAROL G",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/60/94/a060947c-54d8-0fad-c558-eed12600224c/24UMGIM62705.rgb.jpg/80x80bb.webp",
+        "appleID": "si-antes-te-hubiera-conocido/1752031539"
+    },
+    {
+        "ranking": "44",
+        "title": "Tú Con Él",
+        "artist": "Rauw Alejandro",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
+        "appleID": "tú-con-él/1775462856"
+    },
+    {
+        "ranking": "45",
+        "title": "On D Gas",
+        "artist": "LEGADO 7",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9e/70/f0/9e70f0b7-fb49-565c-c647-4f2de9cc2eb9/196872418392.jpg/80x80bb.webp",
+        "appleID": "on-d-gas/1764384908"
+    },
+    {
         "ranking": "46",
-        "title": "Die With A Smile",
-        "artist": "Lady Gaga",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "title": "Se Fue",
+        "artist": "Rauw Alejandro",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
+        "appleID": "se-fue/1775463295"
     },
     {
         "ranking": "47",
+        "title": "Moscow Mule",
+        "artist": "Bad Bunny",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
+        "appleID": "moscow-mule/1622045625"
+    },
+    {
+        "ranking": "48",
         "title": "SANTAL 33",
         "artist": "Peso Pluma",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/e9/65/3de9651e-fe11-0525-7eee-762861af1152/198391808319.jpg/80x80bb.webp",
         "appleID": "santal-33/1748016037"
-    },
-    {
-        "ranking": "48",
-        "title": "APT.",
-        "artist": "ROSÉ",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
     },
     {
         "ranking": "49",
@@ -344,45 +344,45 @@
     },
     {
         "ranking": "50",
-        "title": "Un Scar",
-        "artist": "Victor Mendivil",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/0e/60/790e60e2-fcfa-2610-caff-53092946912b/1963622648663_cover.jpg/80x80bb.webp",
-        "appleID": "un-scar/1775740523"
+        "title": "APT.",
+        "artist": "ROSÉ",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
+        "appleID": "apt/1773452221"
     },
     {
         "ranking": "51",
-        "title": "On D Gas",
-        "artist": "LEGADO 7",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9e/70/f0/9e70f0b7-fb49-565c-c647-4f2de9cc2eb9/196872418392.jpg/80x80bb.webp",
-        "appleID": "on-d-gas/1764384908"
-    },
-    {
-        "ranking": "52",
-        "title": "LUNA",
-        "artist": "Peso Pluma",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a7/72/77/a77277f4-9b2e-0890-4707-31c1ac394c66/197189111396.jpg/80x80bb.webp",
-        "appleID": "luna/1694412699"
-    },
-    {
-        "ranking": "53",
         "title": "TQM",
         "artist": "Fuerza Regida",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/70/11/29/7011298d-2cb8-582c-de28-1598af2c99ef/196871145329.jpg/80x80bb.webp",
         "appleID": "tqm/1688087613"
     },
     {
+        "ranking": "52",
+        "title": "Un Scar",
+        "artist": "Victor Mendivil",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/0e/60/790e60e2-fcfa-2610-caff-53092946912b/1963622648663_cover.jpg/80x80bb.webp",
+        "appleID": "un-scar/1775740523"
+    },
+    {
+        "ranking": "53",
+        "title": "Die With A Smile",
+        "artist": "Lady Gaga",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
+        "appleID": "die-with-a-smile/1762656732"
+    },
+    {
         "ranking": "54",
+        "title": "LUNA",
+        "artist": "Peso Pluma",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a7/72/77/a77277f4-9b2e-0890-4707-31c1ac394c66/197189111396.jpg/80x80bb.webp",
+        "appleID": "luna/1694412699"
+    },
+    {
+        "ranking": "55",
         "title": "Tipo Gatsby",
         "artist": "Óscar Maydon",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/29/8b/20/298b20db-21c3-ebe1-3c2f-236aaa2ac00d/196871717748.jpg/80x80bb.webp",
         "appleID": "tipo-gatsby/1721262908"
-    },
-    {
-        "ranking": "55",
-        "title": "Gata Only",
-        "artist": "FloyyMenor",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ca/4e/0f/ca4e0f11-2cbc-7aec-b2e4-53f5fac7cb0e/198309012715-copy-6dfc57c0.png/80x80bb.webp",
-        "appleID": "gata-only/1727813561"
     },
     {
         "ranking": "56",
@@ -407,31 +407,31 @@
     },
     {
         "ranking": "59",
-        "title": "Tití Me Preguntó",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
-        "appleID": "tití-me-preguntó/1622045635"
-    },
-    {
-        "ranking": "60",
-        "title": "BYE",
-        "artist": "Peso Pluma",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a7/72/77/a77277f4-9b2e-0890-4707-31c1ac394c66/197189111396.jpg/80x80bb.webp",
-        "appleID": "bye/1694413080"
-    },
-    {
-        "ranking": "61",
         "title": "LA TROKA",
         "artist": "Tito Double P",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/b1/c5/d6b1c5e2-104d-c427-465e-fea8dfe663d4/198588874653.jpg/80x80bb.webp",
         "appleID": "la-troka/1761412600"
     },
     {
-        "ranking": "62",
+        "ranking": "60",
         "title": "Como Jordan",
         "artist": "Junior H",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/11/33/97/1133978a-d03c-2c62-c712-8e2567bbd666/190296227486.jpg/80x80bb.webp",
         "appleID": "como-jordan/1608887407"
+    },
+    {
+        "ranking": "61",
+        "title": "Gata Only",
+        "artist": "FloyyMenor",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ca/4e/0f/ca4e0f11-2cbc-7aec-b2e4-53f5fac7cb0e/198309012715-copy-6dfc57c0.png/80x80bb.webp",
+        "appleID": "gata-only/1727813561"
+    },
+    {
+        "ranking": "62",
+        "title": "Tití Me Preguntó",
+        "artist": "Bad Bunny",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
+        "appleID": "tití-me-preguntó/1622045635"
     },
     {
         "ranking": "63",
@@ -442,52 +442,52 @@
     },
     {
         "ranking": "64",
-        "title": "La Santa",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8c/0f/81/8c0f81f2-9f10-5e3d-b9de-5961a73e8e52/195081078724.jpg/80x80bb.webp",
-        "appleID": "la-santa/1500776330"
-    },
-    {
-        "ranking": "65",
         "title": "PIÉNSALO",
         "artist": "Junior H",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/13/2c/d3132c40-fb9c-e02e-50d8-cd66c24f4020/5054197834332.jpg/80x80bb.webp",
         "appleID": "piénsalo/1709356909"
     },
     {
-        "ranking": "66",
-        "title": "LUNA",
-        "artist": "Feid",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7c/54/aa/7c54aa94-9ae3-4b80-7b23-8b23955dc3a2/23UM1IM60703.rgb.jpg/80x80bb.webp",
-        "appleID": "luna/1719170507"
+        "ranking": "65",
+        "title": "La Santa",
+        "artist": "Bad Bunny",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8c/0f/81/8c0f81f2-9f10-5e3d-b9de-5961a73e8e52/195081078724.jpg/80x80bb.webp",
+        "appleID": "la-santa/1500776330"
     },
     {
-        "ranking": "67",
+        "ranking": "66",
         "title": "Déjame Entrar",
         "artist": "Rauw Alejandro",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
         "appleID": "déjame-entrar/1775462852"
     },
     {
-        "ranking": "68",
-        "title": "BIRDS OF A FEATHER",
-        "artist": "Billie Eilish",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
-    },
-    {
-        "ranking": "69",
+        "ranking": "67",
         "title": "PRC",
         "artist": "Peso Pluma",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/31/ab/0f/31ab0f64-f8c8-65b8-1883-7c74f8963e2a/197187858316.jpg/80x80bb.webp",
         "appleID": "prc/1666398970"
     },
     {
-        "ranking": "70",
+        "ranking": "68",
+        "title": "LUNA",
+        "artist": "Feid",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7c/54/aa/7c54aa94-9ae3-4b80-7b23-8b23955dc3a2/23UM1IM60703.rgb.jpg/80x80bb.webp",
+        "appleID": "luna/1719170507"
+    },
+    {
+        "ranking": "69",
         "title": "Martes 13",
         "artist": "Luis R Conriquez",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/33/c0/5133c085-1756-8420-0230-5cb9b3798763/198588057797.jpg/80x80bb.webp",
         "appleID": "martes-13/1745762986"
+    },
+    {
+        "ranking": "70",
+        "title": "LOS CUADROS",
+        "artist": "Peso Pluma",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/83/38/17/833817a5-f334-86f4-819f-77a40fa91a61/198588791684.jpg/80x80bb.webp",
+        "appleID": "los-cuadros/1759257794"
     },
     {
         "ranking": "71",
@@ -498,24 +498,24 @@
     },
     {
         "ranking": "72",
-        "title": "LOS CUADROS",
-        "artist": "Peso Pluma",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/83/38/17/833817a5-f334-86f4-819f-77a40fa91a61/198588791684.jpg/80x80bb.webp",
-        "appleID": "los-cuadros/1759257794"
-    },
-    {
-        "ranking": "73",
-        "title": "Vete",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8c/0f/81/8c0f81f2-9f10-5e3d-b9de-5961a73e8e52/195081078724.jpg/80x80bb.webp",
-        "appleID": "vete/1500776923"
-    },
-    {
-        "ranking": "74",
         "title": "Mente Positiva",
         "artist": "Junior H",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b4/a2/b5/b4a2b595-cc68-4809-28f1-14da8bfec643/195081681160.jpg/80x80bb.webp",
         "appleID": "mente-positiva/1514900063"
+    },
+    {
+        "ranking": "73",
+        "title": "BIRDS OF A FEATHER",
+        "artist": "Billie Eilish",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "appleID": "birds-of-a-feather/1739659142"
+    },
+    {
+        "ranking": "74",
+        "title": "Vete",
+        "artist": "Bad Bunny",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8c/0f/81/8c0f81f2-9f10-5e3d-b9de-5961a73e8e52/195081078724.jpg/80x80bb.webp",
+        "appleID": "vete/1500776923"
     },
     {
         "ranking": "75",
@@ -526,129 +526,129 @@
     },
     {
         "ranking": "76",
-        "title": "Brillo",
-        "artist": "Natanael Cano",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3c/26/32/3c26323f-a8e8-844d-eccb-aa15186a461d/5054197142550.jpg/80x80bb.webp",
-        "appleID": "brillo/1616672572"
-    },
-    {
-        "ranking": "77",
-        "title": "Efecto",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
-        "appleID": "efecto/1622045954"
-    },
-    {
-        "ranking": "78",
-        "title": "A Puro Dolor",
-        "artist": "Gabito Ballesteros",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/62/94/fc/6294fc41-9163-b6dc-2c4b-93d5ed677ce0/196922718489_Cover.jpg/80x80bb.webp",
-        "appleID": "a-puro-dolor/1715932350"
-    },
-    {
-        "ranking": "79",
-        "title": "Disfruto Lo Malo",
-        "artist": "Natanael Cano",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f2/94/3b/f2943b77-ce0b-28d7-5755-1a202a77a430/050742369545_cover.jpg/80x80bb.webp",
-        "appleID": "disfruto-lo-malo/1485388192"
-    },
-    {
-        "ranking": "80",
-        "title": "HARLEY QUINN",
-        "artist": "Fuerza Regida",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/21/e3/b7/21e3b74f-571b-07ce-567b-a2aa8274c7b2/196871548922.jpg/80x80bb.webp",
-        "appleID": "harley-quinn/1712364000"
-    },
-    {
-        "ranking": "81",
         "title": "Rey Sin Reina",
         "artist": "Julión Álvarez y su Norteño Banda",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/82/8a/77828a64-43d7-1358-1dbd-cc1aa62f6284/198846198002.jpg/80x80bb.webp",
         "appleID": "rey-sin-reina/1765585955"
     },
     {
-        "ranking": "82",
-        "title": "Q U E V A S H A C E R H O Y ?",
-        "artist": "Omar Courtz",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/0f/48/300f48fd-f560-8aaf-17c1-00a4531ad61a/198588847695.jpg/80x80bb.webp",
-        "appleID": "q-u-e-v-a-s-h-a-c-e-r-h-o-y-/1760194559"
+        "ranking": "77",
+        "title": "Disfruto Lo Malo",
+        "artist": "Natanael Cano",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f2/94/3b/f2943b77-ce0b-28d7-5755-1a202a77a430/050742369545_cover.jpg/80x80bb.webp",
+        "appleID": "disfruto-lo-malo/1485388192"
     },
     {
-        "ranking": "83",
+        "ranking": "78",
+        "title": "Brillo",
+        "artist": "Natanael Cano",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3c/26/32/3c26323f-a8e8-844d-eccb-aa15186a461d/5054197142550.jpg/80x80bb.webp",
+        "appleID": "brillo/1616672572"
+    },
+    {
+        "ranking": "79",
+        "title": "HARLEY QUINN",
+        "artist": "Fuerza Regida",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/21/e3/b7/21e3b74f-571b-07ce-567b-a2aa8274c7b2/196871548922.jpg/80x80bb.webp",
+        "appleID": "harley-quinn/1712364000"
+    },
+    {
+        "ranking": "80",
         "title": "No Son Doritos",
         "artist": "Clave Especial",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/eb/55/c3/eb55c3b9-de39-0508-d4a9-fba21ab576af/5021732472267.jpg/80x80bb.webp",
         "appleID": "no-son-doritos/1763724039"
     },
     {
-        "ranking": "84",
-        "title": "LA CANCIÓN",
-        "artist": "J Balvin",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/32/74/7732746d-25e5-baae-b921-bad4a07d87b1/19UMGIM55524.rgb.jpg/80x80bb.webp",
-        "appleID": "la-canción/1470146813"
+        "ranking": "81",
+        "title": "A Puro Dolor",
+        "artist": "Gabito Ballesteros",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/62/94/fc/6294fc41-9163-b6dc-2c4b-93d5ed677ce0/196922718489_Cover.jpg/80x80bb.webp",
+        "appleID": "a-puro-dolor/1715932350"
     },
     {
-        "ranking": "85",
-        "title": "GOET",
-        "artist": "Victor Mendivil",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/2e/4d/d02e4d71-5d06-3565-b2e2-31480fd0e081/1963622265921_cover.jpg/80x80bb.webp",
-        "appleID": "goet/1750566203"
-    },
-    {
-        "ranking": "86",
-        "title": "SI NO ES CONTIGO (REMIX)",
-        "artist": "Cris Mj",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/91/fc/bc/91fcbc2c-2920-e950-907c-eac90b45c828/198846710273.jpg/80x80bb.webp",
-        "appleID": "si-no-es-contigo-remix/1773979156"
-    },
-    {
-        "ranking": "87",
-        "title": "Ojitos Lindos",
+        "ranking": "82",
+        "title": "Efecto",
         "artist": "Bad Bunny",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
-        "appleID": "ojitos-lindos/1622045962"
+        "appleID": "efecto/1622045954"
     },
     {
-        "ranking": "88",
+        "ranking": "83",
         "title": "No Pasa Nada",
         "artist": "Clave Especial",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/1c/a5/a11ca54f-e265-2373-a104-588764d541d7/5021732513137.jpg/80x80bb.webp",
         "appleID": "no-pasa-nada/1772378261"
     },
     {
-        "ranking": "89",
+        "ranking": "84",
+        "title": "GOET",
+        "artist": "Victor Mendivil",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/2e/4d/d02e4d71-5d06-3565-b2e2-31480fd0e081/1963622265921_cover.jpg/80x80bb.webp",
+        "appleID": "goet/1750566203"
+    },
+    {
+        "ranking": "85",
         "title": "Los Botones Azules",
         "artist": "Junior H",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/11/33/97/1133978a-d03c-2c62-c712-8e2567bbd666/190296227486.jpg/80x80bb.webp",
         "appleID": "los-botones-azules/1608887189"
     },
     {
-        "ranking": "90",
+        "ranking": "86",
         "title": "SRT",
         "artist": "Xavi",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/75/8a/28/758a2803-61de-e11e-5076-459e46d91d63/198704278389_Cover.jpg/80x80bb.webp",
         "appleID": "srt/1783397480"
     },
     {
-        "ranking": "91",
+        "ranking": "87",
         "title": "BELANOVA",
         "artist": "Peso Pluma",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/e9/65/3de9651e-fe11-0525-7eee-762861af1152/198391808319.jpg/80x80bb.webp",
         "appleID": "belanova/1748016026"
     },
     {
+        "ranking": "88",
+        "title": "LA CANCIÓN",
+        "artist": "J Balvin",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/32/74/7732746d-25e5-baae-b921-bad4a07d87b1/19UMGIM55524.rgb.jpg/80x80bb.webp",
+        "appleID": "la-canción/1470146813"
+    },
+    {
+        "ranking": "89",
+        "title": "Q U E V A S H A C E R H O Y ?",
+        "artist": "Omar Courtz",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/0f/48/300f48fd-f560-8aaf-17c1-00a4531ad61a/198588847695.jpg/80x80bb.webp",
+        "appleID": "q-u-e-v-a-s-h-a-c-e-r-h-o-y-/1760194559"
+    },
+    {
+        "ranking": "90",
+        "title": "SI NO ES CONTIGO (REMIX)",
+        "artist": "Cris MJ",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/91/fc/bc/91fcbc2c-2920-e950-907c-eac90b45c828/198846710273.jpg/80x80bb.webp",
+        "appleID": "si-no-es-contigo-remix/1773979156"
+    },
+    {
+        "ranking": "91",
+        "title": "MR INTERNACIONAL",
+        "artist": "Tito Double P",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/b1/c5/d6b1c5e2-104d-c427-465e-fea8dfe663d4/198588874653.jpg/80x80bb.webp",
+        "appleID": "mr-internacional/1761412387"
+    },
+    {
         "ranking": "92",
-        "title": "2:12 AM",
-        "artist": "Rauw Alejandro",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "212-am/1775463306"
+        "title": "Ojitos Lindos",
+        "artist": "Bad Bunny",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
+        "appleID": "ojitos-lindos/1622045962"
     },
     {
         "ranking": "93",
-        "title": "Yonaguni",
-        "artist": "Bad Bunny",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b6/12/da/b612daba-6c68-c2ab-7492-fb2e079074d5/196006829308.jpg/80x80bb.webp",
-        "appleID": "yonaguni/1570323056"
+        "title": "MIENTRAS DUERMES",
+        "artist": "Junior H",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/13/2c/d3132c40-fb9c-e02e-50d8-cd66c24f4020/5054197834332.jpg/80x80bb.webp",
+        "appleID": "mientras-duermes/1709357010"
     },
     {
         "ranking": "94",
@@ -659,44 +659,44 @@
     },
     {
         "ranking": "95",
-        "title": "EN MI MUNDO",
-        "artist": "Jasiel Nuñez",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/e3/b5/b7e3b514-ea8b-43ca-79d0-f81fc7ea8f31/198846669885.jpg/80x80bb.webp",
-        "appleID": "en-mi-mundo/1776284759"
+        "title": "2:12 AM",
+        "artist": "Rauw Alejandro",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
+        "appleID": "212-am/1775463306"
     },
     {
         "ranking": "96",
-        "title": "MR INTERNACIONAL",
-        "artist": "Tito Double P",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/b1/c5/d6b1c5e2-104d-c427-465e-fea8dfe663d4/198588874653.jpg/80x80bb.webp",
-        "appleID": "mr-internacional/1761412387"
-    },
-    {
-        "ranking": "97",
-        "title": "TOMMY & PAMELA",
-        "artist": "Peso Pluma",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/e9/65/3de9651e-fe11-0525-7eee-762861af1152/198391808319.jpg/80x80bb.webp",
-        "appleID": "tommy-pamela/1748016684"
-    },
-    {
-        "ranking": "98",
         "title": "Proyecto X",
         "artist": "Gabito Ballesteros",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ed/a1/69/eda16982-918e-a2b5-c792-67be1d8de7cf/196922800054_Cover.jpg/80x80bb.webp",
         "appleID": "proyecto-x/1725885629"
     },
     {
+        "ranking": "97",
+        "title": "Ch y la Pizza",
+        "artist": "Fuerza Regida",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/d4/31/cc/d431cc8d-2b9c-c4e8-ee1c-532a0dda836b/196589769633.jpg/80x80bb.webp",
+        "appleID": "ch-y-la-pizza/1660156570"
+    },
+    {
+        "ranking": "98",
+        "title": "Yonaguni",
+        "artist": "Bad Bunny",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b6/12/da/b612daba-6c68-c2ab-7492-fb2e079074d5/196006829308.jpg/80x80bb.webp",
+        "appleID": "yonaguni/1570323056"
+    },
+    {
         "ranking": "99",
+        "title": "EN MI MUNDO",
+        "artist": "Jasiel Nuñez",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/e3/b5/b7e3b514-ea8b-43ca-79d0-f81fc7ea8f31/198846669885.jpg/80x80bb.webp",
+        "appleID": "en-mi-mundo/1776284759"
+    },
+    {
+        "ranking": "100",
         "title": "Vaquero (Remix) [feat. Andrés Castillo, La Dinastia & Riky Produce]",
         "artist": "Bellakath",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/60/f2/8460f2ee-0cd6-fd6a-067a-070ef6c5eeee/0.jpg/80x80bb.webp",
         "appleID": "vaquero-remix-feat-andrés-castillo-la-dinastia-riky-produce/1759244101"
-    },
-    {
-        "ranking": "100",
-        "title": "MIENTRAS DUERMES",
-        "artist": "Junior H",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/13/2c/d3132c40-fb9c-e02e-50d8-cd66c24f4020/5054197834332.jpg/80x80bb.webp",
-        "appleID": "mientras-duermes/1709357010"
     }
 ]
