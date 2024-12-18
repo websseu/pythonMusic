@@ -1,0 +1,702 @@
+[
+    {
+        "ranking": "1",
+        "title": "Mất Kết Nối",
+        "artist": "Dương Domic",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/2f/ff/1c2fff66-b5e4-3c7c-1117-fef2c52e8c0f/e4739d61-26c6-452e-b219-ad9997566246.jpg/80x80bb.webp",
+        "appleID": "mất-kết-nối/1780857750"
+    },
+    {
+        "ranking": "2",
+        "title": "toxic till the end",
+        "artist": "ROSÉ",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
+        "appleID": "toxic-till-the-end/1771105929"
+    },
+    {
+        "ranking": "3",
+        "title": "APT.",
+        "artist": "ROSÉ",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
+        "appleID": "apt/1773452221"
+    },
+    {
+        "ranking": "4",
+        "title": "Die With A Smile",
+        "artist": "Lady Gaga",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
+        "appleID": "die-with-a-smile/1762656732"
+    },
+    {
+        "ranking": "5",
+        "title": "number one girl",
+        "artist": "ROSÉ",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
+        "appleID": "number-one-girl/1771105923"
+    },
+    {
+        "ranking": "6",
+        "title": "TRÀN BỘ NHỚ",
+        "artist": "Dương Domic",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/c5/48/f9c54843-7027-ab73-e563-99375fbb264b/5034644095868.jpg/80x80bb.webp",
+        "appleID": "tràn-bộ-nhớ/1768339879"
+    },
+    {
+        "ranking": "7",
+        "title": "PHÓNG ZÌN ZÌN",
+        "artist": "tlinh",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/73/8e/67/738e67a8-bd1b-32b8-62c3-1a7c58fcc496/198704157950_Cover.jpg/80x80bb.webp",
+        "appleID": "phóng-zìn-zìn/1768757141"
+    },
+    {
+        "ranking": "8",
+        "title": "two years",
+        "artist": "ROSÉ",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
+        "appleID": "two-years/1771105927"
+    },
+    {
+        "ranking": "9",
+        "title": "drinks or coffee",
+        "artist": "ROSÉ",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
+        "appleID": "drinks-or-coffee/1771105933"
+    },
+    {
+        "ranking": "10",
+        "title": "Tái Sinh",
+        "artist": "Tùng Dương",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/22/29/f1/2229f1d3-9f5a-889a-2b98-56b1e6d779da/cover.jpg/80x80bb.webp",
+        "appleID": "tái-sinh/1779544638"
+    },
+    {
+        "ranking": "11",
+        "title": "Không Thể Say",
+        "artist": "HIEUTHUHAI",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/28/fa/35/28fa35d2-5d80-cbd8-690e-a1313a4c3c34/602455711786_Cover.jpg/80x80bb.webp",
+        "appleID": "không-thể-say/1729379244"
+    },
+    {
+        "ranking": "12",
+        "title": "Bình Yên",
+        "artist": "Vũ.",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8e/e1/c3/8ee1c3b4-369d-e303-bea9-a709bc75b7bd/5021732476951.jpg/80x80bb.webp",
+        "appleID": "bình-yên/1765099552"
+    },
+    {
+        "ranking": "13",
+        "title": "BIRDS OF A FEATHER",
+        "artist": "Billie Eilish",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
+        "appleID": "birds-of-a-feather/1739659142"
+    },
+    {
+        "ranking": "14",
+        "title": "ANH ĐÃ LÀM GÌ ĐÂU (feat. Thùy Chi)",
+        "artist": "Nhật Hoàng",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/8b/b1/408bb1ab-2d31-4a0a-76d5-bc1c15574751/5034644317304.jpg/80x80bb.webp",
+        "appleID": "anh-đã-làm-gì-đâu-feat-thùy-chi/1782541276"
+    },
+    {
+        "ranking": "15",
+        "title": "Exit Sign",
+        "artist": "HIEUTHUHAI",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9a/80/e5/9a80e53a-197d-6d4d-2799-ac0a68427d12/602458735987_Cover.jpg/80x80bb.webp",
+        "appleID": "exit-sign/1728886502"
+    },
+    {
+        "ranking": "16",
+        "title": "gameboy",
+        "artist": "ROSÉ",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
+        "appleID": "gameboy/1771106120"
+    },
+    {
+        "ranking": "17",
+        "title": "stay a little longer",
+        "artist": "ROSÉ",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
+        "appleID": "stay-a-little-longer/1771106121"
+    },
+    {
+        "ranking": "18",
+        "title": "3am",
+        "artist": "ROSÉ",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
+        "appleID": "3am/1771105924"
+    },
+    {
+        "ranking": "19",
+        "title": "Đừng Làm Trái Tim Anh Đau",
+        "artist": "Sơn Tùng M-TP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e3/0b/38/e30b383e-5818-321a-7626-557b7b0f8ba3/24UMGIM61359.rgb.jpg/80x80bb.webp",
+        "appleID": "đừng-làm-trái-tim-anh-đau/1749963740"
+    },
+    {
+        "ranking": "20",
+        "title": "luther",
+        "artist": "Kendrick Lamar",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
+        "appleID": "luther/1781270323"
+    },
+    {
+        "ranking": "21",
+        "title": "KIM PHÚT, KIM GIỜ",
+        "artist": "HURRYKNG",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/de/57/80/de5780af-86a5-2ec9-a951-a01783c310c0/5034644008370.jpg/80x80bb.webp",
+        "appleID": "kim-phút-kim-giờ/1764503765"
+    },
+    {
+        "ranking": "22",
+        "title": "too bad for us",
+        "artist": "ROSÉ",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
+        "appleID": "too-bad-for-us/1771106129"
+    },
+    {
+        "ranking": "23",
+        "title": "Chăm Hoa",
+        "artist": "MONO",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/92/be/db92be06-0d95-ecff-858f-385c247ba063/198704207853_Cover.jpg/80x80bb.webp",
+        "appleID": "chăm-hoa/1774716346"
+    },
+    {
+        "ranking": "24",
+        "title": "HÀO QUANG",
+        "artist": "RHYDER",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/3f/c9/523fc9b8-3dfe-7e9f-031c-28215aa86131/085365068834.jpg/80x80bb.webp",
+        "appleID": "hào-quang/1756973607"
+    },
+    {
+        "ranking": "25",
+        "title": "NGÁO NGƠ",
+        "artist": "HIEUTHUHAI",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/1f/32/301f32eb-0dee-6be5-cedf-e22987629806/198830994351.jpg/80x80bb.webp",
+        "appleID": "ngáo-ngơ/1760722935"
+    },
+    {
+        "ranking": "26",
+        "title": "dance all night",
+        "artist": "ROSÉ",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
+        "appleID": "dance-all-night/1771106130"
+    },
+    {
+        "ranking": "27",
+        "title": "not the same",
+        "artist": "ROSÉ",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
+        "appleID": "not-the-same/1771106124"
+    },
+    {
+        "ranking": "28",
+        "title": "Tim Anh Ghen (feat. Dangrangto, TeuYungBoy & LVK)",
+        "artist": "Wxrdie",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b8/42/e8/b842e8ab-846e-e6df-9c43-46272f06ebbd/24UM1IM23155.rgb.jpg/80x80bb.webp",
+        "appleID": "tim-anh-ghen-feat-dangrangto-teuyungboy-lvk/1777991811"
+    },
+    {
+        "ranking": "29",
+        "title": "call it the end",
+        "artist": "ROSÉ",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
+        "appleID": "call-it-the-end/1771106126"
+    },
+    {
+        "ranking": "30",
+        "title": "NOLOVENOLIFE",
+        "artist": "HIEUTHUHAI",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9a/80/e5/9a80e53a-197d-6d4d-2799-ac0a68427d12/602458735987_Cover.jpg/80x80bb.webp",
+        "appleID": "nolovenolife/1728886804"
+    },
+    {
+        "ranking": "31",
+        "title": "Bầu Trời Mới (feat. Minh Tốc & Lam)",
+        "artist": "Da LAB",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/13/f3/4e13f349-f0ca-18a1-151b-d9fc4a03fd9d/24UM1IM03809.rgb.jpg/80x80bb.webp",
+        "appleID": "bầu-trời-mới-feat-minh-tốc-lam/1770273559"
+    },
+    {
+        "ranking": "32",
+        "title": "Những Lời Hứa Bỏ Quên",
+        "artist": "Vũ.",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/14/a1/1e/14a11edd-7f55-b810-95c2-404d5c6f80a1/5054197908231.jpg/80x80bb.webp",
+        "appleID": "những-lời-hứa-bỏ-quên/1720960226"
+    },
+    {
+        "ranking": "33",
+        "title": "TÌNH ĐẦU QUÁ CHÉN",
+        "artist": "Quang Hùng MasterD",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/65/b6/da/65b6da8c-93c6-02c3-10cd-a3e9679211ed/5034644094748.jpg/80x80bb.webp",
+        "appleID": "tình-đầu-quá-chén/1768284128"
+    },
+    {
+        "ranking": "34",
+        "title": "LƯỚT TRÊN CON SÓNG",
+        "artist": "Dangrangto",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/6f/8a/f96f8ab7-a5f0-ec69-4b15-336f86fc81e8/5034644302850.jpg/80x80bb.webp",
+        "appleID": "lướt-trên-con-sóng/1781291466"
+    },
+    {
+        "ranking": "35",
+        "title": "NGỰA Ô",
+        "artist": "Dangrangto",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/1b/9b/481b9b09-8681-fad2-ae23-be516c6960b8/cover.jpg/80x80bb.webp",
+        "appleID": "ngựa-ô/1771382355"
+    },
+    {
+        "ranking": "36",
+        "title": "Từng Quen",
+        "artist": "Wren Evans",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cb/42/10/cb421004-d27a-6c08-a542-fa2e7ac3bb58/23UM1IM21988.rgb.jpg/80x80bb.webp",
+        "appleID": "từng-quen/1712281414"
+    },
+    {
+        "ranking": "37",
+        "title": "SAO HẠNG A",
+        "artist": "HIEUTHUHAI",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/65/b6/da/65b6da8c-93c6-02c3-10cd-a3e9679211ed/5034644094748.jpg/80x80bb.webp",
+        "appleID": "sao-hạng-a/1768284136"
+    },
+    {
+        "ranking": "38",
+        "title": "TÔI KHÔNG CÒN VIẾT TÌNH CA",
+        "artist": "Mỹ Linh",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4d/d2/8d/4dd28db3-f884-b539-7d83-c56a2c87d174/cover.jpg/80x80bb.webp",
+        "appleID": "tôi-không-còn-viết-tình-ca/1783835267"
+    },
+    {
+        "ranking": "39",
+        "title": "Hà Nội",
+        "artist": "Obito",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/87/b6/6a/87b66a1d-92bc-e630-bdb6-08bd18b340f9/3617228506732.jpg/80x80bb.webp",
+        "appleID": "hà-nội/1756280552"
+    },
+    {
+        "ranking": "40",
+        "title": "HOP ON DA SHOW",
+        "artist": "tlinh",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/73/8e/67/738e67a8-bd1b-32b8-62c3-1a7c58fcc496/198704157950_Cover.jpg/80x80bb.webp",
+        "appleID": "hop-on-da-show/1768757133"
+    },
+    {
+        "ranking": "41",
+        "title": "nếu lúc đó",
+        "artist": "tlinh",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ab/b8/21/abb821d9-cdcd-4d47-4adb-2c2233742bb1/23UMGIM21263.rgb.jpg/80x80bb.webp",
+        "appleID": "nếu-lúc-đó/1674533867"
+    },
+    {
+        "ranking": "42",
+        "title": "HUSTLANG ALL DAY",
+        "artist": "Hustlang Robber",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/09/7c/88/097c8866-2efc-6ddb-fa9b-1dc1eae786dd/5034644332338.jpg/80x80bb.webp",
+        "appleID": "hustlang-all-day/1783793321"
+    },
+    {
+        "ranking": "43",
+        "title": "That’s So True",
+        "artist": "Gracie Abrams",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
+        "appleID": "thats-so-true/1773474483"
+    },
+    {
+        "ranking": "44",
+        "title": "Băng Qua Cầu Giấy (feat. RPT JasonDilla)",
+        "artist": "Wxrdie",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b8/42/e8/b842e8ab-846e-e6df-9c43-46272f06ebbd/24UM1IM23155.rgb.jpg/80x80bb.webp",
+        "appleID": "băng-qua-cầu-giấy-feat-rpt-jasondilla/1777991321"
+    },
+    {
+        "ranking": "45",
+        "title": "Espresso",
+        "artist": "Sabrina Carpenter",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
+        "appleID": "espresso/1740212434"
+    },
+    {
+        "ranking": "46",
+        "title": "Say Sóng",
+        "artist": "Tăng Duy Tân",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/6e/3d/766e3d09-fb06-20ee-5b05-7f9d68dc72b0/00b6026d-a36c-404b-8906-445bac2c2076.jpg/80x80bb.webp",
+        "appleID": "say-sóng/1776809215"
+    },
+    {
+        "ranking": "47",
+        "title": "LÀN ƯU TIÊN",
+        "artist": "MOPIUS",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/5b/96/ab5b9630-bce2-1b34-1e5f-eecfe706c568/24UM1IM34218.rgb.jpg/80x80bb.webp",
+        "appleID": "làn-ưu-tiên/1783029276"
+    },
+    {
+        "ranking": "48",
+        "title": "QUA TỪNG KHUNG HÌNH",
+        "artist": "Hustlang Robber",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/03/0c/97030cfb-26e8-e6cc-9c28-b0066a35f933/5034644285306.jpg/80x80bb.webp",
+        "appleID": "qua-từng-khung-hình/1779950659"
+    },
+    {
+        "ranking": "49",
+        "title": "Wrong Times",
+        "artist": "Puppy",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4c/e8/5e/4ce85efa-9da0-13b6-b1c9-0f3c34e683e7/769a6a74-44e3-4382-8a1b-cd727ea861fb.jpg/80x80bb.webp",
+        "appleID": "wrong-times/1687825764"
+    },
+    {
+        "ranking": "50",
+        "title": "CHÂN THÀNH",
+        "artist": "RHYDER",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fc/56/e5/fc56e52c-74dd-3693-51f2-4c1e3ac472d7/198830963784.jpg/80x80bb.webp",
+        "appleID": "chân-thành/1763392778"
+    },
+    {
+        "ranking": "51",
+        "title": "Anh Nhớ Ra (feat. TRANG)",
+        "artist": "Vũ.",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/21/40/f8/2140f8b1-e47b-f1cc-ba6b-c97dbb9878bb/5054197340369.jpg/80x80bb.webp",
+        "appleID": "anh-nhớ-ra-feat-trang/1643120472"
+    },
+    {
+        "ranking": "52",
+        "title": "CATCH ME IF YOU CAN",
+        "artist": "Quang Hùng MasterD",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c2/bb/8a/c2bb8a66-98df-c337-27a3-226909ec8950/085365216358.jpg/80x80bb.webp",
+        "appleID": "catch-me-if-you-can/1755737608"
+    },
+    {
+        "ranking": "53",
+        "title": "REGRET",
+        "artist": "Quân A.P",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/1f/32/301f32eb-0dee-6be5-cedf-e22987629806/198830994351.jpg/80x80bb.webp",
+        "appleID": "regret/1760723334"
+    },
+    {
+        "ranking": "54",
+        "title": "1TINHYEU (feat. Puppy)",
+        "artist": "Hustlang Robber",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/66/71/12/66711215-19ee-ba6f-577d-0b7f57dfae28/5034644317458.jpg/80x80bb.webp",
+        "appleID": "1tinhyeu-feat-puppy/1782554314"
+    },
+    {
+        "ranking": "55",
+        "title": "Giờ Thì",
+        "artist": "buitruonglinh",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/86/51/df/8651df87-0955-b847-b7ad-60db1bd79511/199066000984.jpg/80x80bb.webp",
+        "appleID": "giờ-thì/1781865789"
+    },
+    {
+        "ranking": "56",
+        "title": "ANH BIẾT RỒI",
+        "artist": "RHYDER",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fc/b7/9c/fcb79cd6-58bb-cfeb-5467-936988d4322e/5034644033242.jpg/80x80bb.webp",
+        "appleID": "anh-biết-rồi/1765832602"
+    },
+    {
+        "ranking": "57",
+        "title": "ngủ một mình",
+        "artist": "HIEUTHUHAI",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8e/bb/ff/8ebbff69-0b36-118d-6dab-d2b3a9c3d677/602448945051_Cover.jpg/80x80bb.webp",
+        "appleID": "ngủ-một-mình/1729378207"
+    },
+    {
+        "ranking": "58",
+        "title": "Track 06",
+        "artist": "Tyronee",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/11/d9/27/11d9278a-2fd2-cb97-ac82-a1c4ba9edd1e/5034644314983.jpg/80x80bb.webp",
+        "appleID": "track-06/1782470382"
+    },
+    {
+        "ranking": "59",
+        "title": "we can't be friends (wait for your love)",
+        "artist": "Ariana Grande",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/34/fe/a1/34fea184-6d20-3f50-b4ce-5e1501c1c5ab/24UMGIM00198.rgb.jpg/80x80bb.webp",
+        "appleID": "we-cant-be-friends-wait-for-your-love/1725878242"
+    },
+    {
+        "ranking": "60",
+        "title": "đưa em về nhàa",
+        "artist": "GREY D",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1b/22/a8/1b22a8d2-5721-2efc-70c2-9de6421bf358/602455736314_Cover.jpg/80x80bb.webp",
+        "appleID": "đưa-em-về-nhàa/1728886331"
+    },
+    {
+        "ranking": "61",
+        "title": "Lặng",
+        "artist": "Rhymastic",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b6/c9/c9/b6c9c926-a521-fd99-39ef-cd535d11292e/24UMGIM73081.rgb.jpg/80x80bb.webp",
+        "appleID": "lặng/1755368719"
+    },
+    {
+        "ranking": "62",
+        "title": "Lạ Lùng",
+        "artist": "Vũ.",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/69/60/4d/69604d44-d64b-a140-2baa-8afff0c4d4d5/190295287191.jpg/80x80bb.webp",
+        "appleID": "lạ-lùng/1492254775"
+    },
+    {
+        "ranking": "63",
+        "title": "Nếu Những Tiếc Nuối",
+        "artist": "Vũ.",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/2d/f4/212df4ab-0f11-2233-5c0e-721de3cc8f1b/5021732505477.jpg/80x80bb.webp",
+        "appleID": "nếu-những-tiếc-nuối/1770496711"
+    },
+    {
+        "ranking": "64",
+        "title": "All I Want for Christmas Is You",
+        "artist": "Mariah Carey",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/80x80bb.webp",
+        "appleID": "all-i-want-for-christmas-is-you/585972803"
+    },
+    {
+        "ranking": "65",
+        "title": "Whiplash",
+        "artist": "aespa",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/c1/f5/d5c1f505-f588-775f-df05-c672a8ec22e9/888735949562_Cover.jpg/80x80bb.webp",
+        "appleID": "whiplash/1772214981"
+    },
+    {
+        "ranking": "66",
+        "title": "Thủy Triều",
+        "artist": "Quang Hùng MasterD",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8a/2c/19/8a2c196d-1100-5531-835d-bf30bac3644a/32cec5bb-f956-4989-b9ba-8991cadd57e2.jpg/80x80bb.webp",
+        "appleID": "thủy-triều/1729241245"
+    },
+    {
+        "ranking": "67",
+        "title": "Mantra",
+        "artist": "JENNIE",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/9a/4c/5d9a4c5f-1c34-1265-0fa5-860dc8f0e802/196872495263.jpg/80x80bb.webp",
+        "appleID": "mantra/1772759719"
+    },
+    {
+        "ranking": "68",
+        "title": "Love is",
+        "artist": "Dangrangto",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/06/1b/f5/061bf59c-532c-3855-86b0-3d0d8e7e9456/a65c9f7b-a1e9-424c-9e51-3901d3c8452d.jpg/80x80bb.webp",
+        "appleID": "love-is/1695037835"
+    },
+    {
+        "ranking": "69",
+        "title": "Dẫu Có Lỗi Lầm",
+        "artist": "Bằng Kiều",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c2/a3/ef/c2a3ef39-ff1e-0081-b73d-9315c6f9f912/24UMGIM84019.rgb.jpg/80x80bb.webp",
+        "appleID": "dẫu-có-lỗi-lầm/1760522538"
+    },
+    {
+        "ranking": "70",
+        "title": "CHỜ MỘT NGƯỜI (feat. Captain)",
+        "artist": "Gill",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/09/7c/88/097c8866-2efc-6ddb-fa9b-1dc1eae786dd/5034644332338.jpg/80x80bb.webp",
+        "appleID": "chờ-một-người-feat-captain/1783793324"
+    },
+    {
+        "ranking": "71",
+        "title": "Đánh Đổi",
+        "artist": "Obito",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/87/b6/6a/87b66a1d-92bc-e630-bdb6-08bd18b340f9/3617228506732.jpg/80x80bb.webp",
+        "appleID": "đánh-đổi/1756280690"
+    },
+    {
+        "ranking": "72",
+        "title": "Thanh Xuân",
+        "artist": "Da LAB",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/52/31/79/523179c8-a766-58f8-3fbc-895cf8866e87/886447277195.jpg/80x80bb.webp",
+        "appleID": "thanh-xuân/1433864464"
+    },
+    {
+        "ranking": "73",
+        "title": "vaicaunoicokhiennguoithaydoi",
+        "artist": "GREY D",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/16/5c/93/165c9379-865f-bae6-f51b-8b0a016f738d/602448151407_Cover.jpg/80x80bb.webp",
+        "appleID": "vaicaunoicokhiennguoithaydoi/1728884421"
+    },
+    {
+        "ranking": "74",
+        "title": "shhhhhhh..",
+        "artist": "WEAN",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/38/8a/50/388a50a7-7534-c3f9-36a0-306a1ff62bc3/197190030846.jpg/80x80bb.webp",
+        "appleID": "shhhhhhh/1708925271"
+    },
+    {
+        "ranking": "75",
+        "title": "Bước Qua Mùa Cô Đơn",
+        "artist": "Vũ.",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/25/16/91/25169184-4e46-5020-fcdc-01bdd513db1a/190295079093.jpg/80x80bb.webp",
+        "appleID": "bước-qua-mùa-cô-đơn/1543218193"
+    },
+    {
+        "ranking": "76",
+        "title": "Đi Giữa Trời Rực Rỡ (From \"Đi Giữa Trời Rực Rỡ\")",
+        "artist": "Ngô Lan Hương",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/93/dd/86/93dd8633-7fa8-6b92-5317-051545e09320/cover.jpg/80x80bb.webp",
+        "appleID": "đi-giữa-trời-rực-rỡ-from-đi-giữa-trời-rực-rỡ/1779009876"
+    },
+    {
+        "ranking": "77",
+        "title": "1000 Ánh Mắt",
+        "artist": "Shiki",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/26/94/6c2694fb-a268-ff89-1bfd-c167e24ae4ce/085365303317.jpg/80x80bb.webp",
+        "appleID": "1000-ánh-mắt/1753032397"
+    },
+    {
+        "ranking": "78",
+        "title": "MAY MẮN",
+        "artist": "Bùi Lan Hương",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/35/1b/c1351be3-1927-4b42-54c0-5d97f161e5c8/cover.jpg/80x80bb.webp",
+        "appleID": "may-mắn/1782297645"
+    },
+    {
+        "ranking": "79",
+        "title": "Chúng Ta Của Tương Lai",
+        "artist": "Sơn Tùng M-TP",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/a9/15/3ea9154d-71ff-fe3f-e291-70ed965f0845/24UMGIM48787.rgb.jpg/80x80bb.webp",
+        "appleID": "chúng-ta-của-tương-lai/1744991040"
+    },
+    {
+        "ranking": "80",
+        "title": "Không Ra Gì",
+        "artist": "Trúc Nhân",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e6/44/92/e6449251-2f74-cc8f-6b80-cf3dd37602d1/khong_ra_gi.jpg/80x80bb.webp",
+        "appleID": "không-ra-gì/1779070347"
+    },
+    {
+        "ranking": "81",
+        "title": "MỘNG YU",
+        "artist": "AMEE",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c3/23/30/c323302b-34c7-0aa3-c5cd-4e6dcf566188/085365023512.jpg/80x80bb.webp",
+        "appleID": "mộng-yu/1759947295"
+    },
+    {
+        "ranking": "82",
+        "title": "Một Nửa Sự Thật (feat. Ngắn & Hipz)",
+        "artist": "24k.Right",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/03/a7/d603a755-858f-2d49-c45b-0f690a239d07/24UM1IM36119.rgb.jpg/80x80bb.webp",
+        "appleID": "một-nửa-sự-thật-feat-ngắn-hipz/1784220427"
+    },
+    {
+        "ranking": "83",
+        "title": "Cruel Summer",
+        "artist": "Taylor Swift",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/80x80bb.webp",
+        "appleID": "cruel-summer/1468058171"
+    },
+    {
+        "ranking": "84",
+        "title": "TRÓI EM LẠI",
+        "artist": "Quang Hùng MasterD",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/c5/48/f9c54843-7027-ab73-e563-99375fbb264b/5034644095868.jpg/80x80bb.webp",
+        "appleID": "trói-em-lại/1768339890"
+    },
+    {
+        "ranking": "85",
+        "title": "One Of The Girls",
+        "artist": "The Weeknd",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/db/28/e7/db28e7c3-f53a-76c8-eaa4-d92a22e4f160/23UMGIM72115.rgb.jpg/80x80bb.webp",
+        "appleID": "one-of-the-girls/1693891139"
+    },
+    {
+        "ranking": "86",
+        "title": "Từng Là",
+        "artist": "Vũ Cát Tường",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e5/04/b8/e504b8de-8b2b-d9bf-ff1a-38318ac7abc3/24UMGIM20213.rgb.jpg/80x80bb.webp",
+        "appleID": "từng-là/1733180140"
+    },
+    {
+        "ranking": "87",
+        "title": "NẾU ANH LÀ EM",
+        "artist": "Mỹ Linh",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e6/87/ae/e687aecb-c302-c430-19f2-c5ed454488fa/cover.jpg/80x80bb.webp",
+        "appleID": "nếu-anh-là-em/1779684433"
+    },
+    {
+        "ranking": "88",
+        "title": "Chìm Sâu (feat. Trung Trần)",
+        "artist": "RPT MCK",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/78/4a/12/784a12a4-4344-6031-529a-f77e16f588d6/196626496423.jpg/80x80bb.webp",
+        "appleID": "chìm-sâu-feat-trung-trần/1611020813"
+    },
+    {
+        "ranking": "89",
+        "title": "Ai Mà Biết Được (feat. tlinh)",
+        "artist": "SOOBIN",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4f/57/6a/4f576a9d-14bb-fdc0-59ea-802cd814af9a/085365350045.jpg/80x80bb.webp",
+        "appleID": "ai-mà-biết-được-feat-tlinh/1751701394"
+    },
+    {
+        "ranking": "90",
+        "title": "Bật Nhạc Lên (feat. Harmonie)",
+        "artist": "HIEUTHUHAI",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d9/8e/4a/d98e4a0a-3c9e-5d52-ea32-47781da81c46/447660d7-d6ae-4b9d-8b3f-76a2f80f9957.jpg/80x80bb.webp",
+        "appleID": "bật-nhạc-lên-feat-harmonie/1515680346"
+    },
+    {
+        "ranking": "91",
+        "title": "dự báo thời tiết hôm nay mưa",
+        "artist": "GREY D",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3b/fa/7f/3bfa7f7b-3040-49a1-37ef-632430eaad5f/196922835735_Cover.jpg/80x80bb.webp",
+        "appleID": "dự-báo-thời-tiết-hôm-nay-mưa/1729360286"
+    },
+    {
+        "ranking": "92",
+        "title": "Không Yêu Em Thì Yêu Ai?",
+        "artist": "Vũ.",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/2d/f4/212df4ab-0f11-2233-5c0e-721de3cc8f1b/5021732505477.jpg/80x80bb.webp",
+        "appleID": "không-yêu-em-thì-yêu-ai/1770496721"
+    },
+    {
+        "ranking": "93",
+        "title": "Anh Đã Ổn Hơn",
+        "artist": "RPT MCK",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5d/0f/0f/5d0f0ffe-4e76-cbbf-b551-93f6f8ce3068/197188116262.jpg/80x80bb.webp",
+        "appleID": "anh-đã-ổn-hơn/1670112016"
+    },
+    {
+        "ranking": "94",
+        "title": "giá như",
+        "artist": "SOOBIN",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/e5/8d/34e58dfa-6f9e-3c97-f6d5-77d1fdc7ec3d/085365595453.jpg/80x80bb.webp",
+        "appleID": "giá-như/1739098987"
+    },
+    {
+        "ranking": "95",
+        "title": "CẦU DUYÊN",
+        "artist": "Chị Đẹp Đạp Gió Rẽ Sóng",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ef/97/f1/ef97f1b4-ff12-76fc-a1b6-b0211af0fdf4/cover.jpg/80x80bb.webp",
+        "appleID": "cầu-duyên/1785171171"
+    },
+    {
+        "ranking": "96",
+        "title": "Rồi Em Sẽ Gặp Một Chàng Trai Khác",
+        "artist": "Hippohappy",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/db/01/76/db01766c-12c9-e62f-1007-b0f7e8ea8ce8/197338230626.jpg/80x80bb.webp",
+        "appleID": "rồi-em-sẽ-gặp-một-chàng-trai-khác/1716330233"
+    },
+    {
+        "ranking": "97",
+        "title": "một đời (feat. buitruonglinh)",
+        "artist": "14 Casper",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/25/3d/b2/253db2d4-5f59-62a5-10f0-e71c9a754944/cover.jpg/80x80bb.webp",
+        "appleID": "một-đời-feat-buitruonglinh/1660363641"
+    },
+    {
+        "ranking": "98",
+        "title": "Trở Về (feat. JustaTee)",
+        "artist": "Wxrdie",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b8/42/e8/b842e8ab-846e-e6df-9c43-46272f06ebbd/24UM1IM23155.rgb.jpg/80x80bb.webp",
+        "appleID": "trở-về-feat-justatee/1777991327"
+    },
+    {
+        "ranking": "99",
+        "title": "Vì Điều Gì",
+        "artist": "buitruonglinh",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/86/51/df/8651df87-0955-b847-b7ad-60db1bd79511/199066000984.jpg/80x80bb.webp",
+        "appleID": "vì-điều-gì/1781865769"
+    },
+    {
+        "ranking": "100",
+        "title": "interlude (diễm xưa)",
+        "artist": "Thể Thiên",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/a6/63/2da66350-cc54-28c9-f9d1-50ed8417e4d5/24UM1IM33639.rgb.jpg/80x80bb.webp",
+        "appleID": "interlude-diễm-xưa/1783072728"
+    }
+]
