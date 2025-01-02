@@ -11,7 +11,7 @@ import json
 import time
 
 # Spotify 로그인 정보
-SPOTIFY_USERNAME = "webstoryboy@naver.com"
+SPOTIFY_USERNAME = "richclub9@naver.com"
 SPOTIFY_PASSWORD = "Forever8888!s"
 
 # 이틀 전 날짜 계산
@@ -20,7 +20,7 @@ two_days_ago = "latest"
 
 # 국가별 URL 설정
 countries = {
-     "global": f"https://charts.spotify.com/charts/view/regional-global-daily/{two_days_ago}",
+    "global": f"https://charts.spotify.com/charts/view/regional-global-daily/{two_days_ago}",
     "argentina": f"https://charts.spotify.com/charts/view/regional-ar-daily/{two_days_ago}",
     "australia": f"https://charts.spotify.com/charts/view/regional-au-daily/{two_days_ago}",
     "austria": f"https://charts.spotify.com/charts/view/regional-at-daily/{two_days_ago}",
@@ -98,10 +98,6 @@ countries = {
 
 options = ChromeOptions()
 options.add_argument("--headless")
-options.add_argument("--disable-gpu")
-options.add_argument("--no-sandbox")
-user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
-options.add_argument(f"user-agent={user_agent}")
 browser = webdriver.Chrome(options=options)
 
 try:

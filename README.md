@@ -29,6 +29,7 @@ python3 worldSpotifyChart.py
 #1 3개의 아이디를 하나의 아이디로(koreaMusicList.json) 정리 zipKoreaMusicList.json
 #2 한국 노래랑 비교후 3개의 아이디 추가 zipKoreaMusicAdd.json
 
+# apple, spotify, youtube 각 리스트를 정리 zipWorldMusicList.py
 ```
 
 ## 🇰🇷 한국 뮤직 챠트
