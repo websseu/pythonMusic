@@ -32,14 +32,20 @@
         "title": "Drowning",
         "artist": "WOODZ",
         "image": "https://image.bugsm.co.kr/album/images/50/40839/4083984.jpg?version=20230427011747.0",
-        "album": "OO-LI"
+        "album": "OO-LI",
+        "youtubeID": "tiKFuzpX-NA",
+        "spotifyID": "4xeugB5MqWh0jwvXZPxahq",
+        "appleID": "drowning/1683448656"
     },
     {
         "ranking": "6",
         "title": "Whiplash",
         "artist": "aespa",
         "image": "https://image.bugsm.co.kr/album/images/50/41087/4108755.jpg?version=20241126004739.0",
-        "album": "Whiplash - The 5th Mini Album"
+        "album": "Whiplash - The 5th Mini Album",
+        "youtubeID": "jWQx2f-CErU",
+        "spotifyID": "7Cnpb1vBbC46RgVyyKLH7p",
+        "appleID": "whiplash/1772214981"
     },
     {
         "ranking": "7",
@@ -60,21 +66,28 @@
         "title": "APT.",
         "artist": "로제(ROSÉ)",
         "image": "https://image.bugsm.co.kr/album/images/50/41086/4108664.jpg?version=20241206010201.0",
-        "album": "APT."
+        "album": "APT.",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "5vNRhkKd0yEAg8suGBpjeY"
     },
     {
         "ranking": "10",
         "title": "HOME SWEET HOME (feat. 태양, 대성)",
         "artist": "G-DRAGON",
         "image": "https://image.bugsm.co.kr/album/images/50/41106/4110623.jpg?version=20241128002601.0",
-        "album": "HOME SWEET HOME (feat. 태양, 대성)"
+        "album": "HOME SWEET HOME (feat. 태양, 대성)",
+        "youtubeID": "fLi0EJfi_vg",
+        "appleID": "home-sweet-home-feat-taeyang-daesung/1780635199"
     },
     {
         "ranking": "11",
         "title": "HAPPY",
         "artist": "DAY6 (데이식스)",
         "image": "https://image.bugsm.co.kr/album/images/50/206298/20629850.jpg?version=20250104012829.0",
-        "album": "Fourever"
+        "album": "Fourever",
+        "youtubeID": "sWXGbkM0tBI",
+        "spotifyID": "1k68vKHNQXU5CHqcM7Yp7N",
+        "appleID": "happy/1732319018"
     },
     {
         "ranking": "12",
@@ -88,7 +101,10 @@
         "title": "DRIP",
         "artist": "BABYMONSTER",
         "image": "https://image.bugsm.co.kr/album/images/50/41091/4109194.jpg?version=20250118015053.0",
-        "album": "DRIP"
+        "album": "DRIP",
+        "youtubeID": "Zp-Jhuhq0bQ",
+        "spotifyID": "1MUZitHRpmng5NevrvNx4T",
+        "appleID": "drip/1773262055"
     },
     {
         "ranking": "14",
@@ -102,14 +118,18 @@
         "title": "너와의 모든 지금",
         "artist": "재쓰비 (JAESSBEE)",
         "image": "https://image.bugsm.co.kr/album/images/50/41095/4109588.jpg?version=20241114010321.0",
-        "album": "너와의 모든 지금"
+        "album": "너와의 모든 지금",
+        "youtubeID": "XV0lSvr0huU"
     },
     {
         "ranking": "16",
         "title": "Supernova",
         "artist": "aespa",
         "image": "https://image.bugsm.co.kr/album/images/50/41011/4101141.jpg?version=20241102010939.0",
-        "album": "Armageddon - The 1st Album"
+        "album": "Armageddon - The 1st Album",
+        "youtubeID": "phuiiNCxRMg",
+        "spotifyID": "2JhbSmNAyM9kYiqwa8Tpla",
+        "appleID": "supernova/1773694544"
     },
     {
         "ranking": "17",
@@ -123,14 +143,18 @@
         "title": "내 이름 맑음",
         "artist": "QWER",
         "image": "https://image.bugsm.co.kr/album/images/50/41065/4106548.jpg?version=20250107004107.0",
-        "album": "2nd Mini Album 'Algorithm's Blossom'"
+        "album": "2nd Mini Album 'Algorithm's Blossom'",
+        "youtubeID": "AlirzLFEHUI"
     },
     {
         "ranking": "19",
         "title": "POWER",
         "artist": "G-DRAGON",
         "image": "https://image.bugsm.co.kr/album/images/50/41092/4109223.jpg?version=20241101020340.0",
-        "album": "POWER"
+        "album": "POWER",
+        "youtubeID": "NMjhjrBIrG8",
+        "spotifyID": "4XsJiRJQAK8TWcZCn0Dxlh",
+        "appleID": "power/1776670342"
     },
     {
         "ranking": "20",
@@ -158,14 +182,20 @@
         "title": "Welcome to the Show",
         "artist": "DAY6 (데이식스)",
         "image": "https://image.bugsm.co.kr/album/images/50/206298/20629850.jpg?version=20250104012829.0",
-        "album": "Fourever"
+        "album": "Fourever",
+        "youtubeID": "RowlrvmyFEk",
+        "spotifyID": "6je5cTal6PyeITNrOzkCoS",
+        "appleID": "welcome-to-the-show/1732319011"
     },
     {
         "ranking": "24",
         "title": "Igloo",
         "artist": "KISS OF LIFE",
         "image": "https://image.bugsm.co.kr/album/images/50/41080/4108098.jpg?version=20241023004653.0",
-        "album": "Lose Yourself"
+        "album": "Lose Yourself",
+        "youtubeID": "toF4ee3n-vo",
+        "spotifyID": "2DbDefRFJ5YOfXCKOeCJJh",
+        "appleID": "igloo/1773345357"
     },
     {
         "ranking": "25",
@@ -193,14 +223,18 @@
         "title": "Supernatural",
         "artist": "NewJeans",
         "image": "https://image.bugsm.co.kr/album/images/50/41027/4102781.jpg?version=20250207012050.0",
-        "album": "Supernatural"
+        "album": "Supernatural",
+        "youtubeID": "ZncbtRo7RXs",
+        "spotifyID": "5ocSQW5sIUIOFojwXEz9Ki",
+        "appleID": "supernatural/1750576834"
     },
     {
         "ranking": "29",
         "title": "고민중독",
         "artist": "QWER",
         "image": "https://image.bugsm.co.kr/album/images/50/40996/4099653.jpg?version=20240402065258.0",
-        "album": "1st Mini Album 'MANITO'"
+        "album": "1st Mini Album 'MANITO'",
+        "youtubeID": "ImuWa3SJulY"
     },
     {
         "ranking": "30",
@@ -221,7 +255,10 @@
         "title": "Armageddon",
         "artist": "aespa",
         "image": "https://image.bugsm.co.kr/album/images/50/41011/4101141.jpg?version=20241102010939.0",
-        "album": "Armageddon - The 1st Album"
+        "album": "Armageddon - The 1st Album",
+        "youtubeID": "nFYwcndNuOY",
+        "spotifyID": "6lAvyeD3Nq43AjyCxZQj54",
+        "appleID": "armageddon/1773694547"
     },
     {
         "ranking": "33",
@@ -242,7 +279,10 @@
         "title": "How Sweet",
         "artist": "NewJeans",
         "image": "https://image.bugsm.co.kr/album/images/50/41006/4100628.jpg?version=20250107004601.0",
-        "album": "How Sweet"
+        "album": "How Sweet",
+        "youtubeID": "Q3K0TOvTOno",
+        "spotifyID": "38tXZcL1gZRfbqfOG0VMTH",
+        "appleID": "how-sweet/1744448416"
     },
     {
         "ranking": "36",
@@ -284,7 +324,8 @@
         "title": "녹아내려요",
         "artist": "DAY6 (데이식스)",
         "image": "https://image.bugsm.co.kr/album/images/50/206680/20668087.jpg?version=20240903005613.0",
-        "album": "Band Aid"
+        "album": "Band Aid",
+        "youtubeID": "yss4rIrHl6o"
     },
     {
         "ranking": "42",
@@ -340,7 +381,9 @@
         "title": "Sticky",
         "artist": "KISS OF LIFE",
         "image": "https://image.bugsm.co.kr/album/images/50/41032/4103276.jpg?version=20240702024856.0",
-        "album": "Sticky"
+        "album": "Sticky",
+        "youtubeID": "IajeQM00yfE",
+        "appleID": "sticky/1753900853"
     },
     {
         "ranking": "50",
@@ -417,7 +460,10 @@
         "title": "Bubble Gum",
         "artist": "NewJeans",
         "image": "https://image.bugsm.co.kr/album/images/50/41006/4100628.jpg?version=20250107004601.0",
-        "album": "How Sweet"
+        "album": "How Sweet",
+        "youtubeID": "ft70sAYrFyY",
+        "spotifyID": "19D8LNpWwIPpi6hs9BG7dq",
+        "appleID": "bubble-gum/1744448549"
     },
     {
         "ranking": "61",
@@ -445,7 +491,10 @@
         "title": "Congratulations",
         "artist": "DAY6 (데이식스)",
         "image": "https://image.bugsm.co.kr/album/images/50/5297/529710.jpg?version=20190719114948.0",
-        "album": "The Day"
+        "album": "The Day",
+        "youtubeID": "x3sFsHrUyLQ",
+        "spotifyID": "13z3GfR6WzmLUDxBHO3amM",
+        "appleID": "congratulations/1689197737"
     },
     {
         "ranking": "65",
@@ -585,7 +634,8 @@
         "title": "Gravity",
         "artist": "FIFTY FIFTY",
         "image": "https://image.bugsm.co.kr/album/images/50/357697/35769791.jpg?version=20250122005359.0",
-        "album": "Love Tune"
+        "album": "Love Tune",
+        "youtubeID": "uuLC6wfVA8Q"
     },
     {
         "ranking": "85",
@@ -627,7 +677,8 @@
         "title": "네모네모",
         "artist": "YENA (최예나)",
         "image": "https://image.bugsm.co.kr/album/images/50/206738/20673830.jpg?version=20241207011852.0",
-        "album": "네모네모"
+        "album": "네모네모",
+        "youtubeID": "MPp8hbuZwW0"
     },
     {
         "ranking": "91",
@@ -662,14 +713,19 @@
         "title": "MEOW",
         "artist": "MEOVV (미야오)",
         "image": "https://image.bugsm.co.kr/album/images/50/41067/4106748.jpg?version=20241119040456.0",
-        "album": "MEOW"
+        "album": "MEOW",
+        "youtubeID": "jpLHg-AsQV0",
+        "spotifyID": "5LlUJ3HHI2dS0xowdMDXC5",
+        "appleID": "meow/1765598000"
     },
     {
         "ranking": "96",
         "title": "Girls Never Die",
         "artist": "tripleS (트리플에스)",
         "image": "https://image.bugsm.co.kr/album/images/50/41009/4100945.jpg?version=20250107015946.0",
-        "album": "<ASSEMBLE24>"
+        "album": "<ASSEMBLE24>",
+        "youtubeID": "2tda_TCjz8w",
+        "appleID": "girls-never-die/1743890801"
     },
     {
         "ranking": "97",
