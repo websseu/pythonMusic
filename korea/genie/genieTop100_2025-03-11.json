@@ -25,7 +25,9 @@
         "title": "HOME SWEET HOME (Feat. 태양 & 대성)",
         "artist": "G-DRAGON",
         "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/795/386/85795386_1732170719581_1_140x140.JPG/dims/resize/Q_80,0",
-        "album": "HOME SWEET HOME"
+        "album": "HOME SWEET HOME",
+        "youtubeID": "fLi0EJfi_vg",
+        "appleID": "home-sweet-home-feat-taeyang-daesung/1780635199"
     },
     {
         "ranking": "5",
@@ -67,7 +69,10 @@
         "title": "Whiplash",
         "artist": "aespa",
         "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/694/834/85694834_1729236989658_1_140x140.JPG/dims/resize/Q_80,0",
-        "album": "Whiplash - The 5th Mini Album"
+        "album": "Whiplash - The 5th Mini Album",
+        "youtubeID": "jWQx2f-CErU",
+        "spotifyID": "7Cnpb1vBbC46RgVyyKLH7p",
+        "appleID": "whiplash/1772214981"
     },
     {
         "ranking": "11",
@@ -95,7 +100,10 @@
         "title": "Drowning",
         "artist": "WOODZ",
         "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/570/761/83570761_1682496044865_1_140x140.JPG/dims/resize/Q_80,0",
-        "album": "OO-LI"
+        "album": "OO-LI",
+        "youtubeID": "tiKFuzpX-NA",
+        "spotifyID": "4xeugB5MqWh0jwvXZPxahq",
+        "appleID": "drowning/1683448656"
     },
     {
         "ranking": "15",
@@ -172,7 +180,10 @@
         "title": "HAPPY",
         "artist": "DAY6 (데이식스)",
         "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/877/280/84877280_1710728168568_1_140x140.JPG/dims/resize/Q_80,0",
-        "album": "Fourever"
+        "album": "Fourever",
+        "youtubeID": "sWXGbkM0tBI",
+        "spotifyID": "1k68vKHNQXU5CHqcM7Yp7N",
+        "appleID": "happy/1732319018"
     },
     {
         "ranking": "26",
@@ -228,14 +239,18 @@
         "title": "내 이름 맑음",
         "artist": "QWER",
         "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/556/176/85556176_1727059041255_1_140x140.JPG/dims/resize/Q_80,0",
-        "album": "2nd Mini Album 'Algorithm's Blossom'"
+        "album": "2nd Mini Album 'Algorithm's Blossom'",
+        "youtubeID": "AlirzLFEHUI"
     },
     {
         "ranking": "34",
         "title": "Welcome to the Show",
         "artist": "DAY6 (데이식스)",
         "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/877/280/84877280_1710728168568_1_140x140.JPG/dims/resize/Q_80,0",
-        "album": "Fourever"
+        "album": "Fourever",
+        "youtubeID": "RowlrvmyFEk",
+        "spotifyID": "6je5cTal6PyeITNrOzkCoS",
+        "appleID": "welcome-to-the-show/1732319011"
     },
     {
         "ranking": "35",
@@ -263,7 +278,10 @@
         "title": "Supernova",
         "artist": "aespa",
         "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/165/232/85165232_1716798792825_1_140x140.JPG/dims/resize/Q_80,0",
-        "album": "Armageddon - The 1st Album"
+        "album": "Armageddon - The 1st Album",
+        "youtubeID": "phuiiNCxRMg",
+        "spotifyID": "2JhbSmNAyM9kYiqwa8Tpla",
+        "appleID": "supernova/1773694544"
     },
     {
         "ranking": "39",
@@ -277,7 +295,8 @@
         "title": "고민중독",
         "artist": "QWER",
         "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/934/155/84934155_1711856063083_1_140x140.JPG/dims/resize/Q_80,0",
-        "album": "1st Mini Album 'MANITO'"
+        "album": "1st Mini Album 'MANITO'",
+        "youtubeID": "ImuWa3SJulY"
     },
     {
         "ranking": "41",
@@ -291,7 +310,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga & Bruno Mars",
         "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/520/620/85520620_1723781667920_1_140x140.JPG/dims/resize/Q_80,0",
-        "album": "Die With A Smile"
+        "album": "Die With A Smile",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "43",
@@ -382,7 +403,10 @@
         "title": "DRIP",
         "artist": "BABYMONSTER",
         "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/729/404/85729404_1730422138405_1_140x140.JPG/dims/resize/Q_80,0",
-        "album": "DRIP"
+        "album": "DRIP",
+        "youtubeID": "Zp-Jhuhq0bQ",
+        "spotifyID": "1MUZitHRpmng5NevrvNx4T",
+        "appleID": "drip/1773262055"
     },
     {
         "ranking": "56",
@@ -438,7 +462,8 @@
         "title": "너와의 모든 지금",
         "artist": "재쓰비 (JAESSBEE)",
         "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/758/344/85758344_1731048739763_1_140x140.JPG/dims/resize/Q_80,0",
-        "album": "너와의 모든 지금"
+        "album": "너와의 모든 지금",
+        "youtubeID": "XV0lSvr0huU"
     },
     {
         "ranking": "64",
@@ -466,7 +491,10 @@
         "title": "How Sweet",
         "artist": "NewJeans",
         "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/075/275/85075275_1716515409009_1_140x140.JPG/dims/resize/Q_80,0",
-        "album": "How Sweet"
+        "album": "How Sweet",
+        "youtubeID": "Q3K0TOvTOno",
+        "spotifyID": "38tXZcL1gZRfbqfOG0VMTH",
+        "appleID": "how-sweet/1744448416"
     },
     {
         "ranking": "68",
